@@ -187,13 +187,11 @@
   kind: embassy
   region: europe
   homepage: https://www.exteriores.gob.es/Embajadas/addisabeba/en/Paginas/index.aspx
+  manual: The news page refuses automated readers (HTTP 503). Follow its social accounts instead.
   links:
     x: https://x.com/EmbSpainAddis
     facebook: https://www.facebook.com/EmbEspEtiopia
-  channels:
-    - type: web
-      url: https://www.exteriores.gob.es/Embajadas/addisabeba/en/Comunicacion/Noticias
-      include: /Embajadas/addisabeba/.*/Noticias/.+
+  channels: []
 
 - id: netherlands
   name: Embassy of the Netherlands
@@ -250,9 +248,10 @@
     x: https://x.com/IrlEmbEthiopia
     linkedin: https://www.linkedin.com/company/embassy-of-ireland-ethiopia
   channels:
-    - type: web
-      url: https://www.ireland.ie/en/ethiopia/addisababa/news-and-events/news-archive/
-      include: /addisababa/news-and-events/.+/.+
+    - type: json
+      url: https://www.ireland.ie/api/v2/news/?offset=0&child_of=3038&locale=en&limit=10
+      base: https://www.ireland.ie/
+      label: News archive
 
 - id: belgium
   name: Embassy of Belgium
@@ -376,11 +375,10 @@
   kind: embassy
   region: americas
   homepage: https://embamex.sre.gob.mx/etiopia/
-  notes: The embassy website blocks automated readers, so the Foreign Ministry's press room is monitored instead.
+  manual: The embassy website blocks automated readers and the Foreign Ministry press room is offline. Press coverage is monitored instead.
+  links:
+    pressroom: https://portales.sre.gob.mx/saladeprensa/lista-de-embajadas/etiopia
   channels:
-    - type: web
-      url: https://portales.sre.gob.mx/saladeprensa/lista-de-embajadas/etiopia
-      include: /lista-de-embajadas/etiopia/.+
     - type: gnews
       url: '"Embajada de México" Etiopía'
       lang: es

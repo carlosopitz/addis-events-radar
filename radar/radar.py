@@ -176,7 +176,7 @@ def load_sources() -> list[dict]:
         s.setdefault("channels", [])
         s["country"] = str(s.get("country", "XX"))
         for c in s["channels"]:
-            cfg = "|".join(str(c.get(k, "")) for k in ("url", "include", "exclude", "selector", "blocks", "lang"))
+            cfg = "|".join(str(c.get(k, "")) for k in ("url", "include", "exclude", "selector", "blocks", "lang", "type"))
             c["key"] = f"{s['id']}:{c['type']}:{sha(cfg, 8)}"
         out.append(s)
     return out
@@ -252,6 +252,65 @@ def read_gnews(query: str, lang: str = "en") -> list[dict]:
     for it in items:
         it["summary"] = ""  # Google News summaries are just the title + source
     return items
+
+
+def read_json(ch: dict) -> list[dict]:
+    """A site's own JSON news endpoint (the one its page loads with JavaScript)."""
+    r = fetch(ch["url"])
+    r.raise_for_status()
+    base = ch.get("base") or ch["url"]
+    try:
+        data = r.json()
+    except ValueError:
+        data = None
+    rows = []
+    if isinstance(data, dict):
+        for key in ("items", "results", "data", "news", "posts"):
+            if isinstance(data.get(key), list):
+                rows = data[key]
+                break
+        if not rows:   # some endpoints return rendered HTML inside JSON
+            html_part = next((v for v in data.values() if isinstance(v, str) and "<a " in v), None)
+            if html_part:
+                return _links_from_html(html_part, base, ch)
+    elif isinstance(data, list):
+        rows = data
+    elif "<a " in r.text:
+        return _links_from_html(r.text, base, ch)
+    items = []
+    for row in rows[:60]:
+        if not isinstance(row, dict):
+            continue
+        meta = row.get("meta") if isinstance(row.get("meta"), dict) else {}
+        title = row.get("title") or row.get("name") or row.get("headline") or ""
+        url = row.get("url") or row.get("html_url") or meta.get("html_url") or row.get("link") or ""
+        date = (row.get("date") or row.get("first_published_at") or meta.get("first_published_at")
+                or row.get("published") or row.get("published_at") or "")
+        summary = row.get("summary") or row.get("intro") or row.get("description") or row.get("teaser") or ""
+        if not title:
+            continue
+        items.append({"uid": str(row.get("id") or url or title), "title": clean(str(title), 220),
+                      "url": urljoin(base, url) if url else base, "summary": clean(str(summary), 320),
+                      "published": (str(date)[:10] if date else None) or find_date(str(summary))})
+    return items
+
+
+def _links_from_html(fragment: str, base: str, ch: dict) -> list[dict]:
+    soup = BeautifulSoup(fragment, "html.parser")
+    out = {}
+    include = re.compile(ch["include"], re.I) if ch.get("include") else None
+    for a in soup.find_all("a", href=True):
+        href = urljoin(base, a["href"]).split("#")[0]
+        if include and not include.search(href):
+            continue
+        title = link_title(a)
+        if len(title) < 12:
+            continue
+        ctx = a.find_parent(["article", "li", "div"]) or a
+        ctx_text = clean(ctx.get_text(" ", strip=True))
+        out[href] = {"uid": href, "title": clean(title, 220), "url": href,
+                     "summary": clean(ctx_text.replace(title, "", 1), 320), "published": find_date(ctx_text)}
+    return list(out.values())
 
 
 def read_telegram(channel: str) -> list[dict]:
@@ -401,6 +460,8 @@ def run_channel(src: dict, ch: dict) -> dict:
             res["items"] = read_gnews(ch["url"], ch.get("lang", "en"))
         elif ch["type"] == "telegram":
             res["items"] = read_telegram(ch["url"])
+        elif ch["type"] == "json":
+            res["items"] = read_json(ch)
         elif ch["type"] == "web":
             res["items"], res["hash"] = read_web(ch)
         else:
@@ -652,7 +713,7 @@ def cmd_snapshot() -> None:
     index = {}
     for s in load_sources():
         for c in s["channels"]:
-            if c["type"] not in ("web", "rss"):
+            if c["type"] not in ("web", "rss", "json"):
                 continue
             name = re.sub(r"[^a-z0-9]+", "-", c["key"].lower()) + ".html"
             try:

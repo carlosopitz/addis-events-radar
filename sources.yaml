@@ -80,26 +80,6 @@
       url: https://ethiopia.britishcouncil.org/events
       include: /events/
 
-- id: russian-house
-  name: Russian House (Pushkin Centre)
-  country: RU
-  kind: cultural
-  region: europe
-  notes: No website of its own found; mostly posts on Facebook/Telegram. Tracked through press coverage.
-  channels:
-    - type: gnews
-      url: '"Russian Centre for Science and Culture" Addis OR "Pushkin Center" Addis OR "Russian House" Addis Ababa'
-
-- id: confucius
-  name: Confucius Institute at Addis Ababa University
-  country: CN
-  kind: cultural
-  region: asia-pacific
-  notes: Tracked through press coverage.
-  channels:
-    - type: gnews
-      url: '"Confucius Institute" "Addis Ababa"'
-
 # ===================== EU & multilateral =====================
 
 - id: eu-ethiopia
@@ -467,17 +447,6 @@
     - type: web
       url: https://eetio.cancilleria.gob.ar/
       include: eetio\.cancilleria\.gob\.ar/
-
-- id: cuba
-  name: Embajada de Cuba
-  country: CU
-  kind: embassy
-  region: americas
-  homepage: https://misiones.cubaminrex.cu/en/ethiopia
-  channels:
-    - type: web
-      url: https://misiones.cubaminrex.cu/en/ethiopia
-      include: /ethiopia/
 
 # ===================== Asia-Pacific =====================
 

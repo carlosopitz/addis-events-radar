@@ -1,0 +1,195 @@
+{
+ "alliance:web:ade5dbaa": {
+  "url": "https://allianceaddis.org/up-coming-events/",
+  "final": "https://allianceaddis.org/up-coming-events/",
+  "status": 200,
+  "bytes": 246988,
+  "file": "alliance-web-ade5dbaa.html"
+ },
+ "iic:web:3cabcd82": {
+  "url": "https://iicaddisabeba.esteri.it/en/gli_eventi/calendario/",
+  "final": "https://iicaddisabeba.esteri.it/en/gli_eventi/calendario/",
+  "status": 200,
+  "bytes": 64190,
+  "file": "iic-web-3cabcd82.html"
+ },
+ "iic:rss:6c061e3a": {
+  "url": "https://iicaddisabeba.esteri.it/en/feed/",
+  "final": "https://iicaddisabeba.esteri.it/en/feed/",
+  "status": 200,
+  "bytes": 6979,
+  "file": "iic-rss-6c061e3a.html"
+ },
+ "eu-ethiopia:web:25d9f1dd": {
+  "url": "https://www.eeas.europa.eu/delegations/ethiopia_en",
+  "final": "https://www.eeas.europa.eu/delegations/ethiopia_en",
+  "status": 200,
+  "bytes": 82864,
+  "file": "eu-ethiopia-web-25d9f1dd.html"
+ },
+ "eu-au:web:f8df2210": {
+  "url": "https://www.eeas.europa.eu/delegations/african-union-au_en",
+  "final": "https://www.eeas.europa.eu/delegations/african-union-au_en",
+  "status": 200,
+  "bytes": 83641,
+  "file": "eu-au-web-f8df2210.html"
+ },
+ "austria:web:b40810a3": {
+  "url": "https://www.bmeia.gv.at/oeb-addis-abeba/aktuelles",
+  "final": "https://www.bmeia.gv.at/oeb-addis-abeba/aktuelles",
+  "status": 200,
+  "bytes": 172800,
+  "file": "austria-web-b40810a3.html"
+ },
+ "france:web:cdef5514": {
+  "url": "https://et.diplomatie.gouv.fr/fr/actualites-evenements",
+  "final": "https://et.diplomatie.gouv.fr/fr/actualites-evenements",
+  "status": 200,
+  "bytes": 32758,
+  "file": "france-web-cdef5514.html"
+ },
+ "italy:rss:c0047882": {
+  "url": "https://ambaddisabeba.esteri.it/en/feed/",
+  "final": "https://ambaddisabeba.esteri.it/en/feed/",
+  "status": 200,
+  "bytes": 26358,
+  "file": "italy-rss-c0047882.html"
+ },
+ "netherlands:web:0c4cf060": {
+  "url": "https://www.netherlandsandyou.nl/web/ethiopia",
+  "final": "https://www.netherlandsandyou.nl/web/ethiopia",
+  "status": 200,
+  "bytes": 147202,
+  "file": "netherlands-web-0c4cf060.html"
+ },
+ "finland:web:ac318fa4": {
+  "url": "https://finlandabroad.fi/web/eth/current-affairs",
+  "final": "https://finlandabroad.fi/web/eth/current-affairs",
+  "status": 200,
+  "bytes": 120083,
+  "file": "finland-web-ac318fa4.html"
+ },
+ "ireland:json:81a099da": {
+  "url": "https://www.ireland.ie/api/v2/news/?offset=0&child_of=3038&locale=en&limit=10",
+  "final": "https://www.ireland.ie/api/v2/news/?offset=0&child_of=3038&locale=en&limit=10",
+  "status": 200,
+  "bytes": 882,
+  "file": "ireland-json-81a099da.html"
+ },
+ "czechia:web:cdbcdcb2": {
+  "url": "https://mzv.gov.cz/addisababa/en/news_and_events/",
+  "final": "https://mzv.gov.cz/addisababa/en/news_and_events/",
+  "status": 200,
+  "bytes": 164165,
+  "file": "czechia-web-cdbcdcb2.html"
+ },
+ "poland:web:c978cca7": {
+  "url": "https://www.gov.pl/web/etiopia",
+  "final": "https://www.gov.pl/web/etiopia",
+  "status": 200,
+  "bytes": 25953,
+  "file": "poland-web-c978cca7.html"
+ },
+ "hungary:web:f70de015": {
+  "url": "https://addisababa.mfa.gov.hu/en/articles",
+  "final": "https://addisababa.mfa.gov.hu/en/articles",
+  "status": 200,
+  "bytes": 2603939,
+  "file": "hungary-web-f70de015.html"
+ },
+ "uk:rss:3f47610e": {
+  "url": "https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=ethiopia",
+  "final": "https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=ethiopia",
+  "status": 200,
+  "bytes": 12489,
+  "file": "uk-rss-3f47610e.html"
+ },
+ "norway:web:5e3cade0": {
+  "url": "https://www.norway.no/en/ethiopia/norway-ethiopia/news-events/",
+  "final": "https://www.norway.no/en/ethiopia/norway-ethiopia/news-events/",
+  "status": 200,
+  "bytes": 20925,
+  "file": "norway-web-5e3cade0.html"
+ },
+ "usa:rss:71c1fd6e": {
+  "url": "https://et.usembassy.gov/feed/",
+  "final": "https://et.usembassy.gov/feed/",
+  "status": 200,
+  "bytes": 104421,
+  "file": "usa-rss-71c1fd6e.html"
+ },
+ "canada:rss:016b9acf": {
+  "url": "https://www.international.gc.ca/country-pays/rss/ethiopia-ethiopie/news-nouvelles_eng.xml",
+  "final": "https://www.international.gc.ca/country-pays/rss/ethiopia-ethiopie/news-nouvelles_eng.xml",
+  "status": 200,
+  "bytes": 1961,
+  "file": "canada-rss-016b9acf.html"
+ },
+ "argentina:web:873c0a38": {
+  "url": "https://eetio.cancilleria.gob.ar/",
+  "final": "https://eetio.cancilleria.gob.ar/",
+  "status": 200,
+  "bytes": 36868,
+  "file": "argentina-web-873c0a38.html"
+ },
+ "korea:web:427fe97b": {
+  "url": "https://overseas.mofa.go.kr/et-en/index.do",
+  "final": "https://overseas.mofa.go.kr/et-en/index.do",
+  "status": 200,
+  "bytes": 110687,
+  "file": "korea-web-427fe97b.html"
+ },
+ "china:web:8d18e804": {
+  "url": "https://et.china-embassy.gov.cn/eng/",
+  "final": "https://et.china-embassy.gov.cn/eng/",
+  "status": 200,
+  "bytes": 15864,
+  "file": "china-web-8d18e804.html"
+ },
+ "india:web:c072a00e": {
+  "url": "https://eoiaddisababa.gov.in/",
+  "final": "https://eoiaddisababa.gov.in/",
+  "status": 200,
+  "bytes": 78862,
+  "file": "india-web-c072a00e.html"
+ },
+ "hyatt:web:debe6434": {
+  "url": "https://www.hyatt.com/en-US/hotel/ethiopia/hyatt-regency-addis-ababa/addra/news-events",
+  "final": "https://www.hyatt.com/en-US/hotel/ethiopia/hyatt-regency-addis-ababa/addra/news-events",
+  "status": 403,
+  "bytes": 12857,
+  "file": "hyatt-web-debe6434.html"
+ },
+ "hyatt:web:0b64d713": {
+  "url": "https://www.alladdisevents.com/venue/hyatt-regency-addis-ababa/",
+  "final": "https://www.alladdisevents.com/venue/hyatt-regency-addis-ababa/hyatt-regency-addis-ababa/",
+  "status": 404,
+  "bytes": 78809,
+  "file": "hyatt-web-0b64d713.html"
+ },
+ "hilton:web:47ee62be": {
+  "url": "https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/events/",
+  "error": "ReadTimeout: HTTPSConnectionPool(host='www.hilton.com', port=443): Read timed out. (read timeout=30)"
+ },
+ "hilton:web:a2909b45": {
+  "url": "https://www.alladdisevents.com/venue/hilton-addis-ababa/",
+  "final": "https://www.alladdisevents.com/venue/hilton-addis-ababa/",
+  "status": 404,
+  "bytes": 78511,
+  "file": "hilton-web-a2909b45.html"
+ },
+ "alladdisevents:rss:fa5fc10c": {
+  "url": "https://www.alladdisevents.com/feed/",
+  "final": "https://www.alladdisevents.com/feed/",
+  "status": 200,
+  "bytes": 70415,
+  "file": "alladdisevents-rss-fa5fc10c.html"
+ },
+ "alladdisevents:web:e71a53ba": {
+  "url": "https://www.alladdisevents.com/",
+  "final": "https://www.alladdisevents.com/",
+  "status": 500,
+  "bytes": 56565,
+  "file": "alladdisevents-web-e71a53ba.html"
+ }
+}

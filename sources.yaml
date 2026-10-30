@@ -14,6 +14,8 @@
 #   links     curated links shown in the directory (x, facebook, instagram,
 #             telegram, youtube, linkedin, newsletter, bluesky ...)
 #   manual    why a source is not checked automatically (shown on its card)
+#   match     regex: posts from ANY channel that mention this name are also
+#             listed under this source (useful for venues with no feed)
 #   channels  what the monitor actually checks:
 #     type: web       a news/events page; new links on it become new items
 #                     include: regex a link must match (keeps menus out)
@@ -498,7 +500,7 @@
       include: eoiaddisababa\.gov\.in/[a-z0-9-]+/$
       exclude: screen-reader|sitemap|feedback|contact|faq|gallery|tender|rti|disclaimer|privacy|help|terms|hyperlink|copyright|accessibility
 
-# ===================== Hotels =====================
+# ===================== Hotels & venues =====================
 
 - id: hyatt
   name: Hyatt Regency Addis Ababa
@@ -506,6 +508,7 @@
   kind: venue
   region: local
   homepage: https://www.hyatt.com/hyatt-regency/en-US/addra-hyatt-regency-addis-ababa
+  match: Hyatt
   manual: hyatt.com blocks automated readers, and the "Hyatt Happenings" programme is not published on the web. Event coverage in the press is monitored instead.
   links:
     events: https://www.hyatt.com/en-US/hotel/ethiopia/hyatt-regency-addis-ababa/addra/news-events
@@ -520,13 +523,224 @@
   kind: venue
   region: local
   homepage: https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/
+  match: Hilton
   manual: hilton.com does not answer automated readers. Event coverage in the press is monitored instead.
   channels:
     - type: gnews
       url: '"Hilton Addis" (concert OR exhibition OR festival OR bazaar OR gala OR brunch OR night OR event)'
       exclude: \breview\b|trip ?advisor|booking|contract|acquire|privati
 
+- id: hub-hotel
+  name: The Hub Hotel
+  country: ET
+  kind: venue
+  region: local
+  homepage: https://thehubaddis.com/
+  match: Hub Hotel
+  manual: No events page or active channel found. Posts that mention it (LinkUp Addis, press) appear here.
+  links:
+    telegram: https://t.me/thehubhotel
+  channels: []
+
+- id: exhibition-center
+  name: Addis Ababa Exhibition Center
+  country: ET
+  kind: venue
+  region: local
+  match: Exhibition Cent(er|re)|Millennium Hall
+  notes: Expos and trade fairs. Tracked through press coverage and listings that mention it.
+  channels:
+    - type: gnews
+      url: '"Addis Ababa Exhibition Center" OR "Addis Ababa Exhibition Centre" expo'
+      exclude: Russia|Russian
+
+- id: intellect-arena
+  name: Intellect Arena
+  country: ET
+  kind: venue
+  region: local
+  match: Intellect Arena
+  manual: No website or public channel found. Posts that mention it appear here.
+  channels: []
+
+# ===================== Cinemas =====================
+
+- id: gast-cinema
+  name: GAST Cinema
+  country: ET
+  kind: cinema
+  region: local
+  match: \bGast\b
+  notes: In Gast Entertainment Mall, CMC. Weekly line-ups are posted on Telegram.
+  links:
+    telegram: https://t.me/gastcinema
+  channels:
+    - type: telegram
+      url: gastcinema
+
+- id: century-cinema
+  name: Century Cinema
+  country: ET
+  kind: cinema
+  region: local
+  match: Century Cinema
+  manual: No public website or Telegram channel found (likely Instagram only). Posts that mention it appear here.
+  channels: []
+
+- id: laphto-cinema
+  name: Laphto Chewata Cinema
+  country: ET
+  kind: cinema
+  region: local
+  match: Laphto|Chewata
+  manual: No public website or Telegram channel found (likely Instagram only). Posts that mention it appear here.
+  channels: []
+
+- id: videobet
+  name: Videobet Cinema
+  country: ET
+  kind: cinema
+  region: local
+  match: Videobet
+  notes: Arthouse cinema in the Red Terror Martyrs' Memorial Museum building (opened Feb 2026); hosts the EU Film Festival.
+  manual: No public website or Telegram channel found. Posts that mention it appear here.
+  channels: []
+
+# ===================== Galleries & creative spaces =====================
+
+- id: the-space
+  name: The Space Ethiopia Gallery
+  country: ET
+  kind: arts
+  region: local
+  match: The Space Ethiopia|The Space Gallery|Post Gallery
+  notes: Contemporary art gallery and residency at the Ethiopost headquarters on Churchill Avenue (formerly Post Gallery).
+  links:
+    telegram: https://t.me/thespaceethiopia
+  channels:
+    - type: telegram
+      url: thespaceethiopia
+
+- id: creative-hub
+  name: Creative Hub Ethiopia (Old Post Office)
+  country: ET
+  kind: arts
+  region: local
+  homepage: https://www.creativehub.et/
+  match: Creative Hub|Old Post Office
+  notes: Reopened in August 2025 in the century-old Post Office building in Piassa. Exhibitions, fashion shows, pop-ups.
+  links:
+    x: https://x.com/creativehubet
+  channels:
+    - type: web
+      url: https://www.creativehub.et/
+      include: creativehub\.et/.+/.+
+
+- id: fabrika
+  name: Fabrika Third Space
+  country: ET
+  kind: arts
+  region: local
+  match: Fabrika
+  manual: No website or public channel found (likely Instagram only). Posts that mention it appear here.
+  channels: []
+
+- id: selam
+  name: Selam Ethiopia (Selam Addis creative hub)
+  country: ET
+  kind: arts
+  region: local
+  homepage: https://selamethiopia.se/
+  match: \bSelam (Addis|Ethiopia|Festival)
+  notes: Cultural organisation behind the Selam Festival and creative-industry programmes.
+  channels:
+    - type: web
+      url: https://selamethiopia.se/
+      include: selamethiopia\.se/.+/
+
+- id: addis-fine-art
+  name: Addis Fine Art
+  country: ET
+  kind: arts
+  region: local
+  homepage: https://www.addisfineart.com/
+  match: Addis Fine Art
+  channels:
+    - type: web
+      url: https://www.addisfineart.com/exhibitions/
+      include: addisfineart\.com/exhibitions/.+
+
+- id: fendika
+  name: Fendika Cultural Center
+  country: ET
+  kind: arts
+  region: local
+  match: Fendika
+  manual: Posts on Facebook and Instagram. Mentions in listings and press appear here.
+  channels: []
+
+- id: zoma
+  name: Zoma Museum
+  country: ET
+  kind: arts
+  region: local
+  match: \bZoma\b
+  manual: Its Telegram channel has been inactive since 2023. Mentions in listings and press appear here.
+  links:
+    telegram: https://t.me/zomamuseum
+  channels: []
+
+# ===================== Music, cafés & nightlife =====================
+
+- id: jazz-village
+  name: African Jazz Village (Ghion Hotel)
+  country: ET
+  kind: music
+  region: local
+  match: Jazz Village|Jazzamba
+  notes: Ethio-jazz venue at the Ghion Hotel, also known as Addis Jazz Village.
+  manual: Its Telegram channel has been inactive since 2023. Mentions in LinkUp Addis and press appear here.
+  links:
+    telegram: https://t.me/africanjazzvillage
+  channels: []
+
+- id: bazra
+  name: Bazra Coffee
+  country: ET
+  kind: music
+  region: local
+  match: Bazra
+  manual: No website or public channel found (Instagram). Its weekly live sessions are announced on LinkUp Addis and appear here.
+  channels: []
+
+- id: upscale
+  name: Upscale Kitchen and Cocktails
+  country: ET
+  kind: music
+  region: local
+  match: Upscale Kitchen|\bUpscale\b
+  manual: No website or public channel found (likely Instagram only). Posts that mention it appear here.
+  channels: []
+
 # ===================== Local listings & press =====================
+
+- id: linkup
+  name: LinkUp Addis
+  country: ET
+  kind: aggregator
+  region: local
+  homepage: https://web.linkupaddis.com/
+  notes: The city's busiest event listing (concerts, exhibitions, markets, film nights). Its Telegram channel posts several times a day.
+  links:
+    telegram: https://t.me/LinkUpAddis
+  channels:
+    - type: telegram
+      url: LinkUpAddis
+      exclude: Russia|Russian
+    - type: telegram
+      url: linkuppremium
+      label: LinkUp Premium
+      exclude: Russia|Russian
 
 - id: whatsout
   name: What's Out Addis

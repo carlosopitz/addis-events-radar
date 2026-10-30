@@ -19,7 +19,8 @@
   };
 
   const TYPE_LABEL = { web: "Website", rss: "Feed", telegram: "Telegram", gnews: "Press", json: "Website" };
-  const KIND_LABEL = { cultural: "Cultural institute", embassy: "Embassy", eu: "European Union", venue: "Hotel / venue", aggregator: "Listings & press" };
+  const KIND_LABEL = { cultural: "Cultural institute", embassy: "Embassy", eu: "European Union", venue: "Hotel / venue", cinema: "Cinema", arts: "Gallery / creative space",
+    music: "Music / café / nightlife", aggregator: "Listings & press" };
   const LINK_LABEL = { x: "X", facebook: "Facebook", instagram: "Instagram", telegram: "Telegram", youtube: "YouTube",
     linkedin: "LinkedIn", tiktok: "TikTok", bluesky: "Bluesky", flickr: "Flickr", newsletter: "Newsletter", social: "Social media", pressroom: "Press room", events: "Events page" };
 
@@ -104,9 +105,10 @@
       const s = state.byId[i.source]; if (!s) return false;
       if (!withBase && i.baseline) return false;
       if (state.mode === "events" && !i.event) return false;
-      if (kind && s.kind !== kind) return false;
-      if (region && s.region !== region) return false;
-      if (src && i.source !== src) return false;
+      const related = [s, ...(i.mentions || []).map((m) => state.byId[m]).filter(Boolean)];
+      if (kind && !related.some((r) => r.kind === kind)) return false;
+      if (region && !related.some((r) => r.region === region)) return false;
+      if (src && i.source !== src && !(i.mentions || []).includes(src)) return false;
       if (q && !(`${i.title} ${i.summary} ${s.name}`.toLowerCase().includes(q))) return false;
       return true;
     });
@@ -154,6 +156,8 @@
           <a class="src" href="#sources" data-src="${esc(s.id)}">${esc(s.name)}</a>
           <span class="chip">${esc(TYPE_LABEL[i.type] || i.type)}</span>
           ${i.event ? '<span class="chip event">Event</span>' : ""}
+          ${(i.mentions || []).map((m) => state.byId[m]).filter(Boolean).map((m) =>
+            `<a class="chip at" href="#sources" data-src="${esc(m.id)}">at ${esc(m.name)}</a>`).join("")}
           ${isNew ? '<span class="chip new">New</span>' : ""}
           <span>${esc(when)}</span>
         </div>
@@ -188,6 +192,11 @@
     for (const i of state.items) if (i.source === id && !i.baseline && (!last || i.first_seen > last)) last = i.first_seen;
     return last;
   }
+  function mentionStats(id) {
+    const hits = state.items.filter((i) => (i.mentions || []).includes(id));
+    const last = hits.reduce((a, i) => (!a || i.first_seen > a ? i.first_seen : a), null);
+    return { n: hits.length, last };
+  }
 
   function renderSources() {
     const q = $("#sq").value.trim().toLowerCase(), kind = $("#skind").value, sort = $("#ssort").value;
@@ -214,6 +223,9 @@
           ${links.map((l) => `<a class="${l.found ? "found" : ""}" href="${esc(l.url)}" target="_blank" rel="noopener" title="${l.found ? "Linked from their website" : "Curated"}">${esc(LINK_LABEL[l.kind] || l.kind)}</a>`).join("")}
         </div>
         ${chans ? `<div class="channels"><span class="watch">Watching:</span>${chans}</div>` : ""}
+        ${s.match ? (() => { const m = mentionStats(s.id); return m.n
+          ? `<div class="last"><a href="#latest" class="mention-link" data-filter="${esc(s.id)}">Mentioned in ${m.n} post${m.n === 1 ? "" : "s"}</a>, latest ${esc(ago(m.last))}</div>`
+          : `<div class="last">Not mentioned in any tracked post yet</div>`; })() : ""}
         ${s.manual ? `<p class="note manual">Not checked automatically. ${esc(s.manual)}</p>` : ""}
         ${s.notes ? `<p class="note">${esc(s.notes)}</p>` : ""}
       </div>`;
@@ -260,6 +272,13 @@
       state.lastSeen = new Date().toISOString(); store.set("lastSeen", state.lastSeen); renderMeta(); renderLatest();
     });
     document.addEventListener("click", (e) => {
+      const f = e.target.closest("a[data-filter]");
+      if (f) {
+        e.preventDefault();
+        $("#source").value = f.dataset.filter; $("#baseline").checked = true;
+        state.mode = "all"; $$(".seg button").forEach((x) => x.setAttribute("aria-pressed", String(x.dataset.mode === "all")));
+        state.shown = PAGE; showTab("latest"); renderLatest(); window.scrollTo(0, 0); return;
+      }
       const a = e.target.closest("a[data-src]"); if (!a) return;
       e.preventDefault(); showTab("sources");
       const card = document.getElementById(`src-${a.dataset.src}`);

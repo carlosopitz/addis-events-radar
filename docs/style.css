@@ -83,6 +83,8 @@ input[type="search"] { flex: 1 1 220px; min-width: 180px; }
   padding: 2px 7px; border-radius: 6px; background: var(--line); color: var(--muted); }
 .chip.event { background: var(--event-soft); color: var(--event); }
 .chip.new { background: var(--new); color: #fff; }
+.chip.at { background: var(--accent-soft); color: var(--accent); text-decoration: none; text-transform: none; letter-spacing: 0; }
+.mention-link { color: var(--accent); }
 .empty { padding: 40px 20px; text-align: center; color: var(--muted); border: 1px dashed var(--line); border-radius: var(--radius); }
 .more { display: block; margin: 16px auto 40px; }
 

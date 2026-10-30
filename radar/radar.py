@@ -696,8 +696,12 @@ def cmd_check() -> None:
             "sample": [i["title"] for i in res["items"][:5]],
         }
 
+    # venues without a feed of their own: tag any post that mentions them
+    matchers = [(src["id"], re.compile(src["match"], re.I)) for src in sources if src.get("match")]
     for it in items:
         it["event"] = is_event(it["title"], it.get("summary", ""))
+        text = f"{it['title']} {it.get('summary', '')}"
+        it["mentions"] = [sid for sid, rx in matchers if sid != it["source"] and rx.search(text)]
     # newest first; keep the store bounded
     items = sorted(new_items, key=lambda i: (i["published"] or "", i["title"]), reverse=True) + items
     items = items[:MAX_ITEMS]

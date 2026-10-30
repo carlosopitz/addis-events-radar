@@ -24,6 +24,8 @@
 #                     Instagram, Bluesky profile feeds, Kill the Newsletter)
 #     type: telegram  a public Telegram channel name (read via t.me/s/)
 #     type: gnews     a Google News search query (press coverage)
+#                     lang: es | fr | de | it to search that language's edition
+#     type: json      a site's own JSON news endpoint (base: site root for links)
 #     label: optional display label for the channel
 # ------------------------------------------------------------------
 

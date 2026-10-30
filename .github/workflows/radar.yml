@@ -11,7 +11,11 @@ on:
         description: "What to run"
         type: choice
         default: check
-        options: [check, digest, test-email, discover, both, snapshot]
+        options: [check, digest, test-email, discover, both, snapshot, probe]
+      probe:
+        description: "For probe: comma-separated Telegram handles or URLs"
+        type: string
+        default: ""
   push:
     branches: [main]
     paths: [sources.yaml]    # re-check right after the source list is edited
@@ -67,6 +71,12 @@ jobs:
       - name: Send a test email
         if: steps.t.outputs.task == 'test-email'
         run: python radar/radar.py test-email
+
+      - name: Probe candidate channels (debugging)
+        if: steps.t.outputs.task == 'probe'
+        env:
+          PROBE: ${{ inputs.probe }}
+        run: python radar/radar.py probe
 
       - name: Save page snapshots (debugging)
         if: steps.t.outputs.task == 'snapshot'

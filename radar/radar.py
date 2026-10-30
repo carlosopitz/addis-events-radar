@@ -789,7 +789,35 @@ def cmd_snapshot() -> None:
     print(json.dumps(index, indent=1))
 
 
+def cmd_probe() -> None:
+    """Check candidate public Telegram channels and web pages; report titles so they can be verified."""
+    out = ROOT / "debug"
+    out.mkdir(exist_ok=True)
+    report = {}
+    for cand in [c.strip() for c in os.environ.get("PROBE", "").split(",") if c.strip()]:
+        try:
+            if cand.startswith("http"):
+                r = fetch(cand)
+                soup = BeautifulSoup(r.content, "html.parser")
+                report[cand] = {"status": r.status_code, "final": r.url,
+                                "title": clean(soup.title.get_text()) if soup.title else ""}
+            else:
+                r = fetch(f"https://t.me/s/{cand}")
+                soup = BeautifulSoup(r.content, "html.parser")
+                t = soup.select_one(".tgme_channel_info_header_title")
+                d = soup.select_one(".tgme_channel_info_description")
+                posts = soup.select("div.tgme_widget_message[data-post]")
+                last = soup.select("div.tgme_widget_message time[datetime]")
+                report[cand] = {"title": clean(t.get_text()) if t else None,
+                                "about": clean(d.get_text(" "), 160) if d else "",
+                                "posts": len(posts), "last": last[-1]["datetime"][:10] if last else None}
+        except Exception as e:  # noqa: BLE001
+            report[cand] = {"error": f"{type(e).__name__}: {str(e)[:100]}"}
+    (out / "probe.json").write_text(json.dumps(report, indent=1, ensure_ascii=False), "utf-8")
+    print(json.dumps(report, indent=1, ensure_ascii=False))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "check"
     {"check": cmd_check, "discover": cmd_discover, "digest": cmd_digest,
-     "test-email": cmd_test_email, "snapshot": cmd_snapshot}[cmd]()
+     "test-email": cmd_test_email, "snapshot": cmd_snapshot, "probe": cmd_probe}[cmd]()

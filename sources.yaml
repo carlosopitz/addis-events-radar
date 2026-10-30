@@ -330,17 +330,6 @@
       url: https://www.norway.no/en/ethiopia/
       include: /en/ethiopia/
 
-- id: russia
-  name: Embassy of Russia
-  country: RU
-  kind: embassy
-  region: europe
-  homepage: https://ethiopia.mid.ru/en/
-  channels:
-    - type: web
-      url: https://ethiopia.mid.ru/en/
-      include: ethiopia\.mid\.ru/
-
 - id: turkey
   name: Embassy of Türkiye
   country: TR

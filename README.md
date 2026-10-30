@@ -16,7 +16,7 @@ A GitHub Actions workflow (`.github/workflows/radar.yml`) runs every two hours, 
    - **telegram**: a public Telegram channel, read through its public web preview.
    - **gnews**: a Google News search, to catch events that only get announced on Facebook but are covered by the press.
 2. New items are saved to `docs/data/items.json` and marked as events when their title or summary contains event words (concert, exhibition, screening, Ausstellung, exposición, mostra …) in six languages.
-3. You get a push notification on your phone through [ntfy](https://ntfy.sh): one per new event post, plus a single digest for other news.
+3. Every morning at about 06:50 Addis time you get one email digest: event posts first, then other news. Days with nothing new send no email.
 4. The dashboard (in `docs/`, served by GitHub Pages) shows everything, with filters.
 
 Every Monday the workflow also visits each homepage and records the social accounts, newsletter links and feeds the site links to (shown with dashed outlines on the Sources tab).
@@ -28,17 +28,21 @@ The first check records what is already on each site as a baseline, so you are n
 ### 1. Turn on GitHub Pages
 Settings → Pages → Build and deployment → Source: **Deploy from a branch** → Branch: `main`, folder: `/docs` → Save.
 
-### 2. Push notifications (ntfy)
-1. Install **ntfy** from the App Store.
-2. Pick a long, unguessable topic name, e.g. `addis-radar-7f3k9q2m`. Anyone who knows the name can read it, so treat it like a password.
-3. In the app: **+** → enter the topic → Subscribe.
-4. In this repo: Settings → Secrets and variables → Actions → **New repository secret** → Name `NTFY_TOPIC`, value: your topic.
+### 2. Daily email digest (Gmail)
+1. Make sure 2-Step Verification is on for your Google account.
+2. Open https://myaccount.google.com/apppasswords, name it `Addis Events Radar`, click **Create** and copy the 16-character password.
+3. In this repo: Settings → Secrets and variables → Actions → **New repository secret**, twice:
+   - `MAIL_USERNAME`: your Gmail address
+   - `MAIL_PASSWORD`: the app password
+4. Optional: `MAIL_TO` if the digest should go to a different address.
+5. Actions → **radar** → Run workflow → `test-email` sends a sample right away.
 
-Optional repository *variables* (same page, Variables tab):
-- `NOTIFY_OTHER`: `digest` (default: one summary push for non-event posts), `each` (one push per post) or `off`.
+The digest is sent from your own Gmail to yourself. To stop it, delete the app password on the same Google page (this also revokes access) or remove the secrets.
 
 ### 3. Run it
 Actions → **radar** → Run workflow → `both`. The first run takes about two minutes.
+
+Other manual tasks: `digest` (send today's digest now), `test-email`, `discover` (refresh social links), `snapshot` (save raw pages to `debug/` for tuning rules).
 
 ## Adding sources
 

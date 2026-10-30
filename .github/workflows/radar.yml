@@ -3,14 +3,15 @@ name: radar
 on:
   schedule:
     - cron: "17 */2 * * *"   # check every 2 hours
-    - cron: "41 4 * * 1"     # link discovery every Monday (07:41 Addis time)
+    - cron: "52 3 * * *"     # daily email digest, 06:52 Addis time (checks first)
+    - cron: "41 4 * * 1"     # link discovery every Monday, 07:41 Addis time
   workflow_dispatch:
     inputs:
       task:
         description: "What to run"
         type: choice
         default: check
-        options: [check, discover, both, snapshot, ping]
+        options: [check, digest, test-email, discover, both, snapshot]
   push:
     branches: [main]
     paths: [sources.yaml]    # re-check right after the source list is edited
@@ -26,6 +27,11 @@ jobs:
   run:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    env:
+      DASHBOARD_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+      MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+      MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -34,29 +40,36 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
 
+      - name: Decide what to run
+        id: t
+        run: |
+          T="${{ inputs.task }}"
+          case "${{ github.event.schedule }}" in
+            "52 3 * * *") T=digest ;;
+            "41 4 * * 1") T=discover ;;
+          esac
+          [ -z "$T" ] && T=check
+          echo "task=$T" >> "$GITHUB_OUTPUT"
+          echo "Running: $T"
+
       - name: Discover social links and feeds
-        if: github.event.schedule == '41 4 * * 1' || inputs.task == 'discover' || inputs.task == 'both'
+        if: steps.t.outputs.task == 'discover' || steps.t.outputs.task == 'both'
         run: python radar/radar.py discover
 
       - name: Check all channels
-        if: github.event.schedule != '41 4 * * 1' && inputs.task != 'discover' && inputs.task != 'snapshot' && inputs.task != 'ping'
-        env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC || vars.NTFY_TOPIC }}
-          NTFY_SERVER: ${{ vars.NTFY_SERVER || 'https://ntfy.sh' }}
-          NOTIFY_OTHER: ${{ vars.NOTIFY_OTHER || 'digest' }}
-          DASHBOARD_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        if: steps.t.outputs.task == 'check' || steps.t.outputs.task == 'both' || steps.t.outputs.task == 'digest'
         run: python radar/radar.py check
 
-      - name: Send a test notification
-        if: inputs.task == 'ping'
-        env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC || vars.NTFY_TOPIC }}
-          NTFY_SERVER: ${{ vars.NTFY_SERVER || 'https://ntfy.sh' }}
-          DASHBOARD_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
-        run: python radar/radar.py ping
+      - name: Send the daily digest
+        if: steps.t.outputs.task == 'digest'
+        run: python radar/radar.py digest
+
+      - name: Send a test email
+        if: steps.t.outputs.task == 'test-email'
+        run: python radar/radar.py test-email
 
       - name: Save page snapshots (debugging)
-        if: inputs.task == 'snapshot'
+        if: steps.t.outputs.task == 'snapshot'
         run: python radar/radar.py snapshot
 
       - name: Save data

@@ -1,0 +1,564 @@
+# Addis Events Radar: the source database
+# ------------------------------------------------------------------
+# One entry per embassy, cultural institute or event source in Addis Ababa.
+# Edit this file (on GitHub: pencil icon) to add, fix or remove sources.
+# The monitor picks up changes on its next run.
+#
+# Fields
+#   id        short unique slug
+#   name      display name
+#   country   ISO 2-letter code (drives the flag), EU for EU bodies, XX for none
+#   kind      cultural | embassy | eu | aggregator
+#   region    europe | americas | asia-pacific | africa-me | local
+#   homepage  main website (used by the weekly link discovery)
+#   links     curated links shown in the directory (x, facebook, instagram,
+#             telegram, youtube, linkedin, newsletter, bluesky ...)
+#   channels  what the monitor actually checks:
+#     type: web       a news/events page; new links on it become new items
+#                     include: regex a link must match (keeps menus out)
+#                     selector: optional CSS selector for the list area
+#     type: rss       an RSS/Atom feed (also use this for RSS.app feeds of
+#                     X/Facebook/Instagram, Bluesky profile feeds, or
+#                     Kill the Newsletter feeds of email newsletters)
+#     type: telegram  a public Telegram channel name (read via t.me/s/)
+#     type: gnews     a Google News search query (press coverage)
+#     label: optional display label for the channel (e.g. "X via RSS.app")
+# ------------------------------------------------------------------
+
+# ===================== Cultural institutes =====================
+
+- id: goethe
+  name: Goethe-Institut Äthiopien
+  country: DE
+  kind: cultural
+  region: europe
+  homepage: https://www.goethe.de/ins/et/en/index.html
+  links:
+    telegram: https://t.me/goetheaddis
+    newsletter: https://www.goethe.de/ins/et/en/index.html
+  channels:
+    - type: web
+      url: https://www.goethe.de/ins/et/en/ver.html
+      include: /ins/et/
+    - type: telegram
+      url: goetheaddis
+
+- id: alliance
+  name: Alliance Ethio-Française
+  country: FR
+  kind: cultural
+  region: europe
+  homepage: https://allianceaddis.org/
+  channels:
+    - type: rss
+      url: https://allianceaddis.org/feed/
+    - type: web
+      url: https://allianceaddis.org/
+      include: allianceaddis\.org/
+
+- id: iic
+  name: Istituto Italiano di Cultura
+  country: IT
+  kind: cultural
+  region: europe
+  homepage: https://iicaddisabeba.esteri.it/en/
+  channels:
+    - type: web
+      url: https://iicaddisabeba.esteri.it/en/gli_eventi/calendario/
+      include: /gli_eventi/
+    - type: rss
+      url: https://iicaddisabeba.esteri.it/en/feed/
+
+- id: british-council
+  name: British Council Ethiopia
+  country: GB
+  kind: cultural
+  region: europe
+  homepage: https://ethiopia.britishcouncil.org/
+  channels:
+    - type: web
+      url: https://ethiopia.britishcouncil.org/events
+      include: /events/
+
+- id: russian-house
+  name: Russian House (Pushkin Centre)
+  country: RU
+  kind: cultural
+  region: europe
+  notes: No website of its own found; mostly posts on Facebook/Telegram. Tracked through press coverage.
+  channels:
+    - type: gnews
+      url: '"Russian Centre for Science and Culture" Addis OR "Pushkin Center" Addis OR "Russian House" Addis Ababa'
+
+- id: confucius
+  name: Confucius Institute at Addis Ababa University
+  country: CN
+  kind: cultural
+  region: asia-pacific
+  notes: Tracked through press coverage.
+  channels:
+    - type: gnews
+      url: '"Confucius Institute" "Addis Ababa"'
+
+# ===================== EU & multilateral =====================
+
+- id: eu-ethiopia
+  name: EU Delegation to Ethiopia
+  country: EU
+  kind: eu
+  region: europe
+  homepage: https://www.eeas.europa.eu/delegations/ethiopia_en
+  channels:
+    - type: web
+      url: https://www.eeas.europa.eu/delegations/ethiopia_en
+      include: /delegations/ethiopia/
+
+- id: eu-au
+  name: EU Delegation to the African Union
+  country: EU
+  kind: eu
+  region: europe
+  homepage: https://www.eeas.europa.eu/delegations/african-union-au_en
+  channels:
+    - type: web
+      url: https://www.eeas.europa.eu/delegations/african-union-au_en
+      include: /delegations/african-union-au/
+
+- id: euff
+  name: EU Film Festival Ethiopia
+  country: EU
+  kind: eu
+  region: europe
+  notes: Annual (2026 edition at Videobet Cinema, 24 Oct to 20 Nov). Organised by the EU Delegations with member-state embassies.
+  channels:
+    - type: gnews
+      url: '"European Union Film Festival" Addis OR "European Film Festival" Addis Ababa'
+
+# ===================== European embassies =====================
+
+- id: austria
+  name: Embassy of Austria
+  country: AT
+  kind: embassy
+  region: europe
+  homepage: https://www.bmeia.gv.at/oeb-addis-abeba/
+  links:
+    x: https://x.com/AustriainET
+  channels:
+    - type: web
+      url: https://www.bmeia.gv.at/oeb-addis-abeba/aktuelles
+      include: /oeb-addis-abeba/
+
+- id: germany
+  name: Embassy of Germany
+  country: DE
+  kind: embassy
+  region: europe
+  homepage: https://addis-abeba.diplo.de/et-de
+  channels:
+    - type: web
+      url: https://addis-abeba.diplo.de/et-de
+      include: addis-abeba\.diplo\.de/et-
+
+- id: france
+  name: Embassy of France
+  country: FR
+  kind: embassy
+  region: europe
+  homepage: https://et.ambafrance.org/
+  channels:
+    - type: rss
+      url: https://et.ambafrance.org/spip.php?page=backend
+    - type: web
+      url: https://et.ambafrance.org/
+      include: et\.ambafrance\.org/
+
+- id: italy
+  name: Embassy of Italy
+  country: IT
+  kind: embassy
+  region: europe
+  homepage: https://ambaddisabeba.esteri.it/en/
+  channels:
+    - type: web
+      url: https://ambaddisabeba.esteri.it/en/
+      include: ambaddisabeba\.esteri\.it/en/
+    - type: rss
+      url: https://ambaddisabeba.esteri.it/en/feed/
+
+- id: spain
+  name: Embassy of Spain
+  country: ES
+  kind: embassy
+  region: europe
+  homepage: https://www.exteriores.gob.es/Embajadas/addisabeba/en/Paginas/index.aspx
+  channels:
+    - type: web
+      url: https://www.exteriores.gob.es/Embajadas/addisabeba/en/Paginas/index.aspx
+      include: /Embajadas/addisabeba/
+
+- id: netherlands
+  name: Embassy of the Netherlands
+  country: NL
+  kind: embassy
+  region: europe
+  homepage: https://www.netherlandsandyou.nl/web/ethiopia
+  channels:
+    - type: web
+      url: https://www.netherlandsandyou.nl/web/ethiopia
+      include: /web/ethiopia/
+
+- id: sweden
+  name: Embassy of Sweden
+  country: SE
+  kind: embassy
+  region: europe
+  homepage: https://www.swedenabroad.se/en/embassies/ethiopia-addis-abeba/
+  channels:
+    - type: web
+      url: https://www.swedenabroad.se/en/embassies/ethiopia-addis-abeba/current-events/news/
+      include: /ethiopia-addis-abeba/
+
+- id: finland
+  name: Embassy of Finland
+  country: FI
+  kind: embassy
+  region: europe
+  homepage: https://finlandabroad.fi/web/eth/en
+  channels:
+    - type: web
+      url: https://finlandabroad.fi/web/eth/current-affairs
+      include: /web/eth/
+
+- id: denmark
+  name: Embassy of Denmark
+  country: DK
+  kind: embassy
+  region: europe
+  homepage: https://etiopien.um.dk/en
+  channels:
+    - type: web
+      url: https://etiopien.um.dk/en/news
+      include: etiopien\.um\.dk/en/
+
+- id: ireland
+  name: Embassy of Ireland
+  country: IE
+  kind: embassy
+  region: europe
+  homepage: https://www.ireland.ie/en/ethiopia/addisababa/
+  channels:
+    - type: web
+      url: https://www.ireland.ie/en/ethiopia/addisababa/news-and-events/
+      include: /addisababa/
+
+- id: belgium
+  name: Embassy of Belgium
+  country: BE
+  kind: embassy
+  region: europe
+  homepage: https://ethiopia.diplomatie.belgium.be/en
+  channels:
+    - type: web
+      url: https://ethiopia.diplomatie.belgium.be/en
+      include: ethiopia\.diplomatie\.belgium\.be/en/
+
+- id: czechia
+  name: Embassy of the Czech Republic
+  country: CZ
+  kind: embassy
+  region: europe
+  homepage: https://mzv.gov.cz/addisababa/en/
+  channels:
+    - type: web
+      url: https://mzv.gov.cz/addisababa/en/news_and_events/
+      include: /addisababa/en/
+
+- id: poland
+  name: Embassy of Poland
+  country: PL
+  kind: embassy
+  region: europe
+  homepage: https://www.gov.pl/web/etiopia
+  channels:
+    - type: web
+      url: https://www.gov.pl/web/etiopia/wiadomosci
+      include: /web/etiopia/
+
+- id: hungary
+  name: Embassy of Hungary
+  country: HU
+  kind: embassy
+  region: europe
+  homepage: https://addisababa.mfa.gov.hu/en
+  channels:
+    - type: web
+      url: https://addisababa.mfa.gov.hu/en/articles
+      include: addisababa\.mfa\.gov\.hu/en/articles/
+
+- id: slovakia
+  name: Embassy of Slovakia
+  country: SK
+  kind: embassy
+  region: europe
+  homepage: https://www.mzv.sk/web/addisabeba
+  channels:
+    - type: web
+      url: https://www.mzv.sk/web/addisabeba
+      include: /web/addisabeba
+
+- id: romania
+  name: Embassy of Romania
+  country: RO
+  kind: embassy
+  region: europe
+  homepage: https://addisabeba.mae.ro/en
+  channels:
+    - type: web
+      url: https://addisabeba.mae.ro/en
+      include: addisabeba\.mae\.ro/en/
+
+- id: uk
+  name: British Embassy
+  country: GB
+  kind: embassy
+  region: europe
+  homepage: https://www.gov.uk/world/ethiopia
+  channels:
+    - type: rss
+      url: https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=ethiopia
+
+- id: switzerland
+  name: Embassy of Switzerland
+  country: CH
+  kind: embassy
+  region: europe
+  homepage: https://www.eda.admin.ch/countries/ethiopia/en/home.html
+  channels:
+    - type: web
+      url: https://www.eda.admin.ch/countries/ethiopia/en/home.html
+      include: /countries/ethiopia/en/
+
+- id: norway
+  name: Embassy of Norway
+  country: 'NO'
+  kind: embassy
+  region: europe
+  homepage: https://www.norway.no/en/ethiopia/
+  channels:
+    - type: web
+      url: https://www.norway.no/en/ethiopia/
+      include: /en/ethiopia/
+
+- id: russia
+  name: Embassy of Russia
+  country: RU
+  kind: embassy
+  region: europe
+  homepage: https://ethiopia.mid.ru/en/
+  channels:
+    - type: web
+      url: https://ethiopia.mid.ru/en/
+      include: ethiopia\.mid\.ru/
+
+- id: turkey
+  name: Embassy of Türkiye
+  country: TR
+  kind: embassy
+  region: europe
+  homepage: https://addisababa.emb.mfa.gov.tr/
+  channels:
+    - type: web
+      url: https://addisababa.emb.mfa.gov.tr/Mission/Announcements
+      include: /Mission/
+
+- id: armenia
+  name: Embassy of Armenia
+  country: AM
+  kind: embassy
+  region: europe
+  homepage: https://ethiopia.mfa.am/en/
+  channels:
+    - type: web
+      url: https://ethiopia.mfa.am/en/news
+      include: ethiopia\.mfa\.am/en/
+
+# ===================== The Americas =====================
+
+- id: usa
+  name: U.S. Embassy
+  country: US
+  kind: embassy
+  region: americas
+  homepage: https://et.usembassy.gov/
+  channels:
+    - type: rss
+      url: https://et.usembassy.gov/feed/
+    - type: web
+      url: https://et.usembassy.gov/news-events/
+      include: et\.usembassy\.gov/
+
+- id: canada
+  name: Embassy of Canada
+  country: CA
+  kind: embassy
+  region: americas
+  homepage: https://www.international.gc.ca/country-pays/ethiopia-ethiopie/addis_ababa.aspx?lang=eng
+  channels:
+    - type: web
+      url: https://www.international.gc.ca/country-pays/ethiopia-ethiopie/addis_ababa.aspx?lang=eng
+      include: ethiopia-ethiopie
+
+- id: mexico
+  name: Embajada de México
+  country: MX
+  kind: embassy
+  region: americas
+  homepage: https://embamex.sre.gob.mx/etiopia/
+  channels:
+    - type: rss
+      url: https://embamex.sre.gob.mx/etiopia/index.php/ver-comunicados?format=feed&type=rss
+    - type: web
+      url: https://embamex.sre.gob.mx/etiopia/index.php/ver-comunicados
+      include: /etiopia/index\.php/
+
+- id: venezuela
+  name: Embajada de Venezuela
+  country: VE
+  kind: embassy
+  region: americas
+  notes: No embassy website found. Hosts occasional public events (photo exhibitions, national day). Tracked through press coverage (Prensa Latina, ENA, Fana).
+  channels:
+    - type: gnews
+      url: '"Embajada de Venezuela" Etiopía OR "Venezuelan Embassy" Addis OR "Embassy of Venezuela" Addis'
+
+- id: colombia
+  name: Embajada de Colombia
+  country: CO
+  kind: embassy
+  region: americas
+  homepage: https://etiopia.embajada.gov.co/
+  notes: Reopened in 2025 after ~50 years.
+  channels:
+    - type: web
+      url: https://etiopia.embajada.gov.co/newsroom/news
+      include: etiopia\.embajada\.gov\.co/
+    - type: gnews
+      url: '"Embajada de Colombia" Etiopía OR "Colombian Embassy" Addis OR "Embassy of Colombia" Addis'
+
+- id: brazil
+  name: Embaixada do Brasil
+  country: BR
+  kind: embassy
+  region: americas
+  homepage: https://www.gov.br/mre/pt-br/embaixada-adis-abeba
+  channels:
+    - type: web
+      url: https://www.gov.br/mre/pt-br/embaixada-adis-abeba
+      include: /embaixada-adis-abeba/
+
+- id: argentina
+  name: Embajada de Argentina
+  country: AR
+  kind: embassy
+  region: americas
+  homepage: https://eetio.cancilleria.gob.ar/
+  channels:
+    - type: web
+      url: https://eetio.cancilleria.gob.ar/
+      include: eetio\.cancilleria\.gob\.ar/
+
+- id: cuba
+  name: Embajada de Cuba
+  country: CU
+  kind: embassy
+  region: americas
+  homepage: https://misiones.cubaminrex.cu/en/ethiopia
+  channels:
+    - type: web
+      url: https://misiones.cubaminrex.cu/en/ethiopia
+      include: /ethiopia/
+
+# ===================== Asia-Pacific =====================
+
+- id: australia
+  name: Australian Embassy
+  country: AU
+  kind: embassy
+  region: asia-pacific
+  homepage: https://ethiopia.embassy.gov.au/
+  channels:
+    - type: web
+      url: https://ethiopia.embassy.gov.au/
+      include: ethiopia\.embassy\.gov\.au/
+
+- id: japan
+  name: Embassy of Japan
+  country: JP
+  kind: embassy
+  region: asia-pacific
+  homepage: https://www.et.emb-japan.go.jp/itpr_en/index.html
+  channels:
+    - type: web
+      url: https://www.et.emb-japan.go.jp/itpr_en/index.html
+      include: et\.emb-japan\.go\.jp/
+
+- id: korea
+  name: Embassy of the Republic of Korea
+  country: KR
+  kind: embassy
+  region: asia-pacific
+  homepage: https://overseas.mofa.go.kr/et-en/index.do
+  channels:
+    - type: web
+      url: https://overseas.mofa.go.kr/et-en/index.do
+      include: /et-en/
+
+- id: china
+  name: Embassy of China
+  country: CN
+  kind: embassy
+  region: asia-pacific
+  homepage: http://et.china-embassy.gov.cn/eng/
+  channels:
+    - type: web
+      url: http://et.china-embassy.gov.cn/eng/
+      include: et\.china-embassy\.gov\.cn/eng/
+
+- id: india
+  name: Embassy of India
+  country: IN
+  kind: embassy
+  region: asia-pacific
+  homepage: https://www.eoiaddisababa.gov.in/
+  channels:
+    - type: web
+      url: https://www.eoiaddisababa.gov.in/
+      include: eoiaddisababa\.gov\.in/
+
+# ===================== Local aggregators & press =====================
+
+- id: whatsout
+  name: What's Out Addis
+  country: ET
+  kind: aggregator
+  region: local
+  homepage: https://whatsoutaddis.com/
+  channels:
+    - type: rss
+      url: https://whatsoutaddis.com/feed/
+    - type: web
+      url: https://whatsoutaddis.com/
+      include: whatsoutaddis\.com/
+
+- id: press-culture
+  name: "Press coverage: embassy cultural events"
+  country: ET
+  kind: aggregator
+  region: local
+  notes: Google News search for embassy-run cultural events in Addis. Catches events announced only on Facebook that newspapers pick up.
+  channels:
+    - type: gnews
+      url: 'embassy "Addis Ababa" (concert OR exhibition OR festival OR screening OR "cultural week")'
+    - type: gnews
+      url: '"Addis Ababa" (Goethe-Institut OR "Alliance Ethio-Française" OR "Italian Cultural Institute" OR "British Council") event'

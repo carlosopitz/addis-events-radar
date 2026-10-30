@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Addis Events Radar</title>
+<meta name="description" content="New public events and posts from embassies and cultural institutes in Addis Ababa.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%230b6e4f' stroke-width='8'/><circle cx='50' cy='50' r='24' fill='none' stroke='%230b6e4f' stroke-width='8'/><circle cx='50' cy='50' r='7' fill='%23c8102e'/></svg>">
+<link rel="alternate" type="application/rss+xml" title="Addis Events Radar" href="data/feed.xml">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-inner">
+    <div class="brand">
+      <svg class="logo" viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="44"/><circle cx="50" cy="50" r="24"/><circle class="core" cx="50" cy="50" r="7"/><line x1="50" y1="50" x2="88" y2="28"/></svg>
+      <div>
+        <h1>Addis Events Radar</h1>
+        <p class="sub">Public events and news from embassies and cultural institutes in Addis Ababa</p>
+      </div>
+    </div>
+    <p class="meta" id="meta">Loading…</p>
+  </div>
+  <nav class="wrap tabs" role="tablist">
+    <button role="tab" data-tab="latest" aria-selected="true">Latest <span class="count" id="newCount" hidden></span></button>
+    <button role="tab" data-tab="sources" aria-selected="false">Sources</button>
+    <button role="tab" data-tab="health" aria-selected="false">Health</button>
+  </nav>
+</header>
+
+<main class="wrap">
+  <section id="tab-latest" class="tab">
+    <div class="controls">
+      <input type="search" id="q" placeholder="Search titles, sources…" aria-label="Search">
+      <div class="seg" role="group" aria-label="Show">
+        <button data-mode="events" aria-pressed="true">Events</button>
+        <button data-mode="all" aria-pressed="false">All posts</button>
+      </div>
+      <select id="kind" aria-label="Type">
+        <option value="">All types</option>
+        <option value="cultural">Cultural institutes</option>
+        <option value="embassy">Embassies</option>
+        <option value="eu">EU</option>
+        <option value="aggregator">Local listings &amp; press</option>
+      </select>
+      <select id="region" aria-label="Region">
+        <option value="">All regions</option>
+        <option value="europe">Europe</option>
+        <option value="americas">Americas</option>
+        <option value="asia-pacific">Asia-Pacific</option>
+        <option value="local">Local</option>
+      </select>
+      <select id="source" aria-label="Source"><option value="">All sources</option></select>
+      <label class="check"><input type="checkbox" id="baseline"> Include posts from before monitoring began</label>
+      <button class="ghost" id="markSeen">Mark all as seen</button>
+    </div>
+    <div id="feed" aria-live="polite"></div>
+  </section>
+
+  <section id="tab-sources" class="tab" hidden>
+    <div class="controls">
+      <input type="search" id="sq" placeholder="Find a source…" aria-label="Find a source">
+      <select id="skind" aria-label="Type">
+        <option value="">All types</option>
+        <option value="cultural">Cultural institutes</option>
+        <option value="embassy">Embassies</option>
+        <option value="eu">EU</option>
+        <option value="aggregator">Local listings &amp; press</option>
+      </select>
+      <select id="ssort" aria-label="Sort">
+        <option value="active">Most recently active</option>
+        <option value="name">A to Z</option>
+      </select>
+    </div>
+    <div id="grid" class="grid"></div>
+  </section>
+
+  <section id="tab-health" class="tab" hidden>
+    <p class="hint">Every channel the monitor checks, broken ones first. "Found" is how many posts the last check could read; zero on a page usually means its layout needs a better rule in <code>sources.yaml</code>.</p>
+    <div class="table-wrap"><table id="health"></table></div>
+  </section>
+</main>
+
+<footer class="wrap foot">
+  <a id="editLink" href="#">Add or fix a source</a>
+  <span>·</span>
+  <a href="data/feed.xml">RSS feed of new posts</a>
+  <span>·</span>
+  <span>Created by Carlos Opitz</span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

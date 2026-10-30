@@ -1,0 +1,58 @@
+name: radar
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"   # check every 2 hours
+    - cron: "41 4 * * 1"     # link discovery every Monday (07:41 Addis time)
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "What to run"
+        type: choice
+        default: check
+        options: [check, discover, both]
+  push:
+    branches: [main]
+    paths: [sources.yaml]    # re-check right after the source list is edited
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Discover social links and feeds
+        if: github.event.schedule == '41 4 * * 1' || inputs.task == 'discover' || inputs.task == 'both'
+        run: python radar/radar.py discover
+
+      - name: Check all channels
+        if: github.event.schedule != '41 4 * * 1' && inputs.task != 'discover'
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ vars.NTFY_SERVER || 'https://ntfy.sh' }}
+          NOTIFY_OTHER: ${{ vars.NOTIFY_OTHER || 'digest' }}
+          DASHBOARD_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python radar/radar.py check
+
+      - name: Save data
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase --autostash
+          git push

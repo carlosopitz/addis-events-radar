@@ -335,10 +335,10 @@
   country: TR
   kind: embassy
   region: europe
-  homepage: https://addisababa.emb.mfa.gov.tr/
+  homepage: https://addisababa.be.mfa.gov.tr/
   channels:
     - type: web
-      url: https://addisababa.emb.mfa.gov.tr/Mission/Announcements
+      url: https://addisababa.be.mfa.gov.tr/Mission/Announcements
       include: /Mission/
 
 - id: armenia
@@ -363,19 +363,16 @@
   channels:
     - type: rss
       url: https://et.usembassy.gov/feed/
-    - type: web
-      url: https://et.usembassy.gov/news-events/
-      include: et\.usembassy\.gov/
 
 - id: canada
   name: Embassy of Canada
   country: CA
   kind: embassy
   region: americas
-  homepage: https://www.international.gc.ca/country-pays/ethiopia-ethiopie/addis_ababa.aspx?lang=eng
+  homepage: https://www.international.gc.ca/country-pays/ethiopia-ethiopie/index.aspx?lang=eng
   channels:
     - type: web
-      url: https://www.international.gc.ca/country-pays/ethiopia-ethiopie/addis_ababa.aspx?lang=eng
+      url: https://www.international.gc.ca/country-pays/ethiopia-ethiopie/index.aspx?lang=eng
       include: ethiopia-ethiopie
 
 - id: mexico
@@ -399,7 +396,9 @@
   notes: No embassy website found. Hosts occasional public events (photo exhibitions, national day). Tracked through press coverage (Prensa Latina, ENA, Fana).
   channels:
     - type: gnews
-      url: '"Embajada de Venezuela" Etiopía OR "Venezuelan Embassy" Addis OR "Embassy of Venezuela" Addis'
+      url: Venezuela embassy Ethiopia
+    - type: gnews
+      url: Venezuela embajada Etiopía
 
 - id: colombia
   name: Embajada de Colombia
@@ -413,7 +412,7 @@
       url: https://etiopia.embajada.gov.co/newsroom/news
       include: etiopia\.embajada\.gov\.co/
     - type: gnews
-      url: '"Embajada de Colombia" Etiopía OR "Colombian Embassy" Addis OR "Embassy of Colombia" Addis'
+      url: Colombia embassy Ethiopia
 
 - id: brazil
   name: Embaixada do Brasil

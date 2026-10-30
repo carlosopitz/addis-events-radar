@@ -31,10 +31,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "docs" / "data"
 SOURCES = ROOT / "sources.yaml"
 
-UA = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/129.0 Safari/537.36"
-)
+UA = "Mozilla/5.0 (compatible; AddisEventsRadar/1.0; +https://github.com/carlosopitz/addis-events-radar)"
 HEADERS = {"User-Agent": UA, "Accept-Language": "en,de;q=0.8,fr;q=0.6,es;q=0.6,it;q=0.5"}
 TIMEOUT = 30
 MAX_ITEMS = 3000          # items kept in items.json
@@ -177,21 +174,22 @@ def load_sources() -> list[dict]:
         s.setdefault("channels", [])
         s["country"] = str(s.get("country", "XX"))
         for c in s["channels"]:
-            c["key"] = f"{s['id']}:{c['type']}:{sha(c['url'], 8)}"
+            cfg = "|".join(str(c.get(k, "")) for k in ("url", "include", "exclude", "selector"))
+            c["key"] = f"{s['id']}:{c['type']}:{sha(cfg, 8)}"
         out.append(s)
     return out
 
 
 def fetch(url: str) -> requests.Response:
-    last = None
+    err = None
     for attempt in range(2):
         try:
             r = requests.get(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True)
             return r
         except requests.RequestException as e:   # retry once
-            last = e
+            err = e
             time.sleep(3)
-    raise last  # type: ignore[misc]
+    raise err  # type: ignore[misc]
 
 
 def is_event(*texts: str) -> bool:
@@ -297,8 +295,7 @@ def read_web(ch: dict) -> tuple[list[dict], str]:
     r = fetch(url)
     r.raise_for_status()
     final = r.url
-    r.encoding = r.encoding if r.encoding and r.encoding.lower() != "iso-8859-1" else r.apparent_encoding
-    soup = BeautifulSoup(r.text, "lxml")
+    soup = BeautifulSoup(r.content, "lxml")
     area = main_area(soup, ch.get("selector"))
     text_hash = sha(clean(area.get_text(" ", strip=True)), 16)
 
@@ -452,8 +449,11 @@ def cmd_check() -> None:
     src_by_id = {s["id"]: s for s in sources}
     state = load_json(DATA / "state.json", {"channels": {}})
     items: list[dict] = load_json(DATA / "items.json", [])
-    known_ids = {i["id"] for i in items}
     first_run = not state["channels"]
+    live_keys = {c["key"] for s in sources for c in s["channels"]}
+    state["channels"] = {k: v for k, v in state["channels"].items() if k in live_keys}
+    items = [i for i in items if i["channel"] in live_keys]
+    known_ids = {i["id"] for i in items}
 
     jobs = [(s, c) for s in sources for c in s["channels"]]
     with ThreadPoolExecutor(max_workers=10) as pool:
@@ -580,6 +580,35 @@ def cmd_discover() -> None:
         print(f"{f['id']:16} feeds={len(f['feeds'])} news={len(f['newsletter'])} {kinds} {f['error'] or ''}")
 
 
+def cmd_ping() -> None:
+    if not NTFY_TOPIC:
+        sys.exit("NTFY_TOPIC secret is not set")
+    ntfy("Addis Events Radar: test", "Notifications are working. Tap to open the dashboard.",
+         click=DASHBOARD_URL, tags=["white_check_mark"])
+    print("test notification sent")
+
+
+def cmd_snapshot() -> None:
+    """Save the raw HTML of each monitored page (debug aid for tuning include rules)."""
+    out = ROOT / "debug"
+    out.mkdir(exist_ok=True)
+    index = {}
+    for s in load_sources():
+        for c in s["channels"]:
+            if c["type"] not in ("web", "rss"):
+                continue
+            name = re.sub(r"[^a-z0-9]+", "-", c["key"].lower()) + ".html"
+            try:
+                r = fetch(c["url"])
+                (out / name).write_bytes(r.content)
+                index[c["key"]] = {"url": c["url"], "final": r.url, "status": r.status_code,
+                                   "bytes": len(r.content), "file": name}
+            except Exception as e:  # noqa: BLE001
+                index[c["key"]] = {"url": c["url"], "error": f"{type(e).__name__}: {str(e)[:160]}"}
+    (out / "index.json").write_text(json.dumps(index, indent=1), "utf-8")
+    print(json.dumps(index, indent=1))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "check"
-    {"check": cmd_check, "discover": cmd_discover}[cmd]()
+    {"check": cmd_check, "discover": cmd_discover, "ping": cmd_ping, "snapshot": cmd_snapshot}[cmd]()

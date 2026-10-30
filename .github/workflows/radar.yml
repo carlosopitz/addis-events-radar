@@ -10,7 +10,7 @@ on:
         description: "What to run"
         type: choice
         default: check
-        options: [check, discover, both]
+        options: [check, discover, both, snapshot, ping]
   push:
     branches: [main]
     paths: [sources.yaml]    # re-check right after the source list is edited
@@ -39,7 +39,7 @@ jobs:
         run: python radar/radar.py discover
 
       - name: Check all channels
-        if: github.event.schedule != '41 4 * * 1' && inputs.task != 'discover'
+        if: github.event.schedule != '41 4 * * 1' && inputs.task != 'discover' && inputs.task != 'snapshot' && inputs.task != 'ping'
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           NTFY_SERVER: ${{ vars.NTFY_SERVER || 'https://ntfy.sh' }}
@@ -47,11 +47,24 @@ jobs:
           DASHBOARD_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
         run: python radar/radar.py check
 
+      - name: Send a test notification
+        if: inputs.task == 'ping'
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ vars.NTFY_SERVER || 'https://ntfy.sh' }}
+          DASHBOARD_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python radar/radar.py ping
+
+      - name: Save page snapshots (debugging)
+        if: inputs.task == 'snapshot'
+        run: python radar/radar.py snapshot
+
       - name: Save data
         run: |
           git config user.name "radar-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data
+          if [ -d debug ]; then git add debug; fi
           if git diff --cached --quiet; then echo "no changes"; exit 0; fi
           git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase --autostash

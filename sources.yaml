@@ -662,13 +662,12 @@
   region: local
   homepage: https://www.addisfineart.com/
   match: Addis Fine Art
+  links:
+    instagram: https://www.instagram.com/addisfineart/
   channels:
     - type: web
       url: https://www.addisfineart.com/exhibitions/
       label: Exhibitions page (flags changes)
-    - type: rss
-      url: https://www.addisfineart.com/news?format=rss
-      label: News
 
 - id: fendika
   name: Fendika Cultural Center

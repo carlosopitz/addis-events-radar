@@ -41,7 +41,7 @@ jobs:
       - name: Check all channels
         if: github.event.schedule != '41 4 * * 1' && inputs.task != 'discover' && inputs.task != 'snapshot' && inputs.task != 'ping'
         env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC || vars.NTFY_TOPIC }}
           NTFY_SERVER: ${{ vars.NTFY_SERVER || 'https://ntfy.sh' }}
           NOTIFY_OTHER: ${{ vars.NOTIFY_OTHER || 'digest' }}
           DASHBOARD_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
@@ -50,7 +50,7 @@ jobs:
       - name: Send a test notification
         if: inputs.task == 'ping'
         env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC || vars.NTFY_TOPIC }}
           NTFY_SERVER: ${{ vars.NTFY_SERVER || 'https://ntfy.sh' }}
           DASHBOARD_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
         run: python radar/radar.py ping

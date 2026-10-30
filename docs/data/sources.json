@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T08:10:51+00:00",
+ "generated": "2026-10-30T08:13:28+00:00",
  "sources": [
   {
    "id": "goethe",
@@ -15,7 +15,7 @@
    },
    "channels": [
     {
-     "key": "goethe:telegram:dee83c78",
+     "key": "goethe:telegram:28ca3a29",
      "type": "telegram",
      "url": "goetheaddis",
      "label": null
@@ -35,7 +35,7 @@
    },
    "channels": [
     {
-     "key": "alliance:web:d4d64624",
+     "key": "alliance:web:ade5dbaa",
      "type": "web",
      "url": "https://allianceaddis.org/up-coming-events/",
      "label": null
@@ -55,13 +55,13 @@
    },
    "channels": [
     {
-     "key": "iic:web:d6f905af",
+     "key": "iic:web:3cabcd82",
      "type": "web",
      "url": "https://iicaddisabeba.esteri.it/en/gli_eventi/calendario/",
      "label": null
     },
     {
-     "key": "iic:rss:792e8c65",
+     "key": "iic:rss:6c061e3a",
      "type": "rss",
      "url": "https://iicaddisabeba.esteri.it/en/feed/",
      "label": null
@@ -79,7 +79,7 @@
    "links": {},
    "channels": [
     {
-     "key": "british-council:gnews:0d79c999",
+     "key": "british-council:gnews:1ba389ab",
      "type": "gnews",
      "url": "\"British Council\" Ethiopia Addis",
      "label": null
@@ -99,7 +99,7 @@
    },
    "channels": [
     {
-     "key": "eu-ethiopia:web:c22c99b3",
+     "key": "eu-ethiopia:web:25d9f1dd",
      "type": "web",
      "url": "https://www.eeas.europa.eu/delegations/ethiopia_en",
      "label": null
@@ -119,7 +119,7 @@
    },
    "channels": [
     {
-     "key": "eu-au:web:5d09dde5",
+     "key": "eu-au:web:f8df2210",
      "type": "web",
      "url": "https://www.eeas.europa.eu/delegations/african-union-au_en",
      "label": null
@@ -136,7 +136,7 @@
    "links": {},
    "channels": [
     {
-     "key": "euff:gnews:8edc3028",
+     "key": "euff:gnews:e760266e",
      "type": "gnews",
      "url": "\"European Union Film Festival\" Addis OR \"European Film Festival\" Addis Ababa",
      "label": null
@@ -155,7 +155,7 @@
    },
    "channels": [
     {
-     "key": "austria:web:104b1502",
+     "key": "austria:web:b40810a3",
      "type": "web",
      "url": "https://www.bmeia.gv.at/oeb-addis-abeba/aktuelles",
      "label": null
@@ -176,7 +176,7 @@
    },
    "channels": [
     {
-     "key": "germany:gnews:e8428542",
+     "key": "germany:gnews:76449341",
      "type": "gnews",
      "url": "\"German Embassy\" \"Addis Ababa\"",
      "label": null
@@ -193,7 +193,7 @@
    "links": {},
    "channels": [
     {
-     "key": "france:web:746835ee",
+     "key": "france:web:cdef5514",
      "type": "web",
      "url": "https://et.diplomatie.gouv.fr/fr/actualites-evenements",
      "label": null
@@ -214,7 +214,7 @@
    },
    "channels": [
     {
-     "key": "italy:rss:ecc91bee",
+     "key": "italy:rss:c0047882",
      "type": "rss",
      "url": "https://ambaddisabeba.esteri.it/en/feed/",
      "label": null
@@ -228,18 +228,12 @@
    "kind": "embassy",
    "region": "europe",
    "homepage": "https://www.exteriores.gob.es/Embajadas/addisabeba/en/Paginas/index.aspx",
+   "manual": "The news page refuses automated readers (HTTP 503). Follow its social accounts instead.",
    "links": {
     "x": "https://x.com/EmbSpainAddis",
     "facebook": "https://www.facebook.com/EmbEspEtiopia"
    },
-   "channels": [
-    {
-     "key": "spain:web:4929fd6e",
-     "type": "web",
-     "url": "https://www.exteriores.gob.es/Embajadas/addisabeba/en/Comunicacion/Noticias",
-     "label": null
-    }
-   ]
+   "channels": []
   },
   {
    "id": "netherlands",
@@ -254,7 +248,7 @@
    },
    "channels": [
     {
-     "key": "netherlands:web:5f5286ca",
+     "key": "netherlands:web:0c4cf060",
      "type": "web",
      "url": "https://www.netherlandsandyou.nl/web/ethiopia",
      "label": null
@@ -284,7 +278,7 @@
    },
    "channels": [
     {
-     "key": "finland:web:2dcb3483",
+     "key": "finland:web:ac318fa4",
      "type": "web",
      "url": "https://finlandabroad.fi/web/eth/current-affairs",
      "label": null
@@ -315,10 +309,10 @@
    },
    "channels": [
     {
-     "key": "ireland:web:1e63671d",
-     "type": "web",
-     "url": "https://www.ireland.ie/en/ethiopia/addisababa/news-and-events/news-archive/",
-     "label": null
+     "key": "ireland:json:81a099da",
+     "type": "json",
+     "url": "https://www.ireland.ie/api/v2/news/?offset=0&child_of=3038&locale=en&limit=10",
+     "label": "News archive"
     }
    ]
   },
@@ -346,7 +340,7 @@
    "links": {},
    "channels": [
     {
-     "key": "czechia:web:f888c567",
+     "key": "czechia:web:cdbcdcb2",
      "type": "web",
      "url": "https://mzv.gov.cz/addisababa/en/news_and_events/",
      "label": null
@@ -363,7 +357,7 @@
    "links": {},
    "channels": [
     {
-     "key": "poland:web:4da1a045",
+     "key": "poland:web:c978cca7",
      "type": "web",
      "url": "https://www.gov.pl/web/etiopia",
      "label": null
@@ -380,7 +374,7 @@
    "links": {},
    "channels": [
     {
-     "key": "hungary:web:d69b7095",
+     "key": "hungary:web:f70de015",
      "type": "web",
      "url": "https://addisababa.mfa.gov.hu/en/articles",
      "label": null
@@ -408,7 +402,7 @@
    "links": {},
    "channels": [
     {
-     "key": "uk:rss:e15c354f",
+     "key": "uk:rss:3f47610e",
      "type": "rss",
      "url": "https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=ethiopia",
      "label": null
@@ -442,7 +436,7 @@
    },
    "channels": [
     {
-     "key": "norway:web:cbd13a41",
+     "key": "norway:web:5e3cade0",
      "type": "web",
      "url": "https://www.norway.no/en/ethiopia/norway-ethiopia/news-events/",
      "label": null
@@ -462,7 +456,7 @@
    },
    "channels": [
     {
-     "key": "usa:rss:2d5a66a6",
+     "key": "usa:rss:71c1fd6e",
      "type": "rss",
      "url": "https://et.usembassy.gov/feed/",
      "label": null
@@ -479,7 +473,7 @@
    "links": {},
    "channels": [
     {
-     "key": "canada:rss:77b2dbff",
+     "key": "canada:rss:016b9acf",
      "type": "rss",
      "url": "https://www.international.gc.ca/country-pays/rss/ethiopia-ethiopie/news-nouvelles_eng.xml",
      "label": null
@@ -493,17 +487,13 @@
    "kind": "embassy",
    "region": "americas",
    "homepage": "https://embamex.sre.gob.mx/etiopia/",
-   "notes": "The embassy website blocks automated readers, so the Foreign Ministry's press room is monitored instead.",
-   "links": {},
+   "manual": "The embassy website blocks automated readers and the Foreign Ministry press room is offline. Press coverage is monitored instead.",
+   "links": {
+    "pressroom": "https://portales.sre.gob.mx/saladeprensa/lista-de-embajadas/etiopia"
+   },
    "channels": [
     {
-     "key": "mexico:web:65eeba64",
-     "type": "web",
-     "url": "https://portales.sre.gob.mx/saladeprensa/lista-de-embajadas/etiopia",
-     "label": null
-    },
-    {
-     "key": "mexico:gnews:7e258720",
+     "key": "mexico:gnews:3a698341",
      "type": "gnews",
      "url": "\"Embajada de México\" Etiopía",
      "label": null
@@ -520,13 +510,13 @@
    "links": {},
    "channels": [
     {
-     "key": "venezuela:gnews:fc58077e",
+     "key": "venezuela:gnews:a440fa52",
      "type": "gnews",
      "url": "Venezuela \"Addis Ababa\" embassy",
      "label": null
     },
     {
-     "key": "venezuela:gnews:94ceb5fd",
+     "key": "venezuela:gnews:ce1dd9ce",
      "type": "gnews",
      "url": "Venezuela embajada \"Addis Abeba\"",
      "label": null
@@ -544,7 +534,7 @@
    "links": {},
    "channels": [
     {
-     "key": "colombia:gnews:9a6e229e",
+     "key": "colombia:gnews:d97e2977",
      "type": "gnews",
      "url": "Colombia embajada \"Addis Abeba\"",
      "label": null
@@ -575,7 +565,7 @@
    },
    "channels": [
     {
-     "key": "argentina:web:3f45c851",
+     "key": "argentina:web:873c0a38",
      "type": "web",
      "url": "https://eetio.cancilleria.gob.ar/",
      "label": null
@@ -606,7 +596,7 @@
    "links": {},
    "channels": [
     {
-     "key": "japan:gnews:b6fd032e",
+     "key": "japan:gnews:9529a05b",
      "type": "gnews",
      "url": "\"Embassy of Japan\" Ethiopia",
      "label": null
@@ -626,7 +616,7 @@
    },
    "channels": [
     {
-     "key": "korea:web:3506795c",
+     "key": "korea:web:427fe97b",
      "type": "web",
      "url": "https://overseas.mofa.go.kr/et-en/index.do",
      "label": null
@@ -643,7 +633,7 @@
    "links": {},
    "channels": [
     {
-     "key": "china:web:2cc727ca",
+     "key": "china:web:8d18e804",
      "type": "web",
      "url": "https://et.china-embassy.gov.cn/eng/",
      "label": null
@@ -663,7 +653,7 @@
    },
    "channels": [
     {
-     "key": "india:web:c3a68abb",
+     "key": "india:web:c072a00e",
      "type": "web",
      "url": "https://eoiaddisababa.gov.in/",
      "label": null
@@ -691,13 +681,13 @@
    "links": {},
    "channels": [
     {
-     "key": "press-culture:gnews:a4415b14",
+     "key": "press-culture:gnews:232c6525",
      "type": "gnews",
      "url": "embassy \"Addis Ababa\" (concert OR exhibition OR festival OR screening OR \"cultural week\")",
      "label": null
     },
     {
-     "key": "press-culture:gnews:9f276665",
+     "key": "press-culture:gnews:b2b256bb",
      "type": "gnews",
      "url": "\"Addis Ababa\" (Goethe-Institut OR \"Alliance Ethio-Française\" OR \"Italian Cultural Institute\" OR \"British Council\") event",
      "label": null

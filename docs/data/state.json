@@ -1,724 +1,713 @@
 {
  "channels": {
-  "goethe:telegram:dee83c78": {
+  "goethe:telegram:28ca3a29": {
    "initialized": true,
    "seen": [
-    "7fb101bdabbd",
     "98cf3fc2cb21",
-    "93105501f7bc",
-    "b70068eb0387",
-    "cfc0deecc5e0",
-    "8f06ef1f311d",
-    "501a441c7da6",
-    "5d961a69686e",
-    "2e527a13ebce",
-    "15fb151c0af5",
-    "40cf95eb1455",
-    "dc297a27aab0",
     "42f98f6c210f",
-    "25fa2bd0d495",
-    "60255c6e1c6c",
+    "501a441c7da6",
     "5d761c09e858",
+    "8f06ef1f311d",
+    "dc297a27aab0",
+    "40cf95eb1455",
+    "60255c6e1c6c",
+    "cfc0deecc5e0",
+    "2e527a13ebce",
+    "5d961a69686e",
     "d9d151cb5081",
-    "a822b8c2a3cf"
+    "93105501f7bc",
+    "7fb101bdabbd",
+    "b70068eb0387",
+    "a822b8c2a3cf",
+    "25fa2bd0d495",
+    "15fb151c0af5"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "alliance:web:d4d64624": {
+  "alliance:web:ade5dbaa": {
    "initialized": true,
    "seen": [
     "ad87ba261406"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "iic:web:d6f905af": {
+  "iic:web:3cabcd82": {
    "initialized": true,
    "seen": [
-    "16a7eebd2d2c",
-    "d72da2ce3180"
+    "d72da2ce3180",
+    "16a7eebd2d2c"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "iic:rss:792e8c65": {
+  "iic:rss:6c061e3a": {
    "initialized": true,
    "seen": [
     "23366a4517df",
     "26cc4027587b"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "british-council:gnews:0d79c999": {
+  "british-council:gnews:1ba389ab": {
    "initialized": true,
    "seen": [
-    "3f5925b720b9",
-    "09f29ac6e881",
-    "af196ea705f4",
-    "3c1d3639b9b2",
-    "260556ffd909",
-    "be223ac2c050",
-    "c1f569e9c5d0",
-    "5cc6b0755c3d",
-    "bb68223ebff8",
     "5e56144e31e7",
-    "72a2e92c4957",
-    "1a80372235df",
-    "c2cf128f4f20",
     "b7b5b136c273",
     "527024cddf75",
-    "8023e5ba110f",
-    "d5f3f089357c",
-    "521a0ef0bf16",
-    "cd11c6e4a895",
-    "20ce7166a621",
-    "a02dd5a2753a",
-    "a53fcd663184",
+    "c2cf128f4f20",
     "33f0f441b0d4",
-    "07058981e05b",
+    "4de2b80b81e9",
+    "1a80372235df",
+    "20ce7166a621",
     "81b163b6699e",
-    "4de2b80b81e9"
+    "be223ac2c050",
+    "af196ea705f4",
+    "a02dd5a2753a",
+    "d5f3f089357c",
+    "5cc6b0755c3d",
+    "260556ffd909",
+    "3f5925b720b9",
+    "c1f569e9c5d0",
+    "72a2e92c4957",
+    "8023e5ba110f",
+    "cd11c6e4a895",
+    "3c1d3639b9b2",
+    "a53fcd663184",
+    "521a0ef0bf16",
+    "bb68223ebff8",
+    "09f29ac6e881",
+    "07058981e05b"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "eu-ethiopia:web:c22c99b3": {
+  "eu-ethiopia:web:25d9f1dd": {
    "initialized": true,
    "seen": [
-    "0b31315c977b",
-    "c42476142b01",
     "85929cdf4438",
-    "2d2fda8304eb",
-    "facda5dbf1b6",
+    "c42476142b01",
+    "685bc0daf243",
     "8503243f6f05",
     "346586defc1f",
+    "2d2fda8304eb",
+    "facda5dbf1b6",
     "4bc06bb7b2f6",
-    "685bc0daf243"
+    "0b31315c977b"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "eu-au:web:5d09dde5": {
+  "eu-au:web:f8df2210": {
    "initialized": true,
    "seen": [
-    "c58c7cf2a7bb",
     "6f5716d5e85d",
     "fc9643bab87a",
     "ef079f5bdb28",
-    "4a9188942313",
-    "bf2fcdfd88f9",
-    "94dc9cf0e13e",
     "f75e2dd8613e",
-    "36c21c19a4be",
-    "f272aa7ca609"
+    "4a9188942313",
+    "94dc9cf0e13e",
+    "c58c7cf2a7bb",
+    "bf2fcdfd88f9",
+    "f272aa7ca609",
+    "36c21c19a4be"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "euff:gnews:8edc3028": {
+  "euff:gnews:e760266e": {
    "initialized": true,
    "seen": [
-    "264b92f74b71",
+    "ad1e63568b15",
     "f10f4076a14b",
+    "40cd1ee82e67",
+    "264b92f74b71",
+    "1cb70d4491ee",
+    "9438edf8a1e8",
     "5ed085cbeefd",
     "cda3d1ccba63",
-    "9438edf8a1e8",
-    "40cd1ee82e67",
-    "b9bb93707754",
-    "ad1e63568b15",
     "e84d98c9c2ec",
-    "1cb70d4491ee"
+    "b9bb93707754"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "austria:web:104b1502": {
+  "austria:web:b40810a3": {
    "initialized": true,
    "seen": [
-    "814c68a4c742",
-    "bd19d8027566",
-    "951d7363856e",
-    "617b36c09d0d",
-    "e1c3035ebed4",
-    "4de896a3ec49",
-    "a65ff67ce0e2",
-    "70d2c65af01b",
-    "c4cee47b5947",
-    "5538af630584",
-    "0848c31a9c2a",
-    "63408c7d3639",
-    "f8869f79c66b",
-    "60feb16131d4",
-    "ab4853e985e7",
     "7ea851d56ec6",
-    "fab9cd26492f"
+    "60feb16131d4",
+    "e1c3035ebed4",
+    "0848c31a9c2a",
+    "5538af630584",
+    "c4cee47b5947",
+    "70d2c65af01b",
+    "951d7363856e",
+    "63408c7d3639",
+    "bd19d8027566",
+    "617b36c09d0d",
+    "4de896a3ec49",
+    "ab4853e985e7",
+    "814c68a4c742",
+    "a65ff67ce0e2",
+    "fab9cd26492f",
+    "f8869f79c66b"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "germany:gnews:e8428542": {
+  "germany:gnews:76449341": {
    "initialized": true,
    "seen": [
-    "168dee5d9c67",
-    "171d4325d143",
-    "c6df200d48a7",
     "259c0df8d8c8",
     "b7dd6cf66965",
+    "168dee5d9c67",
     "dca8de0e5376",
-    "15a3140e065a",
-    "d40548cbe53c",
     "fdbb6bc4ca85",
-    "f740a95ff516",
-    "1f44ce6fbb79",
-    "3b43e21d2e3b",
-    "4ed3397d46c0",
-    "122403e42057",
-    "b20409b7bb12",
+    "15a3140e065a",
     "21e145d3fcb0",
-    "a4ffb3c9a291",
-    "b70d9ed7b314",
+    "c6df200d48a7",
+    "d40548cbe53c",
+    "171d4325d143",
+    "4ed3397d46c0",
     "d7281f54e59d",
+    "1f44ce6fbb79",
+    "f740a95ff516",
     "10cb50a7f908",
-    "15893cb54093"
+    "15893cb54093",
+    "b70d9ed7b314",
+    "3b43e21d2e3b",
+    "b20409b7bb12",
+    "a4ffb3c9a291",
+    "122403e42057"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "france:web:746835ee": {
+  "france:web:cdef5514": {
    "initialized": true,
    "seen": [
-    "3a42b8519cb2",
     "83f630f86041",
     "4471811e6ae6",
+    "3a42b8519cb2",
     "447e146be402"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "italy:rss:ecc91bee": {
+  "italy:rss:c0047882": {
    "initialized": true,
    "seen": [
-    "8396dc523147",
+    "c85024943d17",
     "0c13412eaa8a",
+    "8396dc523147",
+    "186bcedd0d21",
+    "ceafb6c61967",
     "9cf0248229af",
+    "df2607dfdee4",
     "87ca9e16e0f4",
     "6b603fc55eae",
-    "c720e8888726",
-    "ceafb6c61967",
-    "df2607dfdee4",
-    "186bcedd0d21",
-    "c85024943d17"
+    "c720e8888726"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "spain:web:4929fd6e": {
-   "initialized": false,
-   "seen": [],
-   "hash": null,
-   "last_error": "2026-10-30T08:10:51+00:00"
-  },
-  "netherlands:web:5f5286ca": {
+  "netherlands:web:0c4cf060": {
    "initialized": true,
    "seen": [
     "980a6b0a8f3a"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "finland:web:2dcb3483": {
+  "finland:web:ac318fa4": {
    "initialized": true,
    "seen": [
+    "59ce217ac130",
+    "4e797368f646",
+    "72f2bc61df0b",
+    "a99aba29f21f",
+    "0ed60a7d49e6",
     "3360103d8abe",
     "ff7b9e915a0e",
-    "a99aba29f21f",
-    "4e797368f646",
-    "59ce217ac130",
-    "0ed60a7d49e6",
-    "72f2bc61df0b",
-    "18ef9697c8e9",
     "5c6d7aff3288",
+    "18ef9697c8e9",
     "72993749d0dd"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "ireland:web:1e63671d": {
-   "initialized": true,
-   "seen": [],
-   "hash": "e7e554e88facf69c",
-   "last_ok": "2026-10-30T08:10:51+00:00"
-  },
-  "czechia:web:f888c567": {
+  "ireland:json:81a099da": {
    "initialized": true,
    "seen": [
+    "70320a997918",
+    "651f8b3ba91d",
+    "9ad98146c2bd"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T08:13:28+00:00"
+  },
+  "czechia:web:cdbcdcb2": {
+   "initialized": true,
+   "seen": [
+    "76c3ae66c109",
+    "a8a5466b1bd3",
+    "28bd88706e0b",
     "634eea4ed0e5",
     "30462d1023f8",
-    "e72d5d2137d7",
-    "28bd88706e0b",
-    "8ce77e49c3a7",
-    "e27a2547b398",
-    "f12b731f969c",
-    "956b1b7cf949",
-    "779cb98c10e5",
-    "1578b19e2461",
-    "7a8612fda3f2",
-    "c4a0986f5ab6",
-    "d1edd2fc4b37",
-    "ed936e66db7c",
-    "8facfe07bbe8",
-    "b2c560634d5a",
-    "1173bd7a2194",
-    "a310f12e60da",
-    "bc1279b3c956",
-    "b825a1d38fc6",
-    "ef77747615e9",
-    "b5fb19b54627",
-    "de898bf7b72d",
-    "5d31fddb6c99",
-    "662933154c83",
-    "ef10f867c74c",
-    "c6d0ea3bd186",
-    "3ef667e8f173",
-    "48c63db17196",
-    "e18e2724a1c7",
-    "2912522cd0fc",
-    "1282fd3a0a25",
-    "23442a786b92",
-    "d8bb6d91e64b",
-    "6ebf1c79bf52",
-    "016854a9f3b7",
-    "16a5a40d0f30",
-    "0008386597ad",
-    "3ccf7b20c266",
-    "de7852b6eb56",
-    "1b21d4e1b73d",
-    "b5e01fb2156f",
-    "76c3ae66c109",
-    "193938ff13a8",
-    "3eda3fe0fe8d",
-    "543ab020d471",
+    "b395698c658e",
     "47cf52bfcdcb",
-    "dcf57a5a9a60",
-    "734d6606c4d3",
-    "e04a4c9f825d",
-    "f513c65719d7",
+    "ed936e66db7c",
+    "bc1279b3c956",
+    "1282fd3a0a25",
     "bf918d498afc",
+    "a310f12e60da",
+    "ef77747615e9",
+    "956b1b7cf949",
+    "662933154c83",
+    "cc3585a89e5f",
+    "c6d0ea3bd186",
+    "016854a9f3b7",
+    "9f69114be5e4",
+    "e04a4c9f825d",
+    "f293fb7c1206",
+    "6ebf1c79bf52",
+    "b2c560634d5a",
+    "70a5f40322cc",
+    "193938ff13a8",
     "476ac0c07704",
     "dd2e83b170e7",
-    "af7391505567",
-    "352e10556ddf",
-    "d5f63de80b7d",
+    "5d31fddb6c99",
+    "3ef667e8f173",
     "3f8460eddfd9",
-    "b395698c658e",
-    "faf8840b6bc2",
-    "5f714177f887",
-    "f6c1522139e4",
-    "477172c1cbbb",
-    "63cf2c2ef962",
-    "f293fb7c1206",
-    "a8a5466b1bd3",
-    "880cc10714f9",
-    "0a97614a1b43",
-    "cc3585a89e5f",
-    "9f69114be5e4",
-    "958dd9c00130",
-    "d5af42614784",
     "8eb2b2cc5177",
-    "a3245dae7566",
-    "0f288c803ccd",
-    "6712d0dabb1d",
+    "1173bd7a2194",
+    "7a8612fda3f2",
+    "c4a0986f5ab6",
+    "0a97614a1b43",
+    "8ce77e49c3a7",
+    "63cf2c2ef962",
+    "dcf57a5a9a60",
+    "352e10556ddf",
     "da1d760c1f77",
-    "70a5f40322cc",
+    "0008386597ad",
+    "734d6606c4d3",
+    "e27a2547b398",
+    "faf8840b6bc2",
+    "880cc10714f9",
+    "48c63db17196",
+    "b5e01fb2156f",
+    "3e8416de89d2",
+    "2912522cd0fc",
+    "5f714177f887",
+    "23442a786b92",
     "cce2bf60697f",
-    "3e8416de89d2"
+    "de898bf7b72d",
+    "d8bb6d91e64b",
+    "e72d5d2137d7",
+    "e18e2724a1c7",
+    "1b21d4e1b73d",
+    "477172c1cbbb",
+    "b825a1d38fc6",
+    "ef10f867c74c",
+    "d1edd2fc4b37",
+    "f513c65719d7",
+    "af7391505567",
+    "f12b731f969c",
+    "543ab020d471",
+    "958dd9c00130",
+    "1578b19e2461",
+    "3eda3fe0fe8d",
+    "6712d0dabb1d",
+    "779cb98c10e5",
+    "a3245dae7566",
+    "3ccf7b20c266",
+    "d5af42614784",
+    "16a5a40d0f30",
+    "de7852b6eb56",
+    "0f288c803ccd",
+    "8facfe07bbe8",
+    "f6c1522139e4",
+    "d5f63de80b7d",
+    "b5fb19b54627"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "poland:web:4da1a045": {
+  "poland:web:c978cca7": {
    "initialized": true,
    "seen": [
-    "67f9f7a73a7e",
-    "3b53a8a5bdd5",
-    "1c6b977f64e1",
+    "4f30bdb2cc9b",
     "ca4c75fb4908",
+    "3b53a8a5bdd5",
+    "67f9f7a73a7e",
     "b5d54b80baee",
-    "4f30bdb2cc9b"
+    "1c6b977f64e1"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "hungary:web:d69b7095": {
+  "hungary:web:f70de015": {
    "initialized": true,
    "seen": [
-    "d1a79c56af99",
-    "e4bb20b4676e",
-    "becd39246e3d",
     "7c1ece5a3077",
-    "9e3e0f7605a6",
+    "e4bb20b4676e",
     "5e7f6ac3c93c",
-    "f77153924f1a",
-    "a8722f85fd86",
+    "349a90d724e6",
+    "d1a79c56af99",
     "1d68a3d72743",
-    "349a90d724e6"
+    "a8722f85fd86",
+    "becd39246e3d",
+    "f77153924f1a",
+    "9e3e0f7605a6"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "uk:rss:e15c354f": {
+  "uk:rss:3f47610e": {
    "initialized": true,
    "seen": [
-    "4f09f1f9f68c",
-    "39ae69d35532",
-    "e614c91f62f2",
-    "37a6d55c14cc",
-    "7f3ab790a0e0",
-    "17a81018fefc",
-    "e0d297c6eceb",
-    "cec601fa2a73",
-    "aacf312d3c7a",
-    "1dc0dd660ba9",
-    "17d03a61a41a",
-    "d25774fac4db",
-    "a62afd4cf0b7",
-    "0f2477729412",
-    "c276549a1e5f",
+    "40f8d27c4430",
     "94192711ccb4",
     "930decbcd96c",
+    "39ae69d35532",
+    "67fee069e32f",
+    "4f09f1f9f68c",
+    "0f2477729412",
+    "7f3ab790a0e0",
+    "17a81018fefc",
+    "cec601fa2a73",
     "c3e273555d8e",
-    "40f8d27c4430",
-    "67fee069e32f"
+    "17d03a61a41a",
+    "a62afd4cf0b7",
+    "1dc0dd660ba9",
+    "c276549a1e5f",
+    "e614c91f62f2",
+    "e0d297c6eceb",
+    "aacf312d3c7a",
+    "37a6d55c14cc",
+    "d25774fac4db"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "norway:web:cbd13a41": {
+  "norway:web:5e3cade0": {
    "initialized": true,
    "seen": [
-    "6ebdfc411573",
     "5e9d4bfe3ede",
-    "a1f879149ebc",
-    "d31a84506cab"
+    "d31a84506cab",
+    "6ebdfc411573",
+    "a1f879149ebc"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "usa:rss:2d5a66a6": {
+  "usa:rss:71c1fd6e": {
    "initialized": true,
    "seen": [
-    "c5273a53ed9c",
-    "780c8e067a2f",
     "81115b86e493",
-    "24c97f190c70",
-    "d5ee8e222b39",
-    "aeb1cb684fb7",
-    "f2bc2a521168",
-    "bd9a43b3650d",
+    "c5273a53ed9c",
     "6e9e6890c2a9",
-    "129a35988a9c"
+    "bd9a43b3650d",
+    "129a35988a9c",
+    "aeb1cb684fb7",
+    "24c97f190c70",
+    "f2bc2a521168",
+    "780c8e067a2f",
+    "d5ee8e222b39"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "canada:rss:77b2dbff": {
+  "canada:rss:016b9acf": {
    "initialized": true,
    "seen": [
     "8d43d5c51aa2",
-    "41e600310cda",
-    "31eb2ac41c68"
+    "31eb2ac41c68",
+    "41e600310cda"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "mexico:web:65eeba64": {
-   "initialized": true,
-   "seen": [],
-   "hash": "da39a3ee5e6b4b0d",
-   "last_ok": "2026-10-30T08:10:51+00:00"
-  },
-  "mexico:gnews:7e258720": {
+  "mexico:gnews:3a698341": {
    "initialized": true,
    "seen": [
-    "8dac993ebcca",
-    "3ab28674e9f3",
-    "832e122d04f6",
-    "25fff8006d4b",
+    "ff2f17efeec9",
+    "eaaa3dc425e4",
+    "b122c7ca9f8d",
     "50160e3f11ec",
-    "4ecb41f84580",
     "76cf14f6bb18",
-    "63bd90fab638",
     "5dbe787904d5",
-    "112625cc71aa"
+    "25fff8006d4b",
+    "3ab28674e9f3",
+    "42683baf6759",
+    "63bd90fab638",
+    "4ecb41f84580",
+    "832e122d04f6",
+    "112625cc71aa",
+    "8dac993ebcca"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "venezuela:gnews:fc58077e": {
+  "venezuela:gnews:a440fa52": {
    "initialized": true,
    "seen": [
-    "1df42efb3438",
-    "a65b83d25e36",
     "b6443b5016b5",
-    "5a5136b4383d",
-    "067233fd7abf",
-    "8c1be64b5424",
     "485734f2d6fe",
-    "25233afeffd6",
+    "1df42efb3438",
     "a70be1e92fd7",
-    "d28887492996",
-    "d4bdb7358a6b",
-    "5f18a3967509",
-    "8a4c05f3437b",
-    "492da0706851",
-    "1affe792ab2e",
     "ef0dcea828e2",
-    "2657ea27363d",
-    "3bb0e116835c"
+    "d4bdb7358a6b"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "venezuela:gnews:94ceb5fd": {
+  "venezuela:gnews:ce1dd9ce": {
    "initialized": true,
    "seen": [
-    "67e73ce0ef19",
-    "acab2b4c60db",
-    "e5e5996bae8f",
     "1fc010fce3f3",
-    "8054fde05084",
-    "6b3126fa6271",
-    "0c0fbdd81550",
-    "aabcaaace7c8",
     "b6c0e08a6d3e",
-    "0bb47b7b0353",
     "69b3cfe0be83",
-    "bf11331a5169"
+    "8054fde05084",
+    "67e73ce0ef19",
+    "0c0fbdd81550",
+    "acab2b4c60db",
+    "aabcaaace7c8",
+    "e5e5996bae8f",
+    "0bb47b7b0353",
+    "bf11331a5169",
+    "6b3126fa6271"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "colombia:gnews:9a6e229e": {
+  "colombia:gnews:d97e2977": {
    "initialized": true,
    "seen": [
-    "bb622f7d12c6",
-    "2384a06f6ec5",
-    "1bbbb6376369",
+    "03c30c8b8803",
     "6332887d3aa4",
+    "81b5376c8b77",
+    "2384a06f6ec5",
+    "7b5a3fc1b6fd",
+    "bf29f52e5001",
+    "dc071ba36485",
+    "cce46fd30b40",
+    "8f578c9a547b",
     "c6a7dea6fda9",
     "abd3a43cf2ca",
-    "dc071ba36485",
-    "7b5a3fc1b6fd",
-    "81b5376c8b77",
-    "cce46fd30b40"
+    "475c3a6895a4",
+    "a447aa48e457",
+    "bb622f7d12c6",
+    "1bbbb6376369"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "argentina:web:3f45c851": {
+  "argentina:web:873c0a38": {
    "initialized": true,
    "seen": [
-    "d97df87fc28c",
-    "14feca9882e3",
     "c672c6e57bb6",
-    "0fade8de809a",
     "e91fa4314fe7",
+    "14feca9882e3",
+    "0fade8de809a",
+    "d97df87fc28c",
     "312935acf1ef"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "japan:gnews:b6fd032e": {
+  "japan:gnews:9529a05b": {
    "initialized": true,
    "seen": [
-    "d83be52b870d",
+    "198c4159447e",
+    "ec3bfa18688c",
+    "fe9d9eadb864",
+    "732752f1581f",
+    "622ecee5d3f9",
+    "12034e927860",
+    "f14fc3c11f14",
     "343586aba011",
     "c8b9aa4cd197",
-    "fe9d9eadb864",
-    "521f60ba3396",
-    "5712a8970529",
-    "63a5e8159754",
-    "4a50c35411f9",
-    "6e87b6daf134",
     "6e467a643c16",
-    "ec3bfa18688c",
-    "4d63d9cd9703",
-    "198c4159447e",
-    "f14fc3c11f14",
+    "6e87b6daf134",
+    "5712a8970529",
+    "d83be52b870d",
     "13dbe7643a79",
-    "732752f1581f",
-    "12034e927860",
-    "ce2c8033afc2",
+    "4a50c35411f9",
+    "4d63d9cd9703",
+    "63a5e8159754",
     "e09dec89aac4",
-    "622ecee5d3f9"
+    "521f60ba3396",
+    "ce2c8033afc2"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "korea:web:3506795c": {
+  "korea:web:427fe97b": {
    "initialized": true,
    "seen": [
     "1e161415ee6a",
-    "2b5f23c7e3af",
-    "de7b5da1be2e"
+    "de7b5da1be2e",
+    "2b5f23c7e3af"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "china:web:2cc727ca": {
+  "china:web:8d18e804": {
    "initialized": true,
    "seen": [
-    "5ce573f65e1f",
-    "5c10a5db6266",
-    "fc8277944fb5",
     "d914cd8c4275",
+    "ce8399ac1a4e",
+    "fc8277944fb5",
     "39f7c7bf73f2",
-    "6c9e98abaa08",
-    "1332b83495ac",
-    "3ae460dbbec2",
-    "2d073f35fec9",
-    "5879107cb3f9",
-    "087d1808d13a",
-    "7e3e62e00a36",
-    "2b56125f1282",
-    "bea7e28c3d9e",
     "d699b6fd6631",
+    "3ae460dbbec2",
+    "7e3e62e00a36",
+    "5ce573f65e1f",
     "c368d3bfc6a4",
-    "ce8399ac1a4e"
+    "2b56125f1282",
+    "087d1808d13a",
+    "bea7e28c3d9e",
+    "6c9e98abaa08",
+    "5c10a5db6266",
+    "2d073f35fec9",
+    "1332b83495ac",
+    "5879107cb3f9"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "india:web:c3a68abb": {
+  "india:web:c072a00e": {
    "initialized": true,
    "seen": [
-    "7bec6460d75d",
-    "6531f8e54b76",
-    "2fb7bc6e0e31",
-    "2e284a62351b",
-    "15e47161c0d2",
-    "0885079301eb",
-    "07340d612e37",
-    "4c29e83c3a6b",
-    "277415605a53",
-    "8594b15c8c38",
-    "33a102a2da7a",
-    "62bbf9dc5cbd",
-    "2b4134c722b4",
-    "83a84dda1292",
-    "220dda6b7aa4",
     "652a4b2c30c2",
-    "e07a6883c78a",
-    "156a9128dcf4",
-    "486e88b9ab24",
-    "0465640c9c9a",
-    "68c2d81bf242",
-    "a94d4b05816d",
-    "0b055cf0d44f",
-    "cf35eda1cb45",
-    "d65b30b3c21e",
-    "b7db16e52d65",
-    "e911b3d4112f",
-    "df800ad163c7",
     "fa749e53b2e9",
-    "62af8d9656c6",
+    "15e47161c0d2",
+    "a94d4b05816d",
+    "220dda6b7aa4",
+    "8594b15c8c38",
     "14185f731382",
-    "8530f3189dc6",
-    "19900d8a2310",
-    "6c6e70bc9550",
-    "e5e0ffa89636",
-    "cec457398cea",
-    "0edfd91acb20",
     "f596c13b9d00",
-    "caf5e7b3189e",
-    "f5d1102381aa",
+    "9e0852f2f250",
+    "cf35eda1cb45",
+    "07340d612e37",
+    "8530f3189dc6",
+    "33a102a2da7a",
+    "0885079301eb",
+    "e07a6883c78a",
+    "d65b30b3c21e",
+    "19900d8a2310",
     "0155b3458275",
-    "9e0852f2f250"
+    "caf5e7b3189e",
+    "7bec6460d75d",
+    "68c2d81bf242",
+    "2fb7bc6e0e31",
+    "cec457398cea",
+    "0465640c9c9a",
+    "0b055cf0d44f",
+    "156a9128dcf4",
+    "e5e0ffa89636",
+    "f5d1102381aa",
+    "277415605a53",
+    "2b4134c722b4",
+    "62af8d9656c6",
+    "e911b3d4112f",
+    "6531f8e54b76",
+    "83a84dda1292",
+    "0edfd91acb20",
+    "b7db16e52d65",
+    "6c6e70bc9550",
+    "4c29e83c3a6b",
+    "df800ad163c7",
+    "2e284a62351b",
+    "486e88b9ab24",
+    "62bbf9dc5cbd"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "press-culture:gnews:a4415b14": {
+  "press-culture:gnews:232c6525": {
    "initialized": true,
    "seen": [
-    "65596ca098f0",
-    "fb3f9a281377",
-    "68414a216214",
-    "1b352f5d25f4",
-    "b5916a35d931",
-    "7b76c0f1c7ba",
-    "70866da542de",
-    "e470de72b56c",
-    "90589395f020",
-    "d9b644fab308",
-    "732a92831761",
-    "4147fdde9779",
-    "3412290773f3",
     "815d357f5164",
     "88a69236567c",
+    "90589395f020",
+    "65596ca098f0",
+    "3412290773f3",
     "5b81345cbc98",
-    "e84a9e798717",
-    "942ca213d94f",
+    "b5916a35d931",
     "755db61638ae",
+    "e470de72b56c",
+    "fb3f9a281377",
+    "7b76c0f1c7ba",
+    "1b352f5d25f4",
+    "68414a216214",
+    "e84a9e798717",
     "6b2bfdd5d9de",
+    "56b06b46ae6a",
     "467b2b2a198c",
     "0595292653ef",
+    "4147fdde9779",
     "bc73f807f443",
-    "56b06b46ae6a"
+    "732a92831761",
+    "70866da542de",
+    "d9b644fab308",
+    "942ca213d94f"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   },
-  "press-culture:gnews:9f276665": {
+  "press-culture:gnews:b2b256bb": {
    "initialized": true,
    "seen": [
-    "6266a1e96dee",
-    "f1fbd82fc290",
-    "93714536906c",
-    "d552c88a3ce4",
-    "126cc1162398",
-    "d56e2e9af45a",
-    "8c219faf86b6",
-    "af3ef22fb1ea",
-    "d75fb2261ec9",
-    "be61136a3c4e",
-    "50bc2aa2932f",
-    "b91355616175",
-    "13c007f88aa0",
-    "767bbcf77cf8",
     "c0c0e5987031",
-    "3424f53f6d2e",
-    "4983450f45ac",
-    "67899230a1ca",
-    "dd8b76decc5d",
-    "20e71fa36887",
-    "021b528af8cd",
-    "ebf458218d49",
-    "7843179d0933",
-    "084e169dbea4",
-    "57d7d112a6cf",
-    "2327a0995b1d",
-    "1499cd8813b0",
-    "c06b275f2a41",
-    "adb31cf0e9df",
     "c65caed93a5e",
-    "ed24f325924b",
-    "bf3b09b1d548",
-    "b4389ee1ffce",
-    "e9dfc73e8c78",
-    "cedfba32d753",
-    "26b4fdb15c0b",
-    "5a7a03bb7a09",
+    "021b528af8cd",
     "d207bcaaff43",
     "68a13e8e00a1",
     "16f144058102",
+    "26b4fdb15c0b",
+    "cedfba32d753",
+    "af3ef22fb1ea",
+    "c06b275f2a41",
+    "767bbcf77cf8",
+    "b4389ee1ffce",
     "782df115c6df",
-    "9d9667208ca7"
+    "57d7d112a6cf",
+    "e9dfc73e8c78",
+    "20e71fa36887",
+    "6266a1e96dee",
+    "dd8b76decc5d",
+    "d552c88a3ce4",
+    "93714536906c",
+    "4983450f45ac",
+    "1499cd8813b0",
+    "126cc1162398",
+    "50bc2aa2932f",
+    "bf3b09b1d548",
+    "67899230a1ca",
+    "ed24f325924b",
+    "9d9667208ca7",
+    "3424f53f6d2e",
+    "084e169dbea4",
+    "7843179d0933",
+    "be61136a3c4e",
+    "8c219faf86b6",
+    "adb31cf0e9df",
+    "ebf458218d49",
+    "d56e2e9af45a",
+    "5a7a03bb7a09",
+    "13c007f88aa0",
+    "d75fb2261ec9",
+    "b91355616175",
+    "2327a0995b1d",
+    "f1fbd82fc290"
    ],
    "hash": null,
-   "last_ok": "2026-10-30T08:10:51+00:00"
+   "last_ok": "2026-10-30T08:13:28+00:00"
   }
  }
 }

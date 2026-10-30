@@ -1,7 +1,7 @@
 {
- "checked": "2026-10-30T08:10:51+00:00",
+ "checked": "2026-10-30T08:13:28+00:00",
  "channels": {
-  "goethe:telegram:dee83c78": {
+  "goethe:telegram:28ca3a29": {
    "source": "goethe",
    "type": "telegram",
    "url": "goetheaddis",
@@ -10,9 +10,9 @@
    "error": null,
    "found": 18,
    "new": 18,
-   "ms": 765,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 787,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "We’re excited to announce the premiere of Bertolt Brecht’s “The Caucasian Chalk Circle”, adapted into Amharic as “የመጨረሻው ፍርድ”, at Hager Fikir Theater on…",
@@ -22,7 +22,7 @@
     "Kirill Petrenko opens the Berliner Philharmoniker’s 2025/26 season with three works that shaped the symphonic tradition."
    ]
   },
-  "alliance:web:d4d64624": {
+  "alliance:web:ade5dbaa": {
    "source": "alliance",
    "type": "web",
    "url": "https://allianceaddis.org/up-coming-events/",
@@ -31,15 +31,15 @@
    "error": null,
    "found": 1,
    "new": 1,
-   "ms": 2440,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 2808,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "DELF DALF Exam Registration Exam Registration"
    ]
   },
-  "iic:web:d6f905af": {
+  "iic:web:3cabcd82": {
    "source": "iic",
    "type": "web",
    "url": "https://iicaddisabeba.esteri.it/en/gli_eventi/calendario/",
@@ -48,16 +48,16 @@
    "error": null,
    "found": 2,
    "new": 2,
-   "ms": 1260,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 1217,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Contemporary Art Day 2026 – “Geographies of Contemporaneity”",
     "Theatrical Costume Exhibition “DRESSING THE IMAGINARY. Italian Ingenuity in Stage Costume Between Africa, the East, and Legend.”"
    ]
   },
-  "iic:rss:792e8c65": {
+  "iic:rss:6c061e3a": {
    "source": "iic",
    "type": "rss",
    "url": "https://iicaddisabeba.esteri.it/en/feed/",
@@ -66,16 +66,16 @@
    "error": null,
    "found": 2,
    "new": 2,
-   "ms": 1477,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 1397,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "NOTICE OF PUBLIC AUCTION FOR THE SALE OF A SERVICE CAR TOYOTA LAND CRUISER (105) GX10",
     "Selection procedure for the recruitment of an employee on a permanent contract"
    ]
   },
-  "british-council:gnews:0d79c999": {
+  "british-council:gnews:1ba389ab": {
    "source": "british-council",
    "type": "gnews",
    "url": "\"British Council\" Ethiopia Addis",
@@ -84,9 +84,9 @@
    "error": null,
    "found": 26,
    "new": 26,
-   "ms": 483,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 531,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "To Build the Capacity of English Language Educators, U.S. Embassy and British Council Train - U.S. Embassy in Ethiopia (.gov)",
@@ -96,7 +96,7 @@
     "A collective voice for social enterprise in Ethiopia - Pioneers Post"
    ]
   },
-  "eu-ethiopia:web:c22c99b3": {
+  "eu-ethiopia:web:25d9f1dd": {
    "source": "eu-ethiopia",
    "type": "web",
    "url": "https://www.eeas.europa.eu/delegations/ethiopia_en",
@@ -105,9 +105,9 @@
    "error": null,
    "found": 9,
    "new": 9,
-   "ms": 504,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 763,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "EU High Representative/Vice-President Kaja Kallas visited Addis Ababa",
@@ -117,7 +117,7 @@
     "#StepUp: Powering Everyday Lives - ዱብ ዱብ ለነገ!"
    ]
   },
-  "eu-au:web:5d09dde5": {
+  "eu-au:web:f8df2210": {
    "source": "eu-au",
    "type": "web",
    "url": "https://www.eeas.europa.eu/delegations/african-union-au_en",
@@ -126,9 +126,9 @@
    "error": null,
    "found": 10,
    "new": 10,
-   "ms": 441,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 744,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "The European Union Film Festival Addis Ababa is back! 23 October - 21 November, 2026",
@@ -138,7 +138,7 @@
     "Delegation of European Union to African Union is planning to launch tenders for the following service: Security equipment installation and Electric works"
    ]
   },
-  "euff:gnews:8edc3028": {
+  "euff:gnews:e760266e": {
    "source": "euff",
    "type": "gnews",
    "url": "\"European Union Film Festival\" Addis OR \"European Film Festival\" Addis Ababa",
@@ -147,9 +147,9 @@
    "error": null,
    "found": 10,
    "new": 10,
-   "ms": 468,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 521,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "EU Film Festival Returns to Addis Ababa with 27+ Films - https://etbusinessview.com/",
@@ -159,7 +159,7 @@
     "Partners for multilateralism, international law, peace and prosperity summit - EEAS"
    ]
   },
-  "austria:web:104b1502": {
+  "austria:web:b40810a3": {
    "source": "austria",
    "type": "web",
    "url": "https://www.bmeia.gv.at/oeb-addis-abeba/aktuelles",
@@ -168,9 +168,9 @@
    "error": null,
    "found": 17,
    "new": 17,
-   "ms": 2228,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 2004,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "23.07.2026 – Abschiedsbesuch von Botschafterin Dr. Simone Knapp bei Stellvertretenden Vorsitzenden der AU-Kommission, Selma Malika Haddadi B",
@@ -180,7 +180,7 @@
     "12.5.2026 at 1:00 pm (CEST) - A Convincing CV: Clear, Precise, Effective In this webinar we will provide an overview of how to structure a C"
    ]
   },
-  "germany:gnews:e8428542": {
+  "germany:gnews:76449341": {
    "source": "germany",
    "type": "gnews",
    "url": "\"German Embassy\" \"Addis Ababa\"",
@@ -189,9 +189,9 @@
    "error": null,
    "found": 21,
    "new": 21,
-   "ms": 467,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 713,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "German Diplomat Applauds Addis Ababa’s Rapid Urban Transformation - ENA English",
@@ -201,7 +201,7 @@
     "German Official Accused of Pressuring Embassy to Grant Schengen Visas to a Group of Ethiopians - SchengenVisaInfo"
    ]
   },
-  "france:web:746835ee": {
+  "france:web:cdef5514": {
    "source": "france",
    "type": "web",
    "url": "https://et.diplomatie.gouv.fr/fr/actualites-evenements",
@@ -210,9 +210,9 @@
    "error": null,
    "found": 4,
    "new": 4,
-   "ms": 3971,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 2532,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Septembre 2026 : la France préside le Conseil de sécurité",
@@ -221,7 +221,7 @@
     "Campagne de bourses scolaires 2026-2027"
    ]
   },
-  "italy:rss:ecc91bee": {
+  "italy:rss:c0047882": {
    "source": "italy",
    "type": "rss",
    "url": "https://ambaddisabeba.esteri.it/en/feed/",
@@ -230,9 +230,9 @@
    "error": null,
    "found": 10,
    "new": 10,
-   "ms": 1483,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 1443,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Scientific and Innovation Awards of the Ministry of Foreign Affairs and International Cooperation. Applications are now open.",
@@ -242,22 +242,7 @@
     "The Italian Research Day in the World – Ethiopia, Addis Ababa on 12th of June 2026"
    ]
   },
-  "spain:web:4929fd6e": {
-   "source": "spain",
-   "type": "web",
-   "url": "https://www.exteriores.gob.es/Embajadas/addisabeba/en/Comunicacion/Noticias",
-   "label": null,
-   "ok": false,
-   "error": "HTTP 503",
-   "found": 0,
-   "new": 0,
-   "ms": 21277,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": null,
-   "last_new": null,
-   "sample": []
-  },
-  "netherlands:web:5f5286ca": {
+  "netherlands:web:0c4cf060": {
    "source": "netherlands",
    "type": "web",
    "url": "https://www.netherlandsandyou.nl/web/ethiopia",
@@ -266,15 +251,15 @@
    "error": null,
    "found": 1,
    "new": 1,
-   "ms": 1006,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 977,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Documentary Dutch private sector in Ethiopia News | 13-02-2025 The Embassy of the Kingdom of The Netherlands made a documentary about the Dutch private sector in Ethiopia on national television (EBS) watched by >15…"
    ]
   },
-  "finland:web:2dcb3483": {
+  "finland:web:ac318fa4": {
    "source": "finland",
    "type": "web",
    "url": "https://finlandabroad.fi/web/eth/current-affairs",
@@ -283,9 +268,9 @@
    "error": null,
    "found": 10,
    "new": 10,
-   "ms": 1323,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 205,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Non-resident Ambassador appointed to Djibouti",
@@ -295,22 +280,26 @@
     "Aalto Works inscribed on UNESCO World Heritage List"
    ]
   },
-  "ireland:web:1e63671d": {
+  "ireland:json:81a099da": {
    "source": "ireland",
-   "type": "web",
-   "url": "https://www.ireland.ie/en/ethiopia/addisababa/news-and-events/news-archive/",
-   "label": null,
+   "type": "json",
+   "url": "https://www.ireland.ie/api/v2/news/?offset=0&child_of=3038&locale=en&limit=10",
+   "label": "News archive",
    "ok": true,
    "error": null,
-   "found": 0,
-   "new": 0,
-   "ms": 1638,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "found": 3,
+   "new": 3,
+   "ms": 932,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
-   "sample": []
+   "sample": [
+    "Diplomatic Éirewaves Podcast",
+    "Request for Tender for consultancy services for the Ireland Africa Fellows Programme",
+    "The Ireland-Africa Fellowship Programme 2023/24 is open"
+   ]
   },
-  "czechia:web:f888c567": {
+  "czechia:web:cdbcdcb2": {
    "source": "czechia",
    "type": "web",
    "url": "https://mzv.gov.cz/addisababa/en/news_and_events/",
@@ -319,9 +308,9 @@
    "error": null,
    "found": 80,
    "new": 80,
-   "ms": 4315,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 3614,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Czech Republic–Ethiopia Parliamentary Friendship Group Established in the Czech Chamber of Deputies (Czech Parliament)",
@@ -331,7 +320,7 @@
     "State Secretary Radek Rubeš Meets State Minister Berhanu Tsegaye: Focus on Trade, Investment and Broader Cooperation"
    ]
   },
-  "poland:web:4da1a045": {
+  "poland:web:c978cca7": {
    "source": "poland",
    "type": "web",
    "url": "https://www.gov.pl/web/etiopia",
@@ -340,9 +329,9 @@
    "error": null,
    "found": 6,
    "new": 6,
-   "ms": 1210,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 1326,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Wdrożenie systemu ETIAS w 2027 r.",
@@ -352,7 +341,7 @@
     "OGŁOSZENIE NR 2/2026 O ZBĘDNYCH I ZUŻYTYCH SKŁADNIKACH RZECZOWYCH MAJĄTKU RUCHOMEGO AMBASADY RP W ADDIS ABEBIE"
    ]
   },
-  "hungary:web:d69b7095": {
+  "hungary:web:f70de015": {
    "source": "hungary",
    "type": "web",
    "url": "https://addisababa.mfa.gov.hu/en/articles",
@@ -361,9 +350,9 @@
    "error": null,
    "found": 10,
    "new": 10,
-   "ms": 4868,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 4352,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Embassy Holiday Closure Notice",
@@ -373,7 +362,7 @@
     "Announcement of the Ministry of Foreign Affairs and Trade of Hungary"
    ]
   },
-  "uk:rss:e15c354f": {
+  "uk:rss:3f47610e": {
    "source": "uk",
    "type": "rss",
    "url": "https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=ethiopia",
@@ -382,9 +371,9 @@
    "error": null,
    "found": 20,
    "new": 20,
-   "ms": 294,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 946,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "UK statement on escalation in northern Ethiopia: 24 September",
@@ -394,7 +383,7 @@
     "UK contributes over $30 million to support Somalia’s security transition"
    ]
   },
-  "norway:web:cbd13a41": {
+  "norway:web:5e3cade0": {
    "source": "norway",
    "type": "web",
    "url": "https://www.norway.no/en/ethiopia/norway-ethiopia/news-events/",
@@ -403,9 +392,9 @@
    "error": null,
    "found": 4,
    "new": 4,
-   "ms": 415,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 395,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "23. Sep 2026 Controller Position Filled",
@@ -414,7 +403,7 @@
     "17. Aug 2026 Globalskolen - hele verdens norske nettskole Globalskolen er et nettbasert undervisningstilbud i norsk, samfunnsfag og KRLE."
    ]
   },
-  "usa:rss:2d5a66a6": {
+  "usa:rss:71c1fd6e": {
    "source": "usa",
    "type": "rss",
    "url": "https://et.usembassy.gov/feed/",
@@ -423,9 +412,9 @@
    "error": null,
    "found": 10,
    "new": 10,
-   "ms": 212,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 150,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Security Alert – U.S. Embassy Addis Ababa, Ethiopia (October 28, 2026)",
@@ -435,7 +424,7 @@
     "Secretary Rubio’s Call with Ethiopian Prime Minister Abiy"
    ]
   },
-  "canada:rss:77b2dbff": {
+  "canada:rss:016b9acf": {
    "source": "canada",
    "type": "rss",
    "url": "https://www.international.gc.ca/country-pays/rss/ethiopia-ethiopie/news-nouvelles_eng.xml",
@@ -444,9 +433,9 @@
    "error": null,
    "found": 3,
    "new": 3,
-   "ms": 486,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 483,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Joint Statement on the One Year Anniversary of the Pretoria Cessation of Hostilities Agreement",
@@ -454,64 +443,49 @@
     "Canada shocked by violent attacks in Ethiopia"
    ]
   },
-  "mexico:web:65eeba64": {
-   "source": "mexico",
-   "type": "web",
-   "url": "https://portales.sre.gob.mx/saladeprensa/lista-de-embajadas/etiopia",
-   "label": null,
-   "ok": true,
-   "error": null,
-   "found": 0,
-   "new": 0,
-   "ms": 1234,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
-   "last_new": null,
-   "sample": []
-  },
-  "mexico:gnews:7e258720": {
+  "mexico:gnews:3a698341": {
    "source": "mexico",
    "type": "gnews",
    "url": "\"Embajada de México\" Etiopía",
    "label": null,
    "ok": true,
    "error": null,
-   "found": 10,
-   "new": 10,
-   "ms": 358,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "found": 14,
+   "new": 14,
+   "ms": 410,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Embajada de México participa con autoridades etíopes y diplomáticos en actividades de reforestación en ETIOPÍA - Gob MX",
     "Concluye proceso de asistencia consular para la repatriación de un nacional mexicano desde Sudán del Sur - Gob MX",
     "Cumple sentencia en EEUU y lo deportan a Sudán, finalmente mexicano fue regresado a CDMX con apoyo de la SRE - Infobae",
     "El consulado con el que Noguez y muchos mexicanos soñaban en España - Espacio Méx",
-    "Llega a México Connacional que fue Deportado Por Estados Unidos a Sudán del Sur - N+"
+    "Encuentro de Oficinas Consulares del GRULAC en Etiopía - Cubadiplomática"
    ]
   },
-  "venezuela:gnews:fc58077e": {
+  "venezuela:gnews:a440fa52": {
    "source": "venezuela",
    "type": "gnews",
    "url": "Venezuela \"Addis Ababa\" embassy",
    "label": null,
    "ok": true,
    "error": null,
-   "found": 18,
-   "new": 18,
-   "ms": 444,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "found": 6,
+   "new": 6,
+   "ms": 398,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
-    "US Warns Of Possible Long-Range Attacks In Ethiopia - The Whistler Newspaper",
     "Myanmar Ambassador signs Condolence Book for Venezuela Earthquake Victims(6-7-2026, Addis Ababa) - နိုင်ငံခြားရေးဝန်ကြီးဌာန",
-    "Sheebah Officially Receives ODA Award Won in Addis Ababa - UG Diplomat",
     "Ethiopia and Venezuela Celebrate 75 Years of Diplomatic Relations – Welcome to Fana Media Corporation S.C - Fana Media Corporation S.C",
-    "The Cuban Embassy in Ethiopia pays tribute to the 32 Cuban combatants who fell during the United States military aggression against the Bolivarian Republic of Venezuela - Cubadiplomática"
+    "The Cuban Embassy in Ethiopia pays tribute to the 32 Cuban combatants who fell during the United States military aggression against the Bolivarian Republic of Venezuela - Cubadiplomática",
+    "Cuban Embassy in Ethiopia joins signing of Declaration in support of Venezuela - Cubadiplomática",
+    "The Cuban Embassy in Ethiopia accompanies Venezuela in the commemoration of the 214 anniversary of its Independence - Cubadiplomática"
    ]
   },
-  "venezuela:gnews:94ceb5fd": {
+  "venezuela:gnews:ce1dd9ce": {
    "source": "venezuela",
    "type": "gnews",
    "url": "Venezuela embajada \"Addis Abeba\"",
@@ -520,9 +494,9 @@
    "error": null,
    "found": 12,
    "new": 12,
-   "ms": 268,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 310,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Cuba y Venezuela celebran el Día Internacional de la Mujer en Addis Abeba - Cubadiplomática",
@@ -532,18 +506,18 @@
     "En Vida y Esperanza: Embajada de Nicaragua en Etiopía homenajea a Rubén Darío - El 19 Digital"
    ]
   },
-  "colombia:gnews:9a6e229e": {
+  "colombia:gnews:d97e2977": {
    "source": "colombia",
    "type": "gnews",
    "url": "Colombia embajada \"Addis Abeba\"",
    "label": null,
    "ok": true,
    "error": null,
-   "found": 10,
-   "new": 10,
-   "ms": 339,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "found": 15,
+   "new": 15,
+   "ms": 387,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Colombia llega oficialmente a Etiopia con su nuevo embajador Yeison Arcadio Meneses Copete - Ministerio de Relaciones Exteriores de Colombia",
@@ -553,7 +527,7 @@
     "Embajadores de Cuba participan en la inauguración de la sede diplomática colombiana en Etiopía - Cubadiplomática"
    ]
   },
-  "argentina:web:3f45c851": {
+  "argentina:web:873c0a38": {
    "source": "argentina",
    "type": "web",
    "url": "https://eetio.cancilleria.gob.ar/",
@@ -562,9 +536,9 @@
    "error": null,
    "found": 6,
    "new": 6,
-   "ms": 3136,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 2525,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Sobre la Cuestión Malvinas: Comunicado oficial de la República Argentina Jueves 1 Octubre 2026 La República Argentina rechaza que el Reino Unido caracterice el recurso argentino...",
@@ -574,7 +548,7 @@
     "Alianza por la Memoria del Holocausto"
    ]
   },
-  "japan:gnews:b6fd032e": {
+  "japan:gnews:9529a05b": {
    "source": "japan",
    "type": "gnews",
    "url": "\"Embassy of Japan\" Ethiopia",
@@ -583,9 +557,9 @@
    "error": null,
    "found": 20,
    "new": 20,
-   "ms": 410,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 541,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Japan-Funded Smarter Borders Project Concludes, Paving the Way for Scalable Digital Border Solutions Across Africa - IOM Ethiopia",
@@ -595,7 +569,7 @@
     "Fabricated statement falsely claims Japan will support Ethiopia over US visa restrictions - AFP Fact Check"
    ]
   },
-  "korea:web:3506795c": {
+  "korea:web:427fe97b": {
    "source": "korea",
    "type": "web",
    "url": "https://overseas.mofa.go.kr/et-en/index.do",
@@ -604,9 +578,9 @@
    "error": null,
    "found": 3,
    "new": 3,
-   "ms": 3000,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 3880,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Ethiopia National Day Reception (Oct. 21) On October 21, the Embassy of the Republic of Korea in Ethiopia hosted its National Day Reception. The event was attended by around 250 gues 2026-10-26",
@@ -614,7 +588,7 @@
     "AU Amb. Jung met with AU PAPS Commissioner (May 26) On May 26, Ambassador Jung Kang met with H.E. Bankole Adeoye, the Commissioner of Political Affairs, Peace and Security Department (PAPS) of 2026-05-26"
    ]
   },
-  "china:web:2cc727ca": {
+  "china:web:8d18e804": {
    "source": "china",
    "type": "web",
    "url": "https://et.china-embassy.gov.cn/eng/",
@@ -623,9 +597,9 @@
    "error": null,
    "found": 17,
    "new": 17,
-   "ms": 1119,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 2043,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Ambassador Chen Hai Meets with Adem Farah, General Secretary of Ethiopia's Prosperity Party(2026-06-29)",
@@ -635,7 +609,7 @@
     "Ambassador Chen Hai Publishes a Signed Article “Unlock the door to common development with the key of China-Africa cooperation”(2025-06-20)"
    ]
   },
-  "india:web:c3a68abb": {
+  "india:web:c072a00e": {
    "source": "india",
    "type": "web",
    "url": "https://eoiaddisababa.gov.in/",
@@ -644,9 +618,9 @@
    "error": null,
    "found": 42,
    "new": 42,
-   "ms": 6785,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 7530,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Hon’ble External Affairs Minister Dr. S. Jaishankar called on Hon’ble Prime Minister of Ethiopia, Dr Abiy Ahmed Ali and conveyed personal greetings of Hon’ble Prime Minister Narendra Modi",
@@ -656,7 +630,7 @@
     "Hon’ble External Affairs Minister Dr. S. Jaishankar was warmly received by H.E. Berhanu Tsegaye, State Minister, Ministry of Foreign Affairs of the Federal Democratic Republic of Ethiopia."
    ]
   },
-  "press-culture:gnews:a4415b14": {
+  "press-culture:gnews:232c6525": {
    "source": "press-culture",
    "type": "gnews",
    "url": "embassy \"Addis Ababa\" (concert OR exhibition OR festival OR screening OR \"cultural week\")",
@@ -665,9 +639,9 @@
    "error": null,
    "found": 24,
    "new": 24,
-   "ms": 361,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 519,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Culinary fair presents Indonesia’s rich culture, cuisine in Addis - Portal Kemlu",
@@ -677,7 +651,7 @@
     "Ethiopia: Invitation to join the Netherlands Pavilion at ALEC 2025, Africa’s largest livestock fair in Addis Ababa - Agroberichten Buitenland"
    ]
   },
-  "press-culture:gnews:9f276665": {
+  "press-culture:gnews:b2b256bb": {
    "source": "press-culture",
    "type": "gnews",
    "url": "\"Addis Ababa\" (Goethe-Institut OR \"Alliance Ethio-Française\" OR \"Italian Cultural Institute\" OR \"British Council\") event",
@@ -686,9 +660,9 @@
    "error": null,
    "found": 43,
    "new": 42,
-   "ms": 504,
-   "checked": "2026-10-30T08:10:51+00:00",
-   "last_ok": "2026-10-30T08:10:51+00:00",
+   "ms": 565,
+   "checked": "2026-10-30T08:13:28+00:00",
+   "last_ok": "2026-10-30T08:13:28+00:00",
    "last_new": null,
    "sample": [
     "Bauhaus in Germany, Ethiopia and Africa - Goethe-Institut",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T09:07:20+00:00",
+ "generated": "2026-10-30T09:09:34+00:00",
  "sources": [
   {
    "id": "goethe",
@@ -826,17 +826,11 @@
    "homepage": "https://www.creativehub.et/",
    "match": "Creative Hub|Old Post Office",
    "notes": "Reopened in August 2025 in the century-old Post Office building in Piassa. Exhibitions, fashion shows, pop-ups.",
+   "manual": "Its website is an app with no readable content. Its events are announced on LinkUp Addis and appear here through mentions.",
    "links": {
     "x": "https://x.com/creativehubet"
    },
-   "channels": [
-    {
-     "key": "creative-hub:web:46ffe2a2",
-     "type": "web",
-     "url": "https://www.creativehub.et/",
-     "label": null
-    }
-   ]
+   "channels": []
   },
   {
    "id": "fabrika",
@@ -861,9 +855,9 @@
    "links": {},
    "channels": [
     {
-     "key": "selam:web:fda96c2e",
-     "type": "web",
-     "url": "https://selamethiopia.se/",
+     "key": "selam:rss:1e88f87f",
+     "type": "rss",
+     "url": "https://selamethiopia.se/feed/",
      "label": null
     }
    ]
@@ -879,10 +873,16 @@
    "links": {},
    "channels": [
     {
-     "key": "addis-fine-art:web:bc776f9f",
+     "key": "addis-fine-art:web:ec927f17",
      "type": "web",
      "url": "https://www.addisfineart.com/exhibitions/",
-     "label": null
+     "label": "Exhibitions page (flags changes)"
+    },
+    {
+     "key": "addis-fine-art:rss:97e2e46f",
+     "type": "rss",
+     "url": "https://www.addisfineart.com/news?format=rss",
+     "label": "News"
     }
    ]
   },

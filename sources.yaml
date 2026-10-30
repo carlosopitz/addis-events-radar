@@ -629,12 +629,10 @@
   homepage: https://www.creativehub.et/
   match: Creative Hub|Old Post Office
   notes: Reopened in August 2025 in the century-old Post Office building in Piassa. Exhibitions, fashion shows, pop-ups.
+  manual: Its website is an app with no readable content. Its events are announced on LinkUp Addis and appear here through mentions.
   links:
     x: https://x.com/creativehubet
-  channels:
-    - type: web
-      url: https://www.creativehub.et/
-      include: creativehub\.et/.+/.+
+  channels: []
 
 - id: fabrika
   name: Fabrika Third Space
@@ -654,9 +652,8 @@
   match: \bSelam (Addis|Ethiopia|Festival)
   notes: Cultural organisation behind the Selam Festival and creative-industry programmes.
   channels:
-    - type: web
-      url: https://selamethiopia.se/
-      include: selamethiopia\.se/.+/
+    - type: rss
+      url: https://selamethiopia.se/feed/
 
 - id: addis-fine-art
   name: Addis Fine Art
@@ -668,7 +665,10 @@
   channels:
     - type: web
       url: https://www.addisfineart.com/exhibitions/
-      include: addisfineart\.com/exhibitions/.+
+      label: Exhibitions page (flags changes)
+    - type: rss
+      url: https://www.addisfineart.com/news?format=rss
+      label: News
 
 - id: fendika
   name: Fendika Cultural Center

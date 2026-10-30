@@ -498,6 +498,57 @@
       include: eoiaddisababa\.gov\.in/[a-z0-9-]+/$
       exclude: screen-reader|sitemap|feedback|contact|faq|gallery|tender|rti|disclaimer|privacy|help|terms|hyperlink|copyright|accessibility
 
+# ===================== Hotels =====================
+
+- id: hyatt
+  name: Hyatt Regency Addis Ababa
+  country: ET
+  kind: venue
+  region: local
+  homepage: https://www.hyatt.com/hyatt-regency/en-US/addra-hyatt-regency-addis-ababa
+  notes: 'The "Hyatt Happenings" programme itself is not published on the web. Its events are tracked through Hyatt''s news page, the All Addis Events venue listing and press coverage.'
+  channels:
+    - type: web
+      url: https://www.hyatt.com/en-US/hotel/ethiopia/hyatt-regency-addis-ababa/addra/news-events
+      include: /addra/news-events/.+
+    - type: web
+      url: https://www.alladdisevents.com/venue/hyatt-regency-addis-ababa/
+      include: alladdisevents\.com/event/
+      label: All Addis Events
+    - type: gnews
+      url: '"Hyatt Regency Addis Ababa"'
+
+- id: hilton
+  name: Hilton Addis Ababa
+  country: ET
+  kind: venue
+  region: local
+  homepage: https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/
+  channels:
+    - type: web
+      url: https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/events/
+      include: addhitw-hilton-addis-ababa/.+
+    - type: web
+      url: https://www.alladdisevents.com/venue/hilton-addis-ababa/
+      include: alladdisevents\.com/event/
+      label: All Addis Events
+    - type: gnews
+      url: '"Hilton Addis Ababa" OR "Hilton Addis Abeba"'
+
+- id: alladdisevents
+  name: All Addis Events
+  country: ET
+  kind: aggregator
+  region: local
+  homepage: https://www.alladdisevents.com/
+  notes: Independent listing of public events across Addis, organised by venue.
+  channels:
+    - type: rss
+      url: https://www.alladdisevents.com/feed/
+    - type: web
+      url: https://www.alladdisevents.com/
+      include: alladdisevents\.com/event/
+
 # ===================== Local listings & press =====================
 
 - id: whatsout

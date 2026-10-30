@@ -176,7 +176,7 @@ def load_sources() -> list[dict]:
         s.setdefault("channels", [])
         s["country"] = str(s.get("country", "XX"))
         for c in s["channels"]:
-            cfg = "|".join(str(c.get(k, "")) for k in ("url", "include", "exclude", "selector"))
+            cfg = "|".join(str(c.get(k, "")) for k in ("url", "include", "exclude", "selector", "blocks", "lang"))
             c["key"] = f"{s['id']}:{c['type']}:{sha(cfg, 8)}"
         out.append(s)
     return out
@@ -242,8 +242,12 @@ def read_feed(url: str) -> list[dict]:
     return items
 
 
-def read_gnews(query: str) -> list[dict]:
-    url = f"https://news.google.com/rss/search?q={quote_plus(query)}&hl=en&gl=ET&ceid=ET:en"
+GNEWS_EDITIONS = {"en": "hl=en&gl=ET&ceid=ET:en", "es": "hl=es-419&gl=MX&ceid=MX:es-419",
+                  "fr": "hl=fr&gl=FR&ceid=FR:fr", "de": "hl=de&gl=DE&ceid=DE:de", "it": "hl=it&gl=IT&ceid=IT:it"}
+
+
+def read_gnews(query: str, lang: str = "en") -> list[dict]:
+    url = f"https://news.google.com/rss/search?q={quote_plus(query)}&{GNEWS_EDITIONS.get(lang, GNEWS_EDITIONS['en'])}"
     items = read_feed(url)
     for it in items:
         it["summary"] = ""  # Google News summaries are just the title + source
@@ -293,6 +297,9 @@ def main_area(soup: BeautifulSoup, selector: str | None):
 
 
 READ_MORE = re.compile(r"^(read (more|article)|leggi( di più| l'articolo)?|mehr( lesen)?|lire la suite|leer más|ver más)\s*[:\-–]?\s*", re.I)
+
+
+SEE_ALL = re.compile(r"^(voir tou|see all|view all|all news|ver tod|alle |tutte le|vedi tutt|mostra tutt)", re.I)
 
 
 def link_title(a) -> str:
@@ -365,7 +372,7 @@ def read_web(ch: dict) -> tuple[list[dict], str]:
         if not include and len(segs) < 2 and not p.query:
             continue
         title = link_title(a)
-        if len(title) < 12 or len(title.split()) < 3:
+        if len(title) < 12 or len(title.split()) < 3 or SEE_ALL.match(title):
             continue
         ctx = a.find_parent(["article", "li", "tr"]) or a.parent
         ctx_text = clean(ctx.get_text(" ", strip=True)) if ctx else title
@@ -391,13 +398,16 @@ def run_channel(src: dict, ch: dict) -> dict:
         if ch["type"] == "rss":
             res["items"] = read_feed(ch["url"])
         elif ch["type"] == "gnews":
-            res["items"] = read_gnews(ch["url"])
+            res["items"] = read_gnews(ch["url"], ch.get("lang", "en"))
         elif ch["type"] == "telegram":
             res["items"] = read_telegram(ch["url"])
         elif ch["type"] == "web":
             res["items"], res["hash"] = read_web(ch)
         else:
             raise ValueError(f"unknown channel type {ch['type']}")
+        if ch.get("exclude") and ch["type"] != "web":
+            rx = re.compile(ch["exclude"], re.I)
+            res["items"] = [i for i in res["items"] if not rx.search(i["title"])]
         res["ok"] = True
     except Blocked as e:
         res["error"] = f"Blocked: {e}"

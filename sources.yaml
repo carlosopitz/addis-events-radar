@@ -383,6 +383,7 @@
       include: /lista-de-embajadas/etiopia/.+
     - type: gnews
       url: '"Embajada de México" Etiopía'
+      lang: es
 
 - id: venezuela
   name: Embajada de Venezuela
@@ -392,9 +393,10 @@
   notes: No embassy website found. Hosts occasional public events (photo exhibitions, national day). Tracked through press coverage.
   channels:
     - type: gnews
-      url: Venezuela embassy Ethiopia
+      url: Venezuela "Addis Ababa" embassy
     - type: gnews
-      url: Venezuela embajada Etiopía
+      url: Venezuela embajada "Addis Abeba"
+      lang: es
 
 - id: colombia
   name: Embajada de Colombia
@@ -405,7 +407,8 @@
   notes: Reopened in 2025. The website blocks automated readers, so press coverage is monitored instead.
   channels:
     - type: gnews
-      url: Colombia embassy Ethiopia
+      url: Colombia embajada "Addis Abeba"
+      lang: es
 
 - id: brazil
   name: Embaixada do Brasil
@@ -515,5 +518,7 @@
   channels:
     - type: gnews
       url: 'embassy "Addis Ababa" (concert OR exhibition OR festival OR screening OR "cultural week")'
+      exclude: Russia|Russian|Security Alert|Health Alert
     - type: gnews
       url: '"Addis Ababa" (Goethe-Institut OR "Alliance Ethio-Française" OR "Italian Cultural Institute" OR "British Council") event'
+      exclude: Russia|Russian|Security Alert|Health Alert

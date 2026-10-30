@@ -84,6 +84,8 @@ SOCIAL_PATTERNS = {
     "bluesky": re.compile(r"https?://bsky\.app/profile/[^?#/]+", re.I),
     "flickr": re.compile(r"https?://(www\.)?flickr\.com/(photos|people)/[^?#]+", re.I),
 }
+GENERIC_SOCIAL = re.compile(r"(twitter|x|facebook|instagram|youtube)\.com/(twitter|x|facebook|instagram|youtube|"
+                            r"share|sharer|intent|home|login|potus|whitehouse)/?$", re.I)
 NEWSLETTER_RE = re.compile(r"newsletter|subscribe|abonn|suscrib|iscriviti|anmeld", re.I)
 
 MONTHS = {
@@ -192,6 +194,24 @@ def fetch(url: str) -> requests.Response:
     raise err  # type: ignore[misc]
 
 
+BOT_WALL = re.compile(r"just a moment|attention required|radware|access denied|request rejected|"
+                      r"pardon our interruption|are you a robot|captcha|ddos-guard|security check", re.I)
+
+
+class Blocked(Exception):
+    """The site answers automated readers with a bot-protection page."""
+
+
+def make_soup(r: requests.Response) -> BeautifulSoup:
+    soup = BeautifulSoup(r.content, "lxml")
+    title = clean(soup.title.get_text()) if soup.title else ""
+    if r.status_code in (401, 403, 429) or BOT_WALL.search(title):
+        raise Blocked("site blocks automated readers")
+    if soup.body is None or len(soup.find_all("a")) < 3:      # lxml gave up on a malformed page
+        soup = BeautifulSoup(r.content, "html.parser")
+    return soup
+
+
 def is_event(*texts: str) -> bool:
     return bool(EVENT_RE.search(" ".join(t or "" for t in texts)))
 
@@ -272,7 +292,14 @@ def main_area(soup: BeautifulSoup, selector: str | None):
             or soup.body or soup)
 
 
+READ_MORE = re.compile(r"^(read (more|article)|leggi( di più| l'articolo)?|mehr( lesen)?|lire la suite|leer más|ver más)\s*[:\-–]?\s*", re.I)
+
+
 def link_title(a) -> str:
+    return READ_MORE.sub("", _link_title(a)).strip()
+
+
+def _link_title(a) -> str:
     t = clean(a.get_text(" ", strip=True))
     if len(t) < 12:
         t = clean(a.get("title") or a.get("aria-label") or "")
@@ -293,11 +320,27 @@ def link_title(a) -> str:
 def read_web(ch: dict) -> tuple[list[dict], str]:
     url = ch["url"]
     r = fetch(url)
-    r.raise_for_status()
+    soup = make_soup(r)
+    if r.status_code >= 400 and len(r.content) < 20000:
+        r.raise_for_status()
     final = r.url
-    soup = BeautifulSoup(r.content, "lxml")
     area = main_area(soup, ch.get("selector"))
     text_hash = sha(clean(area.get_text(" ", strip=True)), 16)
+
+    if ch.get("blocks"):   # pages that show posts inline, without links to article pages
+        items = []
+        for el in area.select(ch["blocks"]):
+            text = clean(el.get_text(" ", strip=True))
+            if len(text) < 30:
+                continue
+            head = next((clean(h.get_text(" ", strip=True)) for h in el.find_all(["h1", "h2", "h3", "h4", "strong", "b"])
+                         if len(clean(h.get_text(" ", strip=True))) >= 12), None)
+            title = head or text[:140]
+            anchor = el.get("id")
+            items.append({"uid": anchor or sha(text[:200]), "title": clean(title, 220),
+                          "url": final + (f"#{anchor}" if anchor else ""),
+                          "summary": clean(text.replace(title, "", 1), 320), "published": find_date(text)})
+        return items[:80], text_hash
 
     include = re.compile(ch["include"], re.I) if ch.get("include") else None
     exclude = re.compile(ch["exclude"], re.I) if ch.get("exclude") else None
@@ -356,6 +399,8 @@ def run_channel(src: dict, ch: dict) -> dict:
         else:
             raise ValueError(f"unknown channel type {ch['type']}")
         res["ok"] = True
+    except Blocked as e:
+        res["error"] = f"Blocked: {e}"
     except requests.HTTPError as e:
         res["error"] = f"HTTP {e.response.status_code}"
     except Exception as e:  # noqa: BLE001
@@ -556,6 +601,8 @@ def discover_one(src: dict) -> dict:
                     out["feeds"].append(u)
         for a in soup.find_all("a", href=True):
             href = urljoin(r.url, a["href"].strip())
+            if GENERIC_SOCIAL.search(href):
+                continue
             for kind, rx in SOCIAL_PATTERNS.items():
                 if rx.match(href):
                     out["links"].setdefault(kind, [])

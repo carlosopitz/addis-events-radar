@@ -21,7 +21,7 @@
   const TYPE_LABEL = { web: "Website", rss: "Feed", telegram: "Telegram", gnews: "Press" };
   const KIND_LABEL = { cultural: "Cultural institute", embassy: "Embassy", eu: "European Union", aggregator: "Listings & press" };
   const LINK_LABEL = { x: "X", facebook: "Facebook", instagram: "Instagram", telegram: "Telegram", youtube: "YouTube",
-    linkedin: "LinkedIn", tiktok: "TikTok", bluesky: "Bluesky", flickr: "Flickr", newsletter: "Newsletter" };
+    linkedin: "LinkedIn", tiktok: "TikTok", bluesky: "Bluesky", flickr: "Flickr", newsletter: "Newsletter", social: "Social media" };
 
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const flag = (cc) => {
@@ -205,12 +205,13 @@
       return `<div class="card" id="src-${esc(s.id)}">
         <div class="card-head"><span class="flag">${flag(s.country)}</span>
           <div><h3>${esc(s.name)}</h3><div class="kind">${esc(KIND_LABEL[s.kind] || s.kind)} · ${esc(s.region || "")}</div></div></div>
-        <div class="last">Last new post: ${esc(last ? ago(last) : "none since monitoring began")}</div>
+        ${(s.channels || []).length ? `<div class="last">Last new post: ${esc(last ? ago(last) : "none since monitoring began")}</div>` : ""}
         <div class="links">
           ${s.homepage ? `<a href="${esc(s.homepage)}" target="_blank" rel="noopener">Website</a>` : ""}
           ${links.map((l) => `<a class="${l.found ? "found" : ""}" href="${esc(l.url)}" target="_blank" rel="noopener" title="${l.found ? "Linked from their website" : "Curated"}">${esc(LINK_LABEL[l.kind] || l.kind)}</a>`).join("")}
         </div>
-        <div class="channels"><span class="watch">Watching:</span>${chans}</div>
+        ${chans ? `<div class="channels"><span class="watch">Watching:</span>${chans}</div>` : ""}
+        ${s.manual ? `<p class="note manual">Not checked automatically. ${esc(s.manual)}</p>` : ""}
         ${s.notes ? `<p class="note">${esc(s.notes)}</p>` : ""}
       </div>`;
     }).join("") || `<div class="empty">No sources match.</div>`;

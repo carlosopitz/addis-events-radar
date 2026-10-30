@@ -104,6 +104,7 @@ input[type="search"] { flex: 1 1 220px; min-width: 180px; }
 .dot.bad { background: var(--bad); }
 .dot.idle { background: var(--muted); }
 .note { font-size: 13px; color: var(--muted); margin: 0; }
+.note.manual { color: var(--event); }
 
 /* health */
 .hint { color: var(--muted); font-size: 14px; max-width: 70ch; }

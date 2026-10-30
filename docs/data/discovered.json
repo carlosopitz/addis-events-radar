@@ -1,0 +1,595 @@
+{
+ "checked": "2026-10-30T08:01:39+00:00",
+ "sources": {
+  "goethe": {
+   "id": "goethe",
+   "checked": "2026-10-30T07:59:27+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://www.goethe.de/ins/et/en/ver.html: HTTPError 403 Client Error: Forbidden for url: https://www.goethe.de/ins/et/en/ver.html"
+  },
+  "alliance": {
+   "id": "alliance",
+   "checked": "2026-10-30T07:59:27+00:00",
+   "links": {
+    "facebook": [
+     "https://web.facebook.com/aefaddis/?_rdc=1&_rdr"
+    ],
+    "linkedin": [
+     "https://www.linkedin.com/company/aefaa"
+    ]
+   },
+   "feeds": [
+    "https://allianceaddis.org/feed/",
+    "https://allianceaddis.org/comments/feed/"
+   ],
+   "newsletter": [
+    "https://allianceaddis.org/"
+   ],
+   "error": null
+  },
+  "iic": {
+   "id": "iic",
+   "checked": "2026-10-30T07:59:27+00:00",
+   "links": {
+    "facebook": [
+     "https://www.facebook.com/iicaddisababa"
+    ],
+    "instagram": [
+     "https://www.instagram.com/iicaddisabeba"
+    ],
+    "youtube": [
+     "https://www.youtube.com/channel/UC_COHlwEZ_QRGQspv3-OldQ"
+    ]
+   },
+   "feeds": [
+    "https://iicaddisabeba.esteri.it/en/feed/",
+    "https://iicaddisabeba.esteri.it/en/comments/feed/"
+   ],
+   "newsletter": [],
+   "error": null
+  },
+  "british-council": {
+   "id": "british-council",
+   "checked": "2026-10-30T07:59:27+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://ethiopia.britishcouncil.org/events: ReadTimeout HTTPSConnectionPool(host='ethiopia.britishcouncil.org', port=443): Read timed out. (read timeout=30)"
+  },
+  "eu-ethiopia": {
+   "id": "eu-ethiopia",
+   "checked": "2026-10-30T07:59:27+00:00",
+   "links": {
+    "x": [
+     "https://twitter.com/EUinEthiopia"
+    ],
+    "facebook": [
+     "https://www.facebook.com/eudelethiopia"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [
+    "https://www.eeas.europa.eu/news-channels_en?s=98"
+   ],
+   "error": null
+  },
+  "eu-au": {
+   "id": "eu-au",
+   "checked": "2026-10-30T07:59:27+00:00",
+   "links": {
+    "x": [
+     "https://twitter.com/EUtoAU"
+    ],
+    "facebook": [
+     "https://www.facebook.com/EU.Delegation.to.the.African.Union"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [
+    "https://www.consilium.europa.eu/en/meetings/fac/2026/10/12/?utm_source=brevo&utm_campaign=AUTOMATED%20-%20Alert%20-%20Newsletter&utm_medium=email&utm_id=3318",
+    "https://www.eeas.europa.eu/news-channels_en?s=43"
+   ],
+   "error": null
+  },
+  "euff": {
+   "id": "euff",
+   "checked": "2026-10-30T07:59:27+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "austria": {
+   "id": "austria",
+   "checked": "2026-10-30T07:59:27+00:00",
+   "links": {
+    "x": [
+     "https://twitter.com/AustriainET"
+    ],
+    "bluesky": [
+     "https://bsky.app/profile/bmeia.gv.at"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "germany": {
+   "id": "germany",
+   "checked": "2026-10-30T07:59:27+00:00",
+   "links": {
+    "x": [
+     "https://twitter.com/GERonAfrica",
+     "https://x.com/GerEmbAddis"
+    ],
+    "facebook": [
+     "https://www.facebook.com/GermanEmbassyAddis"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "france": {
+   "id": "france",
+   "checked": "2026-10-30T07:59:27+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "italy": {
+   "id": "italy",
+   "checked": "2026-10-30T07:59:28+00:00",
+   "links": {
+    "x": [
+     "https://twitter.com/ItalyinEthiopia"
+    ],
+    "facebook": [
+     "https://www.facebook.com/italyinethiopia"
+    ],
+    "instagram": [
+     "https://www.instagram.com/italyinethiopia"
+    ]
+   },
+   "feeds": [
+    "https://ambaddisabeba.esteri.it/en/feed/",
+    "https://ambaddisabeba.esteri.it/en/comments/feed/"
+   ],
+   "newsletter": [],
+   "error": null
+  },
+  "spain": {
+   "id": "spain",
+   "checked": "2026-10-30T07:59:29+00:00",
+   "links": {
+    "facebook": [
+     "https://www.facebook.com/EmbEspEtiopia/?fref=ts",
+     "https://www.facebook.com/Exteriores.maec"
+    ],
+    "x": [
+     "https://twitter.com/EmbSpainAddis",
+     "https://twitter.com/MAECgob",
+     "https://x.com/spainmfa"
+    ],
+    "youtube": [
+     "https://www.youtube.com/user/canalmaectv"
+    ],
+    "instagram": [
+     "https://www.instagram.com/exteriores.maec"
+    ],
+    "bluesky": [
+     "https://bsky.app/profile/exterioresgob.bsky.social"
+    ],
+    "linkedin": [
+     "https://es.linkedin.com/company/ministerio-de-asuntos-exteriores-union-europea-y-cooperacion"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "netherlands": {
+   "id": "netherlands",
+   "checked": "2026-10-30T07:59:29+00:00",
+   "links": {
+    "facebook": [
+     "https://www.facebook.com/DutchEmbassyEthiopia"
+    ],
+    "x": [
+     "https://twitter.com/NLinEthiopia"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "sweden": {
+   "id": "sweden",
+   "checked": "2026-10-30T07:59:29+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://www.swedenabroad.se/en/embassies/ethiopia-addis-abeba/current-events/news/: HTTPError 403 Client Error: Forbidden for url: https://www.swedenabroad.se/en/embassies/ethiopia-addis-abeba/current-events/news/"
+  },
+  "finland": {
+   "id": "finland",
+   "checked": "2026-10-30T07:59:29+00:00",
+   "links": {
+    "facebook": [
+     "http://www.facebook.com/FinEmbAddis"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://finlandabroad.fi/web/eth/en: HTTPError 404 Client Error: Not Found for url: https://finlandabroad.fi/web/eth/en"
+  },
+  "denmark": {
+   "id": "denmark",
+   "checked": "2026-10-30T07:59:29+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://etiopien.um.dk/en/news: HTTPError 520 Server Error: <none> for url: https://etiopien.um.dk/en/news"
+  },
+  "ireland": {
+   "id": "ireland",
+   "checked": "2026-10-30T07:59:29+00:00",
+   "links": {
+    "x": [
+     "http://twitter.com/IEAmbEthiopia",
+     "https://x.com/IrlEmbEthiopia",
+     "https://twitter.com/IrlEmbEthiopia"
+    ],
+    "linkedin": [
+     "https://www.linkedin.com/company/embassy-of-ireland-ethiopia"
+    ],
+    "youtube": [
+     "https://youtube.com/user/IrishForeignMinistry"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "belgium": {
+   "id": "belgium",
+   "checked": "2026-10-30T07:59:29+00:00",
+   "links": {
+    "facebook": [
+     "https://www.facebook.com/BelgiumAddis"
+    ],
+    "x": [
+     "https://x.com/BelgiumAddis"
+    ],
+    "linkedin": [
+     "https://www.linkedin.com/company/embassy-of-belgium-in-addis-ababa/posts/?feedView=all"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "czechia": {
+   "id": "czechia",
+   "checked": "2026-10-30T07:59:29+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "poland": {
+   "id": "poland",
+   "checked": "2026-10-30T07:59:30+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "hungary": {
+   "id": "hungary",
+   "checked": "2026-10-30T07:59:30+00:00",
+   "links": {
+    "facebook": [
+     "https://www.facebook.com/pages/K%C3%BCl%C3%BCgyi-%C3%A9s-K%C3%BClgazdas%C3%A1gi-Int%C3%A9zet/481757045295140?fref=ts"
+    ],
+    "x": [
+     "https://twitter.com/twitter"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "slovakia": {
+   "id": "slovakia",
+   "checked": "2026-10-30T07:59:30+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://www.mzv.sk/web/addisabeba: HTTPError 403 Client Error: Forbidden for url: https://www.mzv.sk/web/addisabeba"
+  },
+  "romania": {
+   "id": "romania",
+   "checked": "2026-10-30T07:59:30+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://addisabeba.mae.ro/en: ConnectionError HTTPSConnectionPool(host='addisabeba.mae.ro', port=443): Max retries exceeded with url: /en (Caused by NewConnectionErro"
+  },
+  "uk": {
+   "id": "uk",
+   "checked": "2026-10-30T07:59:31+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "switzerland": {
+   "id": "switzerland",
+   "checked": "2026-10-30T07:59:31+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://www.eda.admin.ch/countries/ethiopia/en/home.html: HTTPError 403 Client Error: Forbidden for url: https://www.eda.admin.ch/countries/ethiopia/en/home.html"
+  },
+  "norway": {
+   "id": "norway",
+   "checked": "2026-10-30T07:59:31+00:00",
+   "links": {
+    "facebook": [
+     "https://www.facebook.com/norwayembassyaddisababa"
+    ],
+    "instagram": [
+     "https://www.instagram.com/norwayinethiopia"
+    ],
+    "x": [
+     "https://twitter.com/NorwayinAddis"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "turkey": {
+   "id": "turkey",
+   "checked": "2026-10-30T07:59:31+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://addisababa.emb.mfa.gov.tr/Mission/Announcements: ConnectionError HTTPSConnectionPool(host='addisababa.emb.mfa.gov.tr', port=443): Max retries exceeded with url: /Mission/Announcements ("
+  },
+  "armenia": {
+   "id": "armenia",
+   "checked": "2026-10-30T07:59:31+00:00",
+   "links": {
+    "facebook": [
+     "https://www.facebook.com/MFA.Armenia",
+     "https://www.facebook.com/facebook"
+    ],
+    "x": [
+     "https://x.com/MFAofArmenia"
+    ],
+    "youtube": [
+     "https://www.youtube.com/user/MFAofArmenia/featured"
+    ],
+    "instagram": [
+     "https://www.instagram.com/mfa_of_armenia"
+    ],
+    "telegram": [
+     "https://t.me/MFAITofArmenia"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "usa": {
+   "id": "usa",
+   "checked": "2026-10-30T07:59:31+00:00",
+   "links": {
+    "facebook": [
+     "https://www.facebook.com/us.emb.addisababa"
+    ],
+    "x": [
+     "https://x.com/USEmbassyAddis",
+     "https://x.com/potus",
+     "https://x.com/VP",
+     "https://x.com/SecRubio"
+    ],
+    "youtube": [
+     "https://www.youtube.com/channel/UCfPloBvNe36a0jNS3z1HS8A"
+    ],
+    "instagram": [
+     "https://www.instagram.com/usembassyaddisababa"
+    ]
+   },
+   "feeds": [
+    "https://et.usembassy.gov/feed/"
+   ],
+   "newsletter": [],
+   "error": "https://et.usembassy.gov/news-events/: HTTPError 404 Client Error: Not Found for url: https://et.usembassy.gov/news-events/"
+  },
+  "canada": {
+   "id": "canada",
+   "checked": "2026-10-30T07:59:32+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://www.international.gc.ca/country-pays/ethiopia-ethiopie/addis_ababa.aspx?lang=eng: HTTPError 404 Client Error: Not Found for url: https://www.international.gc.ca/country-pays/ethiopia-ethiopie/addis_ababa.aspx?lan"
+  },
+  "mexico": {
+   "id": "mexico",
+   "checked": "2026-10-30T07:59:32+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "venezuela": {
+   "id": "venezuela",
+   "checked": "2026-10-30T07:59:32+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "colombia": {
+   "id": "colombia",
+   "checked": "2026-10-30T07:59:32+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://etiopia.embajada.gov.co/newsroom/news: HTTPError 403 Client Error: Forbidden for url: https://etiopia.embajada.gov.co/newsroom/news"
+  },
+  "brazil": {
+   "id": "brazil",
+   "checked": "2026-10-30T07:59:33+00:00",
+   "links": {
+    "flickr": [
+     "https://www.flickr.com/photos/mrebrasil/albums"
+    ],
+    "instagram": [
+     "http://instagram.com/itamaratygovbr"
+    ],
+    "facebook": [
+     "https://www.facebook.com/ItamaratyGovBr"
+    ],
+    "youtube": [
+     "https://www.youtube.com/user/MREBRASIL"
+    ],
+    "x": [
+     "https://twitter.com/ItamaratyGovBr",
+     "https://twitter.com/itamaraty_en",
+     "https://twitter.com/itamaraty_es"
+    ],
+    "linkedin": [
+     "https://www.linkedin.com/company/itamaratygovbr"
+    ],
+    "bluesky": [
+     "https://bsky.app/profile/itamaratygovbr.bsky.social"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "argentina": {
+   "id": "argentina",
+   "checked": "2026-10-30T07:59:33+00:00",
+   "links": {
+    "facebook": [
+     "https://www.facebook.com/ArgEnEtiopia"
+    ],
+    "instagram": [
+     "https://www.instagram.com/embaargenetiopia"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "australia": {
+   "id": "australia",
+   "checked": "2026-10-30T07:59:34+00:00",
+   "links": {
+    "facebook": [
+     "https://www.facebook.com/AusEmb.ET?__cft__[0]=AZVDca-vXEC6zhhczgAxm9120mCp0K2y2VVaeA1SOUSaJUA2-bbLS2t2vF29cEW0pw0uDMD52CuS2GGF4lzMquXcArOQ5AkzfVsz5h0g-k1vkO7IUTjgMB4dzOtHzQIcfDyvpLX5fWjdrwHJrv1sdDrnprz6gegXIiRdjIdyc_tl4-dNKtoB7HRu0NF_VH5iF8hGZFRImFzRsl48agG8lusg&__tn__=-]K-R",
+     "https://www.facebook.com/AusEmb.ET"
+    ],
+    "x": [
+     "https://twitter.com/AusEmbET"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "japan": {
+   "id": "japan",
+   "checked": "2026-10-30T07:59:34+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://www.et.emb-japan.go.jp/itpr_en/index.html: HTTPError 403 Client Error: Forbidden for url: https://www.et.emb-japan.go.jp/itpr_en/index.html"
+  },
+  "korea": {
+   "id": "korea",
+   "checked": "2026-10-30T07:59:34+00:00",
+   "links": {
+    "facebook": [
+     "https://www.facebook.com/KoreainEthiopia",
+     "https://www.facebook.com/mofakr.kr"
+    ],
+    "instagram": [
+     "https://www.instagram.com/koreanembassyinethiopia",
+     "https://www.instagram.com/mofa_kr"
+    ],
+    "x": [
+     "https://twitter.com/KoreainEthiopia",
+     "https://x.com/mofa_kr"
+    ],
+    "youtube": [
+     "https://www.youtube.com/user/MOFAKorea"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [
+    "https://overseas.mofa.go.kr/eng/brd/m_26049/view.do?seq=77",
+    "http://www.mofa.go.kr/eng/pgm/m_5694/uss/news/newsSbscrb.do"
+   ],
+   "error": null
+  },
+  "china": {
+   "id": "china",
+   "checked": "2026-10-30T07:59:36+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  },
+  "india": {
+   "id": "india",
+   "checked": "2026-10-30T07:59:36+00:00",
+   "links": {
+    "facebook": [
+     "https://www.facebook.com/IndiaInEthiopia",
+     "https://www.facebook.com/profile.php?id=61584135957737"
+    ],
+    "x": [
+     "https://x.com/indiainethiopia",
+     "https://x.com/BOIndiaOfficial"
+    ],
+    "youtube": [
+     "https://www.youtube.com/@BureauofImmigrationIndia"
+    ],
+    "instagram": [
+     "https://www.instagram.com/bureauofimmigrationindia"
+    ]
+   },
+   "feeds": [],
+   "newsletter": [
+    "https://eoiaddisababa.gov.in/"
+   ],
+   "error": null
+  },
+  "whatsout": {
+   "id": "whatsout",
+   "checked": "2026-10-30T07:59:37+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": "https://whatsoutaddis.com/: HTTPError 403 Client Error: Forbidden for url: https://whatsoutaddis.com/"
+  },
+  "press-culture": {
+   "id": "press-culture",
+   "checked": "2026-10-30T07:59:37+00:00",
+   "links": {},
+   "feeds": [],
+   "newsletter": [],
+   "error": null
+  }
+ }
+}

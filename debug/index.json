@@ -1,311 +1,170 @@
 {
- "goethe:web:2272a94c": {
-  "url": "https://www.goethe.de/ins/et/en/ver.html",
-  "final": "https://www.goethe.de/ins/et/en/ver.html",
-  "status": 403,
-  "bytes": 129,
-  "file": "goethe-web-2272a94c.html"
- },
- "alliance:rss:ed476c10": {
-  "url": "https://allianceaddis.org/feed/",
-  "final": "https://allianceaddis.org/feed/",
+ "alliance:web:d4d64624": {
+  "url": "https://allianceaddis.org/up-coming-events/",
+  "final": "https://allianceaddis.org/up-coming-events/",
   "status": 200,
-  "bytes": 1039,
-  "file": "alliance-rss-ed476c10.html"
+  "bytes": 246988,
+  "file": "alliance-web-d4d64624.html"
  },
- "alliance:web:7ed6734f": {
-  "url": "https://allianceaddis.org/",
-  "final": "https://allianceaddis.org/",
-  "status": 200,
-  "bytes": 406718,
-  "file": "alliance-web-7ed6734f.html"
- },
- "iic:web:ac6a2445": {
+ "iic:web:d6f905af": {
   "url": "https://iicaddisabeba.esteri.it/en/gli_eventi/calendario/",
   "final": "https://iicaddisabeba.esteri.it/en/gli_eventi/calendario/",
   "status": 200,
   "bytes": 64190,
-  "file": "iic-web-ac6a2445.html"
+  "file": "iic-web-d6f905af.html"
  },
- "iic:rss:e9b95469": {
+ "iic:rss:792e8c65": {
   "url": "https://iicaddisabeba.esteri.it/en/feed/",
   "final": "https://iicaddisabeba.esteri.it/en/feed/",
   "status": 200,
   "bytes": 6979,
-  "file": "iic-rss-e9b95469.html"
+  "file": "iic-rss-792e8c65.html"
  },
- "british-council:web:779de7c6": {
-  "url": "https://ethiopia.britishcouncil.org/events",
-  "final": "https://ethiopia.britishcouncil.org/events",
-  "status": 403,
-  "bytes": 385,
-  "file": "british-council-web-779de7c6.html"
- },
- "eu-ethiopia:web:236e2f32": {
+ "eu-ethiopia:web:c22c99b3": {
   "url": "https://www.eeas.europa.eu/delegations/ethiopia_en",
   "final": "https://www.eeas.europa.eu/delegations/ethiopia_en",
   "status": 200,
   "bytes": 82864,
-  "file": "eu-ethiopia-web-236e2f32.html"
+  "file": "eu-ethiopia-web-c22c99b3.html"
  },
- "eu-au:web:1362f7f1": {
+ "eu-au:web:5d09dde5": {
   "url": "https://www.eeas.europa.eu/delegations/african-union-au_en",
   "final": "https://www.eeas.europa.eu/delegations/african-union-au_en",
   "status": 200,
   "bytes": 83641,
-  "file": "eu-au-web-1362f7f1.html"
+  "file": "eu-au-web-5d09dde5.html"
  },
- "austria:web:fef984e6": {
+ "austria:web:104b1502": {
   "url": "https://www.bmeia.gv.at/oeb-addis-abeba/aktuelles",
   "final": "https://www.bmeia.gv.at/oeb-addis-abeba/aktuelles",
   "status": 200,
   "bytes": 172800,
-  "file": "austria-web-fef984e6.html"
+  "file": "austria-web-104b1502.html"
  },
- "germany:web:e9028338": {
-  "url": "https://addis-abeba.diplo.de/et-de",
-  "final": "https://addis-abeba.diplo.de/et-de",
+ "france:web:746835ee": {
+  "url": "https://et.diplomatie.gouv.fr/fr/actualites-evenements",
+  "final": "https://et.diplomatie.gouv.fr/fr/actualites-evenements",
   "status": 200,
-  "bytes": 81245,
-  "file": "germany-web-e9028338.html"
+  "bytes": 32758,
+  "file": "france-web-746835ee.html"
  },
- "france:rss:d35fa466": {
-  "url": "https://et.ambafrance.org/spip.php?page=backend",
-  "final": "https://et.diplomatie.gouv.fr/fr",
-  "status": 200,
-  "bytes": 38398,
-  "file": "france-rss-d35fa466.html"
- },
- "france:web:2fb8166f": {
-  "url": "https://et.ambafrance.org/",
-  "final": "https://et.diplomatie.gouv.fr/fr",
-  "status": 200,
-  "bytes": 38398,
-  "file": "france-web-2fb8166f.html"
- },
- "italy:web:1e10e246": {
-  "url": "https://ambaddisabeba.esteri.it/en/",
-  "final": "https://ambaddisabeba.esteri.it/en/",
-  "status": 200,
-  "bytes": 83474,
-  "file": "italy-web-1e10e246.html"
- },
- "italy:rss:269b1f60": {
+ "italy:rss:ecc91bee": {
   "url": "https://ambaddisabeba.esteri.it/en/feed/",
   "final": "https://ambaddisabeba.esteri.it/en/feed/",
   "status": 200,
   "bytes": 26358,
-  "file": "italy-rss-269b1f60.html"
+  "file": "italy-rss-ecc91bee.html"
  },
- "spain:web:3710f92d": {
-  "url": "https://www.exteriores.gob.es/Embajadas/addisabeba/en/Paginas/index.aspx",
-  "final": "https://www.exteriores.gob.es/Embajadas/addisabeba/en/Paginas/index.aspx",
-  "status": 200,
-  "bytes": 41608,
-  "file": "spain-web-3710f92d.html"
+ "spain:web:4929fd6e": {
+  "url": "https://www.exteriores.gob.es/Embajadas/addisabeba/en/Comunicacion/Noticias",
+  "final": "https://www.exteriores.gob.es/Embajadas/addisabeba/en/Comunicacion/Noticias/Paginas/index.aspx",
+  "status": 503,
+  "bytes": 365,
+  "file": "spain-web-4929fd6e.html"
  },
- "netherlands:web:570fdf92": {
+ "netherlands:web:5f5286ca": {
   "url": "https://www.netherlandsandyou.nl/web/ethiopia",
   "final": "https://www.netherlandsandyou.nl/web/ethiopia",
   "status": 200,
-  "bytes": 147201,
-  "file": "netherlands-web-570fdf92.html"
+  "bytes": 147202,
+  "file": "netherlands-web-5f5286ca.html"
  },
- "sweden:web:661d0de1": {
-  "url": "https://www.swedenabroad.se/en/embassies/ethiopia-addis-abeba/current-events/news/",
-  "final": "https://www.swedenabroad.se/en/embassies/ethiopia-addis-abeba/current-events/news/",
-  "status": 403,
-  "bytes": 5881,
-  "file": "sweden-web-661d0de1.html"
- },
- "finland:web:534db48b": {
+ "finland:web:2dcb3483": {
   "url": "https://finlandabroad.fi/web/eth/current-affairs",
   "final": "https://finlandabroad.fi/web/eth/current-affairs",
   "status": 200,
-  "bytes": 120104,
-  "file": "finland-web-534db48b.html"
+  "bytes": 121399,
+  "file": "finland-web-2dcb3483.html"
  },
- "denmark:web:f2ccd8f8": {
-  "url": "https://etiopien.um.dk/en/news",
-  "final": "https://etiopien.um.dk/en/news",
-  "status": 520,
-  "bytes": 659196,
-  "file": "denmark-web-f2ccd8f8.html"
- },
- "ireland:web:1ac0f6eb": {
-  "url": "https://www.ireland.ie/en/ethiopia/addisababa/news-and-events/",
-  "final": "https://www.ireland.ie/en/ethiopia/addisababa/news-and-events/",
+ "ireland:web:1e63671d": {
+  "url": "https://www.ireland.ie/en/ethiopia/addisababa/news-and-events/news-archive/",
+  "final": "https://www.ireland.ie/en/ethiopia/addisababa/news-and-events/news-archive/",
   "status": 200,
-  "bytes": 269091,
-  "file": "ireland-web-1ac0f6eb.html"
+  "bytes": 269512,
+  "file": "ireland-web-1e63671d.html"
  },
- "belgium:web:21466b55": {
-  "url": "https://ethiopia.diplomatie.belgium.be/en",
-  "final": "https://ethiopia.diplomatie.belgium.be/en",
-  "status": 200,
-  "bytes": 149096,
-  "file": "belgium-web-21466b55.html"
- },
- "czechia:web:c57435e8": {
+ "czechia:web:f888c567": {
   "url": "https://mzv.gov.cz/addisababa/en/news_and_events/",
   "final": "https://mzv.gov.cz/addisababa/en/news_and_events/",
   "status": 200,
   "bytes": 164165,
-  "file": "czechia-web-c57435e8.html"
+  "file": "czechia-web-f888c567.html"
  },
- "poland:web:c7888b42": {
-  "url": "https://www.gov.pl/web/etiopia/wiadomosci",
-  "final": "https://www.gov.pl/",
+ "poland:web:4da1a045": {
+  "url": "https://www.gov.pl/web/etiopia",
+  "final": "https://www.gov.pl/web/etiopia",
   "status": 200,
-  "bytes": 40444,
-  "file": "poland-web-c7888b42.html"
+  "bytes": 25953,
+  "file": "poland-web-4da1a045.html"
  },
- "hungary:web:00f7b568": {
+ "hungary:web:d69b7095": {
   "url": "https://addisababa.mfa.gov.hu/en/articles",
   "final": "https://addisababa.mfa.gov.hu/en/articles",
   "status": 200,
   "bytes": 2603939,
-  "file": "hungary-web-00f7b568.html"
+  "file": "hungary-web-d69b7095.html"
  },
- "slovakia:web:0bb58459": {
-  "url": "https://www.mzv.sk/web/addisabeba",
-  "final": "https://www.mzv.sk/web/addisabeba",
-  "status": 403,
-  "bytes": 5688,
-  "file": "slovakia-web-0bb58459.html"
- },
- "romania:web:f31f10d7": {
-  "url": "https://addisabeba.mae.ro/en",
-  "error": "ConnectionError: HTTPSConnectionPool(host='addisabeba.mae.ro', port=443): Max retries exceeded with url: /en (Caused by NewConnectionError(\"HTTPSConnection(host='addisabeba.mae."
- },
- "uk:rss:f9dd5d62": {
+ "uk:rss:e15c354f": {
   "url": "https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=ethiopia",
   "final": "https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=ethiopia",
   "status": 200,
   "bytes": 12489,
-  "file": "uk-rss-f9dd5d62.html"
+  "file": "uk-rss-e15c354f.html"
  },
- "switzerland:web:39385254": {
-  "url": "https://www.eda.admin.ch/countries/ethiopia/en/home.html",
-  "final": "https://www.schweiz-aethiopien.eda.admin.ch/en",
+ "norway:web:cbd13a41": {
+  "url": "https://www.norway.no/en/ethiopia/norway-ethiopia/news-events/",
+  "final": "https://www.norway.no/en/ethiopia/norway-ethiopia/news-events/",
   "status": 200,
-  "bytes": 114098,
-  "file": "switzerland-web-39385254.html"
+  "bytes": 20925,
+  "file": "norway-web-cbd13a41.html"
  },
- "norway:web:33db4bf1": {
-  "url": "https://www.norway.no/en/ethiopia/",
-  "final": "https://www.norway.no/en/ethiopia/",
-  "status": 200,
-  "bytes": 24564,
-  "file": "norway-web-33db4bf1.html"
- },
- "turkey:web:ccfb7361": {
-  "url": "https://addisababa.be.mfa.gov.tr/Mission/Announcements",
-  "error": "ConnectionError: HTTPSConnectionPool(host='addisababa.be.mfa.gov.tr', port=443): Max retries exceeded with url: /Mission/Announcements (Caused by NameResolutionError(\"HTTPSConne"
- },
- "armenia:web:e350a66c": {
-  "url": "https://ethiopia.mfa.am/en/news",
-  "final": "https://www.mfa.am/hy/",
-  "status": 200,
-  "bytes": 66242,
-  "file": "armenia-web-e350a66c.html"
- },
- "usa:rss:a4669847": {
+ "usa:rss:2d5a66a6": {
   "url": "https://et.usembassy.gov/feed/",
   "final": "https://et.usembassy.gov/feed/",
   "status": 200,
   "bytes": 104421,
-  "file": "usa-rss-a4669847.html"
+  "file": "usa-rss-2d5a66a6.html"
  },
- "canada:web:4cffdf9a": {
-  "url": "https://www.international.gc.ca/country-pays/ethiopia-ethiopie/index.aspx?lang=eng",
-  "final": "https://www.international.gc.ca/country-pays/ethiopia-ethiopie/index.aspx?lang=eng",
+ "canada:rss:77b2dbff": {
+  "url": "https://www.international.gc.ca/country-pays/rss/ethiopia-ethiopie/news-nouvelles_eng.xml",
+  "final": "https://www.international.gc.ca/country-pays/rss/ethiopia-ethiopie/news-nouvelles_eng.xml",
   "status": 200,
-  "bytes": 35708,
-  "file": "canada-web-4cffdf9a.html"
+  "bytes": 1961,
+  "file": "canada-rss-77b2dbff.html"
  },
- "mexico:rss:01f0034b": {
-  "url": "https://embamex.sre.gob.mx/etiopia/index.php/ver-comunicados?format=feed&type=rss",
-  "final": "https://embamex.sre.gob.mx/etiopia/index.php/ver-comunicados?format=feed&type=rss",
+ "mexico:web:65eeba64": {
+  "url": "https://portales.sre.gob.mx/saladeprensa/lista-de-embajadas/etiopia",
+  "final": "https://mantenimiento.sre.gob.mx//lista-de-embajadas/etiopia",
   "status": 200,
-  "bytes": 118366,
-  "file": "mexico-rss-01f0034b.html"
+  "bytes": 369,
+  "file": "mexico-web-65eeba64.html"
  },
- "mexico:web:f0114dfb": {
-  "url": "https://embamex.sre.gob.mx/etiopia/index.php/ver-comunicados",
-  "final": "https://embamex.sre.gob.mx/etiopia/index.php/ver-comunicados",
-  "status": 200,
-  "bytes": 118366,
-  "file": "mexico-web-f0114dfb.html"
- },
- "colombia:web:f505776f": {
-  "url": "https://etiopia.embajada.gov.co/newsroom/news",
-  "final": "https://etiopia.embajada.gov.co/newsroom/news",
-  "status": 403,
-  "bytes": 5612,
-  "file": "colombia-web-f505776f.html"
- },
- "brazil:web:93fac9a5": {
-  "url": "https://www.gov.br/mre/pt-br/embaixada-adis-abeba",
-  "final": "https://www.gov.br/mre/pt-br/embaixada-adis-abeba",
-  "status": 200,
-  "bytes": 201582,
-  "file": "brazil-web-93fac9a5.html"
- },
- "argentina:web:97452638": {
+ "argentina:web:3f45c851": {
   "url": "https://eetio.cancilleria.gob.ar/",
   "final": "https://eetio.cancilleria.gob.ar/",
   "status": 200,
   "bytes": 36868,
-  "file": "argentina-web-97452638.html"
+  "file": "argentina-web-3f45c851.html"
  },
- "australia:web:815ce9aa": {
-  "url": "https://ethiopia.embassy.gov.au/",
-  "final": "https://ethiopia.embassy.gov.au/",
-  "status": 200,
-  "bytes": 48294,
-  "file": "australia-web-815ce9aa.html"
- },
- "japan:web:1ac4c7ea": {
-  "url": "https://www.et.emb-japan.go.jp/itpr_en/index.html",
-  "final": "https://www.et.emb-japan.go.jp/itpr_en/index.html",
-  "status": 403,
-  "bytes": 418,
-  "file": "japan-web-1ac4c7ea.html"
- },
- "korea:web:ea001057": {
+ "korea:web:3506795c": {
   "url": "https://overseas.mofa.go.kr/et-en/index.do",
   "final": "https://overseas.mofa.go.kr/et-en/index.do",
   "status": 200,
   "bytes": 110687,
-  "file": "korea-web-ea001057.html"
+  "file": "korea-web-3506795c.html"
  },
- "china:web:078a6e7b": {
-  "url": "http://et.china-embassy.gov.cn/eng/",
+ "china:web:2cc727ca": {
+  "url": "https://et.china-embassy.gov.cn/eng/",
   "final": "https://et.china-embassy.gov.cn/eng/",
   "status": 200,
   "bytes": 15864,
-  "file": "china-web-078a6e7b.html"
+  "file": "china-web-2cc727ca.html"
  },
- "india:web:5dd012c7": {
-  "url": "https://www.eoiaddisababa.gov.in/",
+ "india:web:c3a68abb": {
+  "url": "https://eoiaddisababa.gov.in/",
   "final": "https://eoiaddisababa.gov.in/",
   "status": 200,
   "bytes": 78862,
-  "file": "india-web-5dd012c7.html"
- },
- "whatsout:rss:f6aea8be": {
-  "url": "https://whatsoutaddis.com/feed/",
-  "final": "https://whatsoutaddis.com/feed/",
-  "status": 403,
-  "bytes": 5689,
-  "file": "whatsout-rss-f6aea8be.html"
- },
- "whatsout:web:7a71a871": {
-  "url": "https://whatsoutaddis.com/",
-  "final": "https://whatsoutaddis.com/",
-  "status": 403,
-  "bytes": 5653,
-  "file": "whatsout-web-7a71a871.html"
+  "file": "india-web-c3a68abb.html"
  }
 }

@@ -47,9 +47,9 @@ EVENT_WORDS = [
     "concert", "exhibition", "exhibit", "screening", "film", "cinema", "movie", "festival",
     "workshop", "lecture", "talk", "panel", "seminar", "symposium", "reading", "book launch",
     "performance", "theatre", "theater", "dance", "music", "jazz", "art ", "gallery", "open day",
-    "open house", "celebration", "celebrate", "fair", "bazaar", "market", "competition", "quiz",
+    "open house", "celebration", "celebrate", "fair", "bazaar", "competition", "quiz",
     "tasting", "gala", "cultural week", "culture week", "week of", "invitation", "you are invited",
-    "join us", "register", "registration", "tickets", "free entrance", "free of charge", "free admission",
+    "join us", "tickets", "free entrance", "free of charge", "free admission",
     "photo exhibition", "showcase", "masterclass", "recital", "opera", "choir", "poetry",
     # de
     "konzert", "ausstellung", "lesung", "vortrag", "veranstaltung", "filmvorführung", "einladung",
@@ -63,7 +63,8 @@ EVENT_WORDS = [
     # it
     "mostra", "proiezione", "rassegna", "spettacolo", "laboratorio", "settimana", "incontro",
 ]
-EVENT_RE = re.compile("|".join(re.escape(w) for w in EVENT_WORDS), re.I)
+EVENT_RE = re.compile(r"\b(" + "|".join(re.escape(w) for w in EVENT_WORDS) + ")", re.I)
+STALE_DAYS = 14   # a "new" link whose own date is older than this is backfill, not news
 
 DEFAULT_EXCLUDE = re.compile(
     r"(mailto:|tel:|javascript:|/login|/signin|/search|/suche|/contact|/kontakt|impressum|imprint|"
@@ -210,6 +211,16 @@ def make_soup(r: requests.Response) -> BeautifulSoup:
     if soup.body is None or len(soup.find_all("a")) < 3:      # lxml gave up on a malformed page
         soup = BeautifulSoup(r.content, "html.parser")
     return soup
+
+
+def is_stale(published: str | None, stamp: str) -> bool:
+    if not published:
+        return False
+    try:
+        age = datetime.fromisoformat(stamp[:10]) - datetime.fromisoformat(published[:10])
+    except ValueError:
+        return False
+    return age.days > STALE_DAYS
 
 
 def is_event(*texts: str) -> bool:
@@ -609,7 +620,7 @@ def cmd_check() -> None:
                     "summary": it.get("summary", ""),
                     "published": it.get("published"),
                     "first_seen": stamp,
-                    "baseline": baseline,
+                    "baseline": baseline or is_stale(it.get("published"), stamp),
                     "event": is_event(it["title"], it.get("summary", "")),
                 }
                 fresh.append(item)
@@ -629,6 +640,8 @@ def cmd_check() -> None:
             "sample": [i["title"] for i in res["items"][:5]],
         }
 
+    for it in items:
+        it["event"] = is_event(it["title"], it.get("summary", ""))
     # newest first; keep the store bounded
     items = sorted(new_items, key=lambda i: (i["published"] or "", i["title"]), reverse=True) + items
     items = items[:MAX_ITEMS]

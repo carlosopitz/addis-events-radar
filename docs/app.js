@@ -167,15 +167,18 @@
   function mergedLinks(s) {
     const out = [];
     const seen = new Set();
+    const norm = (u) => u.toLowerCase().replace(/^https?:\/\/(www\.|web\.|m\.)?/, "").replace(/^twitter\.com/, "x.com")
+      .replace(/[?#].*$/, "").replace(/\/$/, "");
     const add = (kind, url, found) => {
-      const k = url.replace(/\/$/, "").toLowerCase();
+      const k = norm(url);
       if (seen.has(k)) return; seen.add(k); out.push({ kind, url, found });
     };
-    for (const [k, v] of Object.entries(s.links || {})) add(k, v, false);
+    const curated = s.links || {};
+    for (const [k, v] of Object.entries(curated)) add(k, v, false);
     const d = (state.discovered.sources || {})[s.id];
-    if (d) {
-      for (const [k, arr] of Object.entries(d.links || {})) arr.slice(0, 2).forEach((u) => add(k, u, true));
-      (d.newsletter || []).slice(0, 1).forEach((u) => add("newsletter", u, true));
+    if (d) { // links found on their website, unless a hand-checked link of that kind exists
+      for (const [k, arr] of Object.entries(d.links || {})) if (!curated[k]) arr.slice(0, 1).forEach((u) => add(k, u, true));
+      if (!curated.newsletter) (d.newsletter || []).slice(0, 1).forEach((u) => add("newsletter", u, true));
     }
     return out;
   }

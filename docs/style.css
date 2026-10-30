@@ -46,6 +46,7 @@ h1 { font: 600 24px/1.1 var(--serif); margin: 0; letter-spacing: -0.01em; }
 .tabs button { appearance: none; border: 0; background: none; color: var(--muted); font: 500 14px var(--sans);
   padding: 10px 12px; border-bottom: 2px solid transparent; cursor: pointer; }
 .tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+.count[hidden] { display: none; }
 .count { display: inline-block; min-width: 20px; padding: 0 6px; margin-left: 4px; border-radius: 10px;
   background: var(--new); color: #fff; font-size: 12px; line-height: 20px; text-align: center; }
 

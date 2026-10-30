@@ -488,18 +488,20 @@ def flag(cc: str) -> str:
     return "".join(chr(0x1F1E6 + ord(c) - ord("A")) for c in cc.upper())
 
 
-def ntfy(title: str, message: str, click: str | None = None, priority: int = 3, tags=None) -> None:
+def ntfy(title: str, message: str, click: str | None = None, priority: int = 3, tags=None) -> str:
     if not NTFY_TOPIC:
-        return
+        return "no topic"
     body = {"topic": NTFY_TOPIC, "title": title[:250], "message": message[:3800], "priority": priority}
     if click:
         body["click"] = click
     if tags:
         body["tags"] = tags
     try:
-        requests.post(NTFY_SERVER, json=body, timeout=20)
+        r = requests.post(NTFY_SERVER, json=body, timeout=20)
+        return f"HTTP {r.status_code}"
     except requests.RequestException as e:
         print(f"ntfy failed: {e}", file=sys.stderr)
+        return f"{type(e).__name__}"
 
 
 def notify(new_items: list[dict], src_by_id: dict, first_run: bool, n_channels: int) -> None:
@@ -699,11 +701,12 @@ def cmd_discover() -> None:
 
 
 def cmd_ping() -> None:
-    if not NTFY_TOPIC:
-        sys.exit("NTFY_TOPIC secret is not set")
-    ntfy("Addis Events Radar: test", "Notifications are working. Tap to open the dashboard.",
-         click=DASHBOARD_URL, tags=["white_check_mark"])
-    print("test notification sent")
+    result = ntfy("Addis Events Radar: test", "Notifications are working. Tap to open the dashboard.",
+                  click=DASHBOARD_URL, tags=["white_check_mark"])
+    report = {"sent": now_iso(), "topic_set": bool(NTFY_TOPIC), "topic_length": len(NTFY_TOPIC),
+              "topic_hint": (NTFY_TOPIC[:12] + "…") if NTFY_TOPIC else "", "result": result}
+    save_json(DATA / "ping.json", report)
+    print(report)
 
 
 def cmd_snapshot() -> None:

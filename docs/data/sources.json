@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T08:57:32+00:00",
+ "generated": "2026-10-30T09:01:39+00:00",
  "sources": [
   {
    "id": "goethe",
@@ -667,25 +667,15 @@
    "kind": "venue",
    "region": "local",
    "homepage": "https://www.hyatt.com/hyatt-regency/en-US/addra-hyatt-regency-addis-ababa",
-   "notes": "The \"Hyatt Happenings\" programme itself is not published on the web. Its events are tracked through Hyatt's news page, the All Addis Events venue listing and press coverage.",
-   "links": {},
+   "manual": "hyatt.com blocks automated readers, and the \"Hyatt Happenings\" programme is not published on the web. Event coverage in the press is monitored instead.",
+   "links": {
+    "events": "https://www.hyatt.com/en-US/hotel/ethiopia/hyatt-regency-addis-ababa/addra/news-events"
+   },
    "channels": [
     {
-     "key": "hyatt:web:debe6434",
-     "type": "web",
-     "url": "https://www.hyatt.com/en-US/hotel/ethiopia/hyatt-regency-addis-ababa/addra/news-events",
-     "label": null
-    },
-    {
-     "key": "hyatt:web:0b64d713",
-     "type": "web",
-     "url": "https://www.alladdisevents.com/venue/hyatt-regency-addis-ababa/",
-     "label": "All Addis Events"
-    },
-    {
-     "key": "hyatt:gnews:420f62d6",
+     "key": "hyatt:gnews:f99db60f",
      "type": "gnews",
-     "url": "\"Hyatt Regency Addis Ababa\"",
+     "url": "\"Hyatt Regency Addis Ababa\" (concert OR exhibition OR festival OR bazaar OR \"fashion week\" OR brunch OR night OR event)",
      "label": null
     }
    ]
@@ -697,48 +687,13 @@
    "kind": "venue",
    "region": "local",
    "homepage": "https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/",
+   "manual": "hilton.com does not answer automated readers. Event coverage in the press is monitored instead.",
    "links": {},
    "channels": [
     {
-     "key": "hilton:web:47ee62be",
-     "type": "web",
-     "url": "https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/events/",
-     "label": null
-    },
-    {
-     "key": "hilton:web:a2909b45",
-     "type": "web",
-     "url": "https://www.alladdisevents.com/venue/hilton-addis-ababa/",
-     "label": "All Addis Events"
-    },
-    {
-     "key": "hilton:gnews:264c9dec",
+     "key": "hilton:gnews:49449a81",
      "type": "gnews",
-     "url": "\"Hilton Addis Ababa\" OR \"Hilton Addis Abeba\"",
-     "label": null
-    }
-   ]
-  },
-  {
-   "id": "alladdisevents",
-   "name": "All Addis Events",
-   "country": "ET",
-   "kind": "aggregator",
-   "region": "local",
-   "homepage": "https://www.alladdisevents.com/",
-   "notes": "Independent listing of public events across Addis, organised by venue.",
-   "links": {},
-   "channels": [
-    {
-     "key": "alladdisevents:rss:fa5fc10c",
-     "type": "rss",
-     "url": "https://www.alladdisevents.com/feed/",
-     "label": null
-    },
-    {
-     "key": "alladdisevents:web:e71a53ba",
-     "type": "web",
-     "url": "https://www.alladdisevents.com/",
+     "url": "\"Hilton Addis\" (concert OR exhibition OR festival OR bazaar OR gala OR brunch OR night OR event)",
      "label": null
     }
    ]

@@ -1,0 +1,785 @@
+{
+ "generated": "2026-10-30T07:58:04+00:00",
+ "sources": [
+  {
+   "id": "goethe",
+   "name": "Goethe-Institut Äthiopien",
+   "country": "DE",
+   "kind": "cultural",
+   "region": "europe",
+   "homepage": "https://www.goethe.de/ins/et/en/index.html",
+   "links": {
+    "telegram": "https://t.me/goetheaddis",
+    "newsletter": "https://www.goethe.de/ins/et/en/index.html"
+   },
+   "channels": [
+    {
+     "key": "goethe:web:fe318a6a",
+     "type": "web",
+     "url": "https://www.goethe.de/ins/et/en/ver.html",
+     "label": null
+    },
+    {
+     "key": "goethe:telegram:55b8568f",
+     "type": "telegram",
+     "url": "goetheaddis",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "alliance",
+   "name": "Alliance Ethio-Française",
+   "country": "FR",
+   "kind": "cultural",
+   "region": "europe",
+   "homepage": "https://allianceaddis.org/",
+   "links": {},
+   "channels": [
+    {
+     "key": "alliance:rss:d3577461",
+     "type": "rss",
+     "url": "https://allianceaddis.org/feed/",
+     "label": null
+    },
+    {
+     "key": "alliance:web:3c0ccfab",
+     "type": "web",
+     "url": "https://allianceaddis.org/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "iic",
+   "name": "Istituto Italiano di Cultura",
+   "country": "IT",
+   "kind": "cultural",
+   "region": "europe",
+   "homepage": "https://iicaddisabeba.esteri.it/en/",
+   "links": {},
+   "channels": [
+    {
+     "key": "iic:web:98308a01",
+     "type": "web",
+     "url": "https://iicaddisabeba.esteri.it/en/gli_eventi/calendario/",
+     "label": null
+    },
+    {
+     "key": "iic:rss:f1c27b40",
+     "type": "rss",
+     "url": "https://iicaddisabeba.esteri.it/en/feed/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "british-council",
+   "name": "British Council Ethiopia",
+   "country": "GB",
+   "kind": "cultural",
+   "region": "europe",
+   "homepage": "https://ethiopia.britishcouncil.org/",
+   "links": {},
+   "channels": [
+    {
+     "key": "british-council:web:2e4c09fb",
+     "type": "web",
+     "url": "https://ethiopia.britishcouncil.org/events",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "eu-ethiopia",
+   "name": "EU Delegation to Ethiopia",
+   "country": "EU",
+   "kind": "eu",
+   "region": "europe",
+   "homepage": "https://www.eeas.europa.eu/delegations/ethiopia_en",
+   "links": {},
+   "channels": [
+    {
+     "key": "eu-ethiopia:web:b2359215",
+     "type": "web",
+     "url": "https://www.eeas.europa.eu/delegations/ethiopia_en",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "eu-au",
+   "name": "EU Delegation to the African Union",
+   "country": "EU",
+   "kind": "eu",
+   "region": "europe",
+   "homepage": "https://www.eeas.europa.eu/delegations/african-union-au_en",
+   "links": {},
+   "channels": [
+    {
+     "key": "eu-au:web:f0d3810e",
+     "type": "web",
+     "url": "https://www.eeas.europa.eu/delegations/african-union-au_en",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "euff",
+   "name": "EU Film Festival Ethiopia",
+   "country": "EU",
+   "kind": "eu",
+   "region": "europe",
+   "notes": "Annual (2026 edition at Videobet Cinema, 24 Oct to 20 Nov). Organised by the EU Delegations with member-state embassies.",
+   "links": {},
+   "channels": [
+    {
+     "key": "euff:gnews:de1ea61d",
+     "type": "gnews",
+     "url": "\"European Union Film Festival\" Addis OR \"European Film Festival\" Addis Ababa",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "austria",
+   "name": "Embassy of Austria",
+   "country": "AT",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://www.bmeia.gv.at/oeb-addis-abeba/",
+   "links": {
+    "x": "https://x.com/AustriainET"
+   },
+   "channels": [
+    {
+     "key": "austria:web:93ea680e",
+     "type": "web",
+     "url": "https://www.bmeia.gv.at/oeb-addis-abeba/aktuelles",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "germany",
+   "name": "Embassy of Germany",
+   "country": "DE",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://addis-abeba.diplo.de/et-de",
+   "links": {},
+   "channels": [
+    {
+     "key": "germany:web:4b3eb3c3",
+     "type": "web",
+     "url": "https://addis-abeba.diplo.de/et-de",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "france",
+   "name": "Embassy of France",
+   "country": "FR",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://et.ambafrance.org/",
+   "links": {},
+   "channels": [
+    {
+     "key": "france:rss:773a7787",
+     "type": "rss",
+     "url": "https://et.ambafrance.org/spip.php?page=backend",
+     "label": null
+    },
+    {
+     "key": "france:web:2d2e4c93",
+     "type": "web",
+     "url": "https://et.ambafrance.org/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "italy",
+   "name": "Embassy of Italy",
+   "country": "IT",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://ambaddisabeba.esteri.it/en/",
+   "links": {},
+   "channels": [
+    {
+     "key": "italy:web:99deba8c",
+     "type": "web",
+     "url": "https://ambaddisabeba.esteri.it/en/",
+     "label": null
+    },
+    {
+     "key": "italy:rss:534cd3a4",
+     "type": "rss",
+     "url": "https://ambaddisabeba.esteri.it/en/feed/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "spain",
+   "name": "Embassy of Spain",
+   "country": "ES",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://www.exteriores.gob.es/Embajadas/addisabeba/en/Paginas/index.aspx",
+   "links": {},
+   "channels": [
+    {
+     "key": "spain:web:07506098",
+     "type": "web",
+     "url": "https://www.exteriores.gob.es/Embajadas/addisabeba/en/Paginas/index.aspx",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "netherlands",
+   "name": "Embassy of the Netherlands",
+   "country": "NL",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://www.netherlandsandyou.nl/web/ethiopia",
+   "links": {},
+   "channels": [
+    {
+     "key": "netherlands:web:99afea59",
+     "type": "web",
+     "url": "https://www.netherlandsandyou.nl/web/ethiopia",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "sweden",
+   "name": "Embassy of Sweden",
+   "country": "SE",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://www.swedenabroad.se/en/embassies/ethiopia-addis-abeba/",
+   "links": {},
+   "channels": [
+    {
+     "key": "sweden:web:d8303283",
+     "type": "web",
+     "url": "https://www.swedenabroad.se/en/embassies/ethiopia-addis-abeba/current-events/news/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "finland",
+   "name": "Embassy of Finland",
+   "country": "FI",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://finlandabroad.fi/web/eth/en",
+   "links": {},
+   "channels": [
+    {
+     "key": "finland:web:851b74ab",
+     "type": "web",
+     "url": "https://finlandabroad.fi/web/eth/current-affairs",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "denmark",
+   "name": "Embassy of Denmark",
+   "country": "DK",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://etiopien.um.dk/en",
+   "links": {},
+   "channels": [
+    {
+     "key": "denmark:web:df643dba",
+     "type": "web",
+     "url": "https://etiopien.um.dk/en/news",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "ireland",
+   "name": "Embassy of Ireland",
+   "country": "IE",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://www.ireland.ie/en/ethiopia/addisababa/",
+   "links": {},
+   "channels": [
+    {
+     "key": "ireland:web:b5968cd0",
+     "type": "web",
+     "url": "https://www.ireland.ie/en/ethiopia/addisababa/news-and-events/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "belgium",
+   "name": "Embassy of Belgium",
+   "country": "BE",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://ethiopia.diplomatie.belgium.be/en",
+   "links": {},
+   "channels": [
+    {
+     "key": "belgium:web:d72e4b9c",
+     "type": "web",
+     "url": "https://ethiopia.diplomatie.belgium.be/en",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "czechia",
+   "name": "Embassy of the Czech Republic",
+   "country": "CZ",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://mzv.gov.cz/addisababa/en/",
+   "links": {},
+   "channels": [
+    {
+     "key": "czechia:web:dacd0fea",
+     "type": "web",
+     "url": "https://mzv.gov.cz/addisababa/en/news_and_events/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "poland",
+   "name": "Embassy of Poland",
+   "country": "PL",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://www.gov.pl/web/etiopia",
+   "links": {},
+   "channels": [
+    {
+     "key": "poland:web:c1113d97",
+     "type": "web",
+     "url": "https://www.gov.pl/web/etiopia/wiadomosci",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "hungary",
+   "name": "Embassy of Hungary",
+   "country": "HU",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://addisababa.mfa.gov.hu/en",
+   "links": {},
+   "channels": [
+    {
+     "key": "hungary:web:37fd4c35",
+     "type": "web",
+     "url": "https://addisababa.mfa.gov.hu/en/articles",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "slovakia",
+   "name": "Embassy of Slovakia",
+   "country": "SK",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://www.mzv.sk/web/addisabeba",
+   "links": {},
+   "channels": [
+    {
+     "key": "slovakia:web:0c895783",
+     "type": "web",
+     "url": "https://www.mzv.sk/web/addisabeba",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "romania",
+   "name": "Embassy of Romania",
+   "country": "RO",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://addisabeba.mae.ro/en",
+   "links": {},
+   "channels": [
+    {
+     "key": "romania:web:e13de76c",
+     "type": "web",
+     "url": "https://addisabeba.mae.ro/en",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "uk",
+   "name": "British Embassy",
+   "country": "GB",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://www.gov.uk/world/ethiopia",
+   "links": {},
+   "channels": [
+    {
+     "key": "uk:rss:c2d2b6e4",
+     "type": "rss",
+     "url": "https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=ethiopia",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "switzerland",
+   "name": "Embassy of Switzerland",
+   "country": "CH",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://www.eda.admin.ch/countries/ethiopia/en/home.html",
+   "links": {},
+   "channels": [
+    {
+     "key": "switzerland:web:147ff75c",
+     "type": "web",
+     "url": "https://www.eda.admin.ch/countries/ethiopia/en/home.html",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "norway",
+   "name": "Embassy of Norway",
+   "country": "NO",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://www.norway.no/en/ethiopia/",
+   "links": {},
+   "channels": [
+    {
+     "key": "norway:web:327548be",
+     "type": "web",
+     "url": "https://www.norway.no/en/ethiopia/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "turkey",
+   "name": "Embassy of Türkiye",
+   "country": "TR",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://addisababa.emb.mfa.gov.tr/",
+   "links": {},
+   "channels": [
+    {
+     "key": "turkey:web:e3aea087",
+     "type": "web",
+     "url": "https://addisababa.emb.mfa.gov.tr/Mission/Announcements",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "armenia",
+   "name": "Embassy of Armenia",
+   "country": "AM",
+   "kind": "embassy",
+   "region": "europe",
+   "homepage": "https://ethiopia.mfa.am/en/",
+   "links": {},
+   "channels": [
+    {
+     "key": "armenia:web:5eae9a18",
+     "type": "web",
+     "url": "https://ethiopia.mfa.am/en/news",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "usa",
+   "name": "U.S. Embassy",
+   "country": "US",
+   "kind": "embassy",
+   "region": "americas",
+   "homepage": "https://et.usembassy.gov/",
+   "links": {},
+   "channels": [
+    {
+     "key": "usa:rss:f019659e",
+     "type": "rss",
+     "url": "https://et.usembassy.gov/feed/",
+     "label": null
+    },
+    {
+     "key": "usa:web:8ada636f",
+     "type": "web",
+     "url": "https://et.usembassy.gov/news-events/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "canada",
+   "name": "Embassy of Canada",
+   "country": "CA",
+   "kind": "embassy",
+   "region": "americas",
+   "homepage": "https://www.international.gc.ca/country-pays/ethiopia-ethiopie/addis_ababa.aspx?lang=eng",
+   "links": {},
+   "channels": [
+    {
+     "key": "canada:web:daaa03c6",
+     "type": "web",
+     "url": "https://www.international.gc.ca/country-pays/ethiopia-ethiopie/addis_ababa.aspx?lang=eng",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "mexico",
+   "name": "Embajada de México",
+   "country": "MX",
+   "kind": "embassy",
+   "region": "americas",
+   "homepage": "https://embamex.sre.gob.mx/etiopia/",
+   "links": {},
+   "channels": [
+    {
+     "key": "mexico:rss:401551ef",
+     "type": "rss",
+     "url": "https://embamex.sre.gob.mx/etiopia/index.php/ver-comunicados?format=feed&type=rss",
+     "label": null
+    },
+    {
+     "key": "mexico:web:05b5d773",
+     "type": "web",
+     "url": "https://embamex.sre.gob.mx/etiopia/index.php/ver-comunicados",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "venezuela",
+   "name": "Embajada de Venezuela",
+   "country": "VE",
+   "kind": "embassy",
+   "region": "americas",
+   "notes": "No embassy website found. Hosts occasional public events (photo exhibitions, national day). Tracked through press coverage (Prensa Latina, ENA, Fana).",
+   "links": {},
+   "channels": [
+    {
+     "key": "venezuela:gnews:96deff21",
+     "type": "gnews",
+     "url": "\"Embajada de Venezuela\" Etiopía OR \"Venezuelan Embassy\" Addis OR \"Embassy of Venezuela\" Addis",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "colombia",
+   "name": "Embajada de Colombia",
+   "country": "CO",
+   "kind": "embassy",
+   "region": "americas",
+   "homepage": "https://etiopia.embajada.gov.co/",
+   "notes": "Reopened in 2025 after ~50 years.",
+   "links": {},
+   "channels": [
+    {
+     "key": "colombia:web:4f33b6e5",
+     "type": "web",
+     "url": "https://etiopia.embajada.gov.co/newsroom/news",
+     "label": null
+    },
+    {
+     "key": "colombia:gnews:593c7340",
+     "type": "gnews",
+     "url": "\"Embajada de Colombia\" Etiopía OR \"Colombian Embassy\" Addis OR \"Embassy of Colombia\" Addis",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "brazil",
+   "name": "Embaixada do Brasil",
+   "country": "BR",
+   "kind": "embassy",
+   "region": "americas",
+   "homepage": "https://www.gov.br/mre/pt-br/embaixada-adis-abeba",
+   "links": {},
+   "channels": [
+    {
+     "key": "brazil:web:3f4f4083",
+     "type": "web",
+     "url": "https://www.gov.br/mre/pt-br/embaixada-adis-abeba",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "argentina",
+   "name": "Embajada de Argentina",
+   "country": "AR",
+   "kind": "embassy",
+   "region": "americas",
+   "homepage": "https://eetio.cancilleria.gob.ar/",
+   "links": {},
+   "channels": [
+    {
+     "key": "argentina:web:58625661",
+     "type": "web",
+     "url": "https://eetio.cancilleria.gob.ar/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "australia",
+   "name": "Australian Embassy",
+   "country": "AU",
+   "kind": "embassy",
+   "region": "asia-pacific",
+   "homepage": "https://ethiopia.embassy.gov.au/",
+   "links": {},
+   "channels": [
+    {
+     "key": "australia:web:a37aceea",
+     "type": "web",
+     "url": "https://ethiopia.embassy.gov.au/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "japan",
+   "name": "Embassy of Japan",
+   "country": "JP",
+   "kind": "embassy",
+   "region": "asia-pacific",
+   "homepage": "https://www.et.emb-japan.go.jp/itpr_en/index.html",
+   "links": {},
+   "channels": [
+    {
+     "key": "japan:web:daa3d7d5",
+     "type": "web",
+     "url": "https://www.et.emb-japan.go.jp/itpr_en/index.html",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "korea",
+   "name": "Embassy of the Republic of Korea",
+   "country": "KR",
+   "kind": "embassy",
+   "region": "asia-pacific",
+   "homepage": "https://overseas.mofa.go.kr/et-en/index.do",
+   "links": {},
+   "channels": [
+    {
+     "key": "korea:web:021c1ff2",
+     "type": "web",
+     "url": "https://overseas.mofa.go.kr/et-en/index.do",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "china",
+   "name": "Embassy of China",
+   "country": "CN",
+   "kind": "embassy",
+   "region": "asia-pacific",
+   "homepage": "http://et.china-embassy.gov.cn/eng/",
+   "links": {},
+   "channels": [
+    {
+     "key": "china:web:e6807836",
+     "type": "web",
+     "url": "http://et.china-embassy.gov.cn/eng/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "india",
+   "name": "Embassy of India",
+   "country": "IN",
+   "kind": "embassy",
+   "region": "asia-pacific",
+   "homepage": "https://www.eoiaddisababa.gov.in/",
+   "links": {},
+   "channels": [
+    {
+     "key": "india:web:a750f80c",
+     "type": "web",
+     "url": "https://www.eoiaddisababa.gov.in/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "whatsout",
+   "name": "What's Out Addis",
+   "country": "ET",
+   "kind": "aggregator",
+   "region": "local",
+   "homepage": "https://whatsoutaddis.com/",
+   "links": {},
+   "channels": [
+    {
+     "key": "whatsout:rss:299ddea9",
+     "type": "rss",
+     "url": "https://whatsoutaddis.com/feed/",
+     "label": null
+    },
+    {
+     "key": "whatsout:web:1ec6f128",
+     "type": "web",
+     "url": "https://whatsoutaddis.com/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "press-culture",
+   "name": "Press coverage: embassy cultural events",
+   "country": "ET",
+   "kind": "aggregator",
+   "region": "local",
+   "notes": "Google News search for embassy-run cultural events in Addis. Catches events announced only on Facebook that newspapers pick up.",
+   "links": {},
+   "channels": [
+    {
+     "key": "press-culture:gnews:82c52ebc",
+     "type": "gnews",
+     "url": "embassy \"Addis Ababa\" (concert OR exhibition OR festival OR screening OR \"cultural week\")",
+     "label": null
+    },
+    {
+     "key": "press-culture:gnews:ad552127",
+     "type": "gnews",
+     "url": "\"Addis Ababa\" (Goethe-Institut OR \"Alliance Ethio-Française\" OR \"Italian Cultural Institute\" OR \"British Council\") event",
+     "label": null
+    }
+   ]
+  }
+ ]
+}

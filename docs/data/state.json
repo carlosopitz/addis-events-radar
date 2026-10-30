@@ -1,0 +1,732 @@
+{
+ "channels": {
+  "goethe:web:fe318a6a": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "goethe:telegram:55b8568f": {
+   "initialized": true,
+   "seen": [
+    "15fb151c0af5",
+    "42f98f6c210f",
+    "25fa2bd0d495",
+    "b70068eb0387",
+    "a822b8c2a3cf",
+    "cfc0deecc5e0",
+    "501a441c7da6",
+    "5d761c09e858",
+    "dc297a27aab0",
+    "98cf3fc2cb21",
+    "40cf95eb1455",
+    "8f06ef1f311d",
+    "d9d151cb5081",
+    "93105501f7bc",
+    "60255c6e1c6c",
+    "5d961a69686e",
+    "2e527a13ebce",
+    "7fb101bdabbd"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "alliance:rss:d3577461": {
+   "initialized": true,
+   "seen": [],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "alliance:web:3c0ccfab": {
+   "initialized": true,
+   "seen": [
+    "cd2fd80f8594",
+    "ffcc1e749ac2",
+    "deedfe3621f1",
+    "3b0b821cd570",
+    "70560bce3f2b",
+    "e915148f120c"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "iic:web:98308a01": {
+   "initialized": true,
+   "seen": [
+    "d72da2ce3180",
+    "16a7eebd2d2c"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "iic:rss:f1c27b40": {
+   "initialized": true,
+   "seen": [
+    "26cc4027587b",
+    "23366a4517df"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "british-council:web:2e4c09fb": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "eu-ethiopia:web:b2359215": {
+   "initialized": true,
+   "seen": [
+    "85929cdf4438",
+    "4bc06bb7b2f6",
+    "2d2fda8304eb",
+    "e1bc1d67b492",
+    "8503243f6f05",
+    "0b31315c977b",
+    "facda5dbf1b6",
+    "685bc0daf243",
+    "346586defc1f",
+    "c42476142b01"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "eu-au:web:f0d3810e": {
+   "initialized": true,
+   "seen": [
+    "ef079f5bdb28",
+    "bf2fcdfd88f9",
+    "36c21c19a4be",
+    "f272aa7ca609",
+    "4a9188942313",
+    "6f5716d5e85d",
+    "94dc9cf0e13e",
+    "c58c7cf2a7bb",
+    "f75e2dd8613e",
+    "fc9643bab87a"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "euff:gnews:de1ea61d": {
+   "initialized": true,
+   "seen": [
+    "9438edf8a1e8",
+    "cda3d1ccba63",
+    "40cd1ee82e67",
+    "b9bb93707754",
+    "264b92f74b71",
+    "1cb70d4491ee",
+    "e84d98c9c2ec",
+    "ad1e63568b15",
+    "5ed085cbeefd",
+    "f10f4076a14b"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "austria:web:93ea680e": {
+   "initialized": true,
+   "seen": [],
+   "hash": "8f0d38eb69a96128",
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "germany:web:4b3eb3c3": {
+   "initialized": true,
+   "seen": [
+    "d45911f07e05",
+    "f28d53c5d6a3",
+    "a112295f9263",
+    "8616e5d03986",
+    "b4ba77a4622c"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "france:rss:773a7787": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "france:web:2d2e4c93": {
+   "initialized": true,
+   "seen": [],
+   "hash": "451b0859160e2820",
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "italy:web:99deba8c": {
+   "initialized": true,
+   "seen": [
+    "5741cb197bc4",
+    "b80720320b21",
+    "582d0de243c5",
+    "c064aaf61076",
+    "9cab2816d93a",
+    "19cd37894f0d",
+    "5daf83d2cd61",
+    "4aa2ff7d3611",
+    "b5e70e13c75b"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "italy:rss:534cd3a4": {
+   "initialized": true,
+   "seen": [
+    "87ca9e16e0f4",
+    "c720e8888726",
+    "8396dc523147",
+    "c85024943d17",
+    "df2607dfdee4",
+    "0c13412eaa8a",
+    "9cf0248229af",
+    "6b603fc55eae",
+    "186bcedd0d21",
+    "ceafb6c61967"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "spain:web:07506098": {
+   "initialized": true,
+   "seen": [],
+   "hash": "da39a3ee5e6b4b0d",
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "netherlands:web:99afea59": {
+   "initialized": true,
+   "seen": [
+    "e8210aa51f53",
+    "566f686e4d17",
+    "fd2b784f8a1c",
+    "980a6b0a8f3a",
+    "6e09b5c95ef0",
+    "cd100f4648eb",
+    "43d4513c2300"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "sweden:web:d8303283": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "finland:web:851b74ab": {
+   "initialized": true,
+   "seen": [
+    "4e797368f646",
+    "fab6353005c6",
+    "0ed60a7d49e6",
+    "a99aba29f21f",
+    "72993749d0dd",
+    "72f2bc61df0b",
+    "3360103d8abe",
+    "ff7b9e915a0e",
+    "5c6d7aff3288",
+    "59ce217ac130",
+    "8e5a509adb03",
+    "18ef9697c8e9"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "denmark:web:df643dba": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "ireland:web:b5968cd0": {
+   "initialized": true,
+   "seen": [],
+   "hash": "687562863d65105c",
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "belgium:web:d72e4b9c": {
+   "initialized": true,
+   "seen": [
+    "e1813c6ca8f4",
+    "134c25a48c08",
+    "273d5aa02c6f"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "czechia:web:dacd0fea": {
+   "initialized": true,
+   "seen": [
+    "b395698c658e",
+    "bf918d498afc",
+    "477172c1cbbb",
+    "48c63db17196",
+    "2912522cd0fc",
+    "63cf2c2ef962",
+    "1578b19e2461",
+    "3f8460eddfd9",
+    "1282fd3a0a25",
+    "880cc10714f9",
+    "b2c560634d5a",
+    "faf8840b6bc2",
+    "dcf57a5a9a60",
+    "b924e5f4c934",
+    "d5af42614784",
+    "e27a2547b398",
+    "1173bd7a2194",
+    "3e8416de89d2",
+    "634eea4ed0e5",
+    "c4a0986f5ab6",
+    "b825a1d38fc6",
+    "0008386597ad",
+    "da1d760c1f77",
+    "70a5f40322cc",
+    "0a97614a1b43",
+    "d1edd2fc4b37",
+    "d8bb6d91e64b",
+    "16a5a40d0f30",
+    "f6c1522139e4",
+    "de898bf7b72d",
+    "b5fb19b54627",
+    "5f714177f887",
+    "3ef667e8f173",
+    "734d6606c4d3",
+    "47cf52bfcdcb",
+    "de7852b6eb56",
+    "5d31fddb6c99",
+    "3ccf7b20c266",
+    "23442a786b92",
+    "543ab020d471",
+    "016854a9f3b7",
+    "193938ff13a8",
+    "ef77747615e9",
+    "76c3ae66c109",
+    "8eb2b2cc5177",
+    "dd2e83b170e7",
+    "7a8612fda3f2",
+    "476ac0c07704",
+    "cce2bf60697f",
+    "e72d5d2137d7",
+    "bc1279b3c956",
+    "e18e2724a1c7",
+    "30462d1023f8",
+    "af7391505567",
+    "28bd88706e0b",
+    "f12b731f969c",
+    "a8a5466b1bd3",
+    "8facfe07bbe8",
+    "0f288c803ccd",
+    "a3245dae7566",
+    "ed936e66db7c",
+    "f293fb7c1206",
+    "662933154c83",
+    "f513c65719d7",
+    "6712d0dabb1d",
+    "779cb98c10e5",
+    "c6d0ea3bd186",
+    "958dd9c00130",
+    "ef10f867c74c",
+    "9f69114be5e4",
+    "8ce77e49c3a7",
+    "6ebf1c79bf52",
+    "1b21d4e1b73d",
+    "cc3585a89e5f",
+    "d5f63de80b7d",
+    "e04a4c9f825d",
+    "352e10556ddf",
+    "b5e01fb2156f",
+    "956b1b7cf949",
+    "a310f12e60da"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "poland:web:c1113d97": {
+   "initialized": true,
+   "seen": [],
+   "hash": "3fd814c4b01dc8b4",
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "hungary:web:37fd4c35": {
+   "initialized": true,
+   "seen": [
+    "5e7f6ac3c93c",
+    "f77153924f1a",
+    "a8722f85fd86",
+    "e4bb20b4676e",
+    "9e3e0f7605a6",
+    "349a90d724e6",
+    "7c1ece5a3077",
+    "d1a79c56af99",
+    "becd39246e3d",
+    "1d68a3d72743"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "slovakia:web:0c895783": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "romania:web:e13de76c": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "uk:rss:c2d2b6e4": {
+   "initialized": true,
+   "seen": [
+    "aacf312d3c7a",
+    "a62afd4cf0b7",
+    "67fee069e32f",
+    "c276549a1e5f",
+    "39ae69d35532",
+    "7f3ab790a0e0",
+    "0f2477729412",
+    "94192711ccb4",
+    "4f09f1f9f68c",
+    "c3e273555d8e",
+    "40f8d27c4430",
+    "e0d297c6eceb",
+    "1dc0dd660ba9",
+    "17d03a61a41a",
+    "17a81018fefc",
+    "cec601fa2a73",
+    "d25774fac4db",
+    "e614c91f62f2",
+    "930decbcd96c",
+    "37a6d55c14cc"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "switzerland:web:147ff75c": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "norway:web:327548be": {
+   "initialized": true,
+   "seen": [
+    "06436c958832",
+    "8cf49c54ab32",
+    "d31a84506cab",
+    "68f59f586239",
+    "7554de4f6874",
+    "a1f879149ebc",
+    "5e9d4bfe3ede",
+    "8047933d31a1",
+    "2abd83763dbb"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "turkey:web:e3aea087": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "armenia:web:5eae9a18": {
+   "initialized": true,
+   "seen": [],
+   "hash": "f70f32650e4ac884",
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "usa:rss:f019659e": {
+   "initialized": true,
+   "seen": [
+    "c5273a53ed9c",
+    "bd9a43b3650d",
+    "24c97f190c70",
+    "d5ee8e222b39",
+    "81115b86e493",
+    "6e9e6890c2a9",
+    "129a35988a9c",
+    "f2bc2a521168",
+    "aeb1cb684fb7",
+    "780c8e067a2f"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "usa:web:8ada636f": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "canada:web:daaa03c6": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "mexico:rss:401551ef": {
+   "initialized": true,
+   "seen": [],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "mexico:web:05b5d773": {
+   "initialized": true,
+   "seen": [],
+   "hash": "4c224ce8942608df",
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "venezuela:gnews:96deff21": {
+   "initialized": true,
+   "seen": [],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "colombia:web:4f33b6e5": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "colombia:gnews:593c7340": {
+   "initialized": true,
+   "seen": [],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "brazil:web:3f4f4083": {
+   "initialized": true,
+   "seen": [
+    "6f4833b0deef"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "argentina:web:58625661": {
+   "initialized": true,
+   "seen": [
+    "312935acf1ef",
+    "c672c6e57bb6",
+    "f2d1618488d3",
+    "d97df87fc28c",
+    "0fade8de809a",
+    "e91fa4314fe7",
+    "06110f74cc9a",
+    "b67e0383833b",
+    "14feca9882e3"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "australia:web:a37aceea": {
+   "initialized": true,
+   "seen": [
+    "0b5694f43ede",
+    "d6d625ce5646",
+    "9a1477f05b9c",
+    "e219d4c9acd0"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "japan:web:daa3d7d5": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "korea:web:021c1ff2": {
+   "initialized": true,
+   "seen": [
+    "1e161415ee6a",
+    "2b5f23c7e3af",
+    "de7b5da1be2e"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "china:web:e6807836": {
+   "initialized": true,
+   "seen": [
+    "c368d3bfc6a4",
+    "bea7e28c3d9e",
+    "d914cd8c4275",
+    "8780c3c9fffe",
+    "2d073f35fec9",
+    "6ee47bf6bad0",
+    "99fc3a694d92",
+    "5ce573f65e1f",
+    "3ae460dbbec2",
+    "dd77fa5eb54d",
+    "7e3e62e00a36",
+    "2b56125f1282",
+    "1a2df28bdfe5",
+    "ce8399ac1a4e",
+    "1332b83495ac",
+    "d699b6fd6631",
+    "0538f740998f",
+    "fc8277944fb5",
+    "087d1808d13a",
+    "6c9e98abaa08",
+    "b21ad1a20ad4",
+    "39f7c7bf73f2",
+    "5c10a5db6266",
+    "5879107cb3f9"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "india:web:a750f80c": {
+   "initialized": true,
+   "seen": [
+    "15fad77a6f07",
+    "fa749e53b2e9",
+    "df56092cc788",
+    "652a4b2c30c2",
+    "486e88b9ab24",
+    "2b4134c722b4",
+    "15e47161c0d2",
+    "f5d1102381aa",
+    "19900d8a2310",
+    "caf5e7b3189e",
+    "d65b30b3c21e",
+    "8a080d39596b",
+    "df800ad163c7",
+    "cec457398cea",
+    "3ce9d06af3dd",
+    "2e284a62351b",
+    "14185f731382",
+    "815f32eddc39",
+    "0eb9cc5bc0b7",
+    "07340d612e37",
+    "07e97edee54a",
+    "af36e9693db0",
+    "156a9128dcf4",
+    "7bec6460d75d",
+    "0155b3458275",
+    "9e0852f2f250",
+    "68c2d81bf242",
+    "83a84dda1292",
+    "62af8d9656c6",
+    "a94d4b05816d",
+    "0885079301eb",
+    "5f13f60a3b7f",
+    "e07a6883c78a",
+    "f596c13b9d00",
+    "b7db16e52d65",
+    "7d68f433536a",
+    "2fb7bc6e0e31",
+    "0edfd91acb20",
+    "3a89e5805879",
+    "cb01db40cc8d",
+    "8530f3189dc6",
+    "8594b15c8c38",
+    "4c29e83c3a6b",
+    "1559f30af78d",
+    "0b055cf0d44f",
+    "f03cf6ac2628",
+    "277415605a53",
+    "0465640c9c9a",
+    "62bbf9dc5cbd",
+    "33a102a2da7a",
+    "95180a9f9c5e",
+    "e5e0ffa89636",
+    "76196eed0936",
+    "3470b123a427",
+    "6c6e70bc9550",
+    "220dda6b7aa4",
+    "6531f8e54b76",
+    "c24ecc1e495b",
+    "e911b3d4112f",
+    "cf35eda1cb45"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "whatsout:rss:299ddea9": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "whatsout:web:1ec6f128": {
+   "initialized": false,
+   "seen": [],
+   "hash": null,
+   "last_error": "2026-10-30T07:58:04+00:00"
+  },
+  "press-culture:gnews:82c52ebc": {
+   "initialized": true,
+   "seen": [
+    "e84a9e798717",
+    "16f144058102",
+    "e470de72b56c",
+    "e96359bc8eb6",
+    "fb3f9a281377",
+    "6395722655d9",
+    "ac7013201875",
+    "b0106c31e627",
+    "88a69236567c",
+    "68414a216214",
+    "b5916a35d931",
+    "3412290773f3",
+    "db639fb60ab8",
+    "9c0881b59ef6",
+    "942ca213d94f",
+    "c670f135bbd8",
+    "1b352f5d25f4",
+    "65596ca098f0",
+    "4eae19b0e396",
+    "69d908b13089",
+    "7b76c0f1c7ba",
+    "1fcd3efcbf54",
+    "e0003b29bc92",
+    "668faea942af",
+    "5b81345cbc98",
+    "4147fdde9779",
+    "59b5f0c7eae6",
+    "e63106bf7458",
+    "70866da542de",
+    "2416c0af8baf",
+    "e38b9ea5f282",
+    "d9b644fab308",
+    "bc73f807f443",
+    "6b2bfdd5d9de",
+    "732a92831761",
+    "b8d918e4289b",
+    "b970a1a204c0",
+    "e6256f6dfc45",
+    "c53b2b82a476",
+    "0595292653ef",
+    "56b06b46ae6a",
+    "7bd51ada6341",
+    "4a588b753c20",
+    "755db61638ae",
+    "90589395f020",
+    "815d357f5164",
+    "3adf77194619"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  },
+  "press-culture:gnews:ad552127": {
+   "initialized": true,
+   "seen": [
+    "50bc2aa2932f",
+    "ebf458218d49",
+    "cedfba32d753",
+    "d552c88a3ce4",
+    "13c007f88aa0",
+    "8c219faf86b6",
+    "e9dfc73e8c78",
+    "c65caed93a5e",
+    "dd8b76decc5d"
+   ],
+   "hash": null,
+   "last_ok": "2026-10-30T07:58:04+00:00"
+  }
+ }
+}

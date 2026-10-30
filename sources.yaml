@@ -506,17 +506,13 @@
   kind: venue
   region: local
   homepage: https://www.hyatt.com/hyatt-regency/en-US/addra-hyatt-regency-addis-ababa
-  notes: 'The "Hyatt Happenings" programme itself is not published on the web. Its events are tracked through Hyatt''s news page, the All Addis Events venue listing and press coverage.'
+  manual: hyatt.com blocks automated readers, and the "Hyatt Happenings" programme is not published on the web. Event coverage in the press is monitored instead.
+  links:
+    events: https://www.hyatt.com/en-US/hotel/ethiopia/hyatt-regency-addis-ababa/addra/news-events
   channels:
-    - type: web
-      url: https://www.hyatt.com/en-US/hotel/ethiopia/hyatt-regency-addis-ababa/addra/news-events
-      include: /addra/news-events/.+
-    - type: web
-      url: https://www.alladdisevents.com/venue/hyatt-regency-addis-ababa/
-      include: alladdisevents\.com/event/
-      label: All Addis Events
     - type: gnews
-      url: '"Hyatt Regency Addis Ababa"'
+      url: '"Hyatt Regency Addis Ababa" (concert OR exhibition OR festival OR bazaar OR "fashion week" OR brunch OR night OR event)'
+      exclude: \breview\b|trip ?advisor|booking
 
 - id: hilton
   name: Hilton Addis Ababa
@@ -524,30 +520,11 @@
   kind: venue
   region: local
   homepage: https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/
+  manual: hilton.com does not answer automated readers. Event coverage in the press is monitored instead.
   channels:
-    - type: web
-      url: https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/events/
-      include: addhitw-hilton-addis-ababa/.+
-    - type: web
-      url: https://www.alladdisevents.com/venue/hilton-addis-ababa/
-      include: alladdisevents\.com/event/
-      label: All Addis Events
     - type: gnews
-      url: '"Hilton Addis Ababa" OR "Hilton Addis Abeba"'
-
-- id: alladdisevents
-  name: All Addis Events
-  country: ET
-  kind: aggregator
-  region: local
-  homepage: https://www.alladdisevents.com/
-  notes: Independent listing of public events across Addis, organised by venue.
-  channels:
-    - type: rss
-      url: https://www.alladdisevents.com/feed/
-    - type: web
-      url: https://www.alladdisevents.com/
-      include: alladdisevents\.com/event/
+      url: '"Hilton Addis" (concert OR exhibition OR festival OR bazaar OR gala OR brunch OR night OR event)'
+      exclude: \breview\b|trip ?advisor|booking|contract|acquire|privati
 
 # ===================== Local listings & press =====================
 

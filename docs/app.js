@@ -21,7 +21,7 @@
   const TYPE_LABEL = { web: "Website", rss: "Feed", telegram: "Telegram", gnews: "Press", json: "Website" };
   const KIND_LABEL = { cultural: "Cultural institute", embassy: "Embassy", eu: "European Union", venue: "Hotel / venue", aggregator: "Listings & press" };
   const LINK_LABEL = { x: "X", facebook: "Facebook", instagram: "Instagram", telegram: "Telegram", youtube: "YouTube",
-    linkedin: "LinkedIn", tiktok: "TikTok", bluesky: "Bluesky", flickr: "Flickr", newsletter: "Newsletter", social: "Social media", pressroom: "Press room" };
+    linkedin: "LinkedIn", tiktok: "TikTok", bluesky: "Bluesky", flickr: "Flickr", newsletter: "Newsletter", social: "Social media", pressroom: "Press room", events: "Events page" };
 
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const flag = (cc) => {

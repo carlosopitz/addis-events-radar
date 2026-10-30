@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T08:40:42+00:00",
+ "generated": "2026-10-30T08:57:32+00:00",
  "sources": [
   {
    "id": "goethe",
@@ -656,6 +656,89 @@
      "key": "india:web:c072a00e",
      "type": "web",
      "url": "https://eoiaddisababa.gov.in/",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "hyatt",
+   "name": "Hyatt Regency Addis Ababa",
+   "country": "ET",
+   "kind": "venue",
+   "region": "local",
+   "homepage": "https://www.hyatt.com/hyatt-regency/en-US/addra-hyatt-regency-addis-ababa",
+   "notes": "The \"Hyatt Happenings\" programme itself is not published on the web. Its events are tracked through Hyatt's news page, the All Addis Events venue listing and press coverage.",
+   "links": {},
+   "channels": [
+    {
+     "key": "hyatt:web:debe6434",
+     "type": "web",
+     "url": "https://www.hyatt.com/en-US/hotel/ethiopia/hyatt-regency-addis-ababa/addra/news-events",
+     "label": null
+    },
+    {
+     "key": "hyatt:web:0b64d713",
+     "type": "web",
+     "url": "https://www.alladdisevents.com/venue/hyatt-regency-addis-ababa/",
+     "label": "All Addis Events"
+    },
+    {
+     "key": "hyatt:gnews:420f62d6",
+     "type": "gnews",
+     "url": "\"Hyatt Regency Addis Ababa\"",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "hilton",
+   "name": "Hilton Addis Ababa",
+   "country": "ET",
+   "kind": "venue",
+   "region": "local",
+   "homepage": "https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/",
+   "links": {},
+   "channels": [
+    {
+     "key": "hilton:web:47ee62be",
+     "type": "web",
+     "url": "https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/events/",
+     "label": null
+    },
+    {
+     "key": "hilton:web:a2909b45",
+     "type": "web",
+     "url": "https://www.alladdisevents.com/venue/hilton-addis-ababa/",
+     "label": "All Addis Events"
+    },
+    {
+     "key": "hilton:gnews:264c9dec",
+     "type": "gnews",
+     "url": "\"Hilton Addis Ababa\" OR \"Hilton Addis Abeba\"",
+     "label": null
+    }
+   ]
+  },
+  {
+   "id": "alladdisevents",
+   "name": "All Addis Events",
+   "country": "ET",
+   "kind": "aggregator",
+   "region": "local",
+   "homepage": "https://www.alladdisevents.com/",
+   "notes": "Independent listing of public events across Addis, organised by venue.",
+   "links": {},
+   "channels": [
+    {
+     "key": "alladdisevents:rss:fa5fc10c",
+     "type": "rss",
+     "url": "https://www.alladdisevents.com/feed/",
+     "label": null
+    },
+    {
+     "key": "alladdisevents:web:e71a53ba",
+     "type": "web",
+     "url": "https://www.alladdisevents.com/",
      "label": null
     }
    ]

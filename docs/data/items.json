@@ -1,5 +1,70 @@
 [
  {
+  "id": "18ad9d40b6eb",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "🔪 HORROR WEEKEND IS HERE!",
+  "url": "https://t.me/gastcinema/4844",
+  "summary": "🔪 HORROR WEEKEND IS HERE! Two terrifying movies. One unforgettable weekend. 👻 🎬 THE SHINING 🎬 OBSESSION Prepare for chilling moments, unexpected twists, and nightmares that stay with you long after the credits roll. 😈 🔥 Bring your friends. Face your fears. Experience the horror on the BIG SCREEN! 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿…",
+  "published": "2026-10-30",
+  "first_seen": "2026-10-30T20:49:30+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "fceb10b14577",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Gast Cinema Oct 31 - Nov 01 2026 Schedule",
+  "url": "https://t.me/gastcinema/4845",
+  "summary": "Gast Cinema Oct 31 - Nov 01 2026 Schedule",
+  "published": "2026-10-30",
+  "first_seen": "2026-10-30T20:49:30+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "dc5b0629cdc9",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "The European Union participates at the launch of the Strategic Plan 2026–2028 of the African Union Office of the Special Envoy on Women, Peace and Security - EEAS",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa3dRaFYtZTNFbVBQUGI0aVBMSlZaeXNWSEtkMTlQbGpIcElKOW1pdjMwVHM5ajhaRzJXZGp1WHNpZnVLTzhJMm4ybUNqTHVRYjF2ZUFPbjVidTRnVjRZZ2pRYkdvX1AzV3BHMFFIYU02VDN0aWxzeW5kQTR5T3NQNWZxTjV0RlhkMENaU3p0Y0YxSXZvOWJZb05zT1NfY3JaSk9rVmpWOTFTVGFJNDN1R0FaSnhlUC1oV3BuSkNYTThkUTVwNm9DZ1lycXNFcGZZRW9wUVpzZ0dUQmZXLWZrd3JEUUIyYVUzR3FYZXlybW4?oc=5",
+  "summary": "",
+  "published": "2026-09-16",
+  "first_seen": "2026-10-30T20:49:30+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "1468dac4776f",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "Quintet Statement Ahead of Visit to Khartoum, the Republic of Sudan, 08 – 10 - EEAS",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR1F4OTZTN05nNXNhNTNidnA2cFI1djJNTmJkMksxV0tCb2hrX0JvNFdqTGdGRE9fQ2lBbWpxbkFNRllBTnc2cGQ3WnVCekhlelFSZF9tYmFmandDdjlVM3RLSmdFWG12SXk1ekZfWlJvY3VZbE40U1JSZEN0bGxfZDIzUGRiYkFlb1VXaXhFQTRhNjlWZFhFVGV1SXFBV3ZNR2dQMXBnb2lJai1nVnRjR2tLY2VkbnZxeEE?oc=5",
+  "summary": "",
+  "published": "2026-09-08",
+  "first_seen": "2026-10-30T20:49:30+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "7cc203cc3058",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "African Union - European Union Science, Technology and Innovation Cooperation: Achievements and New Initiatives - EEAS",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb2Jud2M3RjBPUy05NUMwRzlGOGtEWUtzMFV0YVNxTHN4Q0hmNnlwU2FqVHNuTGZFWDhmU2ozdzJYS19Db3I4S0hUeG0tZ19qOVphVFp2Z2hGMXdVMldMMXZKaVh5ZU13N28zaFctNXpiYy1wcFduWWl1OXlqVnFzTThHMUhjTHFxOXJjM3d5d3I4U3VGcHhXUHdqaTJ3dWxtZEdjVGZTWnBfRUJNUnVaV3FEWjQ4UVVOUkt3YkxJNkF4YkVCZzJpdXNidG84TVY5UEV1ZHlR?oc=5",
+  "summary": "",
+  "published": "2026-09-03",
+  "first_seen": "2026-10-30T20:49:30+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "a9a81747700e",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +75,8 @@
   "published": "2026-10-30",
   "first_seen": "2026-10-30T15:04:17+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "5dfc1fb2b562",
@@ -23,7 +89,8 @@
   "published": "2026-10-30",
   "first_seen": "2026-10-30T15:04:17+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "e73c8d9ba6e4",
@@ -36,7 +103,8 @@
   "published": "2026-10-30",
   "first_seen": "2026-10-30T15:04:17+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "2e2201c8d899",
@@ -49,7 +117,8 @@
   "published": "2026-10-30",
   "first_seen": "2026-10-30T15:04:17+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "10089b191c79",
@@ -62,7 +131,8 @@
   "published": "2026-10-21",
   "first_seen": "2026-10-30T15:04:17+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "672be34f5e49",
@@ -75,7 +145,8 @@
   "published": "2022-10-23",
   "first_seen": "2026-10-30T15:04:17+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "57de905f5e2f",

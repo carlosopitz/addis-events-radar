@@ -335,13 +335,15 @@ def read_telegram(channel: str) -> list[dict]:
     soup = BeautifulSoup(r.text, "lxml")
     items = []
     for msg in soup.select("div.tgme_widget_message[data-post]"):
+        if "service_message" in (msg.get("class") or []):
+            continue
         post = msg["data-post"]
         text_el = msg.select_one(".tgme_widget_message_text")
         text = clean(text_el.get_text(" ", strip=True) if text_el else "")
         t = msg.select_one("time[datetime]")
         published = t["datetime"][:10] if t else None
-        if not text:
-            text = "(photo or media post)"
+        if not text or re.search(r"\bpinned (a|an|the) ", text[:80]):
+            continue
         first = re.split(r"(?<=[.!?])\s|\n", text, maxsplit=1)[0]
         items.append({
             "uid": post,

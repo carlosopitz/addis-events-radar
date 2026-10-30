@@ -10,7 +10,8 @@
   "published": "2026-10-15",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "00c2edd8795e",
@@ -23,7 +24,8 @@
   "published": "2026-06-25",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "00b2a2e31993",
@@ -36,7 +38,8 @@
   "published": "2026-06-25",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "fa1bc03c19c7",
@@ -49,7 +52,8 @@
   "published": "2026-06-25",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "67b38965d436",
@@ -62,7 +66,8 @@
   "published": "2026-06-25",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "7a279c254328",
@@ -75,7 +80,8 @@
   "published": "2025-10-17",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d054b463e45a",
@@ -88,7 +94,8 @@
   "published": "2025-09-24",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "e49387e59975",
@@ -101,7 +108,8 @@
   "published": "2025-09-01",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c5e2652c4f29",
@@ -114,7 +122,8 @@
   "published": "2025-08-26",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "2596a384c725",
@@ -127,7 +136,8 @@
   "published": "2025-08-23",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "665db528c0d4",
@@ -140,7 +150,8 @@
   "published": "2025-06-11",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d11787396e2e",
@@ -153,7 +164,8 @@
   "published": "2023-12-16",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "aa78fd9f00bd",
@@ -166,7 +178,8 @@
   "published": "2023-11-26",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a00092840d12",
@@ -179,7 +192,8 @@
   "published": "2018-12-27",
   "first_seen": "2026-10-30T09:09:34+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "16eab3e0895f",

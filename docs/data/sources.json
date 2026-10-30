@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T09:09:34+00:00",
+ "generated": "2026-10-30T09:10:47+00:00",
  "sources": [
   {
    "id": "goethe",
@@ -870,19 +870,15 @@
    "region": "local",
    "homepage": "https://www.addisfineart.com/",
    "match": "Addis Fine Art",
-   "links": {},
+   "links": {
+    "instagram": "https://www.instagram.com/addisfineart/"
+   },
    "channels": [
     {
      "key": "addis-fine-art:web:ec927f17",
      "type": "web",
      "url": "https://www.addisfineart.com/exhibitions/",
      "label": "Exhibitions page (flags changes)"
-    },
-    {
-     "key": "addis-fine-art:rss:97e2e46f",
-     "type": "rss",
-     "url": "https://www.addisfineart.com/news?format=rss",
-     "label": "News"
     }
    ]
   },

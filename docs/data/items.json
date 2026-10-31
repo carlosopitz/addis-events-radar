@@ -1,5 +1,57 @@
 [
  {
+  "id": "b795b9022669",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "🔥 THE DESERT IS CALLING!",
+  "url": "https://t.me/gastcinema/4850",
+  "summary": "🔥 THE DESERT IS CALLING! 🏜️ The epic journey continues… DUNE: PART THREE is coming soon! 🌌 🎬 COMING SOON — ONLY AT GAST CINEMA! 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-10-31",
+  "first_seen": "2026-10-31T15:45:53+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "520bd0ba291e",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "BlueInvest Africa 2026 unveils 25 African startups and SMEs set to pitch to global investors - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeHJGMXVwSjgyWGxQZkMyc2k5VEtuaHNDVlQ2MjRLak0tZlJPYUEzMF9CWUZ6VGJXcm94WlpJWl9MSmpaa3Y5UFVMY0hrU2tyUmVMcXNGRVBWaklhXzRSbzh5WTZDN29CaFBFQnEyRDRkeUJDZ2p0UzlHSDNZb3hIR1hyLWdQNEpHb1k1S3VrTEJBVnlIZUVlSDZkN01fcEhTU29aclJZaGVUc1ZSUGstUWtEQURTMWlVMVJYXy1nYTJ5ZmFzelNxUF80M1BPbXd4c1huN1JsbU54eWVOUFE?oc=5",
+  "summary": "",
+  "published": "2026-04-30",
+  "first_seen": "2026-10-31T15:45:53+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "dbe49cd88060",
+  "source": "japan",
+  "channel": "japan:gnews:9529a05b",
+  "type": "gnews",
+  "title": "Urgent Appeal to Influence General Abdel Fattah al-Burhan Regarding the Safety of Innocent Amharas in Khartoum - Borkena",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVm0wNllsOUwyanZKd0dYcmNyRVc4V0JXOWYtU1lrMEpTV001czN1VGs0dFpNWU16SldfX0hTZXNqYkdxaEVXUlhOekgyZmNHN2hvRHhmMHBxcWFUc2pSbnB0aXVReTJzVjdrZDZqU3gtY0ozQklka2NhRlk1TDFOUWRqNTB0NkpKTFp3bGJUVWlrdTIxbUVvQTJ1RVd2cG4wYWcyeV81eXZEQ19fakJCYWZZM1hnSnprc3Y1RktCTmdBMzNleFNmcGR0RXBPZl9jR2tpZ3pfOA?oc=5",
+  "summary": "",
+  "published": "2025-04-01",
+  "first_seen": "2026-10-31T15:45:53+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "b0b12083de07",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "The Award Night at 2nd Annual Colours of the Nile Film Festival in Ethiopia - Tadias Magazine",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd19CNWRXTlVMQTZ3eXNrcTZfMW4zcXZfN2VNN2s3S1oySkR2bVllUDFhaEVYZlBxb25BNW92TW8zdUxEYzlsdXFQUW5aam8xLWNyRUQ1RTlZeG1mSW1Nd2dacWIxN01qUGNrMmpRTkt6TjR0SHJvbjFNLXJmbEltV0hYeHh3VWVhaEY5TzNkd1hYc3U1U211Sy1INTlkdXlRbHU5bkVBZFFPU2dpU1E?oc=5",
+  "summary": "",
+  "published": "2014-04-09",
+  "first_seen": "2026-10-31T15:45:53+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "1dc7674900ec",
   "source": "linkup",
   "channel": "linkup:telegram:121a3f67",
@@ -10,7 +62,8 @@
   "published": "2026-10-31",
   "first_seen": "2026-10-31T10:00:04+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "39c9b046af9e",
@@ -23,7 +76,8 @@
   "published": "2026-04-21",
   "first_seen": "2026-10-31T10:00:04+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4faaf24115cd",
@@ -36,7 +90,8 @@
   "published": "2026-03-11",
   "first_seen": "2026-10-31T10:00:04+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "7c191769abfa",

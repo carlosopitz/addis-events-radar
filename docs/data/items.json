@@ -1,5 +1,31 @@
 [
  {
+  "id": "8173bfca4007",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:a440fa52",
+  "type": "gnews",
+  "title": "Saudi citizens warned as deadly Marburg Virus outbreak hits Southern Ethiopia - The Times of India",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcl9DOHBmQ3JvenM4cFlXRHI2TWotWXlSM1VxdkVrOUVGNW5wdUtMV1NPMTVuREx3Qk9FNmxmTzB3RHdwWGlYS2ZjYnE4a2d2YlhuWFBMV09adWE2Mk5UVDZ1aFJxbG5PYU5fdnItQUtveXVWSk81TUlYZXZWUzcwS2tKRUpwblhXN2NwS1RROF9PaFJtSUhiQ1BJbjVaWFBJVlZBVHVvTUNQYUNSbDRkMHlsOFc0VEhaMnVzU3AzWXluY2VxTmZxQk9kcGNsOFBrcTd6T0VOcS10U3QxV2lNaTBGYWJXblNRd0Nua1ln0gHzAUFVX3lxTE9QcVBVWmxMSG1JVkgtbkhKXzhsWDl5RURoNlRrTWt1Sm1DcTFtY0t2c2RVdlpsNFRNMnhScmhzMjAxTkpXY2d6Rm1oR3ZvWVl2QzFKQjA2dHlmNjRsMjE0eW10d1Y1ZFNWMFpiZVR4UUVGUnd2cEdyYW5naVdFV3Z3LU43NUF0MGJOU0U0aTVic0h6X2JmOG02YXV3NnVabm5FNXFnLXZXbHFKaUxzekNKOXB4YnVzbld5a180Ql9aYUxRZVpKUDZWaTRxWkR6OVpzUnBoLWlqcTFTRkFRNDdoMUJzSlRzRndieG5OWVQxQnctWQ?oc=5",
+  "summary": "",
+  "published": "2025-12-07",
+  "first_seen": "2026-10-31T01:37:05+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "e2fb4932530c",
+  "source": "hilton",
+  "channel": "hilton:gnews:49449a81",
+  "type": "gnews",
+  "title": "Wegagen Capital Goes into Business as Ethiopia’s First Investment Bank - Shega",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3pxM0NneFZUUnJnT1VZVkE0bEpsMmVtbFVEZk4xdGZyNmsydHBFdHRXUnRyd25IM2ZjLW5sUlhxM2FnNmtsOV9Fd2E5N1p5ekluREJzcTJLREJ5N1Z3YTF3TTVOVEl5Ulg2SzhTQnBUZlN2c2JjelJUY3pHcEZ6eVZveE83V3JhUkk1SDBLdlVfdW9UVUE?oc=5",
+  "summary": "",
+  "published": "2025-06-03",
+  "first_seen": "2026-10-31T01:37:05+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "18ad9d40b6eb",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +36,8 @@
   "published": "2026-10-30",
   "first_seen": "2026-10-30T20:49:30+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "fceb10b14577",
@@ -23,7 +50,8 @@
   "published": "2026-10-30",
   "first_seen": "2026-10-30T20:49:30+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "dc5b0629cdc9",
@@ -36,7 +64,8 @@
   "published": "2026-09-16",
   "first_seen": "2026-10-30T20:49:30+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1468dac4776f",
@@ -49,7 +78,8 @@
   "published": "2026-09-08",
   "first_seen": "2026-10-30T20:49:30+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "7cc203cc3058",
@@ -62,7 +92,8 @@
   "published": "2026-09-03",
   "first_seen": "2026-10-30T20:49:30+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a9a81747700e",

@@ -1,5 +1,96 @@
 [
  {
+  "id": "7c191769abfa",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "✨ GAST PILATES IS HIRING!",
+  "url": "https://t.me/gastcinema/4847",
+  "summary": "✨ GAST PILATES IS HIRING! We’re looking for passionate and qualified Pilates Instructors to join our team. 📞 Interested? Contact us: +251 93 011 3388 Be part of the GAST experience!",
+  "published": "2026-10-31",
+  "first_seen": "2026-10-31T08:27:58+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "eaac1ec3d1ef",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "⚔️ THE WAIT IS ALMOST OVER!",
+  "url": "https://t.me/gastcinema/4848",
+  "summary": "⚔️ THE WAIT IS ALMOST OVER! 🔥 DOOMSDAY IS TOMORROW! 💥 🎟️ AVENGERS: DOOMSDAY PRE-BOOKING OPENS TOMORROW! Are you ready? The countdown is ON! 🍿 🔥 Stay tuned! 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-10-31",
+  "first_seen": "2026-10-31T08:27:58+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "6b9ffd602aa7",
+  "source": "usa",
+  "channel": "usa:rss:71c1fd6e",
+  "type": "rss",
+  "title": "Security Alert: U.S. Embassy Addis Ababa, Ethiopia (October 30, 2026)",
+  "url": "https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-october-30-2026/",
+  "summary": "The post Security Alert: U.S. Embassy Addis Ababa, Ethiopia (October 30, 2026) appeared first on U.S. Embassy in Ethiopia .",
+  "published": "2026-10-29",
+  "first_seen": "2026-10-31T08:27:58+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "268b8ddbba67",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "Preparing before disaster strikes: why being ready matters - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkVjOHlKSDZ6S0FUbUxxbkhycHQzSVlaRXRJV1pvMWpxRGROcEF6LWJXWi1MNkFCVXRjNVFPdFBndm5mbmFQenMxU0kyWnowRjBUMFYxejN5VWlYVWs4QXVDZEU2T3ZaRENqNGtfaFNiNnVWMXlOV3o2ZTIyQmxUOXRtLVBBZ3J3QzJxcjYyZm10RzByZkVSSzlpVlJPZHV0RW95QlRraTdtdkNHRDZrTnJOY18?oc=5",
+  "summary": "",
+  "published": "2026-10-15",
+  "first_seen": "2026-10-31T08:27:58+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "43fa48e8fe7d",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "The EU announces a Team Europe investment in health of almost €170 million in Africa - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcUpteWF1UjFxa3U5RlBVdmh3U2x1QnRCSDY2MWYwbHZnOGVKSFVjUldQb3daZkU1Ml9hWGltZUVQM0w4NzJxSVBMTk9OdWpXaHM0bnllT2IzVTl0eklmSWhhOVJ3R2szcjRxM0JuTVJUVFBhT3pmZWFqUzhzRUxpLUgwNWtEV3N3dHBfSkxyYVZSTURyZWlyR0VmVnhZSENaT1VDVmJsOHVqNk1iTEJNbm9temNkeEpmWkItdUNibGNxeTZ4NjBTMzFIdEx0UFlU?oc=5",
+  "summary": "",
+  "published": "2026-10-12",
+  "first_seen": "2026-10-31T08:27:58+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4985322d767f",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:ce1dd9ce",
+  "type": "gnews",
+  "title": "Venezuela acompaña tributo vivo a la herencia africana en San Vicente y las Granadinas - Ministerio del Poder Popular para Relaciones Exteriores",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVhDeUREblNkOG8tWG1rdEpTaXEwNUVDY3NtLTgwNTZCWmxUb2ZLVXh5dXBtZmlFY3BLRUNCcEF6d2hCZ0Q0QmZhekEwU3RuMVI5TkF4WXk2Y21la0dJbzVZcGRudFh4N2puUmFZcG01RUlaRm1iSURjZG52U2J0clZtTmYzcUw1NmpDRU05MnI1MHpnOEkxNjdlUE1wSExPZFB3d3FPZzhaRVlDYmpTZ0JnczJmbU5rUThOeWhtb0JfUQ?oc=5",
+  "summary": "",
+  "published": "2025-06-01",
+  "first_seen": "2026-10-31T08:27:58+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "a9d9ce64dbe2",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "De Noriega a Assange: diez refugiados de alto perfil - BBC",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWNtcXN4MW1UNXBpLWtyVFJFSV9WQlJBVUFFdkRjWDAteWxxVWdYYmNhZl9nWjFVN3hKOEY5dXBadmx3WUdpbjJYT0hCQTJHckJRbUgyaXZFaHJNN1owcFF1TTUwY0g1dy0xaDl1UkRlN1A3YTE3YXE4Sk1MbXE5UzJFQlNnTVdkaEFj?oc=5",
+  "summary": "",
+  "published": "2012-08-20",
+  "first_seen": "2026-10-31T08:27:58+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "8173bfca4007",
   "source": "venezuela",
   "channel": "venezuela:gnews:a440fa52",
@@ -10,7 +101,8 @@
   "published": "2025-12-07",
   "first_seen": "2026-10-31T01:37:05+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e2fb4932530c",
@@ -23,7 +115,8 @@
   "published": "2025-06-03",
   "first_seen": "2026-10-31T01:37:05+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "18ad9d40b6eb",

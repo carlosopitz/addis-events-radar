@@ -10,7 +10,10 @@
   "published": "2026-09-27",
   "first_seen": "2026-10-31T20:01:10+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": [
+   "fendika"
+  ]
  },
  {
   "id": "0a420d2a4da5",
@@ -23,7 +26,8 @@
   "published": "2024-05-10",
   "first_seen": "2026-10-31T20:01:10+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "b795b9022669",

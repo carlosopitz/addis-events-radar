@@ -1,5 +1,31 @@
 [
  {
+  "id": "fba9be74ddcf",
+  "source": "hyatt",
+  "channel": "hyatt:gnews:f99db60f",
+  "type": "gnews",
+  "title": "GEREZAT at Fendika: Tewoldebrehan Kidane’s free Addis solo show runs through October 19 - Mereja",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9fRE1kRERKbDRMZElTZUxrbUVwVDBkbW1PamlMbzNDMmswd2tiZmFCbnZIdm04N0xxTHJjNF9rUHBuSWZqN0E?oc=5",
+  "summary": "",
+  "published": "2026-09-27",
+  "first_seen": "2026-10-31T20:01:10+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0a420d2a4da5",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:232c6525",
+  "type": "gnews",
+  "title": "Photo Exhibition Offers Visual Journey through Ethio-US Relations - Ethiopian Monitor",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONm1fcHdtRlRCRTdSMU9taEJIZmpNQl82QXZuN20wQjNuLUZWdlh0TEdmUnFVX19IRWtjTTVCaDhFbWZKblZjSDVhSnhzRVZrZHhuZnU0MUUxdURxS3kxTGpuczU4WFZsYnU0c3JtOF9YdFBsRFVuajRUX3Q1VmdON2ZGcUtTQWg3c05QcTZ3aXdtdkppc3VlQm9kcmNqanpNUDJpNnRfTnRjUQ?oc=5",
+  "summary": "",
+  "published": "2024-05-10",
+  "first_seen": "2026-10-31T20:01:10+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "b795b9022669",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +36,8 @@
   "published": "2026-10-31",
   "first_seen": "2026-10-31T15:45:53+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "520bd0ba291e",
@@ -23,7 +50,8 @@
   "published": "2026-04-30",
   "first_seen": "2026-10-31T15:45:53+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "dbe49cd88060",
@@ -36,7 +64,8 @@
   "published": "2025-04-01",
   "first_seen": "2026-10-31T15:45:53+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b0b12083de07",
@@ -49,7 +78,8 @@
   "published": "2014-04-09",
   "first_seen": "2026-10-31T15:45:53+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "1dc7674900ec",

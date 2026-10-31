@@ -1,5 +1,44 @@
 [
  {
+  "id": "1dc7674900ec",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "Behind the doors of private homes, a child’s childhood can quietly disappear.",
+  "url": "https://t.me/LinkUpPremium/5078",
+  "summary": "Behind the doors of private homes, a child’s childhood can quietly disappear. Across Addis Ababa, young girls leave their families hoping to earn money and continue their education. But for some, the reality is long working hours, withheld wages, and abuse. Through Meseret’s story, we explore the hidden struggles of…",
+  "published": "2026-10-31",
+  "first_seen": "2026-10-31T10:00:04+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "39c9b046af9e",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "AU and EU strengthen their Health Partnership, launch initiatives under Global Gateway - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTUFMeHY1bzFNOXJpcno4ZGtvVGs2WDVvdzVDUVRNNXVuZGRnN00tZVhSWG9VMDNibFI5ckRQd0xzSGxDa3ptcnVNc25PUHhISEhIN1ZZREhIdG9NOFUyeGNNWkxjMGh1SlMwMzZVeF9uZnZSeXVsdnBDR29tV2o2RlpxeEVnekNZM0JGLVZHZUVhRVgweXgybDFicHlPSUF2b3FkbDVyeTZ4QzA0b3ZMZzlCMTJnbHNjc0lFUVdWb21VcTBDRlduSmhhb0JoeU01Qks1R05TRXBzZ3pW?oc=5",
+  "summary": "",
+  "published": "2026-04-21",
+  "first_seen": "2026-10-31T10:00:04+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4faaf24115cd",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "Meet the AU Media Fellowship Cohort 3.0 Fellows, the voices shaping Africa’s narrative: in partnership with European Union - EEAS",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQU1h3cTlHalRXdXJIN0JiTHdaOHBYWnNpUWtad1ROejV5c1p5UExLc3Z2blpYZDdacUtOekkwQzRvcDY0Vkx1WEowc3UwRkhuVlJXdGRERkllRFpNekk1NGlDWFRrY0Y0dFNESWVpbzF4UDF6aG1Gb3p6UVVoenh5eVhiVG1NVWlTclBIdGFYbEU4eWFLUFoxQVZQZzcwWEZ5cFpqUF80Q3BRdVZsU25Ia1dpUGV5OGtwaUptSVVNRDdTUWtXMUhkUVRVRUFhWGlfTjRlNGhaU1U4ZzNMUHFvZmdwODFodVFWd255UWpjeHB4eDJFTTlV?oc=5",
+  "summary": "",
+  "published": "2026-03-11",
+  "first_seen": "2026-10-31T10:00:04+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "7c191769abfa",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +49,8 @@
   "published": "2026-10-31",
   "first_seen": "2026-10-31T08:27:58+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "eaac1ec3d1ef",
@@ -23,7 +63,8 @@
   "published": "2026-10-31",
   "first_seen": "2026-10-31T08:27:58+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6b9ffd602aa7",
@@ -36,7 +77,8 @@
   "published": "2026-10-29",
   "first_seen": "2026-10-31T08:27:58+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "268b8ddbba67",
@@ -49,7 +91,8 @@
   "published": "2026-10-15",
   "first_seen": "2026-10-31T08:27:58+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "43fa48e8fe7d",
@@ -62,7 +105,8 @@
   "published": "2026-10-12",
   "first_seen": "2026-10-31T08:27:58+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4985322d767f",
@@ -75,7 +119,8 @@
   "published": "2025-06-01",
   "first_seen": "2026-10-31T08:27:58+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a9d9ce64dbe2",
@@ -88,7 +133,8 @@
   "published": "2012-08-20",
   "first_seen": "2026-10-31T08:27:58+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "8173bfca4007",

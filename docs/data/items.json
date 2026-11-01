@@ -1,5 +1,57 @@
 [
  {
+  "id": "2837920c3786",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "🔥 THE COUNTDOWN CONTINUES!",
+  "url": "https://t.me/gastcinema/4852",
+  "summary": "🔥 THE COUNTDOWN CONTINUES! ⏳ JUST 5 HOURS TO GO! The moment is getting closer… ⚔️ 🎟️ AVENGERS: DOOMSDAY PRE-BOOKING OPENS IN 5 HOURS! Get ready, Marvel fans. Your seats are waiting! 💥 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-11-01",
+  "first_seen": "2026-11-01T10:49:53+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "ac23fb161e8c",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "🔥 JUST 7 HOURS LEFT!",
+  "url": "https://t.me/gastcinema/4851",
+  "summary": "🔥 JUST 7 HOURS LEFT! The moment you’ve been waiting for is almost here! ⚔️ 🎟️ AVENGERS: DOOMSDAY PRE-BOOKING OPENS IN JUST 7 HOURS! Get ready to secure your seats. DOOMSDAY IS COMING! 💥 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-11-01",
+  "first_seen": "2026-11-01T10:49:53+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "4f95a47aa982",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "🔥 JUST 4 HOURS TO GO!",
+  "url": "https://t.me/gastcinema/4853",
+  "summary": "🔥 JUST 4 HOURS TO GO! The countdown is getting real! ⚔️ 💥 🎟️ AVENGERS: DOOMSDAY PRE-BOOKING OPENS IN JUST 4 HOURS! Marvel fans, get ready to secure your seats! 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-11-01",
+  "first_seen": "2026-11-01T10:49:53+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "612c0f9ba7c2",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "This week on Mic’d Up, we’re sitting down with Hanne, better known on social media as Dse Yemil Amharic!",
+  "url": "https://t.me/LinkUpPremium/5079",
+  "summary": "This week on Mic’d Up, we’re sitting down with Hanne, better known on social media as Dse Yemil Amharic! We’re getting to know the person behind the name, sharing conversations, stories, and insights you won’t want to miss. Watch the full interview here:…",
+  "published": "2026-11-01",
+  "first_seen": "2026-11-01T10:49:53+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
   "id": "a3ea87e41578",
   "source": "euff",
   "channel": "euff:gnews:e760266e",
@@ -10,7 +62,8 @@
   "published": "2026-09-03",
   "first_seen": "2026-11-01T06:10:10+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d25302dd6f90",
@@ -23,7 +76,8 @@
   "published": "2026-03-09",
   "first_seen": "2026-11-01T06:10:10+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "f43e709df45f",
@@ -36,7 +90,8 @@
   "published": "2023-11-04",
   "first_seen": "2026-11-01T06:10:10+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "fba9be74ddcf",

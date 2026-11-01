@@ -1,5 +1,83 @@
 [
  {
+  "id": "ebdc89e721b0",
+  "source": "korea",
+  "channel": "korea:web:427fe97b",
+  "type": "web",
+  "title": "Notice 2026 Korea-Ethiopia Taekwondo Development Workshop (Nov. 27–29) The Embassy of the Republic of Korea in Ethiopia, in partnership with the Ethiopian Sports Academy, will host the 2026 Korea-Ethiopia Taekwo…",
+  "url": "https://overseas.mofa.go.kr/et-en/brd/m_23675/view.do?seq=758570",
+  "summary": "",
+  "published": "2026-11-02",
+  "first_seen": "2026-11-01T18:57:26+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "708804b3cd9c",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "🚨 IT’S OFFICIALLY TIME!",
+  "url": "https://t.me/gastcinema/4864",
+  "summary": "🚨 IT’S OFFICIALLY TIME! 🚨 🔥 AVENGERS: DOOMSDAY PRE-BOOKING IS NOW OPEN! ⚔️ The wait is over, Marvel fans! The road to DOOMSDAY starts here. 🎟️ BOOK YOUR SEATS NOW! https://getus.cnetcommerce.com/ 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-11-01",
+  "first_seen": "2026-11-01T18:57:26+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "e3fb2948f231",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "This week on Mic’d Up, we’re sitting down with Hanne, better known on social media as Dse Yemil Amharic!",
+  "url": "https://t.me/LinkUpAddis/13321",
+  "summary": "This week on Mic’d Up, we’re sitting down with Hanne, better known on social media as Dse Yemil Amharic! We’re getting to know the person behind the name, sharing conversations, stories, and insights you won’t want to miss. Watch the full interview here:…",
+  "published": "2026-11-01",
+  "first_seen": "2026-11-01T18:57:26+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "c5dff340d4b4",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Gast Cinema Dec 17 - Dec 20 2026 Schedule",
+  "url": "https://t.me/gastcinema/4865",
+  "summary": "Gast Cinema Dec 17 - Dec 20 2026 Schedule",
+  "published": "2026-11-01",
+  "first_seen": "2026-11-01T18:57:26+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "bb86fd7e271e",
+  "source": "colombia",
+  "channel": "colombia:gnews:d97e2977",
+  "type": "gnews",
+  "title": "Jóvenes afrocolombianos representan a Colombia en el AfriCreative Future Forum 2026 en Etiopía - MinCultura",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV1NZYnl1cGcySWdJSDE4eXNYR3RuVFpacmJQTmVNRlZySEpCc3U2ZHB6VDZkblo5WXZzbjZaNlN5M2swY1BReE84SnhEZWE5cTRSR2tKNVczR2dFUHItN2U2WVlrYUZFRFVaOHR6RGVQMlN1Vzk3eGV0ZFY4a01IY255dFhWelp1S3JMVlBLNmE1eFZodHlqdlZ5VnNQY1QwdzhCdncwLVRxQ0k2MzhSVE9GOUVKV3d6bXI0bkdQMEF4QTZNeXVJWjhENXBsbEpBUlJWSFphdGJjX3VocG9r?oc=5",
+  "summary": "",
+  "published": "2026-06-24",
+  "first_seen": "2026-11-01T18:57:26+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "3a39080ba769",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "BlueInvest Africa 2026 unveils 25 African startups and SMEs set to pitch to global investors - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaDVwVll4S1pBc0IzRkdYUnI5Wm5vZGw2anRTSkVFaTJYQThwWW4xXzYyY1RVbWZBTFBtdG01REljVklJNmZmQ25FSEJNYVB2cFFmMERONVVVa1pkd2pXZHlTVjltLXE2VnhReDNhRllyY0toN1J6S29LQWxER3BkdFVUVmhmVk54N016Z0JkNzJPQTBUczNEcTY5SzVUcS1QMGJvcF91YXd5am9HNXJUWWJCM3ljbFBhYzhHMzFtLUJSN2w3eU1rNXlmRGpLWWtsckphdFlzTHBmbzlxZTRLM1dIWks?oc=5",
+  "summary": "",
+  "published": "2026-04-30",
+  "first_seen": "2026-11-01T18:57:26+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "2281b5840f32",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +88,8 @@
   "published": "2026-11-01",
   "first_seen": "2026-11-01T13:28:18+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c0e6e40a0fe8",
@@ -23,7 +102,8 @@
   "published": "2026-11-01",
   "first_seen": "2026-11-01T13:28:18+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a02a691bc771",
@@ -36,7 +116,8 @@
   "published": "2022-10-23",
   "first_seen": "2026-11-01T13:28:18+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "52ced36237da",
@@ -49,7 +130,8 @@
   "published": "2020-01-28",
   "first_seen": "2026-11-01T13:28:18+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "2837920c3786",

@@ -1,5 +1,44 @@
 [
  {
+  "id": "a3ea87e41578",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "African Union - European Union Science, Technology and Innovation Cooperation: Achievements and New Initiatives - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUlhUM0dDNnRfTWJxTFlHaHRNOFRLVnhycHVfMFA4aXIwcWJSNUxVM3RkLVgydU5TeXVxLU9uX1ZIR0xYYW5MVVFSWTBBSVdDVTlpNVJRNEFmaHVCS21VUjVVUzJsZHF0cjA3RnF5MGNQVEV3NlBlU0U5SnF4SlNzd1Nla2pTbG9FX1doZ3RNT2tSNjBfenluYjJKTURTNlRGOTZLRGoyZXZZd2IzNHpVdW9vYzB4Uy1YSHpSZzY0RzRSMkpsZmozTWtvUGNic1BwSXV5SGdaVnBHNFUtX2I1dWxHNm84MGQ2T3BiRTAzc00?oc=5",
+  "summary": "",
+  "published": "2026-09-03",
+  "first_seen": "2026-11-01T06:10:10+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "d25302dd6f90",
+  "source": "colombia",
+  "channel": "colombia:gnews:d97e2977",
+  "type": "gnews",
+  "title": "Cancillería informó que más de 100 argentinos regresan al país tras el conflicto en Medio Oriente - Infobae",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObm5PWEs1N1Z5ZWJ6UDMxeHdHYkpYb0ZPeU5CUlRCMFlDMWZkNFRaTDZMaXIxTUV2WndQam5ra0g3aVphWVpLODZqWmJLNElCYl9yVnlWOHhRdmVCdVZjUExsYmtfWEtpc1Q5b2NGM0F3TU1kcm11T1Mtbkt2OURteXF6VkdwMUNYRk5laHRoWVc3UXNSVzdMNVFiM0RVNzRPVkNFNnV5cjBQcWR3cmFLWEgxMWVzTzhHdWpvM29WQjNCQ0hsWGlrT1dWNW0yaGZpRzUzREI2VVZkUdIB9AFBVV95cUxQU0NHVXhLYnp0dnUxa3RzS0hRdzlrZDlaMUNoT3A1bTFpZVZvdDJ5c0hWLXRlZ29PTEdySzJCc0otQ2dXWHZlS2N0dWpxZ0lZLWZISWlsU3QwVUJ1V1pkVU42NGpWLVZEcHJSSVpxUExzWlRUamdYZUdmUjB5Z1VpTmFYWkdQeU04X2dEazh2NVhYUGdqY096UG1vQWRSYzUzaGNpeUljVnowWVlMMXNSNWtVSl9BbVVDbmcyNXlZckNXVmZPTVU3ck9hak95c3hqaWFsX2E1VTViNlVCQzFxMTJQZThWVEFaazRoc1FkZ09GaFZr?oc=5",
+  "summary": "",
+  "published": "2026-03-09",
+  "first_seen": "2026-11-01T06:10:10+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "f43e709df45f",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "Carmen Yvette Altagracia en la colectiva “Conexiones sin Fronteras” de la Galería Saida al Hourra Alkasaba - Puerto Rico Art News",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc1U0WHYtR29PZ2xXV21DV1NaaWNlM3JIUWl0RTExRlU5VHhheDQtb2dNSDRfR0EwN1ZRZUJ5dGVIN2pHZWhDRVNQZ2JYTWNKTUp5TktrSHh4VWZvR2VUNmRnSDAydUxyOGd1dmhvQlZibjVUSnpWVmZLLXd0WkM3RnZzbw?oc=5",
+  "summary": "",
+  "published": "2023-11-04",
+  "first_seen": "2026-11-01T06:10:10+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "fba9be74ddcf",
   "source": "hyatt",
   "channel": "hyatt:gnews:f99db60f",

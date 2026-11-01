@@ -1,5 +1,57 @@
 [
  {
+  "id": "2281b5840f32",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "🔥 JUST 3 HOURS TO GO!",
+  "url": "https://t.me/gastcinema/4854",
+  "summary": "🔥 JUST 3 HOURS TO GO! The excitement is building… ⚔️ 💥 🎟️ AVENGERS: DOOMSDAY PRE-BOOKING OPENS IN JUST 3 HOURS! Get ready, Marvel fans. The countdown is ON! 🍿 🔥 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-11-01",
+  "first_seen": "2026-11-01T13:28:18+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "c0e6e40a0fe8",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "🔥 JUST 1 HOUR TO GO!",
+  "url": "https://t.me/gastcinema/4855",
+  "summary": "🔥 JUST 1 HOUR TO GO! THE FINAL COUNTDOWN IS HERE! ⚔️ 💥 🎟️ AVENGERS: DOOMSDAY PRE-BOOKING OPENS IN JUST 1 HOUR! Marvel fans, get ready! It’s almost time to secure your seats! 🍿 🔥 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-11-01",
+  "first_seen": "2026-11-01T13:28:18+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "a02a691bc771",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:232c6525",
+  "type": "gnews",
+  "title": "Photo Exhibition New Kazakhstan Opens in Capital of African Union - The Astana Times",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZnZsY2FuQ0VDMHA5b2NkYjNjQVhfcUpTSnBaY1hTS2wtS0RnaHdZY2MyMHMxVUlxWk9Ta3MtbzlGNFVXNTJLYUZ3MGZBU0s1S0syMzZNNHZZTmo0aVNBXy12eDJFQzRUZGt4NnV0Q29pQS1VemFzV25janpGVmx3ZGRLdUpldmQ4Q2RnWkJFQ1p4NGNmUmljUG9FVXlzQUU?oc=5",
+  "summary": "",
+  "published": "2022-10-23",
+  "first_seen": "2026-11-01T13:28:18+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "52ced36237da",
+  "source": "japan",
+  "channel": "japan:gnews:9529a05b",
+  "type": "gnews",
+  "title": "ESSTI, Embassy of Japan To Hold Public Lecture On Space Innovation in Addis Ababa - Space in Africa",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkF5S3JwQzNKeDBlRmRScTBJM1l0RlBKckFlNk8xMTI4T0lXN2xIYUFtcDFOVk5aNnRhTjUwSHlMcElaRC1xYmNOckJMalBfSThlTUJvZFJvMzNYWE9INmZJN0lCZHZiS2trY1dtQlczdHpMTlFBVktmXzlwOXk0clRZV25SUHlRZzRmMFhyUmdSbjZEYjlqYThuSG56Q19CZEVkZHVQeFphVjJGbXJwd0cwQTBBQ3F0Tnc?oc=5",
+  "summary": "",
+  "published": "2020-01-28",
+  "first_seen": "2026-11-01T13:28:18+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "2837920c3786",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +62,8 @@
   "published": "2026-11-01",
   "first_seen": "2026-11-01T10:49:53+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ac23fb161e8c",
@@ -23,7 +76,8 @@
   "published": "2026-11-01",
   "first_seen": "2026-11-01T10:49:53+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4f95a47aa982",
@@ -36,7 +90,8 @@
   "published": "2026-11-01",
   "first_seen": "2026-11-01T10:49:53+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "612c0f9ba7c2",
@@ -49,7 +104,8 @@
   "published": "2026-11-01",
   "first_seen": "2026-11-01T10:49:53+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a3ea87e41578",

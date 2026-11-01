@@ -1,5 +1,31 @@
 [
  {
+  "id": "f5f023e6d860",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Gast Cinema Nov 02 - 04 2026 Schedule",
+  "url": "https://t.me/gastcinema/4866",
+  "summary": "Gast Cinema Nov 02 - 04 2026 Schedule",
+  "published": "2026-11-01",
+  "first_seen": "2026-11-01T23:37:57+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "8e24e134cf57",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "Addis Ababa Stadium Ethiopian building - e-architect",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vVUFzNnRFYlQ1VnRhcHVqX3h3bHltZkZXeHBLMGVQTW5XQW5mMDZESE9tdEpwdzFBN292ZlZyaXJDN1VCTlhmeExzUFVpV0RMYUJqNE5fM3FEQktGeTBaTm5UUEVjZ0tkekJwSjF1Y0Y?oc=5",
+  "summary": "",
+  "published": "2012-07-19",
+  "first_seen": "2026-11-01T23:37:57+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "ebdc89e721b0",
   "source": "korea",
   "channel": "korea:web:427fe97b",
@@ -10,7 +36,8 @@
   "published": "2026-11-02",
   "first_seen": "2026-11-01T18:57:26+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "708804b3cd9c",
@@ -23,7 +50,8 @@
   "published": "2026-11-01",
   "first_seen": "2026-11-01T18:57:26+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e3fb2948f231",
@@ -36,7 +64,8 @@
   "published": "2026-11-01",
   "first_seen": "2026-11-01T18:57:26+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c5dff340d4b4",
@@ -49,7 +78,8 @@
   "published": "2026-11-01",
   "first_seen": "2026-11-01T18:57:26+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "bb86fd7e271e",
@@ -62,7 +92,8 @@
   "published": "2026-06-24",
   "first_seen": "2026-11-01T18:57:26+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "3a39080ba769",
@@ -75,7 +106,8 @@
   "published": "2026-04-30",
   "first_seen": "2026-11-01T18:57:26+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "2281b5840f32",

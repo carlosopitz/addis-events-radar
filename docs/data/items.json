@@ -1,5 +1,31 @@
 [
  {
+  "id": "26ed0186ed28",
+  "source": "colombia",
+  "channel": "colombia:gnews:d97e2977",
+  "type": "gnews",
+  "title": "Veinte años asilados en una embajada - BBC",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUNTazJDcE5NTDB3alNmdFpMTzRFR0lvVDdUekNWanhHVFI0MmtXYUlfZjZDWG0yN3dndTFfSWJjdVRvMDJ5em5qRE11Umc2SUdPZ2RZSlVoZzh1LXdIei1PcVJPY1lIZUZSU0dib2FuMkdnT0dVanVyQk1Pd21HNDU5SWt5eWs4Z3FPdlphbXJNZWp3Y3dJb1hOMEVObGxPOGFCd1E0bXM?oc=5",
+  "summary": "",
+  "published": "2011-05-28",
+  "first_seen": "2026-11-02T06:09:18+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "171624ee8fcd",
+  "source": "british-council",
+  "channel": "british-council:gnews:1ba389ab",
+  "type": "gnews",
+  "title": "ETHIOPIA • Security beefed up at British Council - 27/01/2001 - The Indian Ocean Newsletter - Africa Intelligence",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaDhfdzZSLW5hdWlrZV9wNGxjM0tSc2ozRHBJb3JjTHNBTzI5WUFBZGNxdlNQU1lZaW5Nek85Rkp0T09CaFVkcVBLTW1KdmNVTklxUU5NejY5LU93WUswYjBDSE1HVl9MOFVrR2hBVUhHWFRBNk5jcU43dnlWRWVqeERRSjIzSzFJQWhEUk5Zd21tVTFqUXJYd05NRU02bHpKNm1yX0dZMlRCYUFxTk14alhKUURaVE5mS1pnTFM0LVFNaVRLMTJ3c2R3?oc=5",
+  "summary": "",
+  "published": "2001-01-27",
+  "first_seen": "2026-11-02T06:09:18+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "f5f023e6d860",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +36,8 @@
   "published": "2026-11-01",
   "first_seen": "2026-11-01T23:37:57+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "8e24e134cf57",
@@ -23,7 +50,8 @@
   "published": "2012-07-19",
   "first_seen": "2026-11-01T23:37:57+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ebdc89e721b0",

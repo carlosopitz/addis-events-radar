@@ -1,5 +1,70 @@
 [
  {
+  "id": "59db9b172d0f",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "Cuando el último emperador de Etiopía visitó México para agradecer la ayuda contra Mussolini - Infobae",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQzdaRVB4VGs5cks5UmhSaENSd2pGN2R3bEVrWE9RS2tCUjlmTkk3d0VJQ1RDWkFudTlQNG44LVhhTUdYd3UyV08wa2FucGllWkMybG4xVlY2Sk5rQWpfTmF5bG1JOVZmbFVMRnN5dmUxVG0yNEppYTRGcFpyUVRWdkZjUmRSMldKdFRxUmkzTGNwRnhPZEJmUlpNWERVQTR4WFFKdnFzTXNsRnZlUnZFT2ltaDBRaFhhWkRnSnBkSUdLeExCSlotQndkUTMwR2V00gHrAUFVX3lxTE1hUnhIVzlOU1NXdUxKRFM2ZzNpWE5NVlMzeGtzcWJnTjlhTzZBWlBhcUlMSS1aaXNWSzE4XzQ2UUNWUFBBVzlFeVpmQkJEdmJ3am9wcTVKQ19EWVR1Q1lHTUNYYkp6Q3dLNkdMcnd5bXhubV83NGhKdEw3U1NYWXh2VWtqRll3WDlkUkpUczljWVg5TF9OY1g4U3hEVGE2Q09LRDVQOFp0Yks1Wlc5TUwxQXM2T29YaGYtQzNjaFlyblBRWHlKM0FVbEk5SUxtaFA5VlJfYV81OGNKM2FXUGc2Yy1jU0tYUWhGTGc?oc=5",
+  "summary": "",
+  "published": "2025-05-29",
+  "first_seen": "2026-11-02T23:33:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "ddfcbfabcd91",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "African Alumni meets African Union and European Union on Students and Alumni Forum - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYjlIOFhPaDJ3bGstU1hQYjRPaUJkR09fanljN1hncVFEWjBMVnhuZlk1QjY2SmVVcXN3b0dQR1piblJuYlp5Q0xkSmZoTlEtUkJZSHYzUkF3ZDRnZzBMMW5xTnJDQ1h4WkZNV0d0VGI3RERzN2gxaHJaTEhhSEp2OXkyRFpjQ0lwZHFTMHVnTlRBUWV6Zi1USDVFSXNaY1Rld21ZQkYxTHZWSjNYYUFIdkdrUktwZHFFLVdEclVBazdYQWtxYlVob254dmYwYnBDR2h1elQtS0NSQQ?oc=5",
+  "summary": "",
+  "published": "2023-10-07",
+  "first_seen": "2026-11-02T23:33:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "7723309853b8",
+  "source": "germany",
+  "channel": "germany:gnews:76449341",
+  "type": "gnews",
+  "title": "Ministry of Health Receives Ultrasound Tech Support from Siemens Healthineers - Ethiopian Monitor",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV3F1bmhVYXBFUlRzNjYtWXUzODZWWUtxTm1iMnBTc1pRNUh1Nk1HVUt3V3YtZmZqbDFfeXVocU1FU3NyM0hXQXdSR1RDbTU5VjdpemJRQWlTdWlQengwYXdqR2R6aDctMEJad2Z1U2ZUT1ZHNGQ4aERjNmtST0pYUmJiVVdCQlpVVjRVdWl2VURXcHpUQzRGbWFobk4wRGItaFl6Rm16LXQ3QkJYQXJ1MnJtdVF1SEpFRFE?oc=5",
+  "summary": "",
+  "published": "2022-05-31",
+  "first_seen": "2026-11-02T23:33:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "ea1065841dd7",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "Nafacity: Innovation in the Public Realm - Britishcouncil.org",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aaWZYQld5MklyRy1pU3BIM3ZteXJiMDFaXzJKX2V2alNhZVI5djBZT0dXc2E0YUpTVkhQWklZR2VlQ01icDJWcllxaUhvU25xZ2dITDRBcHBFNHRiMWpXVnp0NGlUalNxTkZWUzVtcEpJMFFTNElNQ3Z3?oc=5",
+  "summary": "",
+  "published": "2018-05-08",
+  "first_seen": "2026-11-02T23:33:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "de0e042c1994",
+  "source": "japan",
+  "channel": "japan:gnews:9529a05b",
+  "type": "gnews",
+  "title": "Japanese Coffee Buyer To Hold Annual Ethiopia Coffee Quality Contest - The Reporter Ethiopia",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wV1EwOEJUSld3YjNkV1E4bXl0NU5KWUZha21IQVJQYldzSzY1MzE3QS1SNUZwTWhoRGZHNzkwbTJjdndPN1FQbkdwLWY2UE5DU3dj?oc=5",
+  "summary": "",
+  "published": "2016-03-05",
+  "first_seen": "2026-11-02T23:33:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "20a88af47186",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +75,8 @@
   "published": "2026-11-02",
   "first_seen": "2026-11-02T15:58:16+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a3b16fb25a30",
@@ -23,7 +89,8 @@
   "published": "2026-11-02",
   "first_seen": "2026-11-02T15:58:16+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "47fe47a2e54a",
@@ -36,7 +103,8 @@
   "published": "2026-11-02",
   "first_seen": "2026-11-02T15:58:16+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ba6bb3ccf10f",
@@ -49,7 +117,8 @@
   "published": "2012-05-08",
   "first_seen": "2026-11-02T15:58:16+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "2a5d4fee2ca2",

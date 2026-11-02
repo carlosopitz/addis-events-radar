@@ -1,5 +1,57 @@
 [
  {
+  "id": "2a5d4fee2ca2",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "🏹 THE LEGEND IS COMING TO GAST CINEMA!",
+  "url": "https://t.me/gastcinema/4868",
+  "summary": "🏹 THE LEGEND IS COMING TO GAST CINEMA! 🔥 Experience the epic story of RAMAYANA on the big screen! ⚔️ ✨ A legendary tale. A timeless battle. A story of truth, courage, and destiny. 📅 COMING THIS THURSDAY – NOVEMBER 5 🎬 Exclusively at GAST CINEMA ! 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #Great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-11-02",
+  "first_seen": "2026-11-02T11:44:26+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "ef9cf8ee0c88",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "Launch of African Union’s Continental Circular Economy Action Plan (CEAP) for Africa (2024 to 2034) - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaWI0QWRMU05LTmVZU1NtMGpLcWxHaEtoZG43MklRTHZER3VnMXZMVGtMRHlXSXNWXzZVYk9TN21PVi1aQmQ2MTVfLThCdnluVktCVnE3OG92cGJ5My1qLWN2RGJyckVuUVRTamdQSTlrWU4zXy1tU1F1Vllvd0M5aFJKd2NadDg4cVowTnpKWHZGS3JFakJBSlpNQkJPa3hLLXNJTWFfLTJlUDNEZzk5TEk2NnRfa0hpa203YnFoRE1xNUhnSFBZOGh6YTE2V1NLOFpZbW0xVVU4cWZha1d1WnBsdkhGVG8?oc=5",
+  "summary": "",
+  "published": "2025-07-18",
+  "first_seen": "2026-11-02T11:44:26+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "37aa24e229ad",
+  "source": "british-council",
+  "channel": "british-council:gnews:1ba389ab",
+  "type": "gnews",
+  "title": "How to teach English to a former rebel army - British Council Global",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWUQ0YnY5b09JSDNHZU02N1V6U1d4T0ZqRHY1TlY0TUtTak1hODlrSEozaGVSdE5nYWNiU3pLYWVXRy0zWHNuN3g4OTlnay1NcnRhZ1Z2YlNWTFZOYUZrT21rSGJCY1NwcDBNdUFQUDFhN0hiOU0wbjlpOUc0XzJBYmh2OGlLNVJHUVE?oc=5",
+  "summary": "",
+  "published": "2013-10-15",
+  "first_seen": "2026-11-02T11:44:26+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "017d540412b5",
+  "source": "eu-au",
+  "channel": "eu-au:web:f8df2210",
+  "type": "web",
+  "title": "Joint statement by Executive Vice-President Virkkunen, High Representative Kallas and Commissioner McGrath ahead of the International Day to End Impunity for Crimes against Journalists",
+  "url": "https://www.eeas.europa.eu/delegations/african-union-au/joint-statement-executive-vice-president-virkkunen-high-representative-kallas-and-commissioner-0_en?s=43",
+  "summary": "",
+  "published": null,
+  "first_seen": "2026-11-02T11:44:26+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
   "id": "26ed0186ed28",
   "source": "colombia",
   "channel": "colombia:gnews:d97e2977",
@@ -10,7 +62,8 @@
   "published": "2011-05-28",
   "first_seen": "2026-11-02T06:09:18+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "171624ee8fcd",
@@ -23,7 +76,8 @@
   "published": "2001-01-27",
   "first_seen": "2026-11-02T06:09:18+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "f5f023e6d860",

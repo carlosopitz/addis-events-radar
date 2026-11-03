@@ -1,5 +1,122 @@
 [
  {
+  "id": "32251845388d",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The Pasta Festa 2026 event will take place on November 7, 2026, from 10:00 AM to 8:00 PM at the Addis Ababa Exhibition Center.",
+  "url": "https://t.me/LinkUpAddis/13328",
+  "summary": "The Pasta Festa 2026 event will take place on November 7, 2026, from 10:00 AM to 8:00 PM at the Addis Ababa Exhibition Center. Sponsored by Pepsi, the event features food, beverages, and music performances by DJ T-Mike, DJ Jazzy Dave, DJ AB, DJ Maximum, and DJ Aman. Tickets are priced at 300 ETB and can be purchased…",
+  "published": "2026-11-03",
+  "first_seen": "2026-11-03T11:25:21+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "7a6b28d1cacb",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The Founders’ Day Event and Exhibition will take place on Saturday, November 7, 2026, from 11:30 AM to 5:00 PM at weVentureHub in the Sur Construction Building.",
+  "url": "https://t.me/LinkUpAddis/13330",
+  "summary": "The Founders’ Day Event and Exhibition will take place on Saturday, November 7, 2026, from 11:30 AM to 5:00 PM at weVentureHub in the Sur Construction Building. The gathering brings together entrepreneurs, innovators, and investors to focus on business growth and innovation in Ethiopia. Admission is free with…",
+  "published": "2026-11-03",
+  "first_seen": "2026-11-03T11:25:21+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "572275b681f4",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Static is scheduled to take place on 21st November at Anki Liquor,Dembel, starting at 7:00 PM.",
+  "url": "https://t.me/LinkUpAddis/13329",
+  "summary": "Static is scheduled to take place on 21st November at Anki Liquor,Dembel, starting at 7:00 PM. Static is an Afro House event taking place for the fourth time. The entrance fee is 900, and attendance is restricted to individuals aged 21 and older. Tickets are available through @Afromile . @linkupaddis",
+  "published": "2026-11-03",
+  "first_seen": "2026-11-03T11:25:21+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "169737a9ba37",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "MellowHype Events is hosting a Kid Cudi Listening Party on November 7, 2026, from 4:00 PM to 9:00 PM at Effoi in Bole Atlas.",
+  "url": "https://t.me/LinkUpAddis/13331",
+  "summary": "MellowHype Events is hosting a Kid Cudi Listening Party on November 7, 2026, from 4:00 PM to 9:00 PM at Effoi in Bole Atlas. Kid Cudi, often referred to as \"Man on the Moon,\" is an alternative hip-hop artist recognized for combining elements of rap, psychedelic music, alternative rock, and atmospheric production.…",
+  "published": "2026-11-03",
+  "first_seen": "2026-11-03T11:25:21+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "0963bdbb64e4",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "Addis Ababa: Italian-Ethiopian cooperation for the future of the Guenete Leul Palace and the Ethnographic Museum - Politecnico di Torino",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSl9DaUVhN29RRjlCS1RtNWxkX01obkxUaV9iSlVvSHdYUG5PczhyV2NTZF9ZMk5weUpZRS1xLWNhU2xPZVV5bUVmNzhsM2pucndwb2N0Vkd1QXZJX2pUaENVVUxVU0VJNGZWaGdJems4dWJFRHE3N1ZWaW13TjNBdVppeFhpMTdPRktPN0pPT2JUcE9rcnB0SUJsTlBkZlZNaGpiSlo0U2ZYenBQbk1QU2pZdnNONHZ4MEE2SzBmcE52R2FPZjF1NW9YVGI?oc=5",
+  "summary": "",
+  "published": "2026-10-09",
+  "first_seen": "2026-11-03T11:25:21+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0e552340f527",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "Algiers: sensory journeys with “The world of fragrances” - Ministero degli Affari Esteri e della Cooperazione Internazionale",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQWNWU3NIX3hhakNXb0VxeFdOYjd0cWJyUWxhQUZ3RGJJUi1UXzBpOEtmVDU4QUFEeG9MMFN2ajhkRzNpS01OVGktcEhRNWc3bHpLSE9jNjJ5eWdoRzJmMURWMFpuOVJ6OXJzNjlWdmtMYUoxaFhVcTcxZXdxR2pXQm9udHcya1JlYkNZdWM2T0Y5Q2lJenFEZHN0TGpaZUVxeFRCRGNRU1BSYk5DaXMtdXNxdmxac1lpa2FfYzRxLTctdHZCUGZ4WFBKd0tVcjQ?oc=5",
+  "summary": "",
+  "published": "2026-05-25",
+  "first_seen": "2026-11-03T11:25:21+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "72462c71f4a8",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "Dakar, exhibition “Daniele Tamagni – Style Is Life” - Ministero degli Affari Esteri e della Cooperazione Internazionale",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOENtSUZiMWVXMUZCTmFvdkpiVklnWTMza1lVc1VIeTJGYkx6ekpyMklxMzRMLWRCdXVhM0QyalVaQUxaZS13aWhvdXdYdVFhcW1GVUlFTWNBYVJTR1NkZTVOZW9LbFB0LXp4dEpSbktRaWhjbTNBcmhTUkJoMlRZWWlHUHBDSk5xd2lCLTFJcks0M1VUSGJwRWg3ZG9fYVpQS0NFX2h3aWE1a0Z0UFc4OHdxbFAzb2FnMWJkVC1iUHJ4REE?oc=5",
+  "summary": "",
+  "published": "2025-05-28",
+  "first_seen": "2026-11-03T11:25:21+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "3f31dda2080d",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "“We have gone bigger and a lot more accessible” - The Reporter Ethiopia",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FTENtYjlFbnU4LTBGM1A0Z21hUWI5dVhXRDJna3o0TVJJTV9xSElJa3dhTkc2M1o0Tlc0aVNRMFhrUk9EWGJiNEFjekF5a1cwYTI0LQ?oc=5",
+  "summary": "",
+  "published": "2021-08-07",
+  "first_seen": "2026-11-03T11:25:21+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "ad9c2b2f52dc",
+  "source": "british-council",
+  "channel": "british-council:gnews:1ba389ab",
+  "type": "gnews",
+  "title": "Britons missing in Ethiopia have embassy links - The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvdzhYQzZPY25CSjlQT0VPaTR4VmJLX0J4OVNaVG5qbDdnWU1DUDlLRkFWRS11QmotSzhPaEtCZ3BTQ3pJV2sxR3hpeG1ITnZNb015cnBIYVpLeGg5dGxkQk1lampYOTJNN3FpamFodko?oc=5",
+  "summary": "",
+  "published": "2007-03-02",
+  "first_seen": "2026-11-03T11:25:21+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "2bf4e50fe35f",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +127,8 @@
   "published": "2026-11-03",
   "first_seen": "2026-11-03T06:51:02+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "6a928e82dcc5",
@@ -23,7 +141,8 @@
   "published": "2026-05-06",
   "first_seen": "2026-11-03T06:51:02+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a98e0d0805b8",
@@ -36,7 +155,8 @@
   "published": "2025-12-10",
   "first_seen": "2026-11-03T06:51:02+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "347682db8a35",
@@ -49,7 +169,8 @@
   "published": "2025-11-07",
   "first_seen": "2026-11-03T06:51:02+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1dc4e84ac48e",
@@ -62,7 +183,8 @@
   "published": "2025-10-07",
   "first_seen": "2026-11-03T06:51:02+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b9fb422c9567",
@@ -75,7 +197,8 @@
   "published": "2024-11-26",
   "first_seen": "2026-11-03T06:51:02+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "59db9b172d0f",

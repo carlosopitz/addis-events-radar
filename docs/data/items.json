@@ -1,5 +1,70 @@
 [
  {
+  "id": "e007ebd03099",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "Whether you are a young professional looking for growth and self development, a busy startupper constantly on the look out for better ways to make sense of…",
+  "url": "https://t.me/LinkUpPremium/5092",
+  "summary": "Whether you are a young professional looking for growth and self development, a busy startupper constantly on the look out for better ways to make sense of your surrounding, or a creative soul who enjoys consuming well-crafted stories and visuals or an outgoing soul who enjoys the vibrant event scene, LinkUp Addis…",
+  "published": "2026-11-03",
+  "first_seen": "2026-11-03T16:16:47+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "1dc0256e5868",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The November 2026 Issue of LinkUp Magazine is out.",
+  "url": "https://t.me/LinkUpAddis/13332",
+  "summary": "The November 2026 Issue of LinkUp Magazine is out. ​In this month’s LinkUp Magazine cover story, we sit down with artist and singer Hailu Amerga for an exclusive conversation on his music and creative journey. ​We also explore Olive & Bread in the EatUp section and review the movie Sinners in the ReelUp section. ​…",
+  "published": "2026-11-03",
+  "first_seen": "2026-11-03T16:16:47+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "7cbe3a04e4f9",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The 21st Ethiopian International Film Festival (EIFF), in collaboration with Addis Theatre and Cinema, is scheduled to take place from November 15 to 22…",
+  "url": "https://t.me/LinkUpAddis/13333",
+  "summary": "The 21st Ethiopian International Film Festival (EIFF), in collaboration with Addis Theatre and Cinema, is scheduled to take place from November 15 to 22 across the three halls of the cinema located in Bole Flamingo. Running for a week, this cinematic event aims to celebrate the industry's contributions to the…",
+  "published": "2026-11-03",
+  "first_seen": "2026-11-03T16:16:47+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "2cdbee7e7de5",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "Hasab AI has been selected among 11 startups for Askya’s AI Growth Platform, chosen from over 1,250 applicants across 38 African countries.",
+  "url": "https://t.me/LinkUpPremium/5093",
+  "summary": "Hasab AI has been selected among 11 startups for Askya’s AI Growth Platform, chosen from over 1,250 applicants across 38 African countries. Built for local languages, Hasab is taking Ethiopian AI innovation to the pan-African stage! Read more:…",
+  "published": "2026-11-03",
+  "first_seen": "2026-11-03T16:16:47+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "24bbb14527d4",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Experience the epic in two languages!",
+  "url": "https://t.me/gastcinema/4869",
+  "summary": "Experience the epic in two languages! RAMAYANA: RISE OF A LEGEND will be showing in both English and its original Hindi version at Gast Cinema. Witness the rise of a legend in RAMAYANA: RISE OF A LEGEND, exclusively at Gast Cinema starting This Thursday ! 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #Great_moments 🍿 🍿 🍿 🍿 🍿 🍿…",
+  "published": "2026-11-03",
+  "first_seen": "2026-11-03T16:16:47+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
   "id": "32251845388d",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +75,10 @@
   "published": "2026-11-03",
   "first_seen": "2026-11-03T11:25:21+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": [
+   "exhibition-center"
+  ]
  },
  {
   "id": "7a6b28d1cacb",
@@ -23,7 +91,8 @@
   "published": "2026-11-03",
   "first_seen": "2026-11-03T11:25:21+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "572275b681f4",
@@ -36,7 +105,8 @@
   "published": "2026-11-03",
   "first_seen": "2026-11-03T11:25:21+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "169737a9ba37",
@@ -49,7 +119,8 @@
   "published": "2026-11-03",
   "first_seen": "2026-11-03T11:25:21+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "0963bdbb64e4",
@@ -62,7 +133,8 @@
   "published": "2026-10-09",
   "first_seen": "2026-11-03T11:25:21+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0e552340f527",
@@ -75,7 +147,8 @@
   "published": "2026-05-25",
   "first_seen": "2026-11-03T11:25:21+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "72462c71f4a8",
@@ -88,7 +161,8 @@
   "published": "2025-05-28",
   "first_seen": "2026-11-03T11:25:21+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "3f31dda2080d",
@@ -101,7 +175,8 @@
   "published": "2021-08-07",
   "first_seen": "2026-11-03T11:25:21+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ad9c2b2f52dc",
@@ -114,7 +189,8 @@
   "published": "2007-03-02",
   "first_seen": "2026-11-03T11:25:21+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "2bf4e50fe35f",

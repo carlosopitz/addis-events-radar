@@ -1,5 +1,83 @@
 [
  {
+  "id": "2bf4e50fe35f",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Atmosphere is hosting their weekly Trivia & Karaoke night tonight starting at 7:30 PM.",
+  "url": "https://t.me/LinkUpAddis/13327",
+  "summary": "Atmosphere is hosting their weekly Trivia & Karaoke night tonight starting at 7:30 PM. The event features trivia contests and Karaoke sessions. Location: Atmosphere, Bole behind Alem Cinema. Entrance: Free @linkupaddis",
+  "published": "2026-11-03",
+  "first_seen": "2026-11-03T06:51:02+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "6a928e82dcc5",
+  "source": "germany",
+  "channel": "germany:gnews:76449341",
+  "type": "gnews",
+  "title": "IOM and Germany Mark 10 Years of Supporting Family Reunification through the Family Assistance Programme - IOM Ethiopia",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMUhjbkJ6NXF4MG85RGloU19LMFg3a0k0VGM1U29RbHhucGVqbjV1Ym4zc3hteUdWSmFsRUdWQUZHUEpvcGxjZEpQdVJFSGZob1ZvOWNRY1V1eXpxcnBBWjRTT3VnTXZPbDBid2cydW94TEtTVjI5bFowYi0zZ20yRTVoZ2lnZ1RvNWVuVXc1dDAtd3k3cGV3bEd0VEtnRGdLaHdqWFR2LTFwVG5veHBTaFpkaEk0UExtUVRqMXliQXZ6TFdudlE?oc=5",
+  "summary": "",
+  "published": "2026-05-06",
+  "first_seen": "2026-11-03T06:51:02+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "a98e0d0805b8",
+  "source": "germany",
+  "channel": "germany:gnews:76449341",
+  "type": "gnews",
+  "title": "Ethiopia's Climate Resilience Efforts Lead to COP-32 Hosting Opportunity - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sQ0VUamw1dVlMS19IdWhCTVZqdndUd3FOMXB1OG9LRU9Fd1FocTZxelExOVVXNEdweU5aSHVZMFQwRkt4YUtNVUtDb1dYa2NRcVE?oc=5",
+  "summary": "",
+  "published": "2025-12-10",
+  "first_seen": "2026-11-03T06:51:02+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "347682db8a35",
+  "source": "hilton",
+  "channel": "hilton:gnews:49449a81",
+  "type": "gnews",
+  "title": "Addis Fortune - Addis Fortune",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSDZLM1RyZ2tvWDJsVVl5SW52RXF6cU9WcGl6WFpqU3FjTm54cmVsYmtwWFBaOWpVQ19qdEl1czJDb1plVXRKajg5UkFlZ0gyclpCUWJQWnQ?oc=5",
+  "summary": "",
+  "published": "2025-11-07",
+  "first_seen": "2026-11-03T06:51:02+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "1dc4e84ac48e",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:a440fa52",
+  "type": "gnews",
+  "title": "Venezuela claims to have foiled plot targeting US embassy - DW.com",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkI2S1ZTZWxTTXVCMFNnUUFWczJCQ0NvRkJ1VFR6a0FDMzBvOWVRd0xjR19FZzRVOUZTRmtCaVFVM1ZGeEZBZjBkSFF1NDBSVFk1M3dEUmV3amZSdDZqVFUwa0JFeGVORHJRY09rYXBSVjdxVjF5Z25FemZnQnl1cUVFRDNvcFN5LUx1NFNBLWlnNlhD0gGUAUFVX3lxTE1tRVFHeldYVl9QYjFULWFVN0t5RndjSnlnb1lHR3hXZngtMlduVFg3OXlKZnhTbEkyb3NXMlZVV3hlaXFDTjhYVnd0cVl5c0hiX2NxVV9Jd0NXdG4xdXJrTHAwLWpnTXFSUGNRT3pCbzBNXzBIbGp1UVZNQkxiTFF2c05OTmdBRTE5MjRBVV8zNnY0WEU?oc=5",
+  "summary": "",
+  "published": "2025-10-07",
+  "first_seen": "2026-11-03T06:51:02+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "b9fb422c9567",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "EU participates at Diplomatic Charity Bazaar in Addis Ababa - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM0FEdmhkTG82VzZlNzV6cS1ZVXpoaUplX3R3RG9tMVAwQmFtYUJzbHJ3VkwwcER2VDAyQWdsLWZybzFUVlF5LTU3enlsWTItTHZLMWwwUmR6eG9XN1lMMWwtTm5PMFNHWlBMWmQzTkFULXBnMGRwWW9HX2h2aGpkVGdXRkdORnpNS0hfbnNXaWY5ekxoamlUWVBMSnMzUDZnMUMtekFaX0NXandWdmNuLThB?oc=5",
+  "summary": "",
+  "published": "2024-11-26",
+  "first_seen": "2026-11-03T06:51:02+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "59db9b172d0f",
   "source": "mexico",
   "channel": "mexico:gnews:3a698341",
@@ -10,7 +88,8 @@
   "published": "2025-05-29",
   "first_seen": "2026-11-02T23:33:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ddfcbfabcd91",
@@ -23,7 +102,8 @@
   "published": "2023-10-07",
   "first_seen": "2026-11-02T23:33:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "7723309853b8",
@@ -36,7 +116,8 @@
   "published": "2022-05-31",
   "first_seen": "2026-11-02T23:33:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ea1065841dd7",
@@ -49,7 +130,8 @@
   "published": "2018-05-08",
   "first_seen": "2026-11-02T23:33:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "de0e042c1994",
@@ -62,7 +144,8 @@
   "published": "2016-03-05",
   "first_seen": "2026-11-02T23:33:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "20a88af47186",

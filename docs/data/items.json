@@ -1,5 +1,135 @@
 [
  {
+  "id": "da8f203afb5d",
+  "source": "germany",
+  "channel": "germany:gnews:76449341",
+  "type": "gnews",
+  "title": "Germany, Denmark Reaffirm Cultural and Green Ties with Ethiopia - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsdklmMUdIZkt2aVpyaWRHaHhDY0JFTnJpdGIzN2FTeHNsS3ZxZkdEcnI4cGRTM185aVo0enRxN21GYXJ0TkdvUEpZQ2N5TWo2MWc?oc=5",
+  "summary": "",
+  "published": "2026-09-14",
+  "first_seen": "2026-11-03T21:51:46+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "31857c389494",
+  "source": "germany",
+  "channel": "germany:gnews:76449341",
+  "type": "gnews",
+  "title": "EHRC Hosts German Bundestag Delegation for High-Level Human Rights Dialogue - Ethiopian Human Rights Commission - EHRC",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXlqd1lGaC1mUWZEVHdYV3N3ZFYxWnRVWnkzdnZjMlVUY0FoMlFpOXA0dnJkS0FUR3QtcG9jTFR2TUpZRDRQTWVnUE5SSG4tcllWUzBBbVA3U3puSlFiZ1ViNVJQeUdVeUxwUklySW9sRFlDeWRtV3dtby15cHFFcG44ZGx0Z09GQnF1WTBidnNVeTVGWkM0Mg?oc=5",
+  "summary": "",
+  "published": "2026-01-23",
+  "first_seen": "2026-11-03T21:51:46+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "22af35738995",
+  "source": "germany",
+  "channel": "germany:gnews:76449341",
+  "type": "gnews",
+  "title": "Ethiopia, Germany Discuss Strengthening Dev’t Cooperation and Future Collaboration - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zUGdUZ0VvNm83T0FRVnFFaGtTLWdMdXNSS0RPUi1kSm1XTkpvS3NPU1ZmTFVpLS1pcncxQl9ZV1lmMWRoVlBZeF92bGlTQXl0akE?oc=5",
+  "summary": "",
+  "published": "2025-04-10",
+  "first_seen": "2026-11-03T21:51:46+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "cec708a079f2",
+  "source": "germany",
+  "channel": "germany:gnews:76449341",
+  "type": "gnews",
+  "title": "Opening remarks by Ms. Patience Chiradza, Director of the Governance and Conflict Prevention Directorate, during a policy forum on 'Regional Approaches to Dealing with Armed Groups in the Sahel,' held on 19-20 November…",
+  "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPR25qS29pLTFtTHQ1ZkVkekRqWU9QMFhWTFo0TU96Y3R6VUZYaXc3S01FbkxfbW1yb1hMc1l5TGxmVUwyd2ZMZTlqWHdJUzZGcmZMSnpOU0VWQWV0QlZuUUZZQ0M5M0E4QURfVEdxeXM3RjNWUVpoNUstNlpJdEVHd0ZueVdJR0xoUGIxcl92Z0NJa0x3Mk1aM0Qyb1E4RlAxeHVFb05wWXQ1Ymw1ZEd0Y1M2WFdlZ3RfWExOMnlvX28zY3BxemRGbkNOLTlablRMMWdLSzk0WFBGUDdON0duLWJlaEtxNzJxa1lWVU5rVEtKRmFtSzh3aTg5cDZ2VWxlSHpYNkJQd1N3OHJiQ096YmRqZWlGbC1QdHpOVzdzSXRjbEhXdXRSY2dxT2R1YzhXcHRIb3JrcEdoSkttcWg0ZmQ0bFdMODgzWmEzRDV3M2RqUlBfTkxlcURQZ2JkajYzZ2txQ1BXTDA4cjB6dUpqNHEtbi1OaWp3bUdPbmV2TkFTTVlobVZINXJacFI?oc=5",
+  "summary": "",
+  "published": "2024-11-20",
+  "first_seen": "2026-11-03T21:51:46+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "c811aea08ef4",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "La Latinoamérica non grata - Foreign Affairs Latinoamérica",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GcTFyWWQwMUZHeUROaTcwbnpZUXFvbUlMTGwtcWllSGpWVnhhZnRiOV9DSS1kdGlqWUFxbTJCQlQ5d3FUSWFBMU5QVVg3ejJQdjYtSFpYcU9qSzJ5YXZJ?oc=5",
+  "summary": "",
+  "published": "2024-04-10",
+  "first_seen": "2026-11-03T21:51:46+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "71961c8a48c6",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "La SRE ofrece diversas modalidades de atención en el exterior durante el mes de abril - Gob MX",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGpPUEhUMDFpMGFiSi1iRm05YlhVTnVXV29GRHRVdTVYemNvT0R6UDlNRHdPMzhQZVprdjlVcXJBaGsyRUs2REk1bFpKZEF0ZGx6UHAzTkxmMTN6YXZucURNSC1FSGFlcklxUTU2NXVheERsS1dQcTBNaXJqdlQyRkJuUTFaVWh6RmNYdUJRM3ltUnhBaFM1UXhleUNhdjQ5djhGMlV1UUxmNEt3UHlGamJSVmZPQQ?oc=5",
+  "summary": "",
+  "published": "2024-04-02",
+  "first_seen": "2026-11-03T21:51:46+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "86c762b25173",
+  "source": "germany",
+  "channel": "germany:gnews:76449341",
+  "type": "gnews",
+  "title": "German supports financial training for Ethiopians – Finance - New Business Ethiopia",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQalFqaFpTeFpia3BxS2tsMnl6U1ZjMG5MX3FWWjl3QjRYR1ctd0Y3eVFfM1JwRG9xUXdJeUY1cE1jYS1iVTBYNXBVdjVFOHZKRVlRNVBiQlJ6bWZ2NTFQbHlGSFdfa2ppZzE4cU03ZWc0TERfNVpMczVtOEN3U1BSS1Vaa3lZNEZsRTY5aVU1NmhiY0xv?oc=5",
+  "summary": "",
+  "published": "2023-11-16",
+  "first_seen": "2026-11-03T21:51:46+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "bda134e3d8e2",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "EU Head of Delegation to the African Union, Birgitte Markussen, presented credentials to African Union Commission Chairperson Moussa Faki - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZnJXZm12YlZCTXVpVnlLVDVUVWNCMnFyRTNzRmN6QU84dmw1YUxTUWZodkY0ZmN1S0QtWVZFMmNxWjZFc3JTWXRUeXBTSVJmMXlqTGV5cWQxZTFuVmwzRDlLOFlQaWVyR19fWVpoMVE2emJPNXVRVXVSRzc3eEQ2Qlc0dF8zV0xHS2lkY0FVZXFGa0ZncmF4VTBWQ3hVeFNFc2tOWm0xUGdaN1lrakJ5TGwzeFJzSHRSNVlJU1Z2WkhfaVpfcUZPM1VfNHg0X1RvWE12QjgwYVkxT0JIZzkxTGxwcEJ2WG44VlFPd2UtNGRiSkE?oc=5",
+  "summary": "",
+  "published": "2023-10-06",
+  "first_seen": "2026-11-03T21:51:46+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4192d7aacb2c",
+  "source": "germany",
+  "channel": "germany:gnews:76449341",
+  "type": "gnews",
+  "title": "Ministry Directs Int’l Schools To Teach Online - The Reporter Ethiopia",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84ZE8tVk5ZOUkwVkRYbElHZ080TVEyV0NtemVmU1ZhT2JhR2doVS1GYkF3cEdVcHN4WXNfTkpXdEJmOVIydzVHQUNtRl9oc2owWk82Zw?oc=5",
+  "summary": "",
+  "published": "2021-12-18",
+  "first_seen": "2026-11-03T21:51:46+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "ce12620c7c29",
+  "source": "germany",
+  "channel": "germany:gnews:76449341",
+  "type": "gnews",
+  "title": "#Ethiopia: The Ethiopian Red Cross Society inaugurated a clean water project in #BenishangulGumuz The Asosa branch of the Ethiopian Red Cross Society inaugurated a drinking water project that cost over 9 million birr.…",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaWd6NWdfSzQ3SXRVOGJDbkR6OGNrODY1N2lrTVczVVVpUWktVElGZ3NKa0RQOTVPUUZoNnpqSFJBTUJTaGlBcXV4SmF5YW5fTlNTQ3JyY082emkyUDVhQ093U2pEVUFMTHNNOU8yVUpxb2U3WHpaN3hBYjFYRVdXbGdVVldCZlBZWjFnYWRNQTh3cGIwS0NDUkQxU2s2ZVZPVUhPb0dMZEU0NnpWd1R4dXNUV0xXR3RoUmRnSlYzRktRdFZlOC0xZzQzZGFwZ3dLR29oamc5MWVRd3dJZ2c4?oc=5",
+  "summary": "",
+  "published": "2021-05-31",
+  "first_seen": "2026-11-03T21:51:46+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "e007ebd03099",
   "source": "linkup",
   "channel": "linkup:telegram:121a3f67",
@@ -10,7 +140,8 @@
   "published": "2026-11-03",
   "first_seen": "2026-11-03T16:16:47+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1dc0256e5868",
@@ -23,7 +154,8 @@
   "published": "2026-11-03",
   "first_seen": "2026-11-03T16:16:47+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "7cbe3a04e4f9",
@@ -36,7 +168,8 @@
   "published": "2026-11-03",
   "first_seen": "2026-11-03T16:16:47+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "2cdbee7e7de5",
@@ -49,7 +182,8 @@
   "published": "2026-11-03",
   "first_seen": "2026-11-03T16:16:47+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "24bbb14527d4",
@@ -62,7 +196,8 @@
   "published": "2026-11-03",
   "first_seen": "2026-11-03T16:16:47+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "32251845388d",

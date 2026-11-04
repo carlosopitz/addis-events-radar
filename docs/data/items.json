@@ -1,5 +1,44 @@
 [
  {
+  "id": "de966318edd9",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:a440fa52",
+  "type": "gnews",
+  "title": "US reopens embassy in Venezuela after seizing Nicolas Maduro - DW.com",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSG9BQTBUQ0hwQk1seW5DUmRLOEhDbnVpRloyeVNmLXlvYk55SEpLRDB4VGM4ZzBzX2lFaHl5YjM4bjRiYVVTcHl4cndRUmpVSmRWbHg1cXVwSUJxQjRFMUcySjF1Y2JOMWttM3hJTjVIVWFsNFM0YXZKdTBGS3FRcl9rVjZFWF9MbURiZkJtOGRneERpQlhNU9IBmAFBVV95cUxQdF9hWV9NODZFTUNZenRfakFrY3FLaUZxRG1vcHZRUExIQ0xXX2o2bEZHeEZRbVkxVEFUcHRMUjRCZXZnbnBFbGZhYXBCSkxtZTMzRjN0eDFfYnNqTWdENnBKdlRqMFZEYzM2WDhMa3hOYUtua3FHNkh6bXJKVTQ2bWxIZ0tKMUU3M1UzZ0VPLUV5YTd3OFpiaQ?oc=5",
+  "summary": "",
+  "published": "2026-03-30",
+  "first_seen": "2026-11-04T02:21:52+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "aff81e5d0247",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "Embajada de México en ETIOPÍA realiza eventos gastronómicos para compartir sabores de la cocina mexicana con el mundo - Gob MX",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdHdpU2hZY1JRbVhsMUpKcV9oVnFONXY5eWJEWnhxNmtoZlNxNWl5amVKbFZkT0EzNWxtbkRSZVBIdjBxV0ZJcm56aEpnaTJXRXdJN1J6bThsUFNhajNLLVdLYjVJenFtM2dqMjc5WXh2N0FlVUZTU000RjlSck9FTGpXSnpvc1R5UGNjak5nUzhqZGNTV2hpaXFLR1hDcDlmSlRRZEs3UFEwRVBIVzdaSDZXN1ZPUlZNZFBTMGxXRUU2QmJOR0NqMkZDMXR3OFU3empqQTEybjh5RU1aNHQtMThqTQ?oc=5",
+  "summary": "",
+  "published": "2025-05-22",
+  "first_seen": "2026-11-04T02:21:52+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "7fb88905e129",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "Addis Calling II @ Addis Fine Art Gallery - The Reporter Ethiopia",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlNFdqcEdSbTFaem95VVJJUE5GR0gxTkNKLUZiamlLV1dqUFZSal9qRVlWLXVodGJQRFVCNk90NS02WnRnbjA1VTZVNTdEWXJMOGZj?oc=5",
+  "summary": "",
+  "published": "2017-03-18",
+  "first_seen": "2026-11-04T02:21:52+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "da8f203afb5d",
   "source": "germany",
   "channel": "germany:gnews:76449341",
@@ -10,7 +49,8 @@
   "published": "2026-09-14",
   "first_seen": "2026-11-03T21:51:46+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "31857c389494",
@@ -23,7 +63,8 @@
   "published": "2026-01-23",
   "first_seen": "2026-11-03T21:51:46+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "22af35738995",
@@ -36,7 +77,8 @@
   "published": "2025-04-10",
   "first_seen": "2026-11-03T21:51:46+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "cec708a079f2",
@@ -49,7 +91,8 @@
   "published": "2024-11-20",
   "first_seen": "2026-11-03T21:51:46+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c811aea08ef4",
@@ -62,7 +105,8 @@
   "published": "2024-04-10",
   "first_seen": "2026-11-03T21:51:46+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "71961c8a48c6",
@@ -75,7 +119,8 @@
   "published": "2024-04-02",
   "first_seen": "2026-11-03T21:51:46+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "86c762b25173",
@@ -88,7 +133,8 @@
   "published": "2023-11-16",
   "first_seen": "2026-11-03T21:51:46+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "bda134e3d8e2",
@@ -101,7 +147,8 @@
   "published": "2023-10-06",
   "first_seen": "2026-11-03T21:51:46+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4192d7aacb2c",
@@ -114,7 +161,8 @@
   "published": "2021-12-18",
   "first_seen": "2026-11-03T21:51:46+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ce12620c7c29",
@@ -127,7 +175,8 @@
   "published": "2021-05-31",
   "first_seen": "2026-11-03T21:51:46+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e007ebd03099",

@@ -1,5 +1,70 @@
 [
  {
+  "id": "547df6b7a007",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "🏜️ THE EPIC CONCLUSION IS COMING!",
+  "url": "https://t.me/gastcinema/4871",
+  "summary": "🏜️ THE EPIC CONCLUSION IS COMING! The wait is almost over… Experience the next chapter of the legendary DUNE saga on the BIG SCREEN! 🔥 🎬 🌟 DUNE: PART THREE Coming exclusively to GAST CINEMA ! 🎟️ PRE-TICKET SALES START SOON! 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-11-04",
+  "first_seen": "2026-11-04T11:38:10+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "d11a7b1de17e",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "The Ethiopian Coffee and Tea Authority (ECTA) and DHL Express Ethiopia have signed an MoU to strengthen coffee exporters’ capacity in international trade,…",
+  "url": "https://t.me/LinkUpPremium/5094",
+  "summary": "The Ethiopian Coffee and Tea Authority (ECTA) and DHL Express Ethiopia have signed an MoU to strengthen coffee exporters’ capacity in international trade, logistics and export procedures, opening new opportunities for Ethiopian coffee businesses to compete in global markets. Read more:…",
+  "published": "2026-11-04",
+  "first_seen": "2026-11-04T11:38:10+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "50bbdb9915fb",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "THE ODYSSEY IS COMING TO GAST CINEMA!",
+  "url": "https://t.me/gastcinema/4870",
+  "summary": "THE ODYSSEY IS COMING TO GAST CINEMA! 🔥 An epic journey. A legendary story. A cinematic experience like never before! ⚔️ 🎬 THE ODYSSEY 📅 November 17 Experience the legend on the BIG SCREEN! 🍿 � 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #Great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-11-04",
+  "first_seen": "2026-11-04T11:38:10+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "5b5e9c8b4b98",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:ce1dd9ce",
+  "type": "gnews",
+  "title": "Cuba condena enérgicamente los ataques y agresiones de Estados Unidos contra Venezuela - Ministerio de Relaciones Exteriores de Cuba",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcjVYNmEyRkRxd0lPWkxYNDRJVDQyMlJUYjFuZ0VTVWlFUnVUdUxSV3JRcG0tVWFGcGZkSVR3OXZ2dUROU0R3TGxQd2FzTVpPa0czOWlMWkFXRVlWcUZrSXdqNGRQMl9YYWQ1R3Jxbm54Vk9PcWtsRWwzYWRmODZ2WVRaRnAzc0pVbDJuaUR6T2U0MnpXM2dIQVo3TUxTZVFnQ1dRZ2dkQ1VEWWtPQzB1MTdndHo3V1NGX0VzT3kyN2lCSEdjeHE3VQ?oc=5",
+  "summary": "",
+  "published": "2026-01-04",
+  "first_seen": "2026-11-04T11:38:10+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "baff33f41c37",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "Llega a CDMX mexicano deportado por EE. UU. y retenido en Sudán del Sur - UnoTV",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmM2WTIwTVVOQmlDemFVYlZWNG9IazZZbU0weG83WXM3SmlJMjIzNDJ4Z2tpVG9rS01SbXMwdXh5ZlRHRU40eUtvWFpjVEVQc3k0MmN3dEZIaUtRZ2hkMGp5c2RfWk5MYmxnekJHazNDeGlrNXg5MmtjRDBBZ3N6ZFUyYndBbWVfMzZlM2VaR3RXUFRHRTd5QW5tdVJDUndqT1FN?oc=5",
+  "summary": "",
+  "published": "2025-09-08",
+  "first_seen": "2026-11-04T11:38:10+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "de966318edd9",
   "source": "venezuela",
   "channel": "venezuela:gnews:a440fa52",
@@ -10,7 +75,8 @@
   "published": "2026-03-30",
   "first_seen": "2026-11-04T02:21:52+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "aff81e5d0247",
@@ -23,7 +89,8 @@
   "published": "2025-05-22",
   "first_seen": "2026-11-04T02:21:52+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "7fb88905e129",
@@ -36,7 +103,10 @@
   "published": "2017-03-18",
   "first_seen": "2026-11-04T02:21:52+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": [
+   "addis-fine-art"
+  ]
  },
  {
   "id": "da8f203afb5d",

@@ -1,5 +1,109 @@
 [
  {
+  "id": "39a6da8d7491",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The November 2026 Issue of LinkUp Magazine is out.",
+  "url": "https://t.me/LinkUpAddis/13337",
+  "summary": "The November 2026 Issue of LinkUp Magazine is out. ​In this month’s LinkUp Magazine cover story, we sit down with artist and singer Hailu Amerga for an exclusive conversation on his music and creative journey. ​We also explore Olive & Bread in the EatUp section and review the movie Sinners in the ReelUp section. ​…",
+  "published": "2026-11-04",
+  "first_seen": "2026-11-04T19:48:50+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "0c1f016334ca",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "The November 2026 Issue of LinkUp Magazine is out.",
+  "url": "https://t.me/LinkUpPremium/5095",
+  "summary": "The November 2026 Issue of LinkUp Magazine is out. ​In this month’s LinkUp Magazine cover story, we sit down with artist and singer Hailu Amerga for an exclusive conversation on his music and creative journey. ​We also explore Olive & Bread in the EatUp section and review the movie Sinners in the ReelUp section. ​…",
+  "published": "2026-11-04",
+  "first_seen": "2026-11-04T19:48:50+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "a363793f3554",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Studio 11 is hosting an Affordable Art Sale event at Zen Apartments this coming Sunday.",
+  "url": "https://t.me/LinkUpAddis/13335",
+  "summary": "Studio 11 is hosting an Affordable Art Sale event at Zen Apartments this coming Sunday. Doors will open at 1:00PM. Entrance fee is ETB 400. Read and enjoy the latest edition of LinkUp Addis Magazine featuring Hailu Amerga:…",
+  "published": "2026-11-04",
+  "first_seen": "2026-11-04T19:48:50+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "d57562948a00",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Sabahar is hosting an event titled the Kore Garden Market, featuring an artisans' market, food, and live music on Saturday 07 November 2026 at the Sabahar…",
+  "url": "https://t.me/LinkUpAddis/13336",
+  "summary": "Sabahar is hosting an event titled the Kore Garden Market, featuring an artisans' market, food, and live music on Saturday 07 November 2026 at the Sabahar Garden around Kore (Mekanissa area). Admission to the event is free of charge. Read and enjoy the latest edition of LinkUp Addis Magazine:…",
+  "published": "2026-11-04",
+  "first_seen": "2026-11-04T19:48:50+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "c0d5fa55233b",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "October had its stories, and we picked three worth revisiting.",
+  "url": "https://t.me/LinkUpAddis/13338",
+  "summary": "October had its stories, and we picked three worth revisiting. Check out these goodreads here: https://www.linkupaddis.com @linkuppremium",
+  "published": "2026-11-04",
+  "first_seen": "2026-11-04T19:48:50+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "0a8a85d50719",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "October had its stories, and we picked three worth revisiting.",
+  "url": "https://t.me/LinkUpPremium/5096",
+  "summary": "October had its stories, and we picked three worth revisiting. Check out these goodreads here: https://www.linkupaddis.com @linkuppremium",
+  "published": "2026-11-04",
+  "first_seen": "2026-11-04T19:48:50+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "69cdfc9704c6",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Gast Cinema Nov 05 - 06 2026 Schedule",
+  "url": "https://t.me/gastcinema/4872",
+  "summary": "Gast Cinema Nov 05 - 06 2026 Schedule",
+  "published": "2026-11-04",
+  "first_seen": "2026-11-04T19:48:50+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "c7f0df702db7",
+  "source": "eu-au",
+  "channel": "eu-au:web:f8df2210",
+  "type": "web",
+  "title": "AU and EU Advance Implementation of their Strategic Partnership at Senior Officials Meeting",
+  "url": "https://www.eeas.europa.eu/delegations/african-union-au/au-and-eu-advance-implementation-their-strategic-partnership-senior-officials-meeting_en?s=43",
+  "summary": "",
+  "published": null,
+  "first_seen": "2026-11-04T19:48:50+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
   "id": "074733913e54",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +114,8 @@
   "published": "2026-11-04",
   "first_seen": "2026-11-04T12:11:41+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "f4bec8ff34d3",
@@ -23,7 +128,8 @@
   "published": "2026-02-09",
   "first_seen": "2026-11-04T12:11:41+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "547df6b7a007",

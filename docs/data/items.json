@@ -1,5 +1,31 @@
 [
  {
+  "id": "074733913e54",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Mistet- The Listening Room by Gitem Sitem returns this evening at Jazz Coffee (Mekanissa) this afternoon starting at 5:30PM.",
+  "url": "https://t.me/LinkUpAddis/13334",
+  "summary": "Mistet- The Listening Room by Gitem Sitem returns this evening at Jazz Coffee (Mekanissa) this afternoon starting at 5:30PM. The open mic series invites poets, storytellers, experimental performers and other creators to join and showcase their works. The evening will also feature 'The Observer' a featured poets. The…",
+  "published": "2026-11-04",
+  "first_seen": "2026-11-04T12:11:41+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "f4bec8ff34d3",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "The new African Standard : A game changer bringing new opportunities for EU’s Deforestation-free Regulation (EUDR) - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcTR3UldlZkxQeTRDZHExajBaVVpyVC13Y2pDTV81a3VJRnpuQU1qY1F1QWRLV2x1dFotZjUwb2wtMm9MQUVSczlNSmtvNWx6cmlseFNFeWw5eFFBOVU5Q3BEV2d5enQ0Tmc0MlRteVFWUUl0and3QWV5OXNyMGR1WHhGYlRsalUzZjNBQnlzdXhCLWh0OGpyNWUzZ2l6WFdsaDVmM1M2WmQ2WUVyZl9rWDh6c1IwOTI2cHg4dElxV0VPUlhvYXZGalNIWkpjYnhRc0Z3OGRZU1NJMzV0LTJtWXBjZ0xRd1VzZ2NGTDl5T2NPWElfdHEzM0xvOA?oc=5",
+  "summary": "",
+  "published": "2026-02-09",
+  "first_seen": "2026-11-04T12:11:41+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "547df6b7a007",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +36,8 @@
   "published": "2026-11-04",
   "first_seen": "2026-11-04T11:38:10+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "d11a7b1de17e",
@@ -23,7 +50,8 @@
   "published": "2026-11-04",
   "first_seen": "2026-11-04T11:38:10+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "50bbdb9915fb",
@@ -36,7 +64,8 @@
   "published": "2026-11-04",
   "first_seen": "2026-11-04T11:38:10+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "5b5e9c8b4b98",
@@ -49,7 +78,8 @@
   "published": "2026-01-04",
   "first_seen": "2026-11-04T11:38:10+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "baff33f41c37",
@@ -62,7 +92,8 @@
   "published": "2025-09-08",
   "first_seen": "2026-11-04T11:38:10+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "de966318edd9",

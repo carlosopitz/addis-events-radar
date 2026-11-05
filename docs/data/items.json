@@ -1,5 +1,96 @@
 [
  {
+  "id": "e5b5bdc0aaeb",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Whether you are a young professional looking for growth and self development, a busy startupper constantly on the look out for better ways to make sense of…",
+  "url": "https://t.me/LinkUpAddis/13345",
+  "summary": "Whether you are a young professional looking for growth and self development, a busy startupper constantly on the look out for better ways to make sense of your surrounding, or a creative soul who enjoys consuming well-crafted stories and visuals or an outgoing soul who enjoys the vibrant event scene, LinkUp Addis…",
+  "published": "2026-11-05",
+  "first_seen": "2026-11-05T18:03:42+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "7e3f97105522",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "Whether you are a young professional looking for growth and self development, a busy startupper constantly on the look out for better ways to make sense of…",
+  "url": "https://t.me/LinkUpPremium/5100",
+  "summary": "Whether you are a young professional looking for growth and self development, a busy startupper constantly on the look out for better ways to make sense of your surrounding, or a creative soul who enjoys consuming well-crafted stories and visuals or an outgoing soul who enjoys the vibrant event scene, LinkUp Addis…",
+  "published": "2026-11-05",
+  "first_seen": "2026-11-05T18:03:42+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "5e1fb872196e",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The Diplomatic Spouses Group Ethiopia (DSGE) is hosting the Diplomatic Charity Bazaar on November 14 from 10 AM to 4 PM at the Addis Ababa Exhibition Center.",
+  "url": "https://t.me/LinkUpAddis/13347",
+  "summary": "The Diplomatic Spouses Group Ethiopia (DSGE) is hosting the Diplomatic Charity Bazaar on November 14 from 10 AM to 4 PM at the Addis Ababa Exhibition Center. The event brings together a diverse selection of offerings, including a diplomatic market place, food village, entertainment area, kids area, and the Mulu…",
+  "published": "2026-11-05",
+  "first_seen": "2026-11-05T18:03:42+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "e09fb64bec82",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Saq Central's Mukera 1..2 Open Mic session return to Atmosphere this Friday putting the spotlight on some of the exceptional amteur talents the city has to…",
+  "url": "https://t.me/LinkUpAddis/13343",
+  "summary": "Saq Central's Mukera 1..2 Open Mic session return to Atmosphere this Friday putting the spotlight on some of the exceptional amteur talents the city has to offer in the comedy, poetry, music and other creative categories. Doors will open at 6:00PM. Admission fee is ETB 200. Enjoy the November 2026 edition of LinkUp…",
+  "published": "2026-11-05",
+  "first_seen": "2026-11-05T18:03:42+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "2fe2ee7ab4b4",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Pasta Festa 2026 takes place on November 7, 2026, from 10:00 AM to 8:00 PM at the Addis Ababa Exhibition Center.",
+  "url": "https://t.me/LinkUpAddis/13346",
+  "summary": "Pasta Festa 2026 takes place on November 7, 2026, from 10:00 AM to 8:00 PM at the Addis Ababa Exhibition Center. The event brings together a celebration centered around food, family, and entertainment. Tickets are priced at 300 ETB and can be purchased through the Dashen Super App and Telebirr. Attendees can access…",
+  "published": "2026-11-05",
+  "first_seen": "2026-11-05T18:03:42+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "af5075e8b388",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Kore Garden Market will take place this Saturday, 7 November, at the Sabahar Garden in Kore, Addis Ababa.",
+  "url": "https://t.me/LinkUpAddis/13344",
+  "summary": "Kore Garden Market will take place this Saturday, 7 November, at the Sabahar Garden in Kore, Addis Ababa. ​The event features handwoven throws, scarves, baskets, leather bags, handmade paper, carpets, jewelry, natural honey, jams, and beauty products created by master artisans and local makers from the Kore area.…",
+  "published": "2026-11-05",
+  "first_seen": "2026-11-05T18:03:42+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "50257d5100ca",
+  "source": "hilton",
+  "channel": "hilton:gnews:49449a81",
+  "type": "gnews",
+  "title": "Hilton to Triple its Presence in Africa to More Than 160 Hotels - Stories From Hilton",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWVcxc3JycDhTOWN0WERmdktNRWJqMlhFa1Fmc0c5LTdueS1aaTV3WlQtVnVwblNIamVPdDJicGZ5MURpUlR3blhDVlhGd0ItdlRRTEF4V0dpTHdfb0lwcE9IQ1EwVExfX2p4Z005VzZ0WE9IalBEUDdTTTF5OGl3SHVEQTlabG0ydnpRRkZiZWd3Z0lTaTZyWnpOcnlLWkl6a2hTODhRbw?oc=5",
+  "summary": "",
+  "published": "2025-06-19",
+  "first_seen": "2026-11-05T18:03:42+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "bc86d4a4968d",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +101,8 @@
   "published": "2026-11-05",
   "first_seen": "2026-11-05T11:38:39+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5c569398481e",

@@ -1,5 +1,18 @@
 [
  {
+  "id": "5c569398481e",
+  "source": "japan",
+  "channel": "japan:gnews:9529a05b",
+  "type": "gnews",
+  "title": "Ethiopia, Japan Hold Economic Policy Dialogue - Ethiopian Monitor",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTljZkFMdmE5b3RuNEJYVFFLcGJ0WHVZV25nbEFoV0kyNkthU3pXd2VGajA3d3lodkFJNl9PWVJWV0hnbVhkVnFRM1B6amhwREZRLTFabkIyZHRpX0ZoeUczZUdYaFFQOWJ6ekxNbkdGcmJJbGRwOHFYQmpxXzZVcktORDJPdVNORlpxQ2dn?oc=5",
+  "summary": "",
+  "published": "2022-05-22",
+  "first_seen": "2026-11-05T00:54:56+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "39a6da8d7491",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +23,8 @@
   "published": "2026-11-04",
   "first_seen": "2026-11-04T19:48:50+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "0c1f016334ca",
@@ -23,7 +37,8 @@
   "published": "2026-11-04",
   "first_seen": "2026-11-04T19:48:50+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "a363793f3554",
@@ -36,7 +51,8 @@
   "published": "2026-11-04",
   "first_seen": "2026-11-04T19:48:50+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "d57562948a00",
@@ -49,7 +65,8 @@
   "published": "2026-11-04",
   "first_seen": "2026-11-04T19:48:50+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "c0d5fa55233b",
@@ -62,7 +79,8 @@
   "published": "2026-11-04",
   "first_seen": "2026-11-04T19:48:50+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0a8a85d50719",
@@ -75,7 +93,8 @@
   "published": "2026-11-04",
   "first_seen": "2026-11-04T19:48:50+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "69cdfc9704c6",
@@ -88,7 +107,8 @@
   "published": "2026-11-04",
   "first_seen": "2026-11-04T19:48:50+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "c7f0df702db7",
@@ -101,7 +121,8 @@
   "published": null,
   "first_seen": "2026-11-04T19:48:50+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "074733913e54",

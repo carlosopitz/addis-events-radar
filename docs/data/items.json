@@ -1,5 +1,18 @@
 [
  {
+  "id": "bc86d4a4968d",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Iconic Hiking is organizing a leisure trip to Wenchi Crater lake (150KM from Addis) on Sunday, 08 November 2026.",
+  "url": "https://t.me/LinkUpAddis/13342",
+  "summary": "Iconic Hiking is organizing a leisure trip to Wenchi Crater lake (150KM from Addis) on Sunday, 08 November 2026. The price for the trip is ETB 4500 for locals (USD 45) for foreigners. The departure location will be at Mexico Square, Wabi Shebelle Hotel at 6:00AM. The package includes tramsportaion, snacks, bottled…",
+  "published": "2026-11-05",
+  "first_seen": "2026-11-05T11:38:39+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
   "id": "5c569398481e",
   "source": "japan",
   "channel": "japan:gnews:9529a05b",

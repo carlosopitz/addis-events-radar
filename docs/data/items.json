@@ -10,7 +10,8 @@
   "published": "2026-11-05",
   "first_seen": "2026-11-05T18:03:42+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "7e3f97105522",
@@ -23,7 +24,8 @@
   "published": "2026-11-05",
   "first_seen": "2026-11-05T18:03:42+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5e1fb872196e",
@@ -36,7 +38,10 @@
   "published": "2026-11-05",
   "first_seen": "2026-11-05T18:03:42+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": [
+   "exhibition-center"
+  ]
  },
  {
   "id": "e09fb64bec82",
@@ -49,7 +54,8 @@
   "published": "2026-11-05",
   "first_seen": "2026-11-05T18:03:42+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "2fe2ee7ab4b4",
@@ -62,7 +68,10 @@
   "published": "2026-11-05",
   "first_seen": "2026-11-05T18:03:42+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": [
+   "exhibition-center"
+  ]
  },
  {
   "id": "af5075e8b388",
@@ -75,7 +84,8 @@
   "published": "2026-11-05",
   "first_seen": "2026-11-05T18:03:42+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "50257d5100ca",
@@ -88,7 +98,8 @@
   "published": "2025-06-19",
   "first_seen": "2026-11-05T18:03:42+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "bc86d4a4968d",

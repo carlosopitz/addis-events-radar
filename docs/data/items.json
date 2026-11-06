@@ -1,5 +1,44 @@
 [
  {
+  "id": "df65c4ffa523",
+  "source": "iic",
+  "channel": "iic:web:3cabcd82",
+  "type": "web",
+  "title": "CILS Examinations – Session of 03.12.2026",
+  "url": "https://iicaddisabeba.esteri.it/en/gli_eventi/calendario/cils-examinations-session-of-03-12-2026/",
+  "summary": "Enter search filters On going Tue Sep 29 2026 Thu Dec 03 2026 Official Italian Language Certification The next CILS examination session of the University for Foreigners of Siena is scheduled for 3 December 2026. The registration deadline is 27 October 2026. Interested candidates can register at the Italian Cultural…",
+  "published": "2026-12-03",
+  "first_seen": "2026-11-06T06:50:38+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "7e0ca735c55d",
+  "source": "india",
+  "channel": "india:web:c072a00e",
+  "type": "web",
+  "title": "Book Consular Appointment Online",
+  "url": "https://eoiaddisababa.gov.in/schedule-your-appointment/",
+  "summary": "Commercial Representative Registrations of Indian Nationals",
+  "published": null,
+  "first_seen": "2026-11-06T06:50:38+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "df779e740c9b",
+  "source": "india",
+  "channel": "india:web:c072a00e",
+  "type": "web",
+  "title": "Bilateral Market Access Protocol",
+  "url": "https://eoiaddisababa.gov.in/ethiopia-and-india-sign-bilateral-market/",
+  "summary": "",
+  "published": null,
+  "first_seen": "2026-11-06T06:50:38+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
   "id": "e5b5bdc0aaeb",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",

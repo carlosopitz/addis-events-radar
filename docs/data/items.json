@@ -1,5 +1,44 @@
 [
  {
+  "id": "325b01745a83",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The hardest prisons to escape are the ones you cannot see.",
+  "url": "https://t.me/LinkUpAddis/13353",
+  "summary": "The hardest prisons to escape are the ones you cannot see. The ones built quietly, thought by thought, until you no longer know where you end and your fears begin. The Prison of the Mind, a collaborative piece by two of our writers, drops this Sunday. Visit our website to read interesting Articles:…",
+  "published": "2026-11-06",
+  "first_seen": "2026-11-06T21:30:59+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "abb40b131272",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Gast Cinema Nov 07 - 08 2026 Schedule",
+  "url": "https://t.me/gastcinema/4875",
+  "summary": "Gast Cinema Nov 07 - 08 2026 Schedule",
+  "published": "2026-11-06",
+  "first_seen": "2026-11-06T21:30:59+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "553fdc111cc5",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "#Street HeART - Two continents, one beat - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckp4S2UwOE5JUkhhVFRyZGxZbWVvSmVmVFpHRnpFclIwZE1ObHRmZDc5UGYyUWxXMGE1UFRmVGVJMkpWVDR5cGh6X2h4b3lDWnlCY1U3eTlXRHlSRWNRZGRGbnlaMzR3RlppYzJ1NENQWVpFaEt6UHlqdzB6RmxLcnJlelpUU0RZUmRKMExCNVFCU1lLSHJ5b0FTZ3poNVUw?oc=5",
+  "summary": "",
+  "published": "2021-12-14",
+  "first_seen": "2026-11-06T21:30:59+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "62269cd22fb8",
   "source": "linkup",
   "channel": "linkup:telegram:121a3f67",
@@ -10,7 +49,8 @@
   "published": "2026-11-06",
   "first_seen": "2026-11-06T15:57:00+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4b99cee5ba9a",

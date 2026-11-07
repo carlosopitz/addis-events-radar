@@ -1,5 +1,44 @@
 [
  {
+  "id": "12a87e24defb",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Gast Cinema Nov 08 2026 Schedule",
+  "url": "https://t.me/gastcinema/4892",
+  "summary": "Gast Cinema Nov 08 2026 Schedule",
+  "published": "2026-11-07",
+  "first_seen": "2026-11-07T21:53:14+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "f733a9a4cb61",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Buy Your Tickets Now https://getus.cnetcommerce.com/ 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #Great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "url": "https://t.me/gastcinema/4891",
+  "summary": "Buy Your Tickets Now https://getus.cnetcommerce.com/ 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #Great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-11-07",
+  "first_seen": "2026-11-07T21:53:14+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "d24349acd003",
+  "source": "alliance",
+  "channel": "alliance:web:ade5dbaa",
+  "type": "web",
+  "title": "Alliance Ethio-Française: page was updated",
+  "url": "https://allianceaddis.org/up-coming-events/",
+  "summary": "The monitored page changed; open it to see what is new.",
+  "published": "2026-11-07",
+  "first_seen": "2026-11-07T21:53:14+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
   "id": "19edef13b14a",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +49,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T16:28:22+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "3265fd938bcd",
@@ -23,7 +63,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T16:28:22+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "98ac43881b17",
@@ -36,7 +77,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T16:28:22+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "ac37271004b5",
@@ -49,7 +91,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T16:28:22+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d43d5c6d4421",
@@ -62,7 +105,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T16:28:22+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "d51125a46289",
@@ -75,7 +119,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T16:28:22+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "55f907343f71",
@@ -88,7 +133,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T16:28:22+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "e6286283052c",
@@ -101,7 +147,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T16:28:22+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "173c8f5fe1f1",
@@ -114,7 +161,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T16:28:22+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "310cb40f74be",
@@ -127,7 +175,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T16:28:22+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "e58ac980b20b",
@@ -140,7 +189,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T16:28:22+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "fef523f10096",
@@ -153,7 +203,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T16:28:22+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "7a47495d5d9c",

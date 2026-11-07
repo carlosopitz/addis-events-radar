@@ -10,7 +10,8 @@
   "published": "2026-11-06",
   "first_seen": "2026-11-06T21:30:59+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "abb40b131272",
@@ -23,7 +24,8 @@
   "published": "2026-11-06",
   "first_seen": "2026-11-06T21:30:59+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "553fdc111cc5",
@@ -36,7 +38,8 @@
   "published": "2021-12-14",
   "first_seen": "2026-11-06T21:30:59+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "62269cd22fb8",

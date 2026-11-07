@@ -1,5 +1,18 @@
 [
  {
+  "id": "7a47495d5d9c",
+  "source": "hyatt",
+  "channel": "hyatt:gnews:f99db60f",
+  "type": "gnews",
+  "title": "Ethiopian Great Run opens 5000 places for young runners - Athletics Illustrated",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT0JaNTBUQ3JTQ2MxOGhxa29VakJLZUF5REpoTjJld2ZMNzZsVlNjLW9iZGVLOXBPNkp2bHA4MkRkNEw4X284OG1EcWpyckR2VnF3OThDR3RGLWx0NFVIOXEwNENmZmpnWGZJcTVlZXhrM1kyd0ttZXJ3TWNQdS1ocW9iWC1HN3k4dTdNR0NBaDFMSmc?oc=5",
+  "summary": "",
+  "published": "2026-10-06",
+  "first_seen": "2026-11-07T10:43:08+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "325b01745a83",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",

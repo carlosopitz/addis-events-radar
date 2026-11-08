@@ -1,5 +1,18 @@
 [
  {
+  "id": "2644fa317ccf",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "\"Are you insane?\" We say it without thinking, tossed out in frustration or as a joke.",
+  "url": "https://t.me/LinkUpPremium/5106",
+  "summary": "\"Are you insane?\" We say it without thinking, tossed out in frustration or as a joke. But for those living it, insanity is not a figure of speech. It is a mind that feels like a prison, where fear can look like reality and ordinary life becomes a daily struggle that few people ever see. But what happens when that…",
+  "published": "2026-11-08",
+  "first_seen": "2026-11-08T10:47:57+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
   "id": "a4977db74fe1",
   "source": "mexico",
   "channel": "mexico:gnews:3a698341",

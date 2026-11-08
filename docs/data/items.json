@@ -1,5 +1,18 @@
 [
  {
+  "id": "a4977db74fe1",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "Teléfonos de emergencia de la Red Consular de México en el resto del mundo - Gob MX",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWi1haU5yNDM1NFpUS2c3aDBJVkxuMGx4OTg3MjZydnpFd2g1LWFrRVBHTXJ2cVVMaXhET2c0Y3FLY3pRRklvaTNuVDZuZEh0N1Rkcl9SYnJMTnd4bGRDYUlJQVNDNzZnSnh4UUpyaFdGOElQYk41OHdFZ0IwNmMtcTFtaVIxeFNDLU9MLWVXTl9meWtpaVNJY2VkdTd6X0dMVTdKYTh1N3hGWTJsSFFWLVlmWU9MZV9pcUpWY29R?oc=5",
+  "summary": "",
+  "published": "2016-05-06",
+  "first_seen": "2026-11-08T01:28:36+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "12a87e24defb",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +23,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T21:53:14+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "f733a9a4cb61",
@@ -23,7 +37,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T21:53:14+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "d24349acd003",
@@ -36,7 +51,8 @@
   "published": "2026-11-07",
   "first_seen": "2026-11-07T21:53:14+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "19edef13b14a",

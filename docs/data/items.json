@@ -1,5 +1,18 @@
 [
  {
+  "id": "6c00164318db",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Artawi Gallery is presenting “From Tokyo to Addis: A City in Color,” a solo exhibition by Japanese artist Yoshiharu Urushizako.",
+  "url": "https://t.me/LinkUpAddis/13359",
+  "summary": "Artawi Gallery is presenting “From Tokyo to Addis: A City in Color,” a solo exhibition by Japanese artist Yoshiharu Urushizako. Inspired by his time working in Ethiopia as a JICA architecture specialist, Urushizako presents a collection of digital sketches that examine landscapes, architecture, festivals, culinary…",
+  "published": "2026-11-09",
+  "first_seen": "2026-11-09T12:13:17+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
   "id": "ed046d504cc7",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +23,8 @@
   "published": "2026-11-09",
   "first_seen": "2026-11-09T09:50:17+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "413445560adf",
@@ -23,7 +37,8 @@
   "published": "2026-11-09",
   "first_seen": "2026-11-09T09:50:17+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "c9d024a6fe66",
@@ -36,7 +51,8 @@
   "published": "2026-11-09",
   "first_seen": "2026-11-09T09:50:17+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "d51c41072fc3",
@@ -49,7 +65,8 @@
   "published": "2018-03-31",
   "first_seen": "2026-11-09T09:50:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c65e1aec0083",

@@ -1,5 +1,83 @@
 [
  {
+  "id": "6fa36252b745",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Whether you are a young professional looking for growth and self development, a busy startupper constantly on the look out for better ways to make sense of…",
+  "url": "https://t.me/LinkUpAddis/13361",
+  "summary": "Whether you are a young professional looking for growth and self development, a busy startupper constantly on the look out for better ways to make sense of your surrounding, or a creative soul who enjoys consuming well-crafted stories and visuals or an outgoing soul who enjoys the vibrant event scene, LinkUp Addis…",
+  "published": "2026-11-09",
+  "first_seen": "2026-11-09T20:47:00+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "eec1a243187f",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "Whether you are a young professional looking for growth and self development, a busy startupper constantly on the look out for better ways to make sense of…",
+  "url": "https://t.me/LinkUpPremium/5108",
+  "summary": "Whether you are a young professional looking for growth and self development, a busy startupper constantly on the look out for better ways to make sense of your surrounding, or a creative soul who enjoys consuming well-crafted stories and visuals or an outgoing soul who enjoys the vibrant event scene, LinkUp Addis…",
+  "published": "2026-11-09",
+  "first_seen": "2026-11-09T20:47:00+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "a264f03e2f25",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The Afar Adventure Running Trip is scheduled for December 15 in the Afar Region of Ethiopia.",
+  "url": "https://t.me/LinkUpAddis/13363",
+  "summary": "The Afar Adventure Running Trip is scheduled for December 15 in the Afar Region of Ethiopia. The event features a 10 km desert running challenge alongside a two-night camping experience. Participants have the opportunity to explore the region's unique landscapes, including volcanic and geothermal sites. A first-place…",
+  "published": "2026-11-09",
+  "first_seen": "2026-11-09T20:47:00+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "a93ae372e77d",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The 12th edition of ASFW Addis is almost here, bringing together key global trade leaders and industry pioneers under one roof!",
+  "url": "https://t.me/LinkUpAddis/13362",
+  "summary": "The 12th edition of ASFW Addis is almost here, bringing together key global trade leaders and industry pioneers under one roof! Mark your calendars for November 12–15, 2026, at the Addis International Convention Center in Addis Ababa, Ethiopia, as we kick off this landmark gathering. Organizers are highlighting the…",
+  "published": "2026-11-09",
+  "first_seen": "2026-11-09T20:47:00+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "8efad3beb3bc",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Shopping your favorite local brands just got simpler.",
+  "url": "https://t.me/LinkUpAddis/13360",
+  "summary": "Shopping your favorite local brands just got simpler. LinkUp Virtual Bazaar is going live this Wednesday and Thursday, November 11 & 12! ​Whether you're looking for handcrafted items, fashion pieces, art, or unique local goods, access everything from your phone at https://virtualbazaar.linkupaddis.com/ . Place your…",
+  "published": "2026-11-09",
+  "first_seen": "2026-11-09T20:47:00+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "10194772320d",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:232c6525",
+  "type": "gnews",
+  "title": "Morocco Participates in Diplomatic Photography Exhibition in Addis Ababa - Maroc.ma",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHlBbVVXbTNUUVJEZGluVndYSy1XLTRHWE9ObnV1M3hEczF1dHBuMzJGZXRhUjk1T0l1M3FzWGFKT1dVWFQ4RGwtMk84M3pIZ0laUWhNMnY1U2JEaGtnVkxUWXhzYXU4cXVYU3hjdDBqdy1rczF0RkNocjBzdmo4Y3VQZnR3c2h4UHFDOVNYUUZHSUpYN0E?oc=5",
+  "summary": "",
+  "published": "2025-06-13",
+  "first_seen": "2026-11-09T20:47:00+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "6c00164318db",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +88,8 @@
   "published": "2026-11-09",
   "first_seen": "2026-11-09T12:13:17+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "ed046d504cc7",

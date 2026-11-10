@@ -1,5 +1,18 @@
 [
  {
+  "id": "e42aa4039cc2",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "European Film Festival returns: A celebration of cinema and culture - CapitalEthiopia",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGdWWWZtQ1RvSFk0Y0R5Y3RIU1FPME1jNWd6MS10UDNJcl9fT3h4dHRkSDU5cENrNHU2Y09CR25YOWstcjl0b2hoOHl6XzJwV200aEdkb0k3ZFBnaml2NWkzeVVtSEdSV1NjQnpaUDVBV3h1SGZuZXIxY2lESGJmS3ZlNWlZNUZvZjZUS2NDNlR1OG1SRkRWZk1uUEpKdDY3MzVaY2JmSlZHdw?oc=5",
+  "summary": "",
+  "published": "2025-01-27",
+  "first_seen": "2026-11-10T12:41:32+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "d5c912439c3e",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +23,8 @@
   "published": "2026-11-10",
   "first_seen": "2026-11-10T11:52:21+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "22f112fc77e9",
@@ -23,7 +37,8 @@
   "published": "2026-11-10",
   "first_seen": "2026-11-10T11:52:21+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "560de51f590a",
@@ -36,7 +51,8 @@
   "published": "2026-11-10",
   "first_seen": "2026-11-10T11:52:21+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "bef96e198aa0",
@@ -49,7 +65,10 @@
   "published": "2026-11-10",
   "first_seen": "2026-11-10T11:52:21+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": [
+   "bazra"
+  ]
  },
  {
   "id": "ce55b56fefb9",
@@ -62,7 +81,8 @@
   "published": "2026-11-10",
   "first_seen": "2026-11-10T11:52:21+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "49210c3309fc",
@@ -75,7 +95,8 @@
   "published": "2026-11-10",
   "first_seen": "2026-11-10T11:52:21+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "d40acfe40806",
@@ -88,7 +109,8 @@
   "published": "2026-11-10",
   "first_seen": "2026-11-10T11:52:21+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "9c182ca64fa2",
@@ -101,7 +123,8 @@
   "published": "2016-04-28",
   "first_seen": "2026-11-10T11:52:21+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6fa36252b745",

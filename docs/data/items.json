@@ -10,7 +10,8 @@
   "published": "2026-11-09",
   "first_seen": "2026-11-09T20:47:00+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "eec1a243187f",
@@ -23,7 +24,8 @@
   "published": "2026-11-09",
   "first_seen": "2026-11-09T20:47:00+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a264f03e2f25",
@@ -36,7 +38,8 @@
   "published": "2026-11-09",
   "first_seen": "2026-11-09T20:47:00+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a93ae372e77d",
@@ -49,7 +52,8 @@
   "published": "2026-11-09",
   "first_seen": "2026-11-09T20:47:00+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "8efad3beb3bc",
@@ -62,7 +66,8 @@
   "published": "2026-11-09",
   "first_seen": "2026-11-09T20:47:00+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "10194772320d",
@@ -75,7 +80,8 @@
   "published": "2025-06-13",
   "first_seen": "2026-11-09T20:47:00+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "6c00164318db",

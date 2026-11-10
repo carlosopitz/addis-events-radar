@@ -1,5 +1,18 @@
 [
  {
+  "id": "1080a7419784",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:a440fa52",
+  "type": "gnews",
+  "title": "They assert that the aggression against Venezuela is an attack on humanity - Ministerio de Relaciones Exteriores de Cuba",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSHhyQmlUNm9VYkJuRVRzdm04V05zRGNPZmdwYVJsdWxYOGxhWU5IbC1BQ1BWR0pNclRuR1ZYRmVVZ3QyNG1lMDZoeVRRQUhOY2pkQ0VLS2d5QnFDSWsxcGJKQVE3UUNReVE1VENNcHpZcGRNd09reGY0eTdpWmhoYXBZUU43YUdMQVJmaV9sX0I3ejlCZlVUSW42LUVrdlJv?oc=5",
+  "summary": "",
+  "published": "2026-01-09",
+  "first_seen": "2026-11-10T20:50:48+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "e42aa4039cc2",
   "source": "euff",
   "channel": "euff:gnews:e760266e",
@@ -10,7 +23,8 @@
   "published": "2025-01-27",
   "first_seen": "2026-11-10T12:41:32+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "d5c912439c3e",

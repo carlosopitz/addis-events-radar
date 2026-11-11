@@ -1,5 +1,57 @@
 [
  {
+  "id": "a748110e7a14",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "In 2019, Ethiopia banned alcohol advertising on television, radio and billboards.",
+  "url": "https://t.me/LinkUpPremium/5109",
+  "summary": "In 2019, Ethiopia banned alcohol advertising on television, radio and billboards. What did this mean for broadcasters, breweries and the advertising industry? We explore the impact of the ban on marketing and media, alongside its public health implications. Read more:…",
+  "published": "2026-11-11",
+  "first_seen": "2026-11-11T09:28:19+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "478950b81524",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI Addis Ababa Luncurkan Loka Budaya, Perkuat Diplomasi Budaya Indonesia di Afrika - Batamtoday.com",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFB6R2ZIOG9fSWU4elRLSF9uTzlZSmo3SE1JTEF3Q1g1QWhnbDdmVDl0dFJMR01Ba1FHMjdxWWVTWVI2d1FJcjdtWHU1MTB1RkNqc0plYXJJSnB6QTQ3aktwTVhWV0RKOHNwTFhNQkFoamNqSzBkcEtuNC1hTHpiN2phYzF6d0pEeklhalFaYmp0anV1aWNKaEYxRTg5LXhuaE9haFZyVzdqOHhtdzUxaA?oc=5",
+  "summary": "",
+  "published": "2026-06-24",
+  "first_seen": "2026-11-11T09:28:19+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "af4b47702871",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:df022b44",
+  "type": "gnews",
+  "title": "Africa Empowering Its Role in Global Conversation: Indonesian House of Representatives - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zazVQM1dtbElfenVjVHlBX1p4Z2Nhd01SSGQzakpTZmRJUGQxZzZ5NkFLTG5YVndEMzNLQ3g0MlM3SjA4NVlSR2ROSkV2VEFOZ3c?oc=5",
+  "summary": "",
+  "published": "2024-07-08",
+  "first_seen": "2026-11-11T09:28:19+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "6f8367d508a7",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:df022b44",
+  "type": "gnews",
+  "title": "Trade Expo Will Open Eyes, Minds of Ethiopian, Indonesian Businesspersons: Ambassador Basnur - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rXzlhVlhpTTVtWENZNVRSN3Uyd2dMRmRKdnVnRjNiS0pZaWVkbDQ2cmhVczFzZldfR1h1eUhaUlByQzZNRmx2Y3VfV1pVdw?oc=5",
+  "summary": "",
+  "published": "2022-09-17",
+  "first_seen": "2026-11-11T09:28:19+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "eb70c842d0aa",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +62,8 @@
   "published": "2026-11-11",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6f884522ed75",
@@ -23,7 +76,8 @@
   "published": "2026-10-15",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1e9d628dc2d5",
@@ -36,7 +90,8 @@
   "published": "2026-10-15",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4e97601f08d5",
@@ -49,7 +104,8 @@
   "published": "2026-09-18",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "7d7866b03b0e",
@@ -62,7 +118,8 @@
   "published": "2026-08-27",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e1cdb658db65",
@@ -75,7 +132,8 @@
   "published": "2026-07-31",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "61e12f68831a",
@@ -88,7 +146,8 @@
   "published": "2026-07-15",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ff19d4d268fd",
@@ -101,7 +160,8 @@
   "published": "2026-07-14",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b53a8a6745d4",
@@ -114,7 +174,8 @@
   "published": "2026-07-13",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b9041c23b8ed",
@@ -127,7 +188,8 @@
   "published": "2026-07-03",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "e3f7498a9e3d",
@@ -140,7 +202,8 @@
   "published": "2026-06-29",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "03045c885f20",
@@ -153,7 +216,8 @@
   "published": "2026-06-29",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "15dfdfb10cf0",
@@ -166,7 +230,8 @@
   "published": "2026-06-22",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e6af1221137f",
@@ -179,7 +244,8 @@
   "published": "2026-05-26",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "3acd3f60242a",
@@ -192,7 +258,8 @@
   "published": "2026-04-24",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "88cf3edc42e4",
@@ -205,7 +272,8 @@
   "published": "2026-04-21",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d217da363e95",
@@ -218,7 +286,8 @@
   "published": "2026-03-16",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1b6e34818bca",
@@ -231,7 +300,8 @@
   "published": "2026-01-16",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "c0de37527898",
@@ -244,7 +314,8 @@
   "published": "2025-12-20",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "19135f860c57",
@@ -257,7 +328,8 @@
   "published": "2025-12-02",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "37c6f6cf20ba",
@@ -270,7 +342,8 @@
   "published": "2025-11-18",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "e0df8cd77bb2",
@@ -283,7 +356,8 @@
   "published": "2025-10-06",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "59c2838effb1",
@@ -296,7 +370,8 @@
   "published": "2025-06-27",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "de107d6f7b0e",
@@ -309,7 +384,8 @@
   "published": "2025-05-21",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4e1bb25eae3b",
@@ -322,7 +398,8 @@
   "published": "2025-04-11",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "bc95cb799641",
@@ -335,7 +412,8 @@
   "published": "2025-03-04",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "86d73e6c59fb",
@@ -348,7 +426,8 @@
   "published": "2025-03-02",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "31c6cfd77b5c",
@@ -361,7 +440,8 @@
   "published": "2025-03-02",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "9c270b9e47fb",
@@ -374,7 +454,8 @@
   "published": "2025-01-23",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d06c19e7d60d",
@@ -387,7 +468,8 @@
   "published": "2024-12-26",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "58b052bfa1d5",
@@ -400,7 +482,8 @@
   "published": "2024-12-06",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d81779c51de7",
@@ -413,7 +496,8 @@
   "published": "2024-11-26",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "0643346907b6",
@@ -426,7 +510,8 @@
   "published": "2024-10-07",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "99b6900a5e6a",
@@ -439,7 +524,8 @@
   "published": "2024-09-26",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e2fc1d4e290b",
@@ -452,7 +538,8 @@
   "published": "2024-09-23",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6ed27401e4f3",
@@ -465,7 +552,8 @@
   "published": "2024-09-13",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "e8b56c19f25c",
@@ -478,7 +566,8 @@
   "published": "2024-08-21",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d7a66c007ae4",
@@ -491,7 +580,8 @@
   "published": "2024-08-12",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "09d4ef3d93eb",
@@ -504,7 +594,8 @@
   "published": "2024-08-08",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ea2b1177cce7",
@@ -517,7 +608,8 @@
   "published": "2024-08-07",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "28a20122febd",
@@ -530,7 +622,8 @@
   "published": "2024-08-07",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0eb3f24297fe",
@@ -543,7 +636,8 @@
   "published": "2024-08-04",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4bd53cf6ffe0",
@@ -556,7 +650,8 @@
   "published": "2024-06-02",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "614d0680a464",
@@ -569,7 +664,8 @@
   "published": "2024-05-28",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "45cb52567491",
@@ -582,7 +678,8 @@
   "published": "2024-05-27",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "cd96166af8f7",
@@ -595,7 +692,8 @@
   "published": "2024-05-20",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "11fd2e5f0720",
@@ -608,7 +706,8 @@
   "published": "2024-05-15",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "7afc3f0c4c04",
@@ -621,7 +720,8 @@
   "published": "2024-05-09",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0985c4d8dd64",
@@ -634,7 +734,8 @@
   "published": "2024-04-23",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "a69a1c5232f9",
@@ -647,7 +748,8 @@
   "published": "2024-04-23",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "dcecb0e4dc23",
@@ -660,7 +762,8 @@
   "published": "2024-04-10",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "86aa8ef20b4f",
@@ -673,7 +776,8 @@
   "published": "2024-03-19",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "d4a70592df9f",
@@ -686,7 +790,8 @@
   "published": "2024-03-06",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "7bec29dfccee",
@@ -699,7 +804,8 @@
   "published": "2024-03-06",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "58358d208707",
@@ -712,7 +818,8 @@
   "published": "2024-02-16",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "f49e106fb1a4",
@@ -725,7 +832,8 @@
   "published": "2024-02-09",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1a34af004280",
@@ -738,7 +846,8 @@
   "published": "2023-10-06",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e83650fb19ac",
@@ -751,7 +860,8 @@
   "published": "2023-09-05",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5efe11def30b",
@@ -764,7 +874,8 @@
   "published": "2023-05-28",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "14182bc4d515",
@@ -777,7 +888,8 @@
   "published": "2023-05-23",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a0e6a4aa07c6",
@@ -790,7 +902,8 @@
   "published": "2023-05-19",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b37aac657ff1",
@@ -803,7 +916,8 @@
   "published": "2023-05-17",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "82b7b8f22147",
@@ -816,7 +930,8 @@
   "published": "2023-03-29",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a5016f637501",
@@ -829,7 +944,8 @@
   "published": "2023-03-07",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "2e284bf3dcca",
@@ -842,7 +958,8 @@
   "published": "2022-09-20",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0aa077efe7cd",
@@ -855,7 +972,8 @@
   "published": "2021-10-23",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "9d2740bec2f5",
@@ -868,7 +986,8 @@
   "published": "2021-09-25",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ac6a07652f31",
@@ -881,7 +1000,8 @@
   "published": "2021-08-17",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1b09f301a3f4",
@@ -894,7 +1014,8 @@
   "published": "2021-06-27",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6c02c0cf9b81",
@@ -907,7 +1028,8 @@
   "published": "2021-04-19",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ec3abafa1df6",
@@ -920,7 +1042,8 @@
   "published": "2020-12-06",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4e38aa030098",
@@ -933,7 +1056,8 @@
   "published": "2020-10-28",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c49a89bf6e9e",
@@ -946,7 +1070,8 @@
   "published": "2020-02-28",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "808e5549e2ca",
@@ -959,7 +1084,8 @@
   "published": "2019-12-23",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "51d28e80c094",
@@ -972,7 +1098,8 @@
   "published": "2019-12-23",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6714866ad8ef",
@@ -985,7 +1112,8 @@
   "published": "2019-11-10",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e11072c3ec3a",
@@ -998,7 +1126,8 @@
   "published": "2019-09-19",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "31647dd498e3",
@@ -1011,7 +1140,8 @@
   "published": "2019-09-15",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "7390d728932f",
@@ -1024,7 +1154,8 @@
   "published": "2019-08-16",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5b9ade8053b4",
@@ -1037,7 +1168,8 @@
   "published": "2019-07-17",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "76ec02a4a81e",
@@ -1050,7 +1182,8 @@
   "published": "2019-07-17",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "abfb538b1e62",
@@ -1063,7 +1196,8 @@
   "published": "2019-07-13",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0c0587a8700e",
@@ -1076,7 +1210,8 @@
   "published": "2019-05-08",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b1049a9eefa6",
@@ -1089,7 +1224,8 @@
   "published": "2019-05-07",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5afb1b2a0abf",
@@ -1102,7 +1238,8 @@
   "published": "2019-05-04",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c719bb3572da",
@@ -1115,7 +1252,8 @@
   "published": "2019-03-10",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c2843946758b",
@@ -1128,7 +1266,8 @@
   "published": "2019-03-10",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "356b5d0d1660",
@@ -1141,7 +1280,8 @@
   "published": "2019-03-10",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "caafda476341",
@@ -1154,7 +1294,8 @@
   "published": "2018-07-10",
   "first_seen": "2026-11-11T07:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "9c8b92bb492c",

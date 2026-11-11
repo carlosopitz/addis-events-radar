@@ -10,7 +10,8 @@
   "published": "2026-01-09",
   "first_seen": "2026-11-10T20:50:48+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e42aa4039cc2",

@@ -1,0 +1,51 @@
+{
+ "https://www.kemlu.go.id/en/addisababa": {
+  "status": 200,
+  "final": "https://www.kemlu.go.id/en/addisababa",
+  "title": "Portal Kemlu"
+ },
+ "https://kemlu.go.id/addisababa/en": {
+  "status": 200,
+  "final": "https://kemlu.go.id/addisababa/en",
+  "title": "Portal Kemlu"
+ },
+ "LokaBudaya": {
+  "title": null,
+  "about": "",
+  "posts": 0,
+  "last": null
+ },
+ "kbriaddisababa": {
+  "title": null,
+  "about": "",
+  "posts": 0,
+  "last": null
+ },
+ "https://www.kln.gov.my/web/eth_addis-ababa/home": {
+  "error": "SSLError: HTTPSConnectionPool(host='www.kln.gov.my', port=443): Max retries exceeded with url: /web/eth_addis-"
+ },
+ "https://www.kln.gov.my/web/eth_addis-ababa": {
+  "error": "SSLError: HTTPSConnectionPool(host='www.kln.gov.my', port=443): Max retries exceeded with url: /web/eth_addis-"
+ },
+ "https://www.gov.kz/memleket/entities/mfa-addis-ababa/press/news?lang=en": {
+  "status": 200,
+  "final": "https://www.gov.kz/org/mfa-addis-ababa/press/news/1?lang=en",
+  "title": "All materials"
+ },
+ "https://addisababa.mfa.gov.az/en": {
+  "error": "SSLError: HTTPSConnectionPool(host='addisababa.mfa.gov.az', port=443): Max retries exceeded with url: /en (Cau"
+ },
+ "https://addisababa.mfa.gov.az/en/news": {
+  "error": "SSLError: HTTPSConnectionPool(host='addisababa.mfa.gov.az', port=443): Max retries exceeded with url: /en/news"
+ },
+ "https://eoiaddisababa.gov.in/category/events/feed/": {
+  "status": 404,
+  "final": "https://www.eoiaddisababa.gov.in/category/events/feed/",
+  "title": "Error | Embassy of India Addis Ababa Ethiopia"
+ },
+ "https://eoiaddisababa.gov.in/category/events/": {
+  "status": 404,
+  "final": "https://www.eoiaddisababa.gov.in/category/events/",
+  "title": "Error | Embassy of India Addis Ababa Ethiopia"
+ }
+}

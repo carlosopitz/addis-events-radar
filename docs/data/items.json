@@ -1,5 +1,96 @@
 [
  {
+  "id": "12b01298f40a",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The wait is over—the LinkUp Virtual Bazaar is officially open today!",
+  "url": "https://t.me/LinkUpAddis/13371",
+  "summary": "The wait is over—the LinkUp Virtual Bazaar is officially open today! ​Head over to https://virtualbazaar.linkupaddis.com/ right now to explore a full lineup of local vendors, shop your favorite handcrafted items, fashion, and unique products, and get them delivered straight to your location. For support or inquiries:…",
+  "published": "2026-11-11",
+  "first_seen": "2026-11-11T17:55:00+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "03e91c23cc41",
+  "source": "finland",
+  "channel": "finland:web:ac318fa4",
+  "type": "web",
+  "title": "Finland contributes to the global transition away from fossil fuels",
+  "url": "https://finlandabroad.fi/web/eth/current-affairs/-/asset_publisher/h5w4iTUJhNne/content/finland-contributes-to-the-global-transition-away-from-fossil-fuels/384951",
+  "summary": "11.11.2026 Over 96% of Finland's electricity is generated from non-fossil sources, one of the highest shares in the world. Total fossil fuel consumption has been halved over the past 15 years, decreasing from 47% in 2010 to 26% in 2025. News Ministry for Foreign Affairs of Finland",
+  "published": "2026-11-11",
+  "first_seen": "2026-11-11T17:55:00+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "fb8e9daf801e",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:df022b44",
+  "type": "gnews",
+  "title": "Addis Ababa - Portal Kemlu",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSURWdnJSUUVmajgxc3M5Y0lUbFhjRlYwNEUtazZPczFXRXVhVjVkZlJaaTVDV3otRVNsMEtjMUlfTDdMeHAxWmRVZlVDOC1WTFlRaVk2eWhLY1Bhek1yNlRfaXVORG43V3lxcUlJczZmNkU2S2hoUXFFYy1saEtQTXZ3SXJiUWs4LUZfZHEwc2p0NGNaSThuSEgtbERnNXBOeGhHMXRlbVNFd0ExSEdYWC1WT190ekZGRzZFQnNB?oc=5",
+  "summary": "",
+  "published": "2026-08-03",
+  "first_seen": "2026-11-11T17:55:00+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "ce99dfc8d6bb",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:df022b44",
+  "type": "gnews",
+  "title": "Ethiopian Youth Talk About Human Rights, Peace and Harmony at the Indonesian Embassy in Addis Ababa - Portal Kemlu",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMFhkNGdtQUtYYlpTc2I1R2ZsM1RaYS0xWkFzc0RTWjJ4RUJabDIyV3VTLVNReFdiMW5wVmJNVlFkNUYwRVZKZUYxeTMycmh1aHBiOWR4bGFqTUp2VFpKeWtMSGJjSGRBM0ozemJOLWxzNjNCNDFXMmY0Wjh3MVd1WkNmUDUwTE51RUNSQ3UwTEVkMWNvY3BKZzRhdjNtZWlwZ3RSU0lCVWROMGdkckY4NXlLTEdmTkVYUUJ5dm9kalFFVzFQT3dGSWJkSkJaRVVDOVE?oc=5",
+  "summary": "",
+  "published": "2026-08-01",
+  "first_seen": "2026-11-11T17:55:00+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "2e26d5abfbf9",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:df022b44",
+  "type": "gnews",
+  "title": "Addis Ababa - Portal Kemlu",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTGM5MnIyeWVDb2E0bWktcVgyZ25EdzMxb1MtOC0xVEdiUzNZQlJsZTRLdXZjWGtSbmJJZUI2Ymc0N1VLa1FvUksyWlkwaERHaGoxSjkyai13c3pRdlNQcnRKRVotVHFQcGtZSkk2QUFpNzhkZnNIUHF0Q0Y1elNSdVgzYkEzMXozb19QQ1hfM3o1ajdFaW5sb3pnT2RvZTY2alc5NG1SSUM2MWlFVGxXWVFDQlQ0akRDeUdpOUtnU0hjUzdvaTI1RGY1b21yd0dHU0tzY1JrN3VCazBYb0hFZTdMVjZjdVdHeDRaa2FjUEhEQXp0cnhjWVZHTDlqUHE4V1dtX281SkhiX3M?oc=5",
+  "summary": "",
+  "published": "2026-07-26",
+  "first_seen": "2026-11-11T17:55:00+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "621085005f0b",
+  "source": "exhibition-center",
+  "channel": "exhibition-center:gnews:fb9a7f86",
+  "type": "gnews",
+  "title": "International Trade Fair to be Held This Week - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Fbm10Rmh6Z3gwQTZPS2NpNDhkVjJCaFZyYnFHWHNUbFI1UWFJR09UR3d3eHpNVzJtdkFFYkJKcTJtUmVHeVIyVFdrWjY?oc=5",
+  "summary": "",
+  "published": "2023-03-08",
+  "first_seen": "2026-11-11T17:55:00+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "60a927ffd80c",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Dubes Al Busyra Basnur Gelar Tur Virtual Di KBRI Addis Ababa - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXdsS2lxdVJCLVR6TXptQk5lVXVfLXRQYkZaZ1lqOU1Ec0doTFBCTFFIcjNPX2t5SkRiYW55Y09zR0VEMThiZWVuYTVnc3lPdFpUdVp6VGtCS0ZyWVlGNXZPM2dGeHVYZnQwTWMtbmFJU2ZENEY4eThOZElNUDRuMUtwUi1CSXl2bDdIZFQ0ek1yS0FhTGVFS3h5dko2Z0VXdW80MzlPWWdnQQ?oc=5",
+  "summary": "",
+  "published": "2020-10-07",
+  "first_seen": "2026-11-11T17:55:00+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "a748110e7a14",
   "source": "linkup",
   "channel": "linkup:telegram:121a3f67",
@@ -10,7 +101,8 @@
   "published": "2026-11-11",
   "first_seen": "2026-11-11T09:28:19+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "478950b81524",
@@ -23,7 +115,8 @@
   "published": "2026-06-24",
   "first_seen": "2026-11-11T09:28:19+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "af4b47702871",
@@ -36,7 +129,8 @@
   "published": "2024-07-08",
   "first_seen": "2026-11-11T09:28:19+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6f8367d508a7",
@@ -49,7 +143,8 @@
   "published": "2022-09-17",
   "first_seen": "2026-11-11T09:28:19+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "eb70c842d0aa",

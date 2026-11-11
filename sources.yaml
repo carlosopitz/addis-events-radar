@@ -436,7 +436,77 @@
       include: eetio\.cancilleria\.gob\.ar/es/[^/]+$
       exclude: /es/content/
 
-# ===================== Asia-Pacific =====================
+# ===================== Asia =====================
+
+- id: indonesia
+  name: Embassy of Indonesia
+  country: ID
+  kind: embassy
+  region: asia-pacific
+  homepage: https://www.kemlu.go.id/en/addisababa
+  match: Indonesia|Indonesian|Loka Budaya|KBRI
+  notes: Runs the Loka Budaya cultural centre at the embassy (concerts, batik workshops, culinary masterclasses). Event registration often via Telegram (t.me/LokaBudaya).
+  links:
+    telegram: https://t.me/LokaBudaya
+  channels:
+    - type: web
+      url: https://www.kemlu.go.id/en/addisababa
+      include: /addisababa/
+    - type: gnews
+      url: '"Indonesian Embassy" OR "Embassy of Indonesia" OR "Loka Budaya" "Addis Ababa"'
+    - type: gnews
+      url: KBRI "Addis Ababa"
+      lang: id
+
+- id: malaysia
+  name: Embassy of Malaysia
+  country: MY
+  kind: embassy
+  region: asia-pacific
+  homepage: https://www.kln.gov.my/web/guest/overseas-missions
+  match: Malaysia|Malaysian
+  notes: Reopened in September 2025 after 43 years. Its ministry website refuses secure connections from the monitor, so Malaysian and Ethiopian press coverage is tracked instead.
+  channels:
+    - type: gnews
+      url: '"Embassy of Malaysia" OR "Malaysian Embassy" "Addis Ababa"'
+    - type: gnews
+      url: '"Kedutaan Malaysia" OR "Kedutaan Besar Malaysia" "Addis Ababa"'
+      lang: ms
+
+- id: kazakhstan
+  name: Embassy of Kazakhstan
+  country: KZ
+  kind: embassy
+  region: asia-pacific
+  homepage: https://www.gov.kz/memleket/entities/mfa-addis-ababa?lang=en
+  match: Kazakhstan|Kazakh|\bAbai\b
+  notes: Runs the Abai Kazakh Cultural Center at the embassy (cultural evenings, photo exhibitions, Central Asian culture nights).
+  channels:
+    - type: web
+      url: https://www.gov.kz/memleket/entities/mfa-addis-ababa/press/news?lang=en
+      include: /press/news/details/
+
+- id: azerbaijan
+  name: Embassy of Azerbaijan
+  country: AZ
+  kind: embassy
+  region: asia-pacific
+  match: Azerbaijan|Azerbaijani
+  notes: In Addis since 2014. Its website refuses secure connections from the monitor, so press coverage is tracked instead.
+  channels:
+    - type: gnews
+      url: '"Embassy of Azerbaijan" OR "Azerbaijani Embassy" "Addis Ababa"'
+
+- id: pakistan
+  name: Embassy of Pakistan
+  country: PK
+  kind: embassy
+  region: asia-pacific
+  match: Pakistan|Pakistani
+  notes: Mostly trade expos (the Pakistan-Africa Trade Development Conference and "Made in Pakistan" exhibition at Millennium Hall), with cultural shows attached.
+  channels:
+    - type: gnews
+      url: Pakistan "Addis Ababa" (exhibition OR expo OR festival OR cultural)
 
 - id: australia
   name: Australian Embassy

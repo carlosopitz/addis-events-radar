@@ -16,7 +16,7 @@ A GitHub Actions workflow (`.github/workflows/radar.yml`) runs every two hours, 
    - **telegram**: a public Telegram channel, read through its public web preview.
    - **gnews**: a Google News search, to catch events that only get announced on Facebook but are covered by the press.
 2. New items are saved to `docs/data/items.json` and marked as events when their title or summary contains event words (concert, exhibition, screening, Ausstellung, exposición, mostra …) in six languages.
-3. Every morning at about 06:50 Addis time you get one email digest: event posts first, then other news. Days with nothing new send no email.
+3. Every Monday morning a scheduled Claude task reads this data and writes a weekly briefing of upcoming events in the Claude app.
 4. The dashboard (in `docs/`, served by GitHub Pages) shows everything, with filters.
 
 Every Monday the workflow also visits each homepage and records the social accounts, newsletter links and feeds the site links to (shown with dashed outlines on the Sources tab).
@@ -28,21 +28,13 @@ The first check records what is already on each site as a baseline, so you are n
 ### 1. Turn on GitHub Pages
 Settings → Pages → Build and deployment → Source: **Deploy from a branch** → Branch: `main`, folder: `/docs` → Save.
 
-### 2. Daily email digest (Gmail)
-1. Make sure 2-Step Verification is on for your Google account.
-2. Open https://myaccount.google.com/apppasswords, name it `Addis Events Radar`, click **Create** and copy the 16-character password.
-3. In this repo: Settings → Secrets and variables → Actions → **New repository secret**, twice:
-   - `MAIL_USERNAME`: your Gmail address
-   - `MAIL_PASSWORD`: the app password
-4. Optional: `MAIL_TO` if the digest should go to a different address.
-5. Actions → **radar** → Run workflow → `test-email` sends a sample right away.
-
-The digest is sent from your own Gmail to yourself. To stop it, delete the app password on the same Google page (this also revokes access) or remove the secrets.
+### 2. Weekly briefing
+A scheduled task in the Claude app (Mondays, 07:34 Addis time) reads `docs/data/items.json` and writes a briefing of the past week's new events and news. Manage it under scheduled tasks in the Claude app.
 
 ### 3. Run it
 Actions → **radar** → Run workflow → `both`. The first run takes about two minutes.
 
-Other manual tasks: `digest` (send today's digest now), `test-email`, `discover` (refresh social links), `snapshot` (save raw pages to `debug/` for tuning rules).
+Other manual tasks: `discover` (refresh social links), `snapshot` (save raw pages to `debug/` for tuning rules).
 
 ## Adding sources
 

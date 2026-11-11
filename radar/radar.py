@@ -18,9 +18,7 @@ import sys
 import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
-from email.message import EmailMessage
 from email.utils import format_datetime
-import smtplib
 from pathlib import Path
 from urllib.parse import quote_plus, urljoin, urlparse
 
@@ -39,11 +37,7 @@ TIMEOUT = 30
 MAX_ITEMS = 3000          # items kept in items.json
 MAX_SEEN = 600            # ids remembered per channel
 DASHBOARD_URL = os.environ.get("DASHBOARD_URL", "https://carlosopitz.github.io/addis-events-radar/")
-MAIL_USERNAME = os.environ.get("MAIL_USERNAME", "").strip()
-MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD", "").replace(" ", "").strip()
-MAIL_TO = os.environ.get("MAIL_TO", "").strip() or MAIL_USERNAME
-SMTP_HOST = os.environ.get("SMTP_HOST", "smtp.gmail.com")
-SMTP_PORT = int(os.environ.get("SMTP_PORT", "465"))
+
 
 # Words that suggest a post is about a public event (multilingual).
 EVENT_WORDS = [
@@ -258,7 +252,8 @@ def read_feed(url: str) -> list[dict]:
 
 
 GNEWS_EDITIONS = {"en": "hl=en&gl=ET&ceid=ET:en", "es": "hl=es-419&gl=MX&ceid=MX:es-419",
-                  "fr": "hl=fr&gl=FR&ceid=FR:fr", "de": "hl=de&gl=DE&ceid=DE:de", "it": "hl=it&gl=IT&ceid=IT:it"}
+                  "fr": "hl=fr&gl=FR&ceid=FR:fr", "de": "hl=de&gl=DE&ceid=DE:de", "it": "hl=it&gl=IT&ceid=IT:it",
+                  "id": "hl=id&gl=ID&ceid=ID:id", "ms": "hl=ms&gl=MY&ceid=MY:ms"}
 
 
 def read_gnews(query: str, lang: str = "en") -> list[dict]:
@@ -497,112 +492,12 @@ def run_channel(src: dict, ch: dict) -> dict:
     return res
 
 
-# ----------------------------------------------------------------- digest
+# ------------------------------------------------------------------ util
 
 def flag(cc: str) -> str:
     if len(cc) != 2 or not cc.isalpha() or cc.upper() == "XX":
         return "📰"
     return "".join(chr(0x1F1E6 + ord(c) - ord("A")) for c in cc.upper())
-
-
-def _row_html(it: dict, s: dict, with_summary: bool) -> str:
-    when = it.get("published") or it["first_seen"][:10]
-    summary = (f'<div style="color:#6d6a63;font-size:14px;margin-top:3px">{html.escape(it["summary"][:240])}</div>'
-               if with_summary and it.get("summary") else "")
-    return (f'<tr><td style="padding:10px 0;border-bottom:1px solid #e3dfd5;vertical-align:top;width:34px;font-size:20px">'
-            f'{flag(s["country"])}</td><td style="padding:10px 0;border-bottom:1px solid #e3dfd5">'
-            f'<div style="font-size:12px;color:#6d6a63">{html.escape(s["name"])} · {html.escape(when)}</div>'
-            f'<a href="{html.escape(it["url"] or DASHBOARD_URL)}" style="color:#1d1c1a;font:600 16px Georgia,serif;'
-            f'text-decoration:none">{html.escape(it["title"])}</a>{summary}</td></tr>')
-
-
-def build_digest(items: list[dict], src_by_id: dict, heading: str) -> tuple[str, str, str]:
-    events = [i for i in items if i["event"]]
-    other = [i for i in items if not i["event"]]
-    date = datetime.now(timezone.utc).strftime("%-d %b %Y")
-    parts = []
-    if events:
-        parts.append(f"{len(events)} event{'s' if len(events) != 1 else ''}")
-    if other:
-        parts.append(f"{len(other)} other post{'s' if len(other) != 1 else ''}")
-    subject = f"Addis Events Radar: {', '.join(parts) or 'nothing new'} ({date})"
-
-    def section(title, rows, with_summary):
-        if not rows:
-            return ""
-        body = "".join(_row_html(i, src_by_id[i["source"]], with_summary) for i in rows)
-        return (f'<h2 style="font:600 13px -apple-system,Segoe UI,sans-serif;letter-spacing:.06em;text-transform:uppercase;'
-                f'color:#6d6a63;margin:26px 0 4px">{title}</h2><table cellpadding="0" cellspacing="0" width="100%">{body}</table>')
-
-    html_body = (
-        '<div style="max-width:640px;margin:0 auto;font:15px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;color:#1d1c1a">'
-        f'<h1 style="font:600 22px Georgia,serif;margin:0 0 4px">Addis Events Radar</h1>'
-        f'<div style="color:#6d6a63;font-size:14px">{html.escape(heading)}</div>'
-        + section("Events", events, True) + section("Other news", other, False) +
-        f'<p style="margin-top:28px;font-size:13px;color:#6d6a63"><a href="{DASHBOARD_URL}" style="color:#0b6e4f">Open the dashboard</a>'
-        f' · <a href="https://github.com/carlosopitz/addis-events-radar/edit/main/sources.yaml" style="color:#0b6e4f">Edit sources</a></p></div>')
-    lines = [f"Addis Events Radar: {heading}", ""]
-    for title, rows in (("EVENTS", events), ("OTHER NEWS", other)):
-        if rows:
-            lines.append(title)
-            for i in rows:
-                lines.append(f"- {src_by_id[i['source']]['name']}: {i['title']}\n  {i['url']}")
-            lines.append("")
-    lines.append(f"Dashboard: {DASHBOARD_URL}")
-    return subject, html_body, "\n".join(lines)
-
-
-def send_mail(subject: str, html_body: str, text_body: str) -> str:
-    if not (MAIL_USERNAME and MAIL_PASSWORD):
-        return "mail secrets not set"
-    msg = EmailMessage()
-    msg["Subject"], msg["From"], msg["To"] = subject, f"Addis Events Radar <{MAIL_USERNAME}>", MAIL_TO
-    msg.set_content(text_body)
-    msg.add_alternative(html_body, subtype="html")
-    try:
-        with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, timeout=30) as smtp:
-            smtp.login(MAIL_USERNAME, MAIL_PASSWORD)
-            smtp.send_message(msg)
-        return "sent"
-    except smtplib.SMTPAuthenticationError:
-        return "login refused (check the app password)"
-    except Exception as e:  # noqa: BLE001
-        return f"{type(e).__name__}: {str(e)[:120]}"
-
-
-def cmd_digest() -> None:
-    """Email everything that appeared since the last digest (skipped when there is nothing new)."""
-    sources = {s["id"]: s for s in load_sources()}
-    items = [i for i in load_json(DATA / "items.json", []) if i["source"] in sources]
-    log = load_json(DATA / "digest.json", {})
-    since = log.get("last_sent") or (datetime.now(timezone.utc).replace(microsecond=0).isoformat()[:10] + "T00:00:00+00:00")
-    fresh = [i for i in items if not i["baseline"] and i["first_seen"] > since]
-    fresh.sort(key=lambda i: (not i["event"], i["source"], i["title"]))
-    stamp = now_iso()
-    if not fresh:
-        result = "nothing new, no email sent"
-    else:
-        subject, h, t = build_digest(fresh, sources, f"{len(fresh)} new since the last digest")
-        result = send_mail(subject, h, t)
-        if result == "sent":
-            log["last_sent"] = stamp
-    log.update({"last_run": stamp, "last_result": result, "last_count": len(fresh)})
-    save_json(DATA / "digest.json", log)
-    print(log)
-
-
-def cmd_test_email() -> None:
-    """Send a sample digest built from the latest posts, so the format and login can be checked."""
-    sources = {s["id"]: s for s in load_sources()}
-    items = [i for i in load_json(DATA / "items.json", []) if i["source"] in sources]
-    items.sort(key=lambda i: (i.get("published") or ""), reverse=True)
-    sample = [i for i in items if i["event"]][:5] + [i for i in items if not i["event"]][:5]
-    subject, h, t = build_digest(sample, sources, "Test email: a sample of recent posts. Real digests arrive each morning.")
-    result = send_mail("[Test] " + subject, h, t)
-    log = load_json(DATA / "digest.json", {})
-    log.update({"test_run": now_iso(), "test_result": result, "to_set": bool(MAIL_TO)})
-    save_json(DATA / "digest.json", log)
-    print(log)
 
 
 # ------------------------------------------------------------------ check
@@ -825,5 +720,4 @@ def cmd_probe() -> None:
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "check"
-    {"check": cmd_check, "discover": cmd_discover, "digest": cmd_digest,
-     "test-email": cmd_test_email, "snapshot": cmd_snapshot, "probe": cmd_probe}[cmd]()
+    {"check": cmd_check, "discover": cmd_discover, "snapshot": cmd_snapshot, "probe": cmd_probe}[cmd]()

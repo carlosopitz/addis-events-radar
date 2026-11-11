@@ -1,5 +1,1162 @@
 [
  {
+  "id": "eb70c842d0aa",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "In this month’s LinkUp Magazine ListenUp section, we explore How Negestat Redefines Ethiopian Hip Hop With Yenege Sew by Kidus Yohannes.",
+  "url": "https://t.me/LinkUpAddis/13370",
+  "summary": "In this month’s LinkUp Magazine ListenUp section, we explore How Negestat Redefines Ethiopian Hip Hop With Yenege Sew by Kidus Yohannes. The feature highlights the debut album release by hip-hop duo Negestat (Abemelek and Atse) at the legendary Ghion Hotel. The duo blends traditional Ethiopian melodies, wartime calls…",
+  "published": "2026-11-11",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "6f884522ed75",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI Addis Ababa Archives - Star Jogja FM",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Vakg0RktqbFk1YzlRdFZITVlaMFRQTThpM0lraExEcng4UkVRT1JyVVFoVHJLbzNWelExdXNkTmh6SU5FOEpycVNpT0pINnFoc0NFTW05OHFhRDF1MHFIMHpGRDg3QQ?oc=5",
+  "summary": "",
+  "published": "2026-10-15",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "1e9d628dc2d5",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Indonesia Kecam Israel yang Diskriminasi WNI Pilot Ethiopian Airlines - MetroTVNews.com",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckVNdG80TGdTcFFUZTctYjZYelFWS2RoUXpnbTNmZEphYmZBaTlfZzdBcEhDN2ZEOXB1RFd4Y2xzMFRWTGZLeTVlMzZzYlhteWVlVnE0VVQ5TER4cGZiRlo5QnZ3b0FjTDh1RmhqaDl0YlZaR1ZVQjFmdHlELVl2OVJ4aVFHWEgzOUdUR2UtZGxmY0VXRlFkeFJWVDRGYVFRREtlNDhNZzE3eUlqaTR4MA?oc=5",
+  "summary": "",
+  "published": "2026-10-15",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4e97601f08d5",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Hosts Freedom 250 Alumni Summit - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BR29YV0NHYjN2ZGxLdVNVY1ZRR2VwY0NHWlA0dmtDaWpnQVBqVjVqek5ZV0JMWXM3VnA4a1piSjAwNC1zdGdtc2ZfZjdZUGctWVRfdFRXWF9BQ19qUlo3b1ZYSWJRYkpfWGRkQWlOYjFLMnoyWGhaMw?oc=5",
+  "summary": "",
+  "published": "2026-09-18",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "7d7866b03b0e",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "Travel Advisory: Ethiopia – August 27, 2026 - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13UVQ4djRlOERLdzVZOG5QMFBfbVQwWVhUYy1vT0lKYm90RkxqdERBMzRFSS12RWlmd3I3MloxLTNHVzVEeC16LVJyZzRNYTNydXhfd2RBUV8tcHVTa20xdld2enRSX0gzQmg4amxXSFFpaDA?oc=5",
+  "summary": "",
+  "published": "2026-08-27",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "e1cdb658db65",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "Congratulations to the 55 outstanding Ethiopian students who have been awarded the prestigious Erasmus+ Scholarship this year! - EEAS",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZXpRd3UzSDdrLXZPRWxVTWoxbUppdGZzX0FfZDAzejFyb0NBVVBMQWo5M2dwVDY0QTNPcnR3ekhzQXBEMnhsZl9KeGppTkJxbDNnVGc2c3ZfWnIyWHV1dGg2cjVmNGl5bHFOeDhIcnRHcGpOQTlhVWJ1Z2RKUmpUeWM3cVRUTU1GbWZmMWgwY3laeTFleUwtTHMtUl9wOTZTb2RXZmVVTWtZck5NTnVVdXRWd3ZXZDd0Vzcw?oc=5",
+  "summary": "",
+  "published": "2026-07-31",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "61e12f68831a",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Ambassador Ervin J. Massinga’s Visit to the Tigray Region - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTU40cFAwVWh2ZG5IYl9DZUZzRFlTWWdXQmFQcVBmUHRBMUJaNWlBVWRKaGUwX3N2QVFkN3J4QWdaelQybGxxOVJ0UXdzc20zelBEVWtGa0s1OG9wdnl1WjVnYk5ockFBM0ZwYzA4M1IxTUludzI3NUdGeHJaRllpSmFiNzdJMEZyR2VTay1B?oc=5",
+  "summary": "",
+  "published": "2026-07-15",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "ff19d4d268fd",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "Voting in U.S. Elections from Overseas - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqdG5DT292TGNfZHJYZGpiYW41T1pHb2padXdxZDdmbUtGcnF6NnBpQXFzUHEtUkVLendzbHAtdFdzS3d2N3NlTzI3VlpldWY1OWs4LUQ1TFBuSW5DT2xpNmxUMGJFeHkxdm90Q1UyQTk?oc=5",
+  "summary": "",
+  "published": "2026-07-14",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "b53a8a6745d4",
+  "source": "eu-au",
+  "channel": "eu-au:gnews:c7187f3a",
+  "type": "gnews",
+  "title": "EU Delegation to the African Union Bids Farewell to Head of Administration Gabriela Hartig - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1NpMFVJeFY5czVsUHJuU0xiWG9WVE5Kei00V0FBWU1IdFhhX2NFVDkwbGUyc2poV09zdXZudlVRRjJKRUx4Tk8yQy0ycEl1ZnpUWVRGUklid1hoVGpVa3BYSWtIXzFuV2JPZmtrYmx4Tm5IX25HSVF2U0FTMXZQN0dIYXhBUWJWQXJ5VTJSNVV4Wm9jNW41Y0x3YzlONGhWYXVYR3V0LUNXWk1CQU9aOE0zeUhNM2hsUXhSUFBQb1N0N0E1QmktelpNN2xrTkp3NlE?oc=5",
+  "summary": "",
+  "published": "2026-07-13",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "b9041c23b8ed",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Addis Ababa Celebrates 250 Years of American Independence - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUd0dDRGSm4zQ1dTbkZrc1p1d2ExN1R0MEozc3pXVFNtaWJjWklVS1lBRTVqRHNlWE9MRDdLX05wYUdndjNRNlRIUFRpMWVSNGRJcnlCdDR5M2pqemotQVRQY01QUVlnSGxoTldkNG9JV3hWTVJTbDl0X3pLRHEzZFlnX0FiajR6MWJGNS1qS1RSZHc4cjBZcXBJZw?oc=5",
+  "summary": "",
+  "published": "2026-07-03",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "e3f7498a9e3d",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "News: EU joins U.S. in raising concern over Tigray tensions, urges return to Pretoria peace talks - Addis Standard",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0tleENRUG5nSms2TnctZ3VnY0lzU2RDVENiQXZZRUZhWl9JM2ZvU3RTc3p0THZmVGFVT1VRY0lRRHEtV2tWemxaV0JLQjZQaTViS3owY0VEV0xRMmotdlYxcDczNFBVV2N3Tlh1blA5T1RQUTFsX1BrR2NuTldCcjNIdXBSUGpoc1ZFYXpnMWlMSFY0OGRDaHNTeTVKc1lJTndDdVNocEg1QldOdGdrMGVxTll3RUU?oc=5",
+  "summary": "",
+  "published": "2026-06-29",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "03045c885f20",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "Ethiopia: EU Delegation Expresses Concern Over TPLF's Military Conscription in Tigray Region - allAfrica.com",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KS21Cd21TUHd1NnJJN2xoZVFqS0hyaTFxNkdqUlZqcjZybFV0Q093MFZTTHByS29oQmZZM1JlRkc1QlZSd2NXN2pSS1VTbzNtMU82MEFadUtfS1U?oc=5",
+  "summary": "",
+  "published": "2026-06-29",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "15dfdfb10cf0",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Portal Kemlu - Portal Kemlu",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWUJGaUlIYzBJLUVUeFM2V2puZTFsLU5YdF9KRlZ4UWt5WlhIQkVwV21uVWFQTFI5ak9nWVNsUW5fUGxucXBiQ2pLb3FnanUxaXI4V29LM2tyaVVudXZsaXFidTZHZWZnQ1NXeHV3NWRwTUFieXpDdUE3VkNpT004UC1HekhXUjFTLU5vNlVYbHpzVnBZVU9wclNzdks4N3J6MnYtd0tXZUEzLXhMQ2p4U0ZoSHdkanYtSy1aQmlMOTlibjctcW9tM1cyenBvaXc?oc=5",
+  "summary": "",
+  "published": "2026-06-22",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "e6af1221137f",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Addis Ababa and EAS Host Workshop on Undergraduate Admissions - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWGRXVFNFbDRqWXhTc0FicXZzTTZpODRxMDJnX0IxRjV2TUNLZG1XTU52cHpxdHE0YzJqbXM4MEFYVEktdnNKa2dqbXRJaENxLWI3dENsSVFRRmFqQmRWRlpfWllnVzlkeXMzMjVyV3N4bUZCaTYtOFdwR01OckFlb3NCUDBYRFBzZlBPNmRab0EyQUtPZkJGdUw2c3k3MmlB?oc=5",
+  "summary": "",
+  "published": "2026-05-26",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "3acd3f60242a",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "Global Gateway: Commissioner Síkela announces new investments on his mission to Addis Ababa - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdlU0aE93NVR3QXVLNWRtRnNKcW5YY2E5ai1tUzhCdjNvOXpSV3FCS0JLRlpLaXNVM1BOb0VqVXhJMlRlYVd4U19zTHpQQml2UzNSRy1WU1lyODF2X2Z3SHhaZnE4YWtES2NzMjhOSWp6WDBOVWVBVW4wZGFXakJPYUZYalQ1cGswRjFLeWFWcnFCZUJpRDRfcmI3NXRFaWVTQnplVWVDUlRmZEZXdTM3QkxsZVBPZm1Rd2dRZmRweDQ5RkdTRjBzelJoc2RyaTlDNDljRXdkaw?oc=5",
+  "summary": "",
+  "published": "2026-04-24",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "88cf3edc42e4",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "EU INAUGURATES MARY HELP SHELTER IN ADDIS ABABA TO SUPPORT SINGLE MOTHERS AND CHILDREN - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTAycjVKa01uZlVTTGxNSFp6cmE5MXBaRC1WVE52Qkc4UnFNWERCVkZrYl9ySVVGVTBwaTRyNFpBMGpVbjJzZUY2TmRuQXZaRGpVd18tZldlbGdvYjVQRnhXUkV4YWdUUWdOVFQ1eXBCdUxqanQzMnFfaVNKYm9uMy1kUmFnRmJ5endZNnBFU1ZBYlVTMXRnWGpQVExHazhWRllHc0RNTm1VaGhLQzNyQ1lJQ3BEZVVPTGZEdE1ILUhFNURnNGI5ZHVlYjBSblFlelE?oc=5",
+  "summary": "",
+  "published": "2026-04-21",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "d217da363e95",
+  "source": "eu-au",
+  "channel": "eu-au:gnews:c7187f3a",
+  "type": "gnews",
+  "title": "2026 Funded traineeship for young graduates at the EU Delegation to the African Union. - Opportunities For Africans",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDhFanJCN19fTS1MckUzVlZ1T1NzOU5uZ2JVRE5qUVFkU21jMGlKRDFHejVBYlNaT3MwYURBbXNXaVpnN0NtVEhrUWtsM0N6ZGVJTVctcGdEbVZWSUV3ZEpqbThwbVJmNFpHM2xiS3c0bmgwYjFxV3dIVU9NRkVDeERzaVJFNlNldzRvbFBibnhmZjUzb05CWERZRDEtX1NQV1VHWjVmOWFCVkN3UFNpRmEwaXlzRzh0eWpNUWNsSVUyOFF1bUE?oc=5",
+  "summary": "",
+  "published": "2026-03-16",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "1b6e34818bca",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy and Ethiopian Academy of Sciences Host Consultative Workshop on University Autonomy - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOenY4LW5PYmVzZ1BaeUVVSnhNZWpTNWJIN2p3TlJwWERsMGoyUU42UGxwMnVVY0xaU0lncmo3WUJZM0xhaHBxRVU3N0txN0ExaWgxYXFXd2RVY0hzTGROUDhSZDA1aVhmZTBSajJCVmVqMFVWMHBGSUUwY055OUE2Zkp4LTQ4Y0ZHS0h4R19hNlBPenk5U241VzJ5TndPdHdMM3ZqYkkwUm14YjdnVlRDVll0Z21GbnBIZWR1eEtB?oc=5",
+  "summary": "",
+  "published": "2026-01-16",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "c0de37527898",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Hosts Exchange Alumni Conference - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuM1VBRmI2OVhtOTQ0bmdUeUcwZEVEaHFEOFFTQVJ0SW9ZVHRLSkdTM1ZVRnVfZFI1enlqRjltVVktWlJzV1F1SWVFN0ZEcFRYSGQ0cXlqNTZIU0JPdFZZQUdlbTYzSnFjOHlPUTIydlNpNGVXWUV5S1FR?oc=5",
+  "summary": "",
+  "published": "2025-12-20",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "19135f860c57",
+  "source": "eu-au",
+  "channel": "eu-au:gnews:c7187f3a",
+  "type": "gnews",
+  "title": "Europe’s Largest Research & Innovation Fund Opens Its Doors to Botswana’s Researchers - University of Botswana",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT29JOWpTQWExcjN3SzVVNkxuWWpqV0pLbWxNdUlZYzdZbDh3SXY4bkN5SjBUdy1fOVRXLXVfbjk1Vi1pR2VkcTl2WDlUWjRxTTJPcERYeWd1cGtkWUN4Vm5JUzlDWC1sQ2czaHgwLUZNUDhkWXJZdW01QXh6WFhRNEpFQllTZi1KX3lLbFpvN2c1V3FZZm42eGVrSVRWNVNfMWpobmItbkctYkc5Z0lIZ2dsbm5XSWRONXNz?oc=5",
+  "summary": "",
+  "published": "2025-12-02",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "37c6f6cf20ba",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "Study in Europe Fair 2025 concluded successfully with record attendance in Addis Ababa - EEAS",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSVdnSm1IZllXd05tUkc2QTMxNE1yMVZHakEyN2ozUkNNZ1JQWFN4bG9oZzV6ZnJHOGl2NFZXRzNCTjVSMzF6WmVvVkhzZ3F6c2VQdWlDMk44cnFZbzhZQjdEVVFWNVF0R2lndFM4Zmx5VWkyajJSTXFPZHJxYktMeFg0SHdRb2tkMmk2VlNjWFZOUXNEc2ZpMzN4Y240bl9yZUJmemtwRzF6ai1SZlVydmxGa1Y1R2wyaFp2SXR4ZWFJSGlO?oc=5",
+  "summary": "",
+  "published": "2025-11-18",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "e0df8cd77bb2",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "Medical Equipment Handover Ceremony - Joint European Initiative - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOE9iT2FvSGhHbHo5SXJUTk8wRTY4NnV0cXZpUmE5MlRsaTZLV2FsQ0g0ZEozRjhqbTRDNFpSZGEzZkhzekNIelZielA5dEJsQ29hRXRZZDNXX3p2SE83U1NzaEtPQ09PT3FLMmtqUWFXbWpvNEItVkxoeFNiUlctZUg0QThPQVRJSFFlajI5bS1NT3pkcElNWGk3VDZ5aUx2bTFrQTVmTGlxYmg5RFllLTVR?oc=5",
+  "summary": "",
+  "published": "2025-10-06",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "59c2838effb1",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy and Ethiopian Academy of Sciences Empower Higher Education Leaders through Transformative Workshop - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSFdHOUpBektyMktrbElINXJ4WW5ueXFaQ2U0amxnMDllcURxRXloZnh1VG9GUzJLY1V2THBsY2FFbW5oY21JZGgyQXlFVzM4YldvSDNCQ29yMnluZjNKcHRFUml3cTFZVHQ0M1ZVZUo4UE1YMkQwZTFhQWVYVTZBRW9sYy1GR19WSXRZUFdmZ1llRDM0X0NLaTc2Z09UOWNHeXZ3NFh6ajNHV3RtV19UMEszNFEydnZ5SEh0NVg5S2dCZFFCbGhDcEhiSE81WS1MTWc?oc=5",
+  "summary": "",
+  "published": "2025-06-27",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "de107d6f7b0e",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Supports U.S.-Based Troy Group’s Advanced Secure Printing Solutions, Strengthening Governance and Security in Ethiopia - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZGJ4XzZwYUJwYnQxeHpXR3FtU3VBb1QyUElIUGNxaGZid25iY0JkcWNjemtrdEpJTWRxY3AyM3ZIbEpGSjFidF9VbktoTThfVUVkaTdXNmRWUVpNRDZqMFE3a3pWZTRZMk5fU09hZ3Y5S2FoUVZVb0F3STFNQjZlODVqTlFDTWxpUTJJOG0tczVHaXV1elp4SnBKLThUQy11VDFiUHRqOVN0SHhuRmJwSUZuOHZmNTcyY3JURS1oYjE1UWszWFdwLUx6UWd0LUxZZFpYS1YxbmkzQjFhQWVpcGJWcGdyRjFk?oc=5",
+  "summary": "",
+  "published": "2025-05-21",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4e1bb25eae3b",
+  "source": "eu-au",
+  "channel": "eu-au:gnews:c7187f3a",
+  "type": "gnews",
+  "title": "EU Delegation to the African Union 2025 Traineeship for young graduates (Funded) - Opportunities For Africans",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMEt5MXk4ZUpNY2QzSEVhOXk3eG1PN0ZGa0RVem9NNVp4dmtZRWx6cENod2NtMTgyaEpmZE5Id0I0RVNLc2xIV09LZWZqUTluR2xSamU3WmVWMGJ1RG0wdXBieHVxMVo2bVpNSmhqR0pDWUVIcExsdTF3eGZlNzFVa1NKXy1jcGhsYnlHb1Y0VGZjYktCRnF4ZQ?oc=5",
+  "summary": "",
+  "published": "2025-04-11",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "bc95cb799641",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Dubes RI Untuk Ethiopia Al Busyra Basnur Dinobatkan Jadi Dubes Paling Aktif - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUhtV01vRDB1bFJ5MXVSazBLRVd1Vm9nUkNYUzdYRU5UdTFPRUVTUktNdHRtWTlFYnZOdHVQMkhwUWZOb0t2WnpEOWhCckRRSXNLZlBuZHNzOHpzS3B0b1M4bGRWdXJIVmhVaGF2YkpKY2o5elNaNXlOdkhack5Wc0ZhOXZFbmNfdG9sLWFoNkk4VVNoRW50cE85UGt0V29mOEdNSXRNNFJ0M3BCbnVONWlfRThFWEd3RE5xcHpaVQ?oc=5",
+  "summary": "",
+  "published": "2025-03-04",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "86d73e6c59fb",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Presiden Ethiopia sebut Dubes RI Al Busyra paling aktif di negaranya - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcFU0QzVKTGtpQV9MeXVJVEVCcm9aYm5HNmN5ZWV2TXdyRG1DMktWdlVURWQtbWY3Ym1IZUtHWjZiZjQ1V3pzemZaSXVLeXl2ZERqQU9pSGRoVHlFSm01TklBazNwSjJVYnl4SGdHRjR4YjAyZGRuS1NMUnd0R3JJd3lybVlxVUwyOHdQRlFrc3ZVM3NWTlIwQWtfTk9uUVExS0FpTmxJOEowcVBBOWtv0gGyAUFVX3lxTFBCcVhpdnBZaTBBZVo3czVrdll6QkVsc2NyeGtkWHpxeUdqT20tZnc2OHZHSE9WZkw2N3BBMVh3SWZTTXN0d3Y3ZG5DdmJCa2RwNzlROHZ0eFM5cFNRWXVwUnRwY0VDaVdNVnFycER3RVFKVTVka1lFd2RSaUFYeEswOGFLZ1RoSjIwZ1FSaDAweUtXdFZvZzcwSTR0NTQySUhKUHNZb0lPZmxtV2QtZTNzYUE?oc=5",
+  "summary": "",
+  "published": "2025-03-02",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "31c6cfd77b5c",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Begini Respons Presiden Ethiopia Saat Dubes Al Busyra Basnur Pamitan - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWpwVXhDd05LaEliVF9GeWQ3dkxtTGdsQVByZHFwR3dYM3daYkw2M3lNaF9DS0NmOEcxTEhRcjZwb3FOZWJ4UG5weWhuRE1hUjUwZXlyR19nbDMtaV9VWXo2eWFYOEszb0dwUUJGZHR4TElJelRtdmVWWHFOb01lbXV0aHpwSmhLaEEwbXVDZmF0MDRQdjhCVzlKcVRsS3JZeDhMemZtNHIyaDRyVXBHR1RmTm9Jdw?oc=5",
+  "summary": "",
+  "published": "2025-03-02",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "9c270b9e47fb",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "DCM - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBaTjFNSzkyMXQ4XzhQdU5pUFJIVXJYUk5BclFQVG5KdFpaZ0oxVWczZjRYbmQtbXBZZnljcXc5d2tYXzA?oc=5",
+  "summary": "",
+  "published": "2025-01-23",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "d06c19e7d60d",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Wirausahawan Muda Ethiopia Antusias Kerja Sama dengan Indonesia - Tempo.co",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkJBUDJNREdWSXE3M0V2RnYyaERQNzR6S1hTYVhnSllwSTVWVzBEXzZmWkdVTmdCRTAtTkhoWVV6THhFZXJCbjAxcFFHWjMxNnNLc0x4eG1oZHZiRmVYSHd4SUxZaG9WU3BSOHZsbmlYRnZUSUliMkZ4Ymd4dFhNMDJUVU5JWDFseU9TbTc4aFRIcVVScDdndGY5WVprX1YzY294SDRhQ2M?oc=5",
+  "summary": "",
+  "published": "2024-12-26",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "58b052bfa1d5",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Supports Local Businesses with Networking and Knowledge Sharing to Navigate Currency Fluctuations - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcWNzV2swOGRGNkg5bjZLMFJwVlhjS2xBRlNVeXp5dE5EQzUweGR2NklLdV9sSmpCXzNJUEJKb0RfVk43VXloa0RYMTIwcXA3VVc2enJHNVVlVUp4MUtMd3lvRXZvWi11aTdTWXNOeFI2eEVXanNCNjRjNWoxTGVURms0N3laX2tGYTdWcHMwS3g1THQ3eHJxX2MtOXcySTBNR1FxZlJvUEswZUd0aGUzTERsM19MU3B3SGdET0t6cFdCcWpoTm54anhLZVlqT05a?oc=5",
+  "summary": "",
+  "published": "2024-12-06",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "d81779c51de7",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "EU participates at Diplomatic Charity Bazaar in Addis Ababa - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM0FEdmhkTG82VzZlNzV6cS1ZVXpoaUplX3R3RG9tMVAwQmFtYUJzbHJ3VkwwcER2VDAyQWdsLWZybzFUVlF5LTU3enlsWTItTHZLMWwwUmR6eG9XN1lMMWwtTm5PMFNHWlBMWmQzTkFULXBnMGRwWW9HX2h2aGpkVGdXRkdORnpNS0hfbnNXaWY5ekxoamlUWVBMSnMzUDZnMUMtekFaX0NXandWdmNuLThB?oc=5",
+  "summary": "",
+  "published": "2024-11-26",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "0643346907b6",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy, Ministry of Foreign Affairs Celebrate 120 Years of Ethiopia-U.S. Relations with a Night of Music - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTW9fLXhjbUZHS0xsczFKcDJLTlJJYjVndG03SVRhQnVRYy1hRGpsai1oY1VYcnhFT3RtdllzYWRoc0RhOXgwdTZVV1FGSW5SRFFhOGw0SmxrOFJxZE9RaURxSWJKX1hCVGpRT1NjbHA3eDJsTmtWQnB6aGxCWFYwd3paNnpwd3FLQ1NFRmM3blh2UUc5Q3VWSEp5ZDh0MlE3dzFuMGN3VEFMYjgtMzdSSjBlRTBTbVY5NEIwaC1GUmpiejlfOVM4MU9MeGktUQ?oc=5",
+  "summary": "",
+  "published": "2024-10-07",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "99b6900a5e6a",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Supports Journalism and Communication Departments at Ethiopian Universities - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYlJ1cURxTDVVTlJzTjREbGN5d0I4WlF5Z1hZVUt6dTZFdEFNSFhoalhJQjVwM0drVkx1Skp1dlB4Q3I5YjU3NlVURm0ySmZLZ0tGbzlZdW9jQ3lRU250NUxveDk3MGpIY3NLVlhmbTYya0xqQjUxTHNweUVJT0c0MmdQSS12M1p4S2R2dXRCMTljMGUwR2hVVEcwX2hWRGZJaGVNMkFadWVlOFdiR21TOWtNbw?oc=5",
+  "summary": "",
+  "published": "2024-09-26",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "e2fc1d4e290b",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "President’s Emergency for AIDS Relief (PEPFAR): Turning Community Engagement into Meaningful Impact - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWo4aVJ1ZTQwWEpTcGZnNjFMSG0yRTNTeUJzOEwzX1lRSU0yZFNUbVY0UWpmekpXOHNzWEpKbUtqeEtlREdsamttVjBBYVFhNVJGMXg0OXlONHJWd0xFaTBDMG41ZC0wczlJa3h6WDM2WGlIVTdQaWtMNlowNV9aS3JsVVE0bGttVUhqVEZKa085VE44MndTVnBrQU9mS3dJQ3d3elJlaUVqcEpFbm1FTm1VUWpTOXc0LVFBNmdn?oc=5",
+  "summary": "",
+  "published": "2024-09-23",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "6ed27401e4f3",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Ethiopia Hosts Successful U.S. University Fair - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObDBlYU5ZSnVWMXRSbl8tV3lnV3BjQVBvZENwNzQ0RWZXZC12c2gxaVZZUWwyY3p4aTJVZ0pEbnJhamlBTHhxczVLdzd3RFVBbzBQN1QxUm03N3REQy1DSmxmWjByazA1QVp3dmp6bTBGRThjSkt0NnB2ZG50TWNCbHdVemFIVi1ZWUFn?oc=5",
+  "summary": "",
+  "published": "2024-09-13",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "e8b56c19f25c",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Supports New Media and Technology Center at AAU - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSzRXQ0VhWlUtblFKdmxYaDk4TWJRMTU3Q2FDRVBKbF85Q21YZXdjS2traUNoWUFncExHZzVJMHk0OEZBaUZNM0RGZm5wVE5rNm5YdXQzcnEwYlFUZFFnbXdHWGtBTGxGcUJyUzdIMVd2bFM1b3p5T2l4QkJEOGpzZnZIcTJVTVJHVVljaHF3?oc=5",
+  "summary": "",
+  "published": "2024-08-21",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "d7a66c007ae4",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Wajah Baru Ethiopia: Addis Ababa Jadi Hutan Gedung Belantara, Macet Mulai Tiru Jakarta - SINDOnews Internasional",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSHR6WlVJcThzd2hKX1kxVnVhUHJkMUNKNy1yR2Y5S2hhYndRRnA5M2FLQ2Q5NzR3NlcwamF0RC05enlwX0R3ZTlIZjZFMGZ5ZEM2TUVaM1UtcUM4SlBoY1htV0pveW9sdmdVV1lvbGF3R0lWcW9RajFPNTZEbUVLWHNYZFBldVh6dGZ3UGRfZEN1eERDSHhSV0FhelNvTEN1Ny1sRHM1RnlYLVJOUmR3U3dGT1loNE5rWlhOczN0dVJRZFJBb3c1S252ZEhxTEJwNDVzVEVpZE5aTlZzVk5oStIB5gFBVV95cUxOenUyc1M0OTN4WXBCZEU5TXVkclNuYU1qMVYyVTVQbko0UkNwT0FGbjdyd2xNZ19Yd1VEcTJUOHVnbVdvb1BGbktqUnBjNENySldDUDlTOGZLWWoxQzVfM0VveGMzazBnYjVWcnZpV1Fsa2l4eXhTSExYdzYzaHRzdEtKbEhTZ3JPMmZvWjFNVHRZeHhEdjJfWmpENk8tUUV3TGZhaXRHZWxXOGc3aG44dnhKM0FVblVFYTA1NjJNYnpSV2xjWHlIY3lja3lQSkVHelFpVm9xcVZIYnRVUmc0dWt1OHFCUQ?oc=5",
+  "summary": "",
+  "published": "2024-08-12",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "09d4ef3d93eb",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Bersejarah, KBRI Addis Ababa Fasilitasi 15 MoU Antara PTKN Indonesia dan Ethiopia - SINDOnews Edukasi",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFJDdEMyTGNiNExtVUdvbERqVm5rLTMzZTlMSVJjM3RsNG9zVjhrZVZhZGxWejFOUFRVd0tiVl8xb21nTms2TW5xQzJUb2h0NFJiS2I0TmlIb2pHdmN0YWFYZFdnTFJCamY3bi1KUVpNVjdxOGFRR2pyOGFjQjVNd0tyMnB3a2RKTUZDdGpaUGtoUGxFX3NlMThDaWczNHBPelNfYm1Rb1pFTkpkWTdxM2FDaUNZZ1lubHVzSGh0WmtObExEeXQtUmJyeXhjcktMRkM4d9IB2gFBVV95cUxPaUQzSW1CaGtrX1NkbS1waWF6bHNaakh6NFNjS0dqeGE5bm9NTF80OU44NWNtWGozZDJTdTNtOTltcGN6MjExNWZ2UFdycTNZTHktUW5zd2syNlBIcFZOdlNfaDBkMTlIQTZsVklUTExDRUdFdEJDaWI4UDU2X1lUZFpXSUJmTkgydGdDWU1XWkJaOEpPU1BLZ01MM3FCNEoxWERrLXZsX1d3WEwxMmVrVHRiV0pSVFdGXzlIamlTRnh4Q0xEdkxEdDFwdklVTWRUNXNsRW9MSnVqQQ?oc=5",
+  "summary": "",
+  "published": "2024-08-08",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "ea2b1177cce7",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Lima Rektor PTKN Kemenag Teken Kerja Sama dengan Dua Kampus Ternama Ethiopia - Kementerian Agama",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1RRSTRoQVUwZ25WUlJULUtmdHRxMU1nR0MxS0dhR0ZKenZ2OEtqYUV2YVV0QUN1c1c2QXA4RDVDLTItZGVqWUVwVkYtd196NzduR1NZaVpmZmVXTDRBNVVrVEtQNUVUS3ZCZnNWWndGUUNuZFdLbFZVc1ZCNEh1MVhCNThMODViZk9TblBmcmtvSnJ2Wi11NEdhM2cyd2hkamtkbjZLTFk4X3ZlNjU1OUQwMzFJOWw5dUE?oc=5",
+  "summary": "",
+  "published": "2024-08-07",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "28a20122febd",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI Addis Ababa Fasilitasi Penandatanganan 15 MoU Baru Bidang Pendidikan - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemdZV0IzVVQ2NWJXWU5JZWk2UC1zMV92cFA5YlJGNm95TzdSU2JSeENBOExIb3BjbHpQZDdjY2k3RW9uNUNjQ1AtUG5sVXlBbmZvMmhEcWhrLWNfSXNFQjBPZzVrQk5tU2R6amZMQllXaGoxaXBRRmU1dnZteTFSUFMwdjhQUnFvbUtlU0lHQjhuNUthbEhFRkZpQU5xMmhPazJFTmJtYzFjUkNHcUxtWlhEYjRtcG83RjA2dw?oc=5",
+  "summary": "",
+  "published": "2024-08-07",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0eb3f24297fe",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Dubes Al Busyra Basnur Sambut Delegasi Indonesia-Ethiopia Interfaith Dialogue di Wisma KBRI - Kementerian Agama",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSmU5Y1htRE5SZHFnakpoNzktcGhGZzFBV3dMU2lMS2V2V2FhNWJMLU9YcThfUnNJNmZDVWFHcVpQU19fZ2FTR0hVUC1aYlhtRXBULXZVdDktU1hkdWt1N3JGTzdIWEg2MnJ4VE9XanNkTC1pck80dDg4SFBNUTdJVWdfU2dSNFRSQ2JWa2s4X3JZX1pmV3U2eG5IR2ZTNEE5VUhZY1hvLXhTLWxwc0FOVFNzbnRMSC00V2sydGNVZVNvN0VVY2pKV19GSHVsUQ?oc=5",
+  "summary": "",
+  "published": "2024-08-04",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4bd53cf6ffe0",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Indonesia Selenggarakan Golf Tournament ke-2 di Ethiopia - sketsindonews.com",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWFlaFRQSW9qVENMZ1hqVWFpNjVKek44QW9pOWNheW14SXpKODVoU2FEODFiSFlXSHBwQnlmSWZiMDJSc0R1cWVkZlRFcEdhZHpqQjhqZ3puYVJmMy1GcGZBNGEtY1BkYW9BMnN0RFBlUkpzaFN1N29Zem5ybE96Qzd2dndZakNjZXhnWmxsdHhMU0pjNGNGWUxB?oc=5",
+  "summary": "",
+  "published": "2024-06-02",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "614d0680a464",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI Addis Ababa Luncurkan Buku “Afrika Dalam Pandangan Pemuda Indonesia” - DutaIndonesia.com",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlF6ZEI4dUxLN0xEUlpPZW56cF8xUlRZSVRxZVhhX2NWa3R0QXNJc0tFUk9yV1ZTQUtxaGhtNjJVNUY5RXZ3LUNGZGJ4ZTVuUnNOVTJkZWtrQVNDOHlnS0puNHpiMm9CMThpNVQ4Mk1EcWJ0NW85d2V5TGlVYnFNcktMdkg3SzJVQU1hLUFuZC15cThXQnJWNjZ0Y0dBNkXSAaQBQVVfeXFMT1FpX1dzV2p0YTRpOEY0NUhSd1hiOTdENjgzakRjcjZpZFQxNGlra3JpeGRlZXQ3a3ZSdkNiUWJCRmVEeWxVOUU3N2UxV2lORldZWm9fYkxtRFUyanNzQno0NVg0Slk1V2M5UGhuVF90T0FLZ1ZzX1llQWVXeHlPRkNIWFVWVnhfQVZxVkhJaFVPU1FWakV4alpKMzNoci1YYkdneW0?oc=5",
+  "summary": "",
+  "published": "2024-05-28",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "45cb52567491",
+  "source": "eu-au",
+  "channel": "eu-au:gnews:c7187f3a",
+  "type": "gnews",
+  "title": "Europe Day and Africa Day celebrated with an AfroEuropean co-creation dance performance in Addis Ababa - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb1l6OEdZRmQ2TDhzRHptRXljSF9wemtIYUJkMkZHWXBlRVZsQVMwVndXYmtGOW5CellmTjJnVFBBZm95Snl0YjBFUWxKNVZBT2lSRGE5aUFSYXJNWWlZM0pNQ3dXRW5XSC1ETlozNHhWckZBQzNLRWdVQThVcTFfX3RsbzByOWE3c0I5WXZYMDJCVlVwLVliam41NXptczgxQUFSc2dzelgtLU5GZ2hLa1prbF9EeklaVlhVNTdwV3ZxbUh1Q1ZBY1RLTDBGbmxoLXBqMVd6ZUUyYkVfd1NpSUExQl8?oc=5",
+  "summary": "",
+  "published": "2024-05-27",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "cd96166af8f7",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "Team Europe and partners join forces to support internally displaced persons in Ethiopia - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZW1YUjVrRnFlVzZ2TnVjazZjaHd4M3R0c1IwMTBZMy1zVkVmUFZHTWdFRXRxTnExcWlJSHlCdGZaeDFicXk2dzkwV1hVbF93eE9YTktzVThWU3RUN1NmZ2ZpZjVUeElobzVob1B5QnJVRTNWeEttUE9XLXQtRlZWMzR4dzFrYlZUYlB0LUMyc3FoalJjOVlESklzRjBWNGN4M2tUTmRlMk1udUFSX25iaWNHZVd2bEFEOHFuYlhiUnp2ejY0Z3VXWmtvcUJpUQ?oc=5",
+  "summary": "",
+  "published": "2024-05-20",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "11fd2e5f0720",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Ambassador to Ethiopia Delivers Policy Speech - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDhqQXlOUTAxRGF3RllJUEstVGhVSjNxS3JDR3RhTTVKVGZORm5lZi1kUXlhUUlBOS0wdTRPeE9YdEkteTBWb3ZaSGVTdm9GTkhKNlNBOTZCT2RvUUlJYXoxVFdhalV4UDBtNXBOVXRlakppS1dveFRodjlPbF94bw?oc=5",
+  "summary": "",
+  "published": "2024-05-15",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "7afc3f0c4c04",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Addis Ababa Presents: A Visual Journey of 120 Years of Bilateral Relations - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tLWlCVmpCanAxX0x3N3M4dkdhR1F6NGxXbU5WYTFGZUprcy1kTTBSMVFzdU5IbjhDeDRyY2lCdmhCcEZoQ0E?oc=5",
+  "summary": "",
+  "published": "2024-05-09",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0985c4d8dd64",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "EU Delegation to the African Union and EU Delegation to Ethiopia hosts a reception to celebrate Europe Day in Addis Ababa - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdXJTU0ZNc2RuYzFzVlBEYzhvOWZXb2Y4X0dnaGJaNC04MG5nd0pEaWcxdjNCZTFYR18ybE9FTWNvUlNGU252ek0xNklzTXg3ZUQ2aWF4YTNCdjFUbDFhWnpuM05QeXBpMmc0elUtOEJhNHFmdzZTTERaT1lUblJTcV9SVzU3aDl5aVBfcXJVZzVPaG1vMnB4MWEwTWdPZ2Joak9WZnZNWG9pV0ZNcjNZMmRUT0EtR1VrT3NabFJQVVZQWjlYbFN4RjY5UHIzYXlOY2lmS01HYUY4RHM1ZzF6bU0wNUxIaGxRRmFJQw?oc=5",
+  "summary": "",
+  "published": "2024-04-23",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "a69a1c5232f9",
+  "source": "eu-au",
+  "channel": "eu-au:gnews:c7187f3a",
+  "type": "gnews",
+  "title": "EU Delegation to the African Union and EU Delegation to Ethiopia hosts a reception to celebrate Europe Day in Addis Ababa - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdXJTU0ZNc2RuYzFzVlBEYzhvOWZXb2Y4X0dnaGJaNC04MG5nd0pEaWcxdjNCZTFYR18ybE9FTWNvUlNGU252ek0xNklzTXg3ZUQ2aWF4YTNCdjFUbDFhWnpuM05QeXBpMmc0elUtOEJhNHFmdzZTTERaT1lUblJTcV9SVzU3aDl5aVBfcXJVZzVPaG1vMnB4MWEwTWdPZ2Joak9WZnZNWG9pV0ZNcjNZMmRUT0EtR1VrT3NabFJQVVZQWjlYbFN4RjY5UHIzYXlOY2lmS01HYUY4RHM1ZzF6bU0wNUxIaGxRRmFJQw?oc=5",
+  "summary": "",
+  "published": "2024-04-23",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "dcecb0e4dc23",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Alumni Beasiswa RI Ikut Salat Idul Fitri 2024 di KBRI Addis Ababa - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc2FtU0ZGdjVOdnF5VlIydHViS2toMGdoMmEyekhUcFZwOTlUWGxXLWpmdmwzNk1BQm1zTnVISGJGeWdWM1lmZU1IWXp3blBXTk1NSVFEbE53ZV9CYllrWlp1NGVYUTFwdTV4c19RMXZwUGpKTXBkTE9iVC1aNjI4UjNUNUdJeEdVaTNBdWJoUWdpUTBDRVFTVnhvQWl3aF9YVmhOOTVldWlBRm96b19CWHFB?oc=5",
+  "summary": "",
+  "published": "2024-04-10",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "86aa8ef20b4f",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Supports Local Conflict Resolution Workshops in Mekelle and Addis Ababa - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcS11dG1feHpZckx2b3UzYlBLYU8tLS1ZV0kzRGsxdTl4UmpJT2dkTDBMZ295MFpJaEVZa2pXd2VrbTRoWkVfa2Y3QVM4ZVlUQVVOXzBWVHJ2SzVYWnRaY200bWtxcFFlMWs3ZmpkZkNDXzZ2TzBDS2RwRnJrX2JzRTRtV21tTlJ3Zk0xZHJSVWFMeElBbW12WjVtcnNIOVc0bVB4YVBWSkRpcHBha0E?oc=5",
+  "summary": "",
+  "published": "2024-03-19",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "d4a70592df9f",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "Supporting Women Entrepreneurs, U.S. Embassy Launches the Fourth Academy of Women Entrepreneurs - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZXJxOTdYN0JVaTJQdnpvRUI5eTZRTDZpcjQwRnRIOEMwTmpUOUZMdzZsNm10R2ZlNVRMc3ZZMGlETGVkTmp5dThyYTBmNlhla0NrMGJ0TF9GeHpsdVE2eUFiUkplMHpRMldyZzNUdUU1aWk2dDhra3ZDb19Rei1XRGtOVC1CYWVjbnRPbkl6ZUk4cmNCLWg5VUxhTndhV3BOM3N6ODNFSUQ2OC0tbmpubVBtV1FhVTZGMERZ?oc=5",
+  "summary": "",
+  "published": "2024-03-06",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "7bec29dfccee",
+  "source": "eu-au",
+  "channel": "eu-au:gnews:c7187f3a",
+  "type": "gnews",
+  "title": "Funded traineeship for young graduates at the EU Delegation to the African Union - Opportunities For Africans",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTllJTHowNEtvWERsblBLLUlCQ0hXOGlicjZ5MHIxazM5RWdpd0R1eDVHYzdtdjNTMG00RUdhUlpVN2FDUkUwY3h4RG5aR3BLcFNsRnMwdWJjeFoxamVGbFlFTTZIdzgxQWRCWUJLWXlCbEtzYVVRNGdkVW9lVnl5UjczY2haVC0wVHZINXRncFVzN3AzdjMzN09ocEJFNU9wVFVqdzlHWTRGZHQyV3VJN05jZ2g5TWMtQXBMUmpDdw?oc=5",
+  "summary": "",
+  "published": "2024-03-06",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "58358d208707",
+  "source": "eu-au",
+  "channel": "eu-au:gnews:c7187f3a",
+  "type": "gnews",
+  "title": "Ambassador Javier NIÑO PÉREZ, EU Ambassador to the African Union, presented credentials to African Union Commission Chairperson Moussa FAKI MAHAMAT - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWUFUeHhlbEFnbWs5MVA2V2xZLUVkZFZ6Ulh5NF9DVjZvWXRnTlRkWTRSX3pGdnNvVlNuVzZfY3BZd1FsSVduLWVXdzQwdWYtRy0wbXA4UThURjJCMWg4Ym5LbVZGandSRVZITkQyRVRFZlIzNDd4dnowU2xIdWhLQmVXb2VkM0ZRZDJhRS1QMWpQZF9zZjZTcFliWk5KeE9uX3hMSW9ZUG14WkZvemRsekhfTWZVVnJ1NEJxV01rbUN5ajBHeDk2cEYxZ21kRjJZOTd5T1BTUTRfNjk4T29xdkxvZUpsOVE0NFIzaWkwVUtzRXc?oc=5",
+  "summary": "",
+  "published": "2024-02-16",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "f49e106fb1a4",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "To Build the Capacity of English Language Educators, U.S. Embassy and British Council Train - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTTlxUGowelpXY3A4VmRqR0huUktLNGlDT3k5VnRHSnNPSDYyNFFCd0NvWElSQWxpRmtrbjgtQ0t2REoxLWJ2V1dDZl9ZRmY3d1hvLTl0YkpsVFJWY01KaW55S0VKOU9RT0FpNmhUb3dqbVNNNnpGZXRwQXpyOC0xWGZtNXh6WHFmNnNVRmdZa0RBNm40TjUxUHhDS0lvQzhEblVWMWxscXpvVWFGTjlpc2NFT0ozTVl1aWlybF9kY3U4NzFnNHJIeWpfb1lCMExMaDlod1ZlSm53SXpuc3BCNVJ1TkxWc1RUbmxadHFhdkZnUXFXYnFCcUM1V0VQdUE?oc=5",
+  "summary": "",
+  "published": "2024-02-09",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "1a34af004280",
+  "source": "eu-au",
+  "channel": "eu-au:gnews:c7187f3a",
+  "type": "gnews",
+  "title": "EU Head of Delegation to the African Union, Birgitte Markussen, presented credentials to African Union Commission Chairperson Moussa Faki - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZnJXZm12YlZCTXVpVnlLVDVUVWNCMnFyRTNzRmN6QU84dmw1YUxTUWZodkY0ZmN1S0QtWVZFMmNxWjZFc3JTWXRUeXBTSVJmMXlqTGV5cWQxZTFuVmwzRDlLOFlQaWVyR19fWVpoMVE2emJPNXVRVXVSRzc3eEQ2Qlc0dF8zV0xHS2lkY0FVZXFGa0ZncmF4VTBWQ3hVeFNFc2tOWm0xUGdaN1lrakJ5TGwzeFJzSHRSNVlJU1Z2WkhfaVpfcUZPM1VfNHg0X1RvWE12QjgwYVkxT0JIZzkxTGxwcEJ2WG44VlFPd2UtNGRiSkE?oc=5",
+  "summary": "",
+  "published": "2023-10-06",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "e83650fb19ac",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Sends Ethiocolor on U.S. Tour - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MeUl0LVlHenlMQk05azNxVUFGUnpndy0tcF8wTG5YTmJaUFF1YnZHWjJVVnVXLWNKYUxDZVN2TjhjUTZrMUxNWW1zWGljSzlIMS1YNl82Y2lJTC1qSUpPT2xJcEU1XzlxbG93Vmg4bjRhQWV4?oc=5",
+  "summary": "",
+  "published": "2023-09-05",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "5efe11def30b",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Aregay Kidane, Diplomat Ethiopia yang menjadi Pegawai di KBRI Addis Ababa - kumparan.com - kumparan",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ2twS1JKc2NCdDZ1cHhaUThabHBHZjM4bDMxazF5QjhTcC1pOHc5LUZGcERCQzNTc25xN0JxbmFpWEFjQ3pHeW80cXZTQXp3ZWpQUVNVN3hvb05kYkx3aHFSbjhNbkVmYXhEOHBnaWZLeVBQVWs1VlFHV1JsVUt0V1hrMTVmRWthRUo4OExoTnpDb09xc2s4VmhZSWFjejhsd3AxUHlodzhuYUE1MUltdTlwMnk3RnBUcE8wM2dDWnY0blR3cW5aTmM0R1dCcXlHTGl2VzZVdnR1OW_SAeMBQVVfeXFMUERSeF95Q1Z5ejBDbnRCaDNzYnVFSlJnSGh5RE9CeDR1d3VzM1VpU3k0akJ2MTRhR2o3alBUdEd6V3g4SzlXbDU3X3hyQmVxMWw2SjZrX0lfYXNqaG5GYW00VDQ3Q0FldTFpRFBfR3JpaE1MVTVuX0FicERKelhBaDkzOTV6REVVbHcyUktVWElMVXZyUXJnUm5wd2E3Q3d5VnVPTXhpdnFBLW5BTFFNSklHdlF4V1hOOG1GVm5naGtWd200XzBGanNPRXctcmlXS0MxRE1YeVFxdTA2TlVzYXdyNmc?oc=5",
+  "summary": "",
+  "published": "2023-05-28",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "14182bc4d515",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "Col. John C. Robinson American Corner Reopens in Addis Ababa - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUVBU2RJSmpFek5vRGU3NGEzOWc0SE5ta3p2TlRVY0cxbUc2LWRsb1g2NjJqdnB6Q3ZKTldDSkJGbVFnRVY4RE5sRUlqcTBUaEFCZW1VeUhMZldLa2xPeWNOeThuc0NTLVRxbk44SnU2cTZxNHRWZWRGOEliU0FmT2gxdzJrc3NnSUZCRg?oc=5",
+  "summary": "",
+  "published": "2023-05-23",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "a0e6a4aa07c6",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Addis Ababa is pleased to announce the Embassy is registered as test site - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNODFhTk1GWVllWmV3eUhPYk0yUjZYVzB2MjZxSE1qSVh3VHJZdWJwdzNYZV9za1ZEZkNUUkkyVUFTanRLTlJvd1VJRkpoNUp4MFk3NnVFZzFNVUV4UGV3UXVYZjNpUlV3UTZQdko3ajZYQllMaUFRYWZvYlpxSGxQcm5SYWtqaTBWMmZWeHdQTk91SUtBeXFyOVNlQXBmbU45aDY3ajJkNDYzTDgtN1ZIaHowZzBrV0tGaDhFMUp4Z0wwOUNIRlZDT21hcmdUS3J1cThVUFdiUXVyZy1lZmlsUlZWYW1ud3VpblRDb3hZdy1WOTluMVE?oc=5",
+  "summary": "",
+  "published": "2023-05-19",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "b37aac657ff1",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "Solve IT 2023 Nationwide Innovation Competition Launched - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlZiVlVXQ2FycDFSS0UzVVZ2MHh4cjZfQ1dtVjhMQWpsd3J6MHRxdjBaU0J0czJRWkU2X1JIRkFYUEoyMFUwOTZQLWVibUxkcmZSbVRaNmdISGhabWppSzBxU3I4dVRZcm44Z3ZkaVVMOVVMMkpsMEFtcnhldUxHVDl4QzNHenM3QlE?oc=5",
+  "summary": "",
+  "published": "2023-05-17",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "82b7b8f22147",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "The U.S. Embassy in Addis Ababa Supports Efforts to Build Networks and Connect Women Business Owners - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb0pGOEFNT0FxU29HcE85aExHNnJOaDlaakk5bGI2R3otemYwUGdUX1pib0w0UW1qME9IMDdIU0dDZHloZU1NUHZGUmFObkhCSW4wTVhNVEVoVnJ5b3NKemtaUHdhMVE1SVZ6TFRzYTgwU2FQU21lOXFqY0FmNU5LcXNFakdOV3FlTEZ0bTlYOG00ZW9qUV9IVGUxRDRKSlRqcnNkSWpWZmwyWjRVSG1SRWRSNlRuR3poQ1lpNm1WSTRkQy0zNjhtVzk5Sm1tMS1ZTU1wek5oUUczTWxtTUJGbQ?oc=5",
+  "summary": "",
+  "published": "2023-03-29",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "a5016f637501",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Embassy Partners with Renowned Ethiopian Artists to Bring an American Classic to Ethiopian Audiences - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObHhYTmxmMkZqRDF4RkpHUzQ3NW03SlU2YnZiX1h3YVRVcmIyQWE2Q2ZVbm9BQTk5WnlSVTNxMlNUZ1dBYVQtTXprSmFNLUpwcWlZNU1QQTVmdkZvY0RCNnhqZWNOSGRRRjZKQUZQcnYtNm9sLVJwM0NMQVVfc0tvYXpKZDM3eUFtNlpPUjhJWmpiVjdLWGd5TmNoM1lxXzZyX0t2dVdLZHZoRVJHTF9sVERrTWdCUWNxLXpuYWRSWWlEcDhoRmt5VlZ3?oc=5",
+  "summary": "",
+  "published": "2023-03-07",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "2e284bf3dcca",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI Addis Ababa resmikan Institute of Afro-Indonesia (IAI) - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDdwdG5CNVZNNm9DNUNOelFPWWxmRXlJWU5OajNQZnpkWTdLQlQyYnVlZWc5MVl4VUl3U3JOWVZCTExCcElOdVFScVBUcVJuWFRabm9hRTdNTGVoYTI3QklvQnkyRWM4c3JUWWl0SUhuTjU3S2JNbVFaRFppUk80UWxKZ2tUTjN4Q2J1Q2JpWUl1T3ZuMkNNMjlLdFFpZ2Y1YzlR0gGjAUFVX3lxTE9EN3B0bkI1Vk02b0M1Q056UU9ZbGZFeUlZTk5qM1BmemRZN0tCVDJidWVlZzkxWXhVSXdTck5ZVkJMTEJwSU51UVJxUFRxUm5YVFpub2FFN01MZWhhMjdCSW9CeTJFYzhzclRZaXRJSG5ONTdLYk1tUVpEWmlSTzRRbEpna1ROM3hDYnVDYmlZSXVPdm4yQ00yOUt0UWlnZjVjOVE?oc=5",
+  "summary": "",
+  "published": "2022-09-20",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0aa077efe7cd",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Kemlu Ethiopia Luncurkan Buku Karya Dubes RI Al Busyra Basnur - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQmJBZkNNdjFkTWxCVmRYOGdOUHAtLV9EUzUzaDNZOF93RTBMSXVQLW9MV0dYVnJZRE1SZXZpck9GUjRwSExkTVgxekhGbE51RjZleXVrbHNfR2xYcHRodlNpLUl1U0dNcnBhYlpJYkVPWFlMbFR5MjR5ZXJsTzF5WGRhSm03M3FLUUFvSDVXbE5mSWt6RDdrc2VXOTZSSTF6MUM5UExlcDZjUTg?oc=5",
+  "summary": "",
+  "published": "2021-10-23",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "9d2740bec2f5",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Menteri Ethiopia tanam pohon di KBRI Addis Ababa - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWHBJVjRlZEprT2Q5SXYzTEt3eTZPby1XaWs3UVhiVEYxUEEzRHA3QnRKemVEdkdiNkgxakNoY0ljOXI5SFE3QjYyQ2R2ZlJRSWUxdk1WMzhHUV9yWTdfOWFUWVp6NnlmdmZlZHRzUy1jQjFtTjNZYkdZNGhaWFFiaHVnWUlKUjRMM19hX2V6Sl83U3pkUjlr0gGXAUFVX3lxTE1YcElWNGVkSmtPZDlJdjNMS3d5Nk9vLVdpazdRWGJURjFQQTNEcDdCdEp6ZUR2R2I2SDFqQ2hjSWM5cjlIUTdCNjJDZHZmUlFJZTF2TVYzOEdRX3JZN185YVRZWno2eWZ2ZmVkdHNTLWNCMW1OM1liR1k0aFpYUWJodWdZSUpSNEwzX2FfZXpKXzdTemRSOWs?oc=5",
+  "summary": "",
+  "published": "2021-09-25",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "ac6a07652f31",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Puluhan Tahun Kerja Di KBRI Addis Ababa, Wanita Ethiopia Ini Bikin Tumpeng Untuk Rayakan HUT RI Ke-76 - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTXlFVXZzQ3VBZmI0OGlsdU9VLTVZWGdxQ0FzR0lBNGtpSEJiNVEwbEwtQnk0RWxxZnpRUjNlYy1pOWZNakN5NWUwTVdUMlo1My1VM0RwTTRSc3hsWXl1Yjdwbl9QRUNOQ0VkbXhGRThHTm1uRVBYbGFOUl9sLXRlelU1d05pU3VsMVprUk5CNGlja3JOMzlPS240RXZ5WW96S01kZ2xad2MtX1d3Y29JYjFqSF95THBEcEpMdmtnUmZKQXVGSXRGR2FKMTdPX0pGMFJOYzU3Z3kzcTdXTmpfeFgzc1ZiYzJwY2xRNDl5elZJZmdvR3hDcjFrRmxUeDg?oc=5",
+  "summary": "",
+  "published": "2021-08-17",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "1b09f301a3f4",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Seru, Dubes Al Busyra Ajari Pelajar Ethiopia Main Golf - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjRpOFBZTFZTVldOb3VHd1FyVWRLYTZDZkhIM0tqQkUzaDBPeWhiYVdiTXE0d19WSm9PbnkxQmF1dmcyS1VSZXBBbnJ1QXFGdmpnSVJOc2YzS1hCZ2lkd3dZTDVpX2pOWlE1c2YtNzFTdERpY3hHTU9ycWxUMGU4MjYyMzB2Z3Mzaml5U3lJdU5Na2JyTFg4VHNjUU0tT2Nx?oc=5",
+  "summary": "",
+  "published": "2021-06-27",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "6c02c0cf9b81",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Ibu-ibu Ethiopia Masakin Menu Buka Puasa Untuk Warga Indonesia - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2xQbzQzODBXdDBMdkNRQzdOTG1kdk1vcjBVODVJbTJ5WkhpX1ZJR1kwTlhRbjN6RjlWaWN5T05MMnNtT21aNGRlQVFqTFpOZ19rcm9IWUVvZGFhbTE0Y1RKUTVBUnJVQjVZN1l3SmtfY0NvaFpnU2dmdjVGWUlRQ1hHbENVc19tZXhqdGtsQktBeGtxVkl1amhvYjFXWFY2WXhHY0xtemNzME0?oc=5",
+  "summary": "",
+  "published": "2021-04-19",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "ec3abafa1df6",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Kenalkan, Lidya Alemayu, Pelajar Ethiopia Umur 9 Tahun Yang Fasih Bahasa Indonesia Dan Ingin Belajar Di Sini - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVk9DSlI0OEtiWTdlQ1RTVFcyZUo1bjRoWnJnRFhmVjB4bGZRTXc1SkN1d1dXOUx5X2JpOWZZd3VCWHZZTVJBMXhJSE4xLWhCbm1BLXVOZVBPcW05eGlkczhkTWhmMWhNSTF1UF9XTHZKMWpYSU1Ea3k4VWxDcmlJOUVLNTNsWU9aYVp4MDdVbWZad3o2SF92ekRZVFFNLVFLTUk4eUxQampJTlNmZTgwMzZqMTZBeklzU0FfdEV6Z1Rwc3pqMVVYX012WmtWbktjNkZVaFJ3UndCaHRXekN2ejRmZF9WNms?oc=5",
+  "summary": "",
+  "published": "2020-12-06",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4e38aa030098",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Dubes Al Busyra Kobarkan Semangat Anak Muda Dari Addis Ababa - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTRiOXk5eDZyV01HSy1xWDFkR3RBTnRmNUFUV3htSWR4UWJSTGNYMmNZSWdCekxWSGNua2h5d2QtbzROQlI3cV9ZOWhSUmR4MFVqYUFyaDZ0eGJvQ2drSFFGMkdPVHA5ZFZxWlFkZmE5VEE2alc4N01UZHRxWnhPck1EbW03WjByRHlrN2NLMHl0a1MzX3RXcUoxRDJoVEFrUXdfd19UcXZmQQ?oc=5",
+  "summary": "",
+  "published": "2020-10-28",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "c49a89bf6e9e",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Difasilitasi KBRI Addis Ababa, Dua Perusahaan Ini Jajal Pasar Ethiopia - Bisnis.com - Ekonomi",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM0QyeUphbndNM1h6OXNDM2pQRWZtNkFESGthNV85dWV3ZHdxT1JQR0dZampYNnZXMnVHeU9zRnVMdmtaM3V0TnBMT1BSbEZfck9vX3Vqd1dHZ0VRZnVJT2g5SFEzdXJ0YktRNUlPZC01MFZGVC1HZ2FmYXl0a0tjUkI0azVDSTB1N2E5dHo3ZVU2Rzk4aVEyQzhaeFZNbzdxZEVjUU5JT3NCTGJhcHM2U0xDb0xuSGV2dXphSmV3?oc=5",
+  "summary": "",
+  "published": "2020-02-28",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "808e5549e2ca",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Ramaikan Hari Ibu, KBRI Addis Ababa Gelar Lomba Masak Nasi Goreng - detikNews",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGJPRjRTTnYxbmNRaWg3M0JzMWtsSmVjUnc4b1BEaDJXbHRuU1JWOFZQSExwbzVNMjZfbHZKRTRFV2dMdVZheDd4Y01FT2lGSTBwSWZwRWczeDViRVdGZ2NoUlptOE13dlljdTRpbnZrSW5sSjhqdTRIaVJmRkFoZXZzUW1FYkNSSDlIN3RfbW1xaFQyS25ac0JsRkxfRGFCaGpJZjk3QkwtdU0?oc=5",
+  "summary": "",
+  "published": "2019-12-23",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "51d28e80c094",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Puluhan Tahun Kerja di KBRI Addis Ababa Tiga Ibu Ethiopia Ini Berani Ngaku Jadi Orang Indonesia - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85cHJQd2pWRW1NT3g4Mlg4VEJTMmRmYW55cENZcXJVVXVpNkkwRHhmY3VLWURjSnE2Q25PcllNVHhuRDlXWUgwTWVnN01hMmEyWFFOMlMwTV9PWjhUemFadVEtbXhZTWR1QWtWS3FBeWRnQQ?oc=5",
+  "summary": "",
+  "published": "2019-12-23",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "6714866ad8ef",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "WNI Upacara Hari Pahlawan di Pabrik Garmen di Hawassa, Ethiopia - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGhOS1J5WUxuQWRzQl9QUDZnbDFYNEREQlQySEdCZnVLS2tndl8xb19uNldlYTZBVlZhM1dOdjA5VU15c0hBOXRmWEtzWEttWVd4bXhtQjVWanFabjdSd2ZEem93eHBuWjlpa3JKd1NnakFIVXVXWFRjLURSTlM1QmR5VUlVMzVBX2hSVjFqaGJpb0ZtWmhOb3J6TmR6RkcyTnYtZmRnd2stV1V3?oc=5",
+  "summary": "",
+  "published": "2019-11-10",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "e11072c3ec3a",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Tokoh Pemuda dan Menteri Negara Ethiopia Sampaikan Duka Untuk Mendiang BJ Habibie - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVW9HYlctNUZjU19leDI3LVJRdklTMlZTaklUbzVqUHNaa09WNW91TUhkdDVhVE1UQ1lqMG43Z2l3SEhUNG5feU10a1NXU1lFQnowOEhRczZsNExYU0I4YmF5alFldmJCWG02aTFkSml3VVY2c1lXOHc4cDh4VnhrYVZVb3czUEdDamxWckhuS3ZKZGozRHh6M2I5T0tieTdxaGZmUndaWkJLUzZoZnJ1YVBCSDQyZmtQekdsTkJFbkxlVDVCaGc?oc=5",
+  "summary": "",
+  "published": "2019-09-19",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "31647dd498e3",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Meriah, Perayaan Tahun Baru Ethiopia di Addis Ababa - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRE41ZHFjUVljeGplOHRMWU5hQWpmdkpsTkZOVmJhLXRMa0NVRDFfWEdNU2xVY0VDOF9BSDRpUnlmWDVkZjRQYjhpbGQ0U1ZiaXRJSXk5TzFQYV94MDdlWEtpTGIzaDBuQ2JaQ0xkZXpMZnNla19zN1FCM1U3MmZkdm93WmFFXzlZRDdnS1dod3hYZE9CZ24xYkdPZw?oc=5",
+  "summary": "",
+  "published": "2019-09-15",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "7390d728932f",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Duta Besar RI di Addis Ababa Al Busyra Basnur Pidato di Depan 200 Mahasiswa Ethiopia - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN3JoMzlMX0QtNF9sazJGdWdfQ1hnZVZaVmRjcUpVbzVGd0RJNjNUcUdIY1dqVlRHQ1RIRy16SkF4c0VES3BVUVNFbGlUNmx0aEZmT1hRbl9OOGdhTUFONEw1MldTX1NwWkpJenBVQzAyVXlLSTJDYS1fb3lmeG0tamFIck95QlNlY3p5Zk9ESTIta0xMa05adWJJckVfVUdnaDhoc1M1TjdCRzhMNFpsanQ2YTNsUlZidFZMTEp3MHZmdkM3OV9aQ2J3?oc=5",
+  "summary": "",
+  "published": "2019-08-16",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "5b9ade8053b4",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Pertama Berkunjung, Jurnalis Ethiopia Terkesan dengan Indonesia - Tempo.co",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnZkTENpX2hlXzR4dmJzMUhTZkc2SS1EaTFNam1UYXI2XzdoRnZ3TkJwaDZWeHY4TnFSUUV4cGNRaGhBTkhRZjljdVlxUldKZDdDeGstZWJxVWdwbEc5Nl9LM1lySF91aXY2c2RjcmJIUWZlYUpCZ1VnOWhfZEZyQXl3R0xSSV92aU53cFVxTi1SUms2RG1kLVJZWThHd0tSVzVyZmdsZw?oc=5",
+  "summary": "",
+  "published": "2019-07-17",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "76ec02a4a81e",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Duta Besar Indonesia Untuk Ethiopia Al Busyra Basnur Semangat Kemerdekaan, Warga Lokal Ikut Lomba 17-an - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUHJkcnVId0I5THVic0wxaXh3amNWemJyVS14NHNaeHJWTENBaXBVY29Zd09hRUdFNjdveVVqUWo3TW45Zll6SnZ1WGltYkRwUDNZNXhTMGxoT3JlbERMc1I3cDgtdGVHQ3lST3k3eVdvNFFrRWI2NXRGVGlJWmNQZUpOMnlPVVNlUHh3U3JlOWV2STZpTTQ3ZW1rSkV6WDd5X0MyNmo5R2hXc1FneEZ1bnE3ZnFiZWZrNTRxdS1RUUtEZlRPUW04MGJYQnh3OFpTOFNGbkZGZHdRd1JPYkx1Uw?oc=5",
+  "summary": "",
+  "published": "2019-07-17",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "abfb538b1e62",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Cerita Pimpinan Perusahaan Indonesia di Ethiopia - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSktfNkhGUmZpRDJ2cE1hSkVNNU11cllZRnhuaGdmZnl6eWVKWE56RW9idWNqUWZVMTlxYTdMeFdZcThTR0s2ei12WnEyNXNock56cDNockFfQU9vSVVNd0hZUGU1QjAweGEtTjdYNlBrU3FwaUUxTXZiWTNDaDhuMWJvUU5rcDAycEl5ZElHNUJ6N3JKSWdRY0xB?oc=5",
+  "summary": "",
+  "published": "2019-07-13",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0c0587a8700e",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Dubes: Universitas Addis Ababa ingin bermitra dengan Indonesia - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVkzcnhJZTRKR0ZzRV8wTFpaNmFFbTVGYVpkUVdpNlZocU9ZZ0pxazlncFBENWpTREw3MjJXb2NTZjlEM2c5LU5oai14aEZwemRlMHhycXB2U0FCSFJhV09WSkZEdmpMR0QzakVfRzVYZXNIeHZjaW00TThuUmNTaFRfSF8tV2RwYm9KcmFqT192TkJZdE9QUVFYV3dsb05rcmc?oc=5",
+  "summary": "",
+  "published": "2019-05-08",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "b1049a9eefa6",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Ramadhan Warga Indonesia di Ethiopia - detikNews",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQlBZSEpIWHloWHJCZVBFLWNIeHd3RjJGcmxGTHJmN3dHYnNQOS1vS1pLX0xlUUlmS2VCUzFETUU3N3VNTFFtY1FxTmdHTGhiNGtPdG9YeFA1MExIZUtZWGV3Rk5qSWhBVkpHWXhCTGdoWjkySXpjYlVESnZVS05ud1p3?oc=5",
+  "summary": "",
+  "published": "2019-05-07",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "5afb1b2a0abf",
+  "source": "eu-au",
+  "channel": "eu-au:gnews:c7187f3a",
+  "type": "gnews",
+  "title": "EU Targets Creative Arts In Africa - The Reporter Ethiopia",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nd0hZeUhqSVRuSl9mTm5ucFc1TXY0XzBSSWJwWHFHd18zVkhzXzVFenZOREhVSkxuMVI1dFcwNlc1Y25fczdLeEo1WU5zR2VDY2pj?oc=5",
+  "summary": "",
+  "published": "2019-05-04",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "c719bb3572da",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Pesawat Ethiopian Airlines jatuh: Cerita keluarga soal Harina Hafitz, WNI yang menjadi korban - BBC",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWXzBWTXBrb1J5QjZQQVFiRTlLNUpqTy1GenhITVFZUDQ4YV9hOTRyV3REaFlnV2VZSXhnTUlCZDcyVVZMZnpyN2dxNm8tZS1aODN5VFo3RdIBXEFVX3lxTE5sQjhCbVlRRzI0SkdSTGRVRnoyTjNkdHFIeE91a1R0ckZJLTl1aXczUm5mQU52c3U0dUZ2UUZlSTY3WEs5U2lOdmR2bWVfb0p4b2VnWFZpZFRXemRM?oc=5",
+  "summary": "",
+  "published": "2019-03-10",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "c2843946758b",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Kemlu Pastikan 1 WNI Jadi Korban Pesawat Jatuh di Addis Ababa - Voice of America Indonesia",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUtybUtYUlQ1dFFTcTBSbkJSZVlURElPZTgxYVVta0xjbWw1R2NscVdUSTQ1dGNzSnFjZGtlUjZMUC1oM0tjU0hidWYwV2VQN0hydGtEbUtIVm5QLThIN21Pd2FtQTZNMGt1LUFlckRpcUNIYnAwVm1udjFDWlBKeGtUQmE5dW9XTTNCbFRGV0R4QkItOWdnQ2RoSDRmN2N6RFIxSTVGY1jSAasBQVVfeXFMTUJWeUpLNTItYWxMd01reERRc1gzMUlNWHBzeDd1djNwRnF3cWJJNmlJOF83blk1LU5BTHlKUzY3OGlNVm10QzZrQ290anYwa0YwMFBGeTNWWmJ4M1FBTmJoejZHcTRsb3RpNTVESEgzLWlmR0ZEdS03MjhlREdFZldkSjRDLVJTVThpOGFFWDZMblZpSmRWdUQ1eTBZOERlMXFrN0ZSUFpPU3pB?oc=5",
+  "summary": "",
+  "published": "2019-03-10",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "356b5d0d1660",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI Addis Ababa Pastikan Ada 1 Korban WNI di Pesawat Ethiopian Airlines - Suara.com",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZE04XzRtNHZMN2o0OGw2UVF5MDJpa0FVOUlzN3poV0tkcUF3bzdNNlEyYVhXZWlwdGdReGxLRUdTby1fRXh3c2NPakxzSDJOM1hKYWtVelB1ckpiNVF1SjhpbVJoNUJYdDlQeEgxaWcxLUI4NE1yanh6WmRlVlR1OUxLV0RZMDRCeUFkdEFidWVuMXNjYmJrVmtfR1ZDbVNEd1oxSFU0eDNHQjZrbFVMbUdsZ2xiSFFJ0gG4AUFVX3lxTE5CNmd2Y0hCUE5HSnNndUtZOVBXQU5HRHZrazNEVzRkQzZHa0hiV2pVRlM1UmpKcE1jWThTRnV0cGpUc0hpbG5jV1d3RER3Tk9FV1BpOGVkOXNYLTJaX3pXQm5lN0xjVDZleXpUMUpmcmlCUzZwZ01XZy1OMGpIUkMzSVZQaEtRdEF5R1p5aTBuZXNZUVdUNlNBdnU1SEd5MWY5Q0FGM2xDRDdiMzJWMjF2c1I0RlBubDI?oc=5",
+  "summary": "",
+  "published": "2019-03-10",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "caafda476341",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Duta Besar RI Imam Santoso Serahkan Surat Kepercayaan kepada Ketua Komisi Uni Afrika di Addis Ababa - Kompasiana.com",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcWJwdnlNTW9OVm9kMHBpX2xGR1Fxd0dITlJDdnYxM01GWllxVFV1dGhYdjRJa3A3SHg2dFYwVGtxalBSOFQ3cVRnVWZOMks1XzRoMElQeFZ1R2ZlYzU0R1B3b2RubHU0UDZENFRNTk16djlPdGVUcjB5NF93TEN5czBtbi1ZRE9PUHRQdnVFTXQ5MEVtRGVDS09nOXYwamdTTHNZWVItbVdiTEZBQXpMblFpVzZsSW5ZMU5BRlhGVFlkaFlNekc5MGJtbnY3TWZpNFZ4RnZUNkVZMjZSbUI2UmhIeU9jUnhDVFNOTEJ2ZDZsX1hGbzNfdlJsRG9sVUtvVk1feVBRcG9JZw?oc=5",
+  "summary": "",
+  "published": "2018-07-10",
+  "first_seen": "2026-11-11T07:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "9c8b92bb492c",
   "source": "kazakhstan",
   "channel": "kazakhstan:web:3ac7b4ec",
@@ -10,7 +1167,8 @@
   "published": "2026-11-06",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c2e03ac01ef5",
@@ -23,7 +1181,8 @@
   "published": "2026-11-04",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "3793542cb697",
@@ -36,7 +1195,8 @@
   "published": "2026-11-03",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d9dfe4cac9fc",
@@ -49,7 +1209,8 @@
   "published": "2026-10-29",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ea026d35213a",
@@ -62,7 +1223,8 @@
   "published": "2026-10-28",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d62dfa9fc99c",
@@ -75,7 +1237,8 @@
   "published": "2026-10-27",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0be6e70f8aba",
@@ -88,7 +1251,8 @@
   "published": "2026-10-26",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "f5c8bace2685",
@@ -101,7 +1265,8 @@
   "published": "2026-10-23",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "eccb7c7a56ec",
@@ -114,7 +1279,8 @@
   "published": "2026-10-21",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5186309f6f0a",
@@ -127,7 +1293,8 @@
   "published": "2026-10-21",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "72f75cb3f7c9",
@@ -140,7 +1307,8 @@
   "published": "2026-10-21",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5f6236fca92f",
@@ -153,33 +1321,8 @@
   "published": "2026-10-17",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
- },
- {
-  "id": "6f884522ed75",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "KBRI Addis Ababa Archives - Star Jogja FM",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Vakg0RktqbFk1YzlRdFZITVlaMFRQTThpM0lraExEcng4UkVRT1JyVVFoVHJLbzNWelExdXNkTmh6SU5FOEpycVNpT0pINnFoc0NFTW05OHFhRDF1MHFIMHpGRDg3QQ?oc=5",
-  "summary": "",
-  "published": "2026-10-15",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "1e9d628dc2d5",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Indonesia Kecam Israel yang Diskriminasi WNI Pilot Ethiopian Airlines - MetroTVNews.com",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckVNdG80TGdTcFFUZTctYjZYelFWS2RoUXpnbTNmZEphYmZBaTlfZzdBcEhDN2ZEOXB1RFd4Y2xzMFRWTGZLeTVlMzZzYlhteWVlVnE0VVQ5TER4cGZiRlo5QnZ3b0FjTDh1RmhqaDl0YlZaR1ZVQjFmdHlELVl2OVJ4aVFHWEgzOUdUR2UtZGxmY0VXRlFkeFJWVDRGYVFRREtlNDhNZzE3eUlqaTR4MA?oc=5",
-  "summary": "",
-  "published": "2026-10-15",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b70fea3747de",
@@ -192,7 +1335,8 @@
   "published": "2026-10-14",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "3ec1cd411b56",
@@ -205,7 +1349,8 @@
   "published": "2026-09-10",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "9e975e2f7f0d",
@@ -218,7 +1363,8 @@
   "published": "2026-09-10",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a0f978d87631",
@@ -231,7 +1377,8 @@
   "published": "2026-09-09",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "cb39bb9c4209",
@@ -244,7 +1391,8 @@
   "published": "2026-08-28",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b9b3c1394faf",
@@ -257,7 +1405,8 @@
   "published": "2026-08-01",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "bcf0e1812fb1",
@@ -270,33 +1419,10 @@
   "published": "2026-07-28",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": true
- },
- {
-  "id": "478950b81524",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "KBRI Addis Ababa Luncurkan Loka Budaya, Perkuat Diplomasi Budaya Indonesia di Afrika - Batamtoday.com",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFB6R2ZIOG9fSWU4elRLSF9uTzlZSmo3SE1JTEF3Q1g1QWhnbDdmVDl0dFJMR01Ba1FHMjdxWWVTWVI2d1FJcjdtWHU1MTB1RkNqc0plYXJJSnB6QTQ3aktwTVhWV0RKOHNwTFhNQkFoamNqSzBkcEtuNC1hTHpiN2phYzF6d0pEeklhalFaYmp0anV1aWNKaEYxRTg5LXhuaE9haFZyVzdqOHhtdzUxaA?oc=5",
-  "summary": "",
-  "published": "2026-06-24",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "15dfdfb10cf0",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Portal Kemlu - Portal Kemlu",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWUJGaUlIYzBJLUVUeFM2V2puZTFsLU5YdF9KRlZ4UWt5WlhIQkVwV21uVWFQTFI5ak9nWVNsUW5fUGxucXBiQ2pLb3FnanUxaXI4V29LM2tyaVVudXZsaXFidTZHZWZnQ1NXeHV3NWRwTUFieXpDdUE3VkNpT004UC1HekhXUjFTLU5vNlVYbHpzVnBZVU9wclNzdks4N3J6MnYtd0tXZUEzLXhMQ2p4U0ZoSHdkanYtSy1aQmlMOTlibjctcW9tM1cyenBvaXc?oc=5",
-  "summary": "",
-  "published": "2026-06-22",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
+  "event": true,
+  "mentions": [
+   "jazz-village"
+  ]
  },
  {
   "id": "803c410a7369",
@@ -309,7 +1435,8 @@
   "published": "2025-11-21",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "977fac2d77c8",
@@ -322,7 +1449,8 @@
   "published": "2025-11-19",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "fcf469c9b87d",
@@ -335,7 +1463,8 @@
   "published": "2025-11-18",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "36f04ec87603",
@@ -348,7 +1477,8 @@
   "published": "2025-11-17",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1083483d62b4",
@@ -361,7 +1491,8 @@
   "published": "2025-11-17",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b0bbcbd02382",
@@ -374,7 +1505,8 @@
   "published": "2025-11-17",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "f98764cd1744",
@@ -387,7 +1519,8 @@
   "published": "2025-10-27",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "065c8a48f5d5",
@@ -400,7 +1533,8 @@
   "published": "2025-10-18",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "8ce6ac336e1d",
@@ -413,7 +1547,8 @@
   "published": "2025-10-18",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "e422632aef57",
@@ -426,7 +1561,8 @@
   "published": "2025-10-18",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1ed6e85794e7",
@@ -439,7 +1575,8 @@
   "published": "2025-10-18",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5e4722d041b0",
@@ -452,7 +1589,8 @@
   "published": "2025-10-16",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "46061d2c6040",
@@ -465,7 +1603,8 @@
   "published": "2025-09-29",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "fdb242ff5699",
@@ -478,7 +1617,8 @@
   "published": "2025-09-29",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4577f5d848fb",
@@ -491,7 +1631,8 @@
   "published": "2025-09-29",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ae1616cab71c",
@@ -504,7 +1645,8 @@
   "published": "2025-05-28",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "44354ff3797b",
@@ -517,7 +1659,8 @@
   "published": "2025-05-16",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c298c78d9400",
@@ -530,7 +1673,8 @@
   "published": "2025-05-07",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "da9a444dafda",
@@ -543,7 +1687,8 @@
   "published": "2025-04-18",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "5a10d68837b0",
@@ -556,46 +1701,8 @@
   "published": "2025-04-15",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": true
- },
- {
-  "id": "bc95cb799641",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Dubes RI Untuk Ethiopia Al Busyra Basnur Dinobatkan Jadi Dubes Paling Aktif - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUhtV01vRDB1bFJ5MXVSazBLRVd1Vm9nUkNYUzdYRU5UdTFPRUVTUktNdHRtWTlFYnZOdHVQMkhwUWZOb0t2WnpEOWhCckRRSXNLZlBuZHNzOHpzS3B0b1M4bGRWdXJIVmhVaGF2YkpKY2o5elNaNXlOdkhack5Wc0ZhOXZFbmNfdG9sLWFoNkk4VVNoRW50cE85UGt0V29mOEdNSXRNNFJ0M3BCbnVONWlfRThFWEd3RE5xcHpaVQ?oc=5",
-  "summary": "",
-  "published": "2025-03-04",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "86d73e6c59fb",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Presiden Ethiopia sebut Dubes RI Al Busyra paling aktif di negaranya - ANTARA News",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcFU0QzVKTGtpQV9MeXVJVEVCcm9aYm5HNmN5ZWV2TXdyRG1DMktWdlVURWQtbWY3Ym1IZUtHWjZiZjQ1V3pzemZaSXVLeXl2ZERqQU9pSGRoVHlFSm01TklBazNwSjJVYnl4SGdHRjR4YjAyZGRuS1NMUnd0R3JJd3lybVlxVUwyOHdQRlFrc3ZVM3NWTlIwQWtfTk9uUVExS0FpTmxJOEowcVBBOWtv0gGyAUFVX3lxTFBCcVhpdnBZaTBBZVo3czVrdll6QkVsc2NyeGtkWHpxeUdqT20tZnc2OHZHSE9WZkw2N3BBMVh3SWZTTXN0d3Y3ZG5DdmJCa2RwNzlROHZ0eFM5cFNRWXVwUnRwY0VDaVdNVnFycER3RVFKVTVka1lFd2RSaUFYeEswOGFLZ1RoSjIwZ1FSaDAweUtXdFZvZzcwSTR0NTQySUhKUHNZb0lPZmxtV2QtZTNzYUE?oc=5",
-  "summary": "",
-  "published": "2025-03-02",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "31c6cfd77b5c",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Begini Respons Presiden Ethiopia Saat Dubes Al Busyra Basnur Pamitan - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWpwVXhDd05LaEliVF9GeWQ3dkxtTGdsQVByZHFwR3dYM3daYkw2M3lNaF9DS0NmOEcxTEhRcjZwb3FOZWJ4UG5weWhuRE1hUjUwZXlyR19nbDMtaV9VWXo2eWFYOEszb0dwUUJGZHR4TElJelRtdmVWWHFOb01lbXV0aHpwSmhLaEEwbXVDZmF0MDRQdjhCVzlKcVRsS3JZeDhMemZtNHIyaDRyVXBHR1RmTm9Jdw?oc=5",
-  "summary": "",
-  "published": "2025-03-02",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
+  "event": true,
+  "mentions": []
  },
  {
   "id": "ed03a2dba077",
@@ -608,20 +1715,8 @@
   "published": "2024-12-27",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
- },
- {
-  "id": "d06c19e7d60d",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Wirausahawan Muda Ethiopia Antusias Kerja Sama dengan Indonesia - Tempo.co",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkJBUDJNREdWSXE3M0V2RnYyaERQNzR6S1hTYVhnSllwSTVWVzBEXzZmWkdVTmdCRTAtTkhoWVV6THhFZXJCbjAxcFFHWjMxNnNLc0x4eG1oZHZiRmVYSHd4SUxZaG9WU3BSOHZsbmlYRnZUSUliMkZ4Ymd4dFhNMDJUVU5JWDFseU9TbTc4aFRIcVVScDdndGY5WVprX1YzY294SDRhQ2M?oc=5",
-  "summary": "",
-  "published": "2024-12-26",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5592c32d1feb",
@@ -634,7 +1729,8 @@
   "published": "2024-11-30",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "81715d33131e",
@@ -647,72 +1743,8 @@
   "published": "2024-11-09",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
- },
- {
-  "id": "d7a66c007ae4",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Wajah Baru Ethiopia: Addis Ababa Jadi Hutan Gedung Belantara, Macet Mulai Tiru Jakarta - SINDOnews Internasional",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSHR6WlVJcThzd2hKX1kxVnVhUHJkMUNKNy1yR2Y5S2hhYndRRnA5M2FLQ2Q5NzR3NlcwamF0RC05enlwX0R3ZTlIZjZFMGZ5ZEM2TUVaM1UtcUM4SlBoY1htV0pveW9sdmdVV1lvbGF3R0lWcW9RajFPNTZEbUVLWHNYZFBldVh6dGZ3UGRfZEN1eERDSHhSV0FhelNvTEN1Ny1sRHM1RnlYLVJOUmR3U3dGT1loNE5rWlhOczN0dVJRZFJBb3c1S252ZEhxTEJwNDVzVEVpZE5aTlZzVk5oStIB5gFBVV95cUxOenUyc1M0OTN4WXBCZEU5TXVkclNuYU1qMVYyVTVQbko0UkNwT0FGbjdyd2xNZ19Yd1VEcTJUOHVnbVdvb1BGbktqUnBjNENySldDUDlTOGZLWWoxQzVfM0VveGMzazBnYjVWcnZpV1Fsa2l4eXhTSExYdzYzaHRzdEtKbEhTZ3JPMmZvWjFNVHRZeHhEdjJfWmpENk8tUUV3TGZhaXRHZWxXOGc3aG44dnhKM0FVblVFYTA1NjJNYnpSV2xjWHlIY3lja3lQSkVHelFpVm9xcVZIYnRVUmc0dWt1OHFCUQ?oc=5",
-  "summary": "",
-  "published": "2024-08-12",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "09d4ef3d93eb",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Bersejarah, KBRI Addis Ababa Fasilitasi 15 MoU Antara PTKN Indonesia dan Ethiopia - SINDOnews Edukasi",
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFJDdEMyTGNiNExtVUdvbERqVm5rLTMzZTlMSVJjM3RsNG9zVjhrZVZhZGxWejFOUFRVd0tiVl8xb21nTms2TW5xQzJUb2h0NFJiS2I0TmlIb2pHdmN0YWFYZFdnTFJCamY3bi1KUVpNVjdxOGFRR2pyOGFjQjVNd0tyMnB3a2RKTUZDdGpaUGtoUGxFX3NlMThDaWczNHBPelNfYm1Rb1pFTkpkWTdxM2FDaUNZZ1lubHVzSGh0WmtObExEeXQtUmJyeXhjcktMRkM4d9IB2gFBVV95cUxPaUQzSW1CaGtrX1NkbS1waWF6bHNaakh6NFNjS0dqeGE5bm9NTF80OU44NWNtWGozZDJTdTNtOTltcGN6MjExNWZ2UFdycTNZTHktUW5zd2syNlBIcFZOdlNfaDBkMTlIQTZsVklUTExDRUdFdEJDaWI4UDU2X1lUZFpXSUJmTkgydGdDWU1XWkJaOEpPU1BLZ01MM3FCNEoxWERrLXZsX1d3WEwxMmVrVHRiV0pSVFdGXzlIamlTRnh4Q0xEdkxEdDFwdklVTWRUNXNsRW9MSnVqQQ?oc=5",
-  "summary": "",
-  "published": "2024-08-08",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "ea2b1177cce7",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Lima Rektor PTKN Kemenag Teken Kerja Sama dengan Dua Kampus Ternama Ethiopia - Kementerian Agama",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1RRSTRoQVUwZ25WUlJULUtmdHRxMU1nR0MxS0dhR0ZKenZ2OEtqYUV2YVV0QUN1c1c2QXA4RDVDLTItZGVqWUVwVkYtd196NzduR1NZaVpmZmVXTDRBNVVrVEtQNUVUS3ZCZnNWWndGUUNuZFdLbFZVc1ZCNEh1MVhCNThMODViZk9TblBmcmtvSnJ2Wi11NEdhM2cyd2hkamtkbjZLTFk4X3ZlNjU1OUQwMzFJOWw5dUE?oc=5",
-  "summary": "",
-  "published": "2024-08-07",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "28a20122febd",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "KBRI Addis Ababa Fasilitasi Penandatanganan 15 MoU Baru Bidang Pendidikan - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemdZV0IzVVQ2NWJXWU5JZWk2UC1zMV92cFA5YlJGNm95TzdSU2JSeENBOExIb3BjbHpQZDdjY2k3RW9uNUNjQ1AtUG5sVXlBbmZvMmhEcWhrLWNfSXNFQjBPZzVrQk5tU2R6amZMQllXaGoxaXBRRmU1dnZteTFSUFMwdjhQUnFvbUtlU0lHQjhuNUthbEhFRkZpQU5xMmhPazJFTmJtYzFjUkNHcUxtWlhEYjRtcG83RjA2dw?oc=5",
-  "summary": "",
-  "published": "2024-08-07",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "0eb3f24297fe",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Dubes Al Busyra Basnur Sambut Delegasi Indonesia-Ethiopia Interfaith Dialogue di Wisma KBRI - Kementerian Agama",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSmU5Y1htRE5SZHFnakpoNzktcGhGZzFBV3dMU2lMS2V2V2FhNWJMLU9YcThfUnNJNmZDVWFHcVpQU19fZ2FTR0hVUC1aYlhtRXBULXZVdDktU1hkdWt1N3JGTzdIWEg2MnJ4VE9XanNkTC1pck80dDg4SFBNUTdJVWdfU2dSNFRSQ2JWa2s4X3JZX1pmV3U2eG5IR2ZTNEE5VUhZY1hvLXhTLWxwc0FOVFNzbnRMSC00V2sydGNVZVNvN0VVY2pKV19GSHVsUQ?oc=5",
-  "summary": "",
-  "published": "2024-08-04",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5c08b7a98533",
@@ -725,46 +1757,8 @@
   "published": "2024-06-22",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
- },
- {
-  "id": "4bd53cf6ffe0",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Indonesia Selenggarakan Golf Tournament ke-2 di Ethiopia - sketsindonews.com",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWFlaFRQSW9qVENMZ1hqVWFpNjVKek44QW9pOWNheW14SXpKODVoU2FEODFiSFlXSHBwQnlmSWZiMDJSc0R1cWVkZlRFcEdhZHpqQjhqZ3puYVJmMy1GcGZBNGEtY1BkYW9BMnN0RFBlUkpzaFN1N29Zem5ybE96Qzd2dndZakNjZXhnWmxsdHhMU0pjNGNGWUxB?oc=5",
-  "summary": "",
-  "published": "2024-06-02",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "614d0680a464",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "KBRI Addis Ababa Luncurkan Buku “Afrika Dalam Pandangan Pemuda Indonesia” - DutaIndonesia.com",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlF6ZEI4dUxLN0xEUlpPZW56cF8xUlRZSVRxZVhhX2NWa3R0QXNJc0tFUk9yV1ZTQUtxaGhtNjJVNUY5RXZ3LUNGZGJ4ZTVuUnNOVTJkZWtrQVNDOHlnS0puNHpiMm9CMThpNVQ4Mk1EcWJ0NW85d2V5TGlVYnFNcktMdkg3SzJVQU1hLUFuZC15cThXQnJWNjZ0Y0dBNkXSAaQBQVVfeXFMT1FpX1dzV2p0YTRpOEY0NUhSd1hiOTdENjgzakRjcjZpZFQxNGlra3JpeGRlZXQ3a3ZSdkNiUWJCRmVEeWxVOUU3N2UxV2lORldZWm9fYkxtRFUyanNzQno0NVg0Slk1V2M5UGhuVF90T0FLZ1ZzX1llQWVXeHlPRkNIWFVWVnhfQVZxVkhJaFVPU1FWakV4alpKMzNoci1YYkdneW0?oc=5",
-  "summary": "",
-  "published": "2024-05-28",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "dcecb0e4dc23",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Alumni Beasiswa RI Ikut Salat Idul Fitri 2024 di KBRI Addis Ababa - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc2FtU0ZGdjVOdnF5VlIydHViS2toMGdoMmEyekhUcFZwOTlUWGxXLWpmdmwzNk1BQm1zTnVISGJGeWdWM1lmZU1IWXp3blBXTk1NSVFEbE53ZV9CYllrWlp1NGVYUTFwdTV4c19RMXZwUGpKTXBkTE9iVC1aNjI4UjNUNUdJeEdVaTNBdWJoUWdpUTBDRVFTVnhvQWl3aF9YVmhOOTVldWlBRm96b19CWHFB?oc=5",
-  "summary": "",
-  "published": "2024-04-10",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "f50467c110a9",
@@ -777,20 +1771,8 @@
   "published": "2023-06-17",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
- },
- {
-  "id": "5efe11def30b",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Aregay Kidane, Diplomat Ethiopia yang menjadi Pegawai di KBRI Addis Ababa - kumparan.com - kumparan",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ2twS1JKc2NCdDZ1cHhaUThabHBHZjM4bDMxazF5QjhTcC1pOHc5LUZGcERCQzNTc25xN0JxbmFpWEFjQ3pHeW80cXZTQXp3ZWpQUVNVN3hvb05kYkx3aHFSbjhNbkVmYXhEOHBnaWZLeVBQVWs1VlFHV1JsVUt0V1hrMTVmRWthRUo4OExoTnpDb09xc2s4VmhZSWFjejhsd3AxUHlodzhuYUE1MUltdTlwMnk3RnBUcE8wM2dDWnY0blR3cW5aTmM0R1dCcXlHTGl2VzZVdnR1OW_SAeMBQVVfeXFMUERSeF95Q1Z5ejBDbnRCaDNzYnVFSlJnSGh5RE9CeDR1d3VzM1VpU3k0akJ2MTRhR2o3alBUdEd6V3g4SzlXbDU3X3hyQmVxMWw2SjZrX0lfYXNqaG5GYW00VDQ3Q0FldTFpRFBfR3JpaE1MVTVuX0FicERKelhBaDkzOTV6REVVbHcyUktVWElMVXZyUXJnUm5wd2E3Q3d5VnVPTXhpdnFBLW5BTFFNSklHdlF4V1hOOG1GVm5naGtWd200XzBGanNPRXctcmlXS0MxRE1YeVFxdTA2TlVzYXdyNmc?oc=5",
-  "summary": "",
-  "published": "2023-05-28",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "26e6f4cee577",
@@ -803,7 +1785,8 @@
   "published": "2023-03-07",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "e1faf48793a9",
@@ -816,20 +1799,8 @@
   "published": "2022-11-01",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
- },
- {
-  "id": "2e284bf3dcca",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "KBRI Addis Ababa resmikan Institute of Afro-Indonesia (IAI) - ANTARA News",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDdwdG5CNVZNNm9DNUNOelFPWWxmRXlJWU5OajNQZnpkWTdLQlQyYnVlZWc5MVl4VUl3U3JOWVZCTExCcElOdVFScVBUcVJuWFRabm9hRTdNTGVoYTI3QklvQnkyRWM4c3JUWWl0SUhuTjU3S2JNbVFaRFppUk80UWxKZ2tUTjN4Q2J1Q2JpWUl1T3ZuMkNNMjlLdFFpZ2Y1YzlR0gGjAUFVX3lxTE9EN3B0bkI1Vk02b0M1Q056UU9ZbGZFeUlZTk5qM1BmemRZN0tCVDJidWVlZzkxWXhVSXdTck5ZVkJMTEJwSU51UVJxUFRxUm5YVFpub2FFN01MZWhhMjdCSW9CeTJFYzhzclRZaXRJSG5ONTdLYk1tUVpEWmlSTzRRbEpna1ROM3hDYnVDYmlZSXVPdm4yQ00yOUt0UWlnZjVjOVE?oc=5",
-  "summary": "",
-  "published": "2022-09-20",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0f32965503ce",
@@ -842,189 +1813,8 @@
   "published": "2022-06-23",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
- },
- {
-  "id": "0aa077efe7cd",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Kemlu Ethiopia Luncurkan Buku Karya Dubes RI Al Busyra Basnur - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQmJBZkNNdjFkTWxCVmRYOGdOUHAtLV9EUzUzaDNZOF93RTBMSXVQLW9MV0dYVnJZRE1SZXZpck9GUjRwSExkTVgxekhGbE51RjZleXVrbHNfR2xYcHRodlNpLUl1U0dNcnBhYlpJYkVPWFlMbFR5MjR5ZXJsTzF5WGRhSm03M3FLUUFvSDVXbE5mSWt6RDdrc2VXOTZSSTF6MUM5UExlcDZjUTg?oc=5",
-  "summary": "",
-  "published": "2021-10-23",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "9d2740bec2f5",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Menteri Ethiopia tanam pohon di KBRI Addis Ababa - ANTARA News",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWHBJVjRlZEprT2Q5SXYzTEt3eTZPby1XaWs3UVhiVEYxUEEzRHA3QnRKemVEdkdiNkgxakNoY0ljOXI5SFE3QjYyQ2R2ZlJRSWUxdk1WMzhHUV9yWTdfOWFUWVp6NnlmdmZlZHRzUy1jQjFtTjNZYkdZNGhaWFFiaHVnWUlKUjRMM19hX2V6Sl83U3pkUjlr0gGXAUFVX3lxTE1YcElWNGVkSmtPZDlJdjNMS3d5Nk9vLVdpazdRWGJURjFQQTNEcDdCdEp6ZUR2R2I2SDFqQ2hjSWM5cjlIUTdCNjJDZHZmUlFJZTF2TVYzOEdRX3JZN185YVRZWno2eWZ2ZmVkdHNTLWNCMW1OM1liR1k0aFpYUWJodWdZSUpSNEwzX2FfZXpKXzdTemRSOWs?oc=5",
-  "summary": "",
-  "published": "2021-09-25",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "ac6a07652f31",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Puluhan Tahun Kerja Di KBRI Addis Ababa, Wanita Ethiopia Ini Bikin Tumpeng Untuk Rayakan HUT RI Ke-76 - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTXlFVXZzQ3VBZmI0OGlsdU9VLTVZWGdxQ0FzR0lBNGtpSEJiNVEwbEwtQnk0RWxxZnpRUjNlYy1pOWZNakN5NWUwTVdUMlo1My1VM0RwTTRSc3hsWXl1Yjdwbl9QRUNOQ0VkbXhGRThHTm1uRVBYbGFOUl9sLXRlelU1d05pU3VsMVprUk5CNGlja3JOMzlPS240RXZ5WW96S01kZ2xad2MtX1d3Y29JYjFqSF95THBEcEpMdmtnUmZKQXVGSXRGR2FKMTdPX0pGMFJOYzU3Z3kzcTdXTmpfeFgzc1ZiYzJwY2xRNDl5elZJZmdvR3hDcjFrRmxUeDg?oc=5",
-  "summary": "",
-  "published": "2021-08-17",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "1b09f301a3f4",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Seru, Dubes Al Busyra Ajari Pelajar Ethiopia Main Golf - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjRpOFBZTFZTVldOb3VHd1FyVWRLYTZDZkhIM0tqQkUzaDBPeWhiYVdiTXE0d19WSm9PbnkxQmF1dmcyS1VSZXBBbnJ1QXFGdmpnSVJOc2YzS1hCZ2lkd3dZTDVpX2pOWlE1c2YtNzFTdERpY3hHTU9ycWxUMGU4MjYyMzB2Z3Mzaml5U3lJdU5Na2JyTFg4VHNjUU0tT2Nx?oc=5",
-  "summary": "",
-  "published": "2021-06-27",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "6c02c0cf9b81",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Ibu-ibu Ethiopia Masakin Menu Buka Puasa Untuk Warga Indonesia - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2xQbzQzODBXdDBMdkNRQzdOTG1kdk1vcjBVODVJbTJ5WkhpX1ZJR1kwTlhRbjN6RjlWaWN5T05MMnNtT21aNGRlQVFqTFpOZ19rcm9IWUVvZGFhbTE0Y1RKUTVBUnJVQjVZN1l3SmtfY0NvaFpnU2dmdjVGWUlRQ1hHbENVc19tZXhqdGtsQktBeGtxVkl1amhvYjFXWFY2WXhHY0xtemNzME0?oc=5",
-  "summary": "",
-  "published": "2021-04-19",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "ec3abafa1df6",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Kenalkan, Lidya Alemayu, Pelajar Ethiopia Umur 9 Tahun Yang Fasih Bahasa Indonesia Dan Ingin Belajar Di Sini - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVk9DSlI0OEtiWTdlQ1RTVFcyZUo1bjRoWnJnRFhmVjB4bGZRTXc1SkN1d1dXOUx5X2JpOWZZd3VCWHZZTVJBMXhJSE4xLWhCbm1BLXVOZVBPcW05eGlkczhkTWhmMWhNSTF1UF9XTHZKMWpYSU1Ea3k4VWxDcmlJOUVLNTNsWU9aYVp4MDdVbWZad3o2SF92ekRZVFFNLVFLTUk4eUxQampJTlNmZTgwMzZqMTZBeklzU0FfdEV6Z1Rwc3pqMVVYX012WmtWbktjNkZVaFJ3UndCaHRXekN2ejRmZF9WNms?oc=5",
-  "summary": "",
-  "published": "2020-12-06",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "4e38aa030098",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Dubes Al Busyra Kobarkan Semangat Anak Muda Dari Addis Ababa - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTRiOXk5eDZyV01HSy1xWDFkR3RBTnRmNUFUV3htSWR4UWJSTGNYMmNZSWdCekxWSGNua2h5d2QtbzROQlI3cV9ZOWhSUmR4MFVqYUFyaDZ0eGJvQ2drSFFGMkdPVHA5ZFZxWlFkZmE5VEE2alc4N01UZHRxWnhPck1EbW03WjByRHlrN2NLMHl0a1MzX3RXcUoxRDJoVEFrUXdfd19UcXZmQQ?oc=5",
-  "summary": "",
-  "published": "2020-10-28",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "60a927ffd80c",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Dubes Al Busyra Basnur Gelar Tur Virtual Di KBRI Addis Ababa - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXdsS2lxdVJCLVR6TXptQk5lVXVfLXRQYkZaZ1lqOU1Ec0doTFBCTFFIcjNPX2t5SkRiYW55Y09zR0VEMThiZWVuYTVnc3lPdFpUdVp6VGtCS0ZyWVlGNXZPM2dGeHVYZnQwTWMtbmFJU2ZENEY4eThOZElNUDRuMUtwUi1CSXl2bDdIZFQ0ek1yS0FhTGVFS3h5dko2Z0VXdW80MzlPWWdnQQ?oc=5",
-  "summary": "",
-  "published": "2020-10-07",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "c49a89bf6e9e",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Difasilitasi KBRI Addis Ababa, Dua Perusahaan Ini Jajal Pasar Ethiopia - Bisnis.com - Ekonomi",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM0QyeUphbndNM1h6OXNDM2pQRWZtNkFESGthNV85dWV3ZHdxT1JQR0dZampYNnZXMnVHeU9zRnVMdmtaM3V0TnBMT1BSbEZfck9vX3Vqd1dHZ0VRZnVJT2g5SFEzdXJ0YktRNUlPZC01MFZGVC1HZ2FmYXl0a0tjUkI0azVDSTB1N2E5dHo3ZVU2Rzk4aVEyQzhaeFZNbzdxZEVjUU5JT3NCTGJhcHM2U0xDb0xuSGV2dXphSmV3?oc=5",
-  "summary": "",
-  "published": "2020-02-28",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "808e5549e2ca",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Ramaikan Hari Ibu, KBRI Addis Ababa Gelar Lomba Masak Nasi Goreng - detikNews",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGJPRjRTTnYxbmNRaWg3M0JzMWtsSmVjUnc4b1BEaDJXbHRuU1JWOFZQSExwbzVNMjZfbHZKRTRFV2dMdVZheDd4Y01FT2lGSTBwSWZwRWczeDViRVdGZ2NoUlptOE13dlljdTRpbnZrSW5sSjhqdTRIaVJmRkFoZXZzUW1FYkNSSDlIN3RfbW1xaFQyS25ac0JsRkxfRGFCaGpJZjk3QkwtdU0?oc=5",
-  "summary": "",
-  "published": "2019-12-23",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "51d28e80c094",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Puluhan Tahun Kerja di KBRI Addis Ababa Tiga Ibu Ethiopia Ini Berani Ngaku Jadi Orang Indonesia - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85cHJQd2pWRW1NT3g4Mlg4VEJTMmRmYW55cENZcXJVVXVpNkkwRHhmY3VLWURjSnE2Q25PcllNVHhuRDlXWUgwTWVnN01hMmEyWFFOMlMwTV9PWjhUemFadVEtbXhZTWR1QWtWS3FBeWRnQQ?oc=5",
-  "summary": "",
-  "published": "2019-12-23",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "6714866ad8ef",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "WNI Upacara Hari Pahlawan di Pabrik Garmen di Hawassa, Ethiopia - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGhOS1J5WUxuQWRzQl9QUDZnbDFYNEREQlQySEdCZnVLS2tndl8xb19uNldlYTZBVlZhM1dOdjA5VU15c0hBOXRmWEtzWEttWVd4bXhtQjVWanFabjdSd2ZEem93eHBuWjlpa3JKd1NnakFIVXVXWFRjLURSTlM1QmR5VUlVMzVBX2hSVjFqaGJpb0ZtWmhOb3J6TmR6RkcyTnYtZmRnd2stV1V3?oc=5",
-  "summary": "",
-  "published": "2019-11-10",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "31647dd498e3",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Meriah, Perayaan Tahun Baru Ethiopia di Addis Ababa - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRE41ZHFjUVljeGplOHRMWU5hQWpmdkpsTkZOVmJhLXRMa0NVRDFfWEdNU2xVY0VDOF9BSDRpUnlmWDVkZjRQYjhpbGQ0U1ZiaXRJSXk5TzFQYV94MDdlWEtpTGIzaDBuQ2JaQ0xkZXpMZnNla19zN1FCM1U3MmZkdm93WmFFXzlZRDdnS1dod3hYZE9CZ24xYkdPZw?oc=5",
-  "summary": "",
-  "published": "2019-09-15",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "7390d728932f",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Duta Besar RI di Addis Ababa Al Busyra Basnur Pidato di Depan 200 Mahasiswa Ethiopia - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN3JoMzlMX0QtNF9sazJGdWdfQ1hnZVZaVmRjcUpVbzVGd0RJNjNUcUdIY1dqVlRHQ1RIRy16SkF4c0VES3BVUVNFbGlUNmx0aEZmT1hRbl9OOGdhTUFONEw1MldTX1NwWkpJenBVQzAyVXlLSTJDYS1fb3lmeG0tamFIck95QlNlY3p5Zk9ESTIta0xMa05adWJJckVfVUdnaDhoc1M1TjdCRzhMNFpsanQ2YTNsUlZidFZMTEp3MHZmdkM3OV9aQ2J3?oc=5",
-  "summary": "",
-  "published": "2019-08-16",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0ec35f60fd9d",
@@ -1037,137 +1827,8 @@
   "published": "2019-08-08",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
- },
- {
-  "id": "5b9ade8053b4",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Pertama Berkunjung, Jurnalis Ethiopia Terkesan dengan Indonesia - Tempo.co",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnZkTENpX2hlXzR4dmJzMUhTZkc2SS1EaTFNam1UYXI2XzdoRnZ3TkJwaDZWeHY4TnFSUUV4cGNRaGhBTkhRZjljdVlxUldKZDdDeGstZWJxVWdwbEc5Nl9LM1lySF91aXY2c2RjcmJIUWZlYUpCZ1VnOWhfZEZyQXl3R0xSSV92aU53cFVxTi1SUms2RG1kLVJZWThHd0tSVzVyZmdsZw?oc=5",
-  "summary": "",
-  "published": "2019-07-17",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "76ec02a4a81e",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Duta Besar Indonesia Untuk Ethiopia Al Busyra Basnur Semangat Kemerdekaan, Warga Lokal Ikut Lomba 17-an - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUHJkcnVId0I5THVic0wxaXh3amNWemJyVS14NHNaeHJWTENBaXBVY29Zd09hRUdFNjdveVVqUWo3TW45Zll6SnZ1WGltYkRwUDNZNXhTMGxoT3JlbERMc1I3cDgtdGVHQ3lST3k3eVdvNFFrRWI2NXRGVGlJWmNQZUpOMnlPVVNlUHh3U3JlOWV2STZpTTQ3ZW1rSkV6WDd5X0MyNmo5R2hXc1FneEZ1bnE3ZnFiZWZrNTRxdS1RUUtEZlRPUW04MGJYQnh3OFpTOFNGbkZGZHdRd1JPYkx1Uw?oc=5",
-  "summary": "",
-  "published": "2019-07-17",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "abfb538b1e62",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Cerita Pimpinan Perusahaan Indonesia di Ethiopia - RM.ID",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSktfNkhGUmZpRDJ2cE1hSkVNNU11cllZRnhuaGdmZnl6eWVKWE56RW9idWNqUWZVMTlxYTdMeFdZcThTR0s2ei12WnEyNXNock56cDNockFfQU9vSVVNd0hZUGU1QjAweGEtTjdYNlBrU3FwaUUxTXZiWTNDaDhuMWJvUU5rcDAycEl5ZElHNUJ6N3JKSWdRY0xB?oc=5",
-  "summary": "",
-  "published": "2019-07-13",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "0c0587a8700e",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Dubes: Universitas Addis Ababa ingin bermitra dengan Indonesia - ANTARA News",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVkzcnhJZTRKR0ZzRV8wTFpaNmFFbTVGYVpkUVdpNlZocU9ZZ0pxazlncFBENWpTREw3MjJXb2NTZjlEM2c5LU5oai14aEZwemRlMHhycXB2U0FCSFJhV09WSkZEdmpMR0QzakVfRzVYZXNIeHZjaW00TThuUmNTaFRfSF8tV2RwYm9KcmFqT192TkJZdE9QUVFYV3dsb05rcmc?oc=5",
-  "summary": "",
-  "published": "2019-05-08",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "b1049a9eefa6",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Ramadhan Warga Indonesia di Ethiopia - detikNews",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQlBZSEpIWHloWHJCZVBFLWNIeHd3RjJGcmxGTHJmN3dHYnNQOS1vS1pLX0xlUUlmS2VCUzFETUU3N3VNTFFtY1FxTmdHTGhiNGtPdG9YeFA1MExIZUtZWGV3Rk5qSWhBVkpHWXhCTGdoWjkySXpjYlVESnZVS05ud1p3?oc=5",
-  "summary": "",
-  "published": "2019-05-07",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "c719bb3572da",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Pesawat Ethiopian Airlines jatuh: Cerita keluarga soal Harina Hafitz, WNI yang menjadi korban - BBC",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWXzBWTXBrb1J5QjZQQVFiRTlLNUpqTy1GenhITVFZUDQ4YV9hOTRyV3REaFlnV2VZSXhnTUlCZDcyVVZMZnpyN2dxNm8tZS1aODN5VFo3RdIBXEFVX3lxTE5sQjhCbVlRRzI0SkdSTGRVRnoyTjNkdHFIeE91a1R0ckZJLTl1aXczUm5mQU52c3U0dUZ2UUZlSTY3WEs5U2lOdmR2bWVfb0p4b2VnWFZpZFRXemRM?oc=5",
-  "summary": "",
-  "published": "2019-03-10",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "e9d68d4c8bd5",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Pesawat Ethiopia Jatuh, 157 Penumpang Tewas - Voice of America Indonesia",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1RGUHk2YlZEWXdLdnl5YmV2Zl9ZM3MtU05aenVoZFRzY3hfRFJZalpzYU5xU0t2UHd4ekZaX2llT056MTZqclBZeXp5RDJKV3BXbWZCOHN0b0lqZ2FaUTAtbW0xX2tuS3pIbWdHdkJHeGJPVUVjWFNyTG53VHBNd1NSVGo2cWVhUEZnd3V4VdIBkgFBVV95cUxOb0lyWElCUXpadkR2Q2Y0TmFqUWJMVjdWZi1ZeEYwOWl0Nk5SaEhHb2xVcWp4bHMyQWhhMlhOeHdvSTV5NFpoVmJQaWkwLXhFNE02N1B1dnM1eC03M2ZFdWR3Y2oxbFp2TFZYZEdrYlpmYVpWLVotNGFaSGxiTjBkN0IybkJyX1RhZGFtam9tM0JPQQ?oc=5",
-  "summary": "",
-  "published": "2019-03-10",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "c2843946758b",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Kemlu Pastikan 1 WNI Jadi Korban Pesawat Jatuh di Addis Ababa - Voice of America Indonesia",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUtybUtYUlQ1dFFTcTBSbkJSZVlURElPZTgxYVVta0xjbWw1R2NscVdUSTQ1dGNzSnFjZGtlUjZMUC1oM0tjU0hidWYwV2VQN0hydGtEbUtIVm5QLThIN21Pd2FtQTZNMGt1LUFlckRpcUNIYnAwVm1udjFDWlBKeGtUQmE5dW9XTTNCbFRGV0R4QkItOWdnQ2RoSDRmN2N6RFIxSTVGY1jSAasBQVVfeXFMTUJWeUpLNTItYWxMd01reERRc1gzMUlNWHBzeDd1djNwRnF3cWJJNmlJOF83blk1LU5BTHlKUzY3OGlNVm10QzZrQ290anYwa0YwMFBGeTNWWmJ4M1FBTmJoejZHcTRsb3RpNTVESEgzLWlmR0ZEdS03MjhlREdFZldkSjRDLVJTVThpOGFFWDZMblZpSmRWdUQ1eTBZOERlMXFrN0ZSUFpPU3pB?oc=5",
-  "summary": "",
-  "published": "2019-03-10",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "356b5d0d1660",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "KBRI Addis Ababa Pastikan Ada 1 Korban WNI di Pesawat Ethiopian Airlines - Suara.com",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZE04XzRtNHZMN2o0OGw2UVF5MDJpa0FVOUlzN3poV0tkcUF3bzdNNlEyYVhXZWlwdGdReGxLRUdTby1fRXh3c2NPakxzSDJOM1hKYWtVelB1ckpiNVF1SjhpbVJoNUJYdDlQeEgxaWcxLUI4NE1yanh6WmRlVlR1OUxLV0RZMDRCeUFkdEFidWVuMXNjYmJrVmtfR1ZDbVNEd1oxSFU0eDNHQjZrbFVMbUdsZ2xiSFFJ0gG4AUFVX3lxTE5CNmd2Y0hCUE5HSnNndUtZOVBXQU5HRHZrazNEVzRkQzZHa0hiV2pVRlM1UmpKcE1jWThTRnV0cGpUc0hpbG5jV1d3RER3Tk9FV1BpOGVkOXNYLTJaX3pXQm5lN0xjVDZleXpUMUpmcmlCUzZwZ01XZy1OMGpIUkMzSVZQaEtRdEF5R1p5aTBuZXNZUVdUNlNBdnU1SEd5MWY5Q0FGM2xDRDdiMzJWMjF2c1I0RlBubDI?oc=5",
-  "summary": "",
-  "published": "2019-03-10",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
- },
- {
-  "id": "caafda476341",
-  "source": "indonesia",
-  "channel": "indonesia:gnews:bbfff512",
-  "type": "gnews",
-  "title": "Duta Besar RI Imam Santoso Serahkan Surat Kepercayaan kepada Ketua Komisi Uni Afrika di Addis Ababa - Kompasiana.com",
-  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcWJwdnlNTW9OVm9kMHBpX2xGR1Fxd0dITlJDdnYxM01GWllxVFV1dGhYdjRJa3A3SHg2dFYwVGtxalBSOFQ3cVRnVWZOMks1XzRoMElQeFZ1R2ZlYzU0R1B3b2RubHU0UDZENFRNTk16djlPdGVUcjB5NF93TEN5czBtbi1ZRE9PUHRQdnVFTXQ5MEVtRGVDS09nOXYwamdTTHNZWVItbVdiTEZBQXpMblFpVzZsSW5ZMU5BRlhGVFlkaFlNekc5MGJtbnY3TWZpNFZ4RnZUNkVZMjZSbUI2UmhIeU9jUnhDVFNOTEJ2ZDZsX1hGbzNfdlJsRG9sVUtvVk1feVBRcG9JZw?oc=5",
-  "summary": "",
-  "published": "2018-07-10",
-  "first_seen": "2026-11-11T07:30:17+00:00",
-  "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5ea42938e733",
@@ -1180,7 +1841,8 @@
   "published": "2018-05-19",
   "first_seen": "2026-11-11T07:30:17+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1080a7419784",
@@ -2141,20 +2803,6 @@
   "mentions": []
  },
  {
-  "id": "c7f0df702db7",
-  "source": "eu-au",
-  "channel": "eu-au:web:f8df2210",
-  "type": "web",
-  "title": "AU and EU Advance Implementation of their Strategic Partnership at Senior Officials Meeting",
-  "url": "https://www.eeas.europa.eu/delegations/african-union-au/au-and-eu-advance-implementation-their-strategic-partnership-senior-officials-meeting_en?s=43",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-11-04T19:48:50+00:00",
-  "baseline": false,
-  "event": false,
-  "mentions": []
- },
- {
   "id": "074733913e54",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -2887,20 +3535,6 @@
   "mentions": []
  },
  {
-  "id": "017d540412b5",
-  "source": "eu-au",
-  "channel": "eu-au:web:f8df2210",
-  "type": "web",
-  "title": "Joint statement by Executive Vice-President Virkkunen, High Representative Kallas and Commissioner McGrath ahead of the International Day to End Impunity for Crimes against Journalists",
-  "url": "https://www.eeas.europa.eu/delegations/african-union-au/joint-statement-executive-vice-president-virkkunen-high-representative-kallas-and-commissioner-0_en?s=43",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-11-02T11:44:26+00:00",
-  "baseline": false,
-  "event": false,
-  "mentions": []
- },
- {
   "id": "26ed0186ed28",
   "source": "colombia",
   "channel": "colombia:gnews:d97e2977",
@@ -3347,20 +3981,6 @@
   "url": "https://t.me/gastcinema/4848",
   "summary": "⚔️ THE WAIT IS ALMOST OVER! 🔥 DOOMSDAY IS TOMORROW! 💥 🎟️ AVENGERS: DOOMSDAY PRE-BOOKING OPENS TOMORROW! Are you ready? The countdown is ON! 🍿 🔥 Stay tuned! 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
   "published": "2026-10-31",
-  "first_seen": "2026-10-31T08:27:58+00:00",
-  "baseline": false,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "6b9ffd602aa7",
-  "source": "usa",
-  "channel": "usa:rss:71c1fd6e",
-  "type": "rss",
-  "title": "Security Alert: U.S. Embassy Addis Ababa, Ethiopia (October 30, 2026)",
-  "url": "https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-october-30-2026/",
-  "summary": "The post Security Alert: U.S. Embassy Addis Ababa, Ethiopia (October 30, 2026) appeared first on U.S. Embassy in Ethiopia .",
-  "published": "2026-10-29",
   "first_seen": "2026-10-31T08:27:58+00:00",
   "baseline": false,
   "event": false,
@@ -5647,20 +6267,6 @@
   "mentions": []
  },
  {
-  "id": "36c21c19a4be",
-  "source": "eu-au",
-  "channel": "eu-au:web:f8df2210",
-  "type": "web",
-  "title": "The European Union Film Festival Addis Ababa is back! 23 October - 21 November, 2026",
-  "url": "https://www.eeas.europa.eu/delegations/african-union-au/european-union-film-festival-addis-ababa-back-23-october-21-november-2026_en?s=43",
-  "summary": "",
-  "published": "2026-11-21",
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": true,
-  "mentions": []
- },
- {
   "id": "ff7b9e915a0e",
   "source": "finland",
   "channel": "finland:web:ac318fa4",
@@ -5683,20 +6289,6 @@
   "url": "https://finlandabroad.fi/web/eth/current-affairs/-/asset_publisher/h5w4iTUJhNne/content/suomi-tukee-un-womenin-aloitetta-naisten-osallistumisen-vahvistamiseksi-rauhanprosesseissa/35732",
   "summary": "29.10.2026 Finland is providing EUR 200,000 to a UN Women initiative aimed at promoting women’s participation in mediation and peace processes. Finland is strongly committed to promoting human rights and gender equality through its foreign policy and has long supported the United Nations’ Women, Peace and Security…",
   "published": "2026-10-29",
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "f2bc2a521168",
-  "source": "usa",
-  "channel": "usa:rss:71c1fd6e",
-  "type": "rss",
-  "title": "Security Alert – U.S. Embassy Addis Ababa, Ethiopia (October 28, 2026)",
-  "url": "https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-october-28-2026/",
-  "summary": "The post Security Alert – U.S. Embassy Addis Ababa, Ethiopia (October 28, 2026) appeared first on U.S. Embassy in Ethiopia .",
-  "published": "2026-10-28",
   "first_seen": "2026-10-30T08:13:28+00:00",
   "baseline": true,
   "event": false,
@@ -5745,20 +6337,6 @@
   "mentions": []
  },
  {
-  "id": "c5273a53ed9c",
-  "source": "usa",
-  "channel": "usa:rss:71c1fd6e",
-  "type": "rss",
-  "title": "U.S. Embassy Addis Ababa Security Alert – Oct. 23",
-  "url": "https://et.usembassy.gov/u-s-embassy-addis-ababa-security-alert-oct-23/",
-  "summary": "The post U.S. Embassy Addis Ababa Security Alert – Oct. 23 appeared first on U.S. Embassy in Ethiopia .",
-  "published": "2026-10-23",
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
   "id": "c06b275f2a41",
   "source": "press-culture",
   "channel": "press-culture:gnews:b2b256bb",
@@ -5787,62 +6365,6 @@
   "mentions": []
  },
  {
-  "id": "6e9e6890c2a9",
-  "source": "usa",
-  "channel": "usa:rss:71c1fd6e",
-  "type": "rss",
-  "title": "Security Alert: U.S. Embassy Addis Ababa, Ethiopia (October 20, 2026)",
-  "url": "https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-october-20-2026/",
-  "summary": "The post Security Alert: U.S. Embassy Addis Ababa, Ethiopia (October 20, 2026) appeared first on U.S. Embassy in Ethiopia .",
-  "published": "2026-10-19",
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "bd9a43b3650d",
-  "source": "usa",
-  "channel": "usa:rss:71c1fd6e",
-  "type": "rss",
-  "title": "Security Alert: U.S. Embassy Addis Ababa, Ethiopia (October 15, 2026)",
-  "url": "https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-october-15-2026/",
-  "summary": "The post Security Alert: U.S. Embassy Addis Ababa, Ethiopia (October 15, 2026) appeared first on U.S. Embassy in Ethiopia .",
-  "published": "2026-10-15",
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "d5ee8e222b39",
-  "source": "usa",
-  "channel": "usa:rss:71c1fd6e",
-  "type": "rss",
-  "title": "Secretary Rubio’s Call with Ethiopian Prime Minister Abiy",
-  "url": "https://et.usembassy.gov/secretary-rubios-call-with-ethiopian-prime-minister-abiy-5/",
-  "summary": "The post Secretary Rubio’s Call with Ethiopian Prime Minister Abiy appeared first on U.S. Embassy in Ethiopia .",
-  "published": "2026-10-15",
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "780c8e067a2f",
-  "source": "usa",
-  "channel": "usa:rss:71c1fd6e",
-  "type": "rss",
-  "title": "How to Use Your Visa",
-  "url": "https://et.usembassy.gov/how-to-use-your-visa/",
-  "summary": "The post How to Use Your Visa appeared first on U.S. Embassy in Ethiopia .",
-  "published": "2026-10-13",
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
   "id": "0ed60a7d49e6",
   "source": "finland",
   "channel": "finland:web:ac318fa4",
@@ -5851,62 +6373,6 @@
   "url": "https://finlandabroad.fi/web/eth/current-affairs/-/asset_publisher/h5w4iTUJhNne/content/ulkoministerio-tuo-tekoalypalvelun-turvaluokitellun-tiedon-kasittelyyn/35732",
   "summary": "13.10.2026 Finland’s Ministry for Foreign Affairs has introduced its AI Assistant UMAI to an initial group of pilot users. The service enables the use of artificial intelligence to process information at national security classification level IV in a secure environment. The Ministry for Foreign Affairs and the…",
   "published": "2026-10-13",
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "129a35988a9c",
-  "source": "usa",
-  "channel": "usa:rss:71c1fd6e",
-  "type": "rss",
-  "title": "Security Alert: Ethiopia (Oct 12, 2026)",
-  "url": "https://et.usembassy.gov/security-alert-ethiopia-oct-12-2026/",
-  "summary": "The post Security Alert: Ethiopia (Oct 12, 2026) appeared first on U.S. Embassy in Ethiopia .",
-  "published": "2026-10-12",
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "24c97f190c70",
-  "source": "usa",
-  "channel": "usa:rss:71c1fd6e",
-  "type": "rss",
-  "title": "Closed Procurement Announcements",
-  "url": "https://et.usembassy.gov/closed-procurement-announcements/",
-  "summary": "The post Closed Procurement Announcements appeared first on U.S. Embassy in Ethiopia .",
-  "published": "2026-10-09",
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "81115b86e493",
-  "source": "usa",
-  "channel": "usa:rss:71c1fd6e",
-  "type": "rss",
-  "title": "Security Alert: Ethiopia (Oct 08, 2026)",
-  "url": "https://et.usembassy.gov/security-alert-ethiopia-oct-08-2026/",
-  "summary": "The post Security Alert: Ethiopia (Oct 08, 2026) appeared first on U.S. Embassy in Ethiopia .",
-  "published": "2026-10-08",
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "aeb1cb684fb7",
-  "source": "usa",
-  "channel": "usa:rss:71c1fd6e",
-  "type": "rss",
-  "title": "Security Alert: U.S. Embassy Addis Ababa, Ethiopia (October 7, 2026)",
-  "url": "https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-october-7-2026/",
-  "summary": "The post Security Alert: U.S. Embassy Addis Ababa, Ethiopia (October 7, 2026) appeared first on U.S. Embassy in Ethiopia .",
-  "published": "2026-10-07",
   "first_seen": "2026-10-30T08:13:28+00:00",
   "baseline": true,
   "event": false,
@@ -11337,20 +11803,6 @@
   "mentions": []
  },
  {
-  "id": "c42476142b01",
-  "source": "eu-ethiopia",
-  "channel": "eu-ethiopia:web:25d9f1dd",
-  "type": "web",
-  "title": "Youth Sounding Board",
-  "url": "https://www.eeas.europa.eu/delegations/ethiopia/youth-sounding-board_en?s=98",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
   "id": "6531f8e54b76",
   "source": "india",
   "channel": "india:web:c072a00e",
@@ -11393,40 +11845,12 @@
   "mentions": []
  },
  {
-  "id": "f75e2dd8613e",
-  "source": "eu-au",
-  "channel": "eu-au:web:f8df2210",
-  "type": "web",
-  "title": "The EU announces a Team Europe investment in health of almost €170 million in Africa",
-  "url": "https://www.eeas.europa.eu/delegations/african-union-au/eu-announces-team-europe-investment-health-almost-eur170-million-africa_en?s=43",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
   "id": "c672c6e57bb6",
   "source": "argentina",
   "channel": "argentina:web:873c0a38",
   "type": "web",
   "title": "Tecnología agroindustrial argentina para el mundo La Embajada Argentina en Etiopía llevó a cabo un encuentro virtual con representantes del sector agroindustrial argentino y autoridades de la gestión de riesgos de...",
   "url": "https://eetio.cancilleria.gob.ar/es/tecnolog%C3%ADa-agroindustrial-argentina-para-el-mundo",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "4a9188942313",
-  "source": "eu-au",
-  "channel": "eu-au:web:f8df2210",
-  "type": "web",
-  "title": "Strengthening the people and institutions behind African science",
-  "url": "https://www.eeas.europa.eu/delegations/african-union-au/strengthening-people-and-institutions-behind-african-science_en?s=43",
   "summary": "",
   "published": null,
   "first_seen": "2026-10-30T08:13:28+00:00",
@@ -11456,20 +11880,6 @@
   "title": "Secretary (ER) Meeting with the Minister of State of Foreign Affairs of Ethiopia",
   "url": "https://eoiaddisababa.gov.in/secretary-er-meeting-with-the-minister-of-state-of-foreign-affairs-of-ethiopia/",
   "summary": "ICCR Scholarship Orientation Session 11th International Day of Yoga at the United Nations Economic Commission for Africa on 21st June 2025 Interaction with Indian Community Meeting with the Secretary General of OSC India and African Union Engage on Peace, Security, and Regional Stability India and Africa CDC Explore…",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "6f5716d5e85d",
-  "source": "eu-au",
-  "channel": "eu-au:web:f8df2210",
-  "type": "web",
-  "title": "Russia’s aggression was a strategic miscalculation",
-  "url": "https://www.eeas.europa.eu/delegations/african-union-au/russia%E2%80%99s-aggression-was-strategic-miscalculation_en?s=43",
-  "summary": "",
   "published": null,
   "first_seen": "2026-10-30T08:13:28+00:00",
   "baseline": true,
@@ -11533,20 +11943,6 @@
   "mentions": []
  },
  {
-  "id": "8503243f6f05",
-  "source": "eu-ethiopia",
-  "channel": "eu-ethiopia:web:25d9f1dd",
-  "type": "web",
-  "title": "RISED Ethiopia: strengthening the power grid for a stronger, smarter and greener future",
-  "url": "https://www.eeas.europa.eu/delegations/ethiopia/rised-ethiopia-strengthening-power-grid-stronger-smarter-and-greener-future_en?s=98",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
   "id": "caf5e7b3189e",
   "source": "india",
   "channel": "india:web:c072a00e",
@@ -11568,20 +11964,6 @@
   "title": "President Janos Ader's opening speech to the Hungarian parliament on the Day of National Unity",
   "url": "https://addisababa.mfa.gov.hu/en/articles/ader-janos-koeztarsasagi-elnoek-beszede-a-nemzeti-oesszetartozas-napjan-az-orszaggyules-emlekuelesen",
   "summary": "6 years ago The transcription of the opening speech can be found on the link below: https://www.keh.hu/speeches&pnr=1 Read More",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "f272aa7ca609",
-  "source": "eu-au",
-  "channel": "eu-au:web:f8df2210",
-  "type": "web",
-  "title": "Preparing before disaster strikes: why being ready matters",
-  "url": "https://www.eeas.europa.eu/delegations/african-union-au/preparing-disaster-strikes-why-being-ready-matters_en?s=43",
-  "summary": "",
   "published": null,
   "first_seen": "2026-10-30T08:13:28+00:00",
   "baseline": true,
@@ -11694,20 +12076,6 @@
   "title": "Meeting with Executive Secretary of UNECA",
   "url": "https://eoiaddisababa.gov.in/meeting-with-executive-secretary-of-uneca-2/",
   "summary": "ICCR Scholarship Orientation Session 11th International Day of Yoga at the United Nations Economic Commission for Africa on 21st June 2025 Secretary (ER) Meeting with the Minister of State of Foreign Affairs of Ethiopia Interaction with Indian Community Meeting with the Secretary General of OSC India and African…",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "2d2fda8304eb",
-  "source": "eu-ethiopia",
-  "channel": "eu-ethiopia:web:25d9f1dd",
-  "type": "web",
-  "title": "Look back at the first EU-Ethiopian Business Forum!",
-  "url": "https://www.eeas.europa.eu/delegations/ethiopia/look-back-first-eu-ethiopian-business-forum_en?s=98",
-  "summary": "",
   "published": null,
   "first_seen": "2026-10-30T08:13:28+00:00",
   "baseline": true,
@@ -11981,20 +12349,6 @@
   "mentions": []
  },
  {
-  "id": "685bc0daf243",
-  "source": "eu-ethiopia",
-  "channel": "eu-ethiopia:web:25d9f1dd",
-  "type": "web",
-  "title": "European Union Film Festival 2026",
-  "url": "https://www.eeas.europa.eu/delegations/ethiopia/european-union-film-festival-2026_en?s=98",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": true,
-  "mentions": []
- },
- {
   "id": "f77153924f1a",
   "source": "hungary",
   "channel": "hungary:web:f70de015",
@@ -12029,48 +12383,6 @@
   "type": "web",
   "title": "El Gobierno argentino ha iniciado un procedimiento de arbitraje conforme al Anexo VII de la Convención de las Naciones Unidas sobre el Derecho del Mar contra el Reino Unido El Gobierno argentino ha iniciado un…",
   "url": "https://eetio.cancilleria.gob.ar/es/el-gobierno-argentino-ha-iniciado-un-procedimiento-de-arbitraje-conforme-al-anexo-vii-de-la-0",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "bf2fcdfd88f9",
-  "source": "eu-au",
-  "channel": "eu-au:web:f8df2210",
-  "type": "web",
-  "title": "EU and African partners call for responsible AI and protected journalists",
-  "url": "https://www.eeas.europa.eu/delegations/african-union-au/eu-and-african-partners-call-responsible-ai-and-protected-journalists_en?s=43",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "346586defc1f",
-  "source": "eu-ethiopia",
-  "channel": "eu-ethiopia:web:25d9f1dd",
-  "type": "web",
-  "title": "EU High Representative/Vice-President Kaja Kallas visited Addis Ababa",
-  "url": "https://www.eeas.europa.eu/delegations/ethiopia/eu-high-representativevice-president-kaja-kallas-visited-addis-ababa-0_en?s=98",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "4bc06bb7b2f6",
-  "source": "eu-ethiopia",
-  "channel": "eu-ethiopia:web:25d9f1dd",
-  "type": "web",
-  "title": "EEAS Deputy Secretary-General visits Ethiopia",
-  "url": "https://www.eeas.europa.eu/delegations/ethiopia/eeas-deputy-secretary-general-visits-ethiopia_en?s=98",
   "summary": "",
   "published": null,
   "first_seen": "2026-10-30T08:13:28+00:00",
@@ -12121,48 +12433,6 @@
   "mentions": []
  },
  {
-  "id": "c58c7cf2a7bb",
-  "source": "eu-au",
-  "channel": "eu-au:web:f8df2210",
-  "type": "web",
-  "title": "Delegation of European Union to African Union is planning to launch tenders for the following service: Security equipment installation and Electric works",
-  "url": "https://www.eeas.europa.eu/delegations/african-union-au/delegation-european-union-african-union-planning-launch-tenders-following-service-security-equipment-0_en?s=43",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "ef079f5bdb28",
-  "source": "eu-au",
-  "channel": "eu-au:web:f8df2210",
-  "type": "web",
-  "title": "Delegation of European Union to African Union is planning to launch tenders for the following service: Security equipment installation and Electric works",
-  "url": "https://www.eeas.europa.eu/delegations/african-union-au/delegation-european-union-african-union-planning-launch-tenders-following-service-security-equipment_en?s=43",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "fc9643bab87a",
-  "source": "eu-au",
-  "channel": "eu-au:web:f8df2210",
-  "type": "web",
-  "title": "Delegation of European Union to African Union is planning to launch tenders for the following service: - Hybride Vehicle Supply (Minivan and Pickup)",
-  "url": "https://www.eeas.europa.eu/delegations/african-union-au/delegation-european-union-african-union-planning-launch-tenders-following-service-hybride-vehicle_en?s=43",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
   "id": "ad87ba261406",
   "source": "alliance",
   "channel": "alliance:web:ade5dbaa",
@@ -12183,20 +12453,6 @@
   "type": "web",
   "title": "Cooperación con la Universidad de Villa María para enseñanza del español",
   "url": "https://eetio.cancilleria.gob.ar/es/cooperaci%C3%B3n-con-la-universidad-de-villa-mar%C3%ADa-para-ense%C3%B1anza-del-espa%C3%B1ol-0",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "0b31315c977b",
-  "source": "eu-ethiopia",
-  "channel": "eu-ethiopia:web:25d9f1dd",
-  "type": "web",
-  "title": "Assela Wind Farm - Powering a Greener Ethiopia",
-  "url": "https://www.eeas.europa.eu/delegations/ethiopia/assela-wind-farm-powering-greener-ethiopia_en?s=98",
   "summary": "",
   "published": null,
   "first_seen": "2026-10-30T08:13:28+00:00",
@@ -12289,34 +12545,6 @@
   "mentions": []
  },
  {
-  "id": "94dc9cf0e13e",
-  "source": "eu-au",
-  "channel": "eu-au:web:f8df2210",
-  "type": "web",
-  "title": "AU–EU partnership opens new pathways for cooperation on AI in Science",
-  "url": "https://www.eeas.europa.eu/delegations/african-union-au/au-eu-partnership-opens-new-pathways-cooperation-ai-science_en?s=43",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "85929cdf4438",
-  "source": "eu-ethiopia",
-  "channel": "eu-ethiopia:web:25d9f1dd",
-  "type": "web",
-  "title": "16 Days of Activism in Ethiopia",
-  "url": "https://www.eeas.europa.eu/delegations/ethiopia/16-days-activism-ethiopia_en?s=98",
-  "summary": "",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
   "id": "2b4134c722b4",
   "source": "india",
   "channel": "india:web:c072a00e",
@@ -12324,20 +12552,6 @@
   "title": "11th International Day of Yoga at the United Nations Economic Commission for Africa on 21st June 2025",
   "url": "https://eoiaddisababa.gov.in/11th-international-day-of-yoga-at-the-united-nations-economic-commission-for-africa-on-21st-june-2025-2/",
   "summary": "ICCR Scholarship Orientation Session Secretary (ER) Meeting with the Minister of State of Foreign Affairs of Ethiopia Interaction with Indian Community Meeting with the Secretary General of OSC India and African Union Engage on Peace, Security, and Regional Stability India and Africa CDC Explore Deeper Cooperation in…",
-  "published": null,
-  "first_seen": "2026-10-30T08:13:28+00:00",
-  "baseline": true,
-  "event": false,
-  "mentions": []
- },
- {
-  "id": "facda5dbf1b6",
-  "source": "eu-ethiopia",
-  "channel": "eu-ethiopia:web:25d9f1dd",
-  "type": "web",
-  "title": "#StepUp: Powering Everyday Lives - ዱብ ዱብ ለነገ!",
-  "url": "https://www.eeas.europa.eu/delegations/ethiopia/stepup-powering-everyday-lives-%E1%8B%B1%E1%89%A5-%E1%8B%B1%E1%89%A5-%E1%88%88%E1%8A%90%E1%8C%88_en?s=98",
-  "summary": "",
   "published": null,
   "first_seen": "2026-10-30T08:13:28+00:00",
   "baseline": true,

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T07:30:17+00:00",
+ "generated": "2026-11-11T07:31:28+00:00",
  "sources": [
   {
    "id": "goethe",
@@ -97,11 +97,12 @@
     "x": "https://x.com/EUinEthiopia",
     "facebook": "https://www.facebook.com/eudelethiopia"
    },
+   "manual": "Since November 2026 the EEAS website refuses automated readers, so press coverage is tracked instead.",
    "channels": [
     {
-     "key": "eu-ethiopia:web:25d9f1dd",
-     "type": "web",
-     "url": "https://www.eeas.europa.eu/delegations/ethiopia_en",
+     "key": "eu-ethiopia:gnews:fb936eed",
+     "type": "gnews",
+     "url": "\"EU Delegation\" OR \"European Union Delegation\" Ethiopia Addis",
      "label": null
     }
    ]
@@ -117,11 +118,12 @@
     "x": "https://x.com/EUtoAU",
     "facebook": "https://www.facebook.com/EU.Delegation.to.the.African.Union"
    },
+   "manual": "Since November 2026 the EEAS website refuses automated readers, so press coverage is tracked instead.",
    "channels": [
     {
-     "key": "eu-au:web:f8df2210",
-     "type": "web",
-     "url": "https://www.eeas.europa.eu/delegations/african-union-au_en",
+     "key": "eu-au:gnews:c7187f3a",
+     "type": "gnews",
+     "url": "\"EU Delegation to the African Union\" OR \"EU Ambassador to the AU\"",
      "label": null
     }
    ]
@@ -454,11 +456,12 @@
     "x": "https://x.com/USEmbassyAddis",
     "facebook": "https://www.facebook.com/us.emb.addisababa"
    },
+   "manual": "Since November 2026 the embassy feed refuses automated readers, so press coverage is tracked instead.",
    "channels": [
     {
-     "key": "usa:rss:71c1fd6e",
-     "type": "rss",
-     "url": "https://et.usembassy.gov/feed/",
+     "key": "usa:gnews:63ac1f03",
+     "type": "gnews",
+     "url": "\"U.S. Embassy\" OR \"US Embassy\" \"Addis Ababa\"",
      "label": null
     }
    ]
@@ -584,13 +587,8 @@
    "links": {
     "telegram": "https://t.me/LokaBudaya"
    },
+   "manual": "The embassy website is an app with no readable content, so press coverage (English and Indonesian) and LinkUp Addis mentions are tracked instead.",
    "channels": [
-    {
-     "key": "indonesia:web:8630f138",
-     "type": "web",
-     "url": "https://www.kemlu.go.id/en/addisababa",
-     "label": null
-    },
     {
      "key": "indonesia:gnews:df022b44",
      "type": "gnews",
@@ -598,9 +596,9 @@
      "label": null
     },
     {
-     "key": "indonesia:gnews:bbfff512",
+     "key": "indonesia:gnews:66e85054",
      "type": "gnews",
-     "url": "KBRI \"Addis Ababa\"",
+     "url": "\"KBRI Addis Ababa\"",
      "label": null
     }
    ]

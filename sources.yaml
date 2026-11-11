@@ -99,11 +99,10 @@
   links:
     x: https://x.com/EUinEthiopia
     facebook: https://www.facebook.com/eudelethiopia
+  manual: Since November 2026 the EEAS website refuses automated readers, so press coverage is tracked instead.
   channels:
-    - type: web
-      url: https://www.eeas.europa.eu/delegations/ethiopia_en
-      include: /delegations/ethiopia/
-      exclude: about-ambassador|dispatch
+    - type: gnews
+      url: '"EU Delegation" OR "European Union Delegation" Ethiopia Addis'
 
 - id: eu-au
   name: EU Delegation to the African Union
@@ -114,11 +113,10 @@
   links:
     x: https://x.com/EUtoAU
     facebook: https://www.facebook.com/EU.Delegation.to.the.African.Union
+  manual: Since November 2026 the EEAS website refuses automated readers, so press coverage is tracked instead.
   channels:
-    - type: web
-      url: https://www.eeas.europa.eu/delegations/african-union-au_en
-      include: /delegations/african-union-au/
-      exclude: about-ambassador
+    - type: gnews
+      url: '"EU Delegation to the African Union" OR "EU Ambassador to the AU"'
 
 - id: euff
   name: EU Film Festival Ethiopia
@@ -359,9 +357,11 @@
   links:
     x: https://x.com/USEmbassyAddis
     facebook: https://www.facebook.com/us.emb.addisababa
+  manual: Since November 2026 the embassy feed refuses automated readers, so press coverage is tracked instead.
   channels:
-    - type: rss
-      url: https://et.usembassy.gov/feed/
+    - type: gnews
+      url: '"U.S. Embassy" OR "US Embassy" "Addis Ababa"'
+      exclude: \b(visa|security alert|health alert)\b
 
 - id: canada
   name: Embassy of Canada
@@ -448,14 +448,12 @@
   notes: Runs the Loka Budaya cultural centre at the embassy (concerts, batik workshops, culinary masterclasses). Event registration often via Telegram (t.me/LokaBudaya).
   links:
     telegram: https://t.me/LokaBudaya
+  manual: The embassy website is an app with no readable content, so press coverage (English and Indonesian) and LinkUp Addis mentions are tracked instead.
   channels:
-    - type: web
-      url: https://www.kemlu.go.id/en/addisababa
-      include: /addisababa/
     - type: gnews
       url: '"Indonesian Embassy" OR "Embassy of Indonesia" OR "Loka Budaya" "Addis Ababa"'
     - type: gnews
-      url: KBRI "Addis Ababa"
+      url: '"KBRI Addis Ababa"'
       lang: id
 
 - id: malaysia

@@ -1,5 +1,44 @@
 [
  {
+  "id": "c618e419a10d",
+  "source": "malaysia",
+  "channel": "malaysia:gnews:151434cc",
+  "type": "gnews",
+  "title": "Anwar, Ethiopian President to drive relations in a new direction - The Malaysian Reserve",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFU4VjkxOHBEUXZTcF9jQm5UckpLQ3dmcGF1T2RoWGxmemMtVE9SbVRPSWxDR0sxMm1GYURlTGN4a0plUkx0cEdQSFh6ZUdkZWRRR0hpT2ZqZjNXLVRlVW5fUEVUX1ZFX1phdjBDQ041YTFGR2tMOFVFYU9QLU5MMG9kSkhzcnR2X05iSnJRTDNvcC16ZkJjMXVnVkJ0TlYzQ2RFbV9kSm0yZk0?oc=5",
+  "summary": "",
+  "published": "2025-11-19",
+  "first_seen": "2026-11-12T09:52:06+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "dc0a24782c5e",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopian Embassy, ICCI to Host Business Forum Ahead of Addis Ababa Exhibition - 2Merkato.com",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjVETlZMWHRRSkdEVkFfUDFfOVQtYi1TTTFDdjBaNEN3aDRvamVkVEtvOTBKNWpSX3hHLXp5RFN3NnV2SWJPOU5nRmVkc3pLMDQ0WlZONm8yMEN4NWowZ2pLR3haS3A1TWptVkJVSUJQMjFtTXJTcjZrbkRhc0hQMEVYOEJ2TkNFblgwdTQwdlJOT2E5cGhzZW9JeVlYQnkyVUVFS1doNUdrNnVUQ3VFeXQ3WjFYelpCTWZV?oc=5",
+  "summary": "",
+  "published": "2025-04-07",
+  "first_seen": "2026-11-12T09:52:06+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "5824b744ead8",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Dubes RI Imam Santoso Serahkan Surat-surat Kepercayaan kepada Presiden Ethiopia - Kompasiana.com",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVkk1RVM3SHl5ZDRQcHpPdDdHOTJSV0gwYW9OYklNMmVtZmwwQ0hpV0ctenB1X0RxdnZVR0pkbUNJcFpZNGlTdHRYaElYeUgxeEZzZ1JyVDRfLXFwaUxkTkM5THcySWxBdUdSX0xEaXpEaEVfMnlJYTVaM0xQTGpzalI2dUgyb2xua0xtUHBqdDBaV0RmalpSRzVwQ3NMN1VFUzNDV0dyanBmZnlwaHdWV3VpYnd2WVRPUERFdG9GYmxBb1N2VThGSVR6VEFDQjZfOVQwOXR6RTZ0TFNfX2F6VC11QWs5cjRMYzF3NjBB?oc=5",
+  "summary": "",
+  "published": "2018-07-09",
+  "first_seen": "2026-11-12T09:52:06+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "deeb834766cb",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +49,8 @@
   "published": "2026-11-11",
   "first_seen": "2026-11-12T00:46:02+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "c0b77c4dfedc",
@@ -23,7 +63,8 @@
   "published": "2025-11-19",
   "first_seen": "2026-11-12T00:46:02+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "66c21bb703a2",
@@ -36,7 +77,8 @@
   "published": "2019-05-28",
   "first_seen": "2026-11-12T00:46:02+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4dabf2cbf641",
@@ -49,7 +91,8 @@
   "published": "2019-05-07",
   "first_seen": "2026-11-12T00:46:02+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "12b01298f40a",

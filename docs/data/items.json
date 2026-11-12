@@ -1,5 +1,83 @@
 [
  {
+  "id": "5b4dc1ec7c7f",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "When public attention turns into public humiliation, where do we draw the line?",
+  "url": "https://t.me/LinkUpPremium/5110",
+  "summary": "When public attention turns into public humiliation, where do we draw the line? A closer look at Ethiopia’s digital gossip culture and the cost of being visible. Read more: https://www.linkupaddis.com/article/589?source=telegram&utm_source=telegram&utm_medium=social&utm_campaign=share @linkuppremium",
+  "published": "2026-11-12",
+  "first_seen": "2026-11-12T18:21:20+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "50526790cbad",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Today marked an exciting milestone as the official inauguration program for ASFW took place at the Addis Convention Center in CMC, Addis Ababa.",
+  "url": "https://t.me/LinkUpAddis/13372",
+  "summary": "Today marked an exciting milestone as the official inauguration program for ASFW took place at the Addis Convention Center in CMC, Addis Ababa. ​Gathering in the heart of the city, this launch sets the stage for everything ASFW is set to bring forward. @linkupaddis",
+  "published": "2026-11-12",
+  "first_seen": "2026-11-12T18:21:20+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "45869cd2b8b2",
+  "source": "finland",
+  "channel": "finland:web:ac318fa4",
+  "type": "web",
+  "title": "Restrictions placed on entry of Russian athletes into Finland",
+  "url": "https://finlandabroad.fi/web/eth/current-affairs/-/asset_publisher/h5w4iTUJhNne/content/venalaisurheilijoiden-maahantuloa-rajoitetaan/35732",
+  "summary": "12.11.2026 Finland is tightening restrictions on the entry of Russian citizens into the country. On 12 November 2026, the Government issued a resolution, which stated the threat that the entry of Russian citizens into the country poses to Finland’s international relations. The new restrictions apply to short-term…",
+  "published": "2026-11-12",
+  "first_seen": "2026-11-12T18:21:20+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "53b310567d97",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Pakistan-Africa Trade Development Conference and Exhibition to be Held in Addis Ababa next week - Fana Media Corporation S.C",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd0I1S3pHdVBLUDVncFd5b2xWbG42QWw0X2d3Tk96UkFsVDN5X1R0UTdyLUlBVXVGak10dHowbVBYR3BxMU1GYzZFTThwczRGNlNfaDFTSW45aURWd2JxWDNFb2ZuYWllQXVkUGxUWUJyLWhtN29mbkpxVllPTWVMRjVaTEh3TTNfMkNmaEpOMTZ2VV9jQlFRTGZibkV1Qmx1VEJFWG40SVpRSG8xd08xN2JCV1dOTk54cWJTZzJ0QWFxZjA5VFE?oc=5",
+  "summary": "",
+  "published": "2025-05-05",
+  "first_seen": "2026-11-12T18:21:20+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "7d9b31fdf136",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:232c6525",
+  "type": "gnews",
+  "title": "Pakistan-Africa Trade Development Conference and Exhibition to be Held in Addis Ababa next week - Fana Media Corporation S.C",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd0I1S3pHdVBLUDVncFd5b2xWbG42QWw0X2d3Tk96UkFsVDN5X1R0UTdyLUlBVXVGak10dHowbVBYR3BxMU1GYzZFTThwczRGNlNfaDFTSW45aURWd2JxWDNFb2ZuYWllQXVkUGxUWUJyLWhtN29mbkpxVllPTWVMRjVaTEh3TTNfMkNmaEpOMTZ2VV9jQlFRTGZibkV1Qmx1VEJFWG40SVpRSG8xd08xN2JCV1dOTk54cWJTZzJ0QWFxZjA5VFE?oc=5",
+  "summary": "",
+  "published": "2025-05-05",
+  "first_seen": "2026-11-12T18:21:20+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "3b339bd94ec5",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Dubes RI di Addis Ababa Tawarkan Beasiswa dan Kerjasama - Minanews.net",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQazdDbUJtbjNsU0J4UTNQOTg1cHFhblFKTGtLNXpGT0FlNnZvR21LVG5pazRUYXVSbmVJRHRldENFNFlPS3BHNmNPNWlBZnFhaFJ1WDdEYXRwTnkxREQ1cmg4U3RIQURXM2pKSlIwSTZiYmxCclpCYzR6ME95dXAtTHVNWQ?oc=5",
+  "summary": "",
+  "published": "2018-05-27",
+  "first_seen": "2026-11-12T18:21:20+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "c618e419a10d",
   "source": "malaysia",
   "channel": "malaysia:gnews:151434cc",
@@ -10,7 +88,8 @@
   "published": "2025-11-19",
   "first_seen": "2026-11-12T09:52:06+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "dc0a24782c5e",
@@ -23,7 +102,8 @@
   "published": "2025-04-07",
   "first_seen": "2026-11-12T09:52:06+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "5824b744ead8",
@@ -36,7 +116,8 @@
   "published": "2018-07-09",
   "first_seen": "2026-11-12T09:52:06+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "deeb834766cb",

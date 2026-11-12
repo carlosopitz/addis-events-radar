@@ -1,5 +1,57 @@
 [
  {
+  "id": "deeb834766cb",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Gast Cinema Nov 12- 13 2026 Schedule",
+  "url": "https://t.me/gastcinema/4895",
+  "summary": "Gast Cinema Nov 12- 13 2026 Schedule",
+  "published": "2026-11-11",
+  "first_seen": "2026-11-12T00:46:02+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "c0b77c4dfedc",
+  "source": "malaysia",
+  "channel": "malaysia:gnews:151434cc",
+  "type": "gnews",
+  "title": "Unique Welcome For Anwar As Ethiopian Counterpart Drives PM In Official Vehicle - Bernama",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wNWxiMER4dlExYjJLSGhjQkJmNTNwM19ra0dXckMwVGU5SlZPWDR4TjNDVU5wZDZjelhtRjBzRzJfeG1URzBqWGZ5bUVYSHlSdGp4bA?oc=5",
+  "summary": "",
+  "published": "2025-11-19",
+  "first_seen": "2026-11-12T00:46:02+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "66c21bb703a2",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Dr. I. Ketut Putra Erawan Sampaikan Kuliah Umum - kumparan.com - kumparan",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXzNJVEdMZXZfMW53bXJXQmhNUmRSUU5fbk9mNnBjRk5BTlV2bFprSmhTYm9XeU9FYUViWXF3STB2TmZTNlNqVEhwYzRwUVh1LTU4UE5SWGsxOG9GcWhCYlZ2V1U0RGJsMXZmRnpkMl9LNl9Ea2hBQXE1a19Kdlc4T1Fma09HZVh3c1Q0Ti1rS3NLUF9TNWlRVHp30gGiAUFVX3lxTE9VdnBIVDBMbjFhUmtybEhhU3Z0Z05qWklwQzd1LVNWYld2TnNqenhNanhXMHRlMGpuSkM2ZE1xRVp3U1FwbGtENGpzMFRvZWpGMnRNY0oydjAzLVhSMktCcTA3ZWdYcXE3UHlzT05VUVVtUXVRU3dGMDFEZi1yOEJRcVZlVWVpRXVpQ0FRS1FTSU1ReEctb2hhNS1ucHpGTDVxQQ?oc=5",
+  "summary": "",
+  "published": "2019-05-28",
+  "first_seen": "2026-11-12T00:46:02+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4dabf2cbf641",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Remaja Indonesia ramaikan ibadah Ramadhan di Wisma RI di Addis Ababa - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ01TLThRZ1ZDemtRTnR6R0FfVWhISkFhQUtralRLOVB6ZmhWN1JnaHp5NExSVEVERjl6NFhXNDFuZFhTTGxCOVpaVE5TeDJxbFZxcUQtaU0wb29JejVMbVBQVFhmcnBkQXlxV0s5OTlITl8zR21aR1YwcHFkblF4aFJ6eV8xV1FOMVZMMGRxTm5RRFZBZEtEUEk2WVlWVGwzS3l3c2Mwc0FkWW1kMFHSAbABQVVfeXFMTzcwUEZxVEV5VFp6OEhCZDlwRnFlaHY5T0VzLWZXWFlYUFI0R0FKV1ZZOTY4SGp2dkNKZjFRdUh5dFpEWE4wazd6ZmpqVFpnb0hTYVU2SWVCemExWk5fQmJ2Uk5lRWV4NzVnUmZEdF9sT0poS3d3VVhrYWQyRlBtZ2RVYmJuYkdleUZBNjZFekc0SlpoNzd0bEZCa2RLQVJvNXBwRTlSMEE3UW8xd0NaWWk?oc=5",
+  "summary": "",
+  "published": "2019-05-07",
+  "first_seen": "2026-11-12T00:46:02+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "12b01298f40a",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +62,8 @@
   "published": "2026-11-11",
   "first_seen": "2026-11-11T17:55:00+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "03e91c23cc41",
@@ -23,7 +76,8 @@
   "published": "2026-11-11",
   "first_seen": "2026-11-11T17:55:00+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "fb8e9daf801e",
@@ -36,7 +90,8 @@
   "published": "2026-08-03",
   "first_seen": "2026-11-11T17:55:00+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ce99dfc8d6bb",
@@ -49,7 +104,8 @@
   "published": "2026-08-01",
   "first_seen": "2026-11-11T17:55:00+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "2e26d5abfbf9",
@@ -62,7 +118,8 @@
   "published": "2026-07-26",
   "first_seen": "2026-11-11T17:55:00+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "621085005f0b",
@@ -75,7 +132,8 @@
   "published": "2023-03-08",
   "first_seen": "2026-11-11T17:55:00+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "60a927ffd80c",
@@ -88,7 +146,8 @@
   "published": "2020-10-07",
   "first_seen": "2026-11-11T17:55:00+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a748110e7a14",

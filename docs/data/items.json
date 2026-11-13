@@ -1,5 +1,18 @@
 [
  {
+  "id": "af3b0c809177",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Puluhan Tahun Kerja di KBRI Addis Ababa Tiga Ibu Ethiopia Ini Berani Ngaku Jadi Orang Indonesia - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMGZ3aFpaeXBfYlc2QS1mRXh1NGh0VFh0YnUxaGhfQUc4dV94SXlOaVhqRmNrQ3poRUlCdjhWY18yZHIxVFY5MUlXZFVDdVVLYkdTbkZXVHl0TGJhZ3AxdklTUVpsT0Z6Y1RxMDJCbjU4YUU1U2VoZ3c1OGdBelZJZEV5YWlvUnk0TXV3V0sxR1dVN2p3TjUxV2RMaHAwamhTQ25Na2ZpS3QybEhhSFBrWjJ1bnp4WFFER2JaTjc1bWY3Y2NQLW5nUmNERktjVFA2NE9CeVFzZFg?oc=5",
+  "summary": "",
+  "published": "2019-12-23",
+  "first_seen": "2026-11-13T09:34:04+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "1673410383cc",
   "source": "indonesia",
   "channel": "indonesia:gnews:66e85054",
@@ -10,7 +23,10 @@
   "published": "2026-07-28",
   "first_seen": "2026-11-13T01:06:14+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": [
+   "jazz-village"
+  ]
  },
  {
   "id": "0f563a0dab5f",
@@ -23,7 +39,8 @@
   "published": "2025-11-18",
   "first_seen": "2026-11-13T01:06:14+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "8197b71b19bb",
@@ -36,7 +53,8 @@
   "published": "2022-05-20",
   "first_seen": "2026-11-13T01:06:14+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5b4dc1ec7c7f",

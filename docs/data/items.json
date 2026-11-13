@@ -1,5 +1,44 @@
 [
  {
+  "id": "1673410383cc",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Indonesia-Ethiopia perkuat diplomasi budaya di African Jazz Village - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbk5VSXlLSzdvYnFiT2pTMlFMcVlBMmVVTGxjOEVsSU05WmZyT1ZuLW1KaTZqNENnTGxoR29XLUVuVHUweGdWMmxkSVpoQ0REMVFYczFWUFB0VmdIWXI1MS1vanFWTDZva29DTHg0aUcxNGo1aDRVbk1ySGlaVVEwTmVTRFlDVWE5REx2dFVZcGU5WUZzWG1xZ21MRzdfLUZjakdzNnRoRVhYU21Wa3c?oc=5",
+  "summary": "",
+  "published": "2026-07-28",
+  "first_seen": "2026-11-13T01:06:14+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "0f563a0dab5f",
+  "source": "malaysia",
+  "channel": "malaysia:gnews:b57d9e9a",
+  "type": "gnews",
+  "title": "Sambutan Anwar unik, rakan sejawat sendiri pandu kenderaan rasmi bawa lawat Ethiopia - Harian Metro",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbkYtM0dmdW1zQUhBNjZFSml5MkVoY2pETHI0SEFQaUE0QURqeWQxWk9lOVpBWWhFT2pYN1NoTEdCUWJOU0sxeG1aRWVucFZOVzdVRzJSa2tqX1N4U1g4RkpjUVpfalJGTEZTMXl0bUJrdEE4ZnFlNEpfd0k1UlFEcG5FZ2Y3ZE5oWXM2cjZPSnVadFJOTlVHbHZPa2VMcnNrbVhKcXg0dDVNVHp6SXFPb2R6ZmppanlDcHFub1J5WWxad2o1UjRYdUhoY29JVmhWNVhsd3hn0gHIAUFVX3lxTE9rOEc3bUotSlZJb0tyT00wbWx6MlpxNUpTZTVmSTR5M3NsakxiTXZPMHF1VmMwS3ZROVVVSXNVMnBBRW5rZ1BRX0VvbzdVR3c5QjREQUJXazZHSEZ4eGwxR0Y0M3dOaU56TTlmb25Bc2wzdzdoUUx3bWl6amFhTnlTNFBzVEk1Q3NLbE53YmJ1Nk1MY2VlRUlLZkxuYUdVME9ESGdudDNnNElFZHRVd3pFZ1hhcnhGMFM4eXZwWER5X241eW40UEU5?oc=5",
+  "summary": "",
+  "published": "2025-11-18",
+  "first_seen": "2026-11-13T01:06:14+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "8197b71b19bb",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Perkenalkan Indonesia, KBRI Addis Ababa Gelar Lomba Menulis untuk Pelajar Ethiopia - SINDOnews Nasional",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd1paWHFEZDNqUHg0WXdUcXhYNHVuNXdydHJBNnc5ekg5eXRyTEpOd3AzSjRPOUJEcWZpOVlBcTZMWU1VQjJrZi1KWm1UenV4NmtWODJYWnhWUXRZVmR1YnQ2M2xEdXRTMXRaQXBiYUpzTl9IZms2cFZUMTYxZDZ4ZnlFNVg3R2p1REtRb3RrYU1iVFN3dmF6NHNYaEFPUHc2d2FpRXhVREE1ejZXUUFtMzJTdjl1UDAyWi1OX3B0NTdBbUVtOHc0N3lWZ1k2M2xjUlBTM9IB2gFBVV95cUxQNE1tZk85azFvbFotYmFDTGV3ZE44UWtwUXFyeGdSMFNVM1RwX1dicFVHZXJnMkR0WWFzSDQ2bzlFbWFRN0dKRFRsQS1zNXdUSGU2VU1udUFLSmZYcm0wMDQzX3J3b0s5TW9TUENXNjlUTGVTQTdTS2RBUEVsWFkwWWRiYXRITmFwNDVYRnhncnVOY1NQSW0weHFXUTRRSklMS3k5dGl2OFgtVnNJd3RiWFQxWkJrUFl5bW1ESmE1YVpzMjhTYnpuVGFnYUhJUU90aEdjMWNuY2RHUQ?oc=5",
+  "summary": "",
+  "published": "2022-05-20",
+  "first_seen": "2026-11-13T01:06:14+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "5b4dc1ec7c7f",
   "source": "linkup",
   "channel": "linkup:telegram:121a3f67",
@@ -10,7 +49,8 @@
   "published": "2026-11-12",
   "first_seen": "2026-11-12T18:21:20+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "50526790cbad",
@@ -23,7 +63,8 @@
   "published": "2026-11-12",
   "first_seen": "2026-11-12T18:21:20+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "45869cd2b8b2",
@@ -36,7 +77,8 @@
   "published": "2026-11-12",
   "first_seen": "2026-11-12T18:21:20+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "53b310567d97",
@@ -49,7 +91,8 @@
   "published": "2025-05-05",
   "first_seen": "2026-11-12T18:21:20+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "7d9b31fdf136",
@@ -62,7 +105,10 @@
   "published": "2025-05-05",
   "first_seen": "2026-11-12T18:21:20+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": [
+   "pakistan"
+  ]
  },
  {
   "id": "3b339bd94ec5",
@@ -75,7 +121,8 @@
   "published": "2018-05-27",
   "first_seen": "2026-11-12T18:21:20+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c618e419a10d",

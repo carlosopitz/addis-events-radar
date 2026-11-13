@@ -1,5 +1,18 @@
 [
  {
+  "id": "adf7de4dea30",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Indonesia-Ethiopia perkuat diplomasi budaya di African Jazz Village - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbk5VSXlLSzdvYnFiT2pTMlFMcVlBMmVVTGxjOEVsSU05WmZyT1ZuLW1KaTZqNENnTGxoR29XLUVuVHUweGdWMmxkSVpoQ0REMVFYczFWUFB0VmdIWXI1MS1vanFWTDZva29DTHg0aUcxNGo1aDRVbk1ySGlaVVEwTmVTRFlDVWE5REx2dFVZcGU5WUZzWG1xZ21MRzdfLUZjakdzNnRoRVhYU21Wa3fSAbABQVVfeXFMUHU3aUNPNHJjUHpBZ0RVUWR1OUdiV2ZqUE1WSVZwaW1JSFZrTDhzcHQ0OFBjcVBOM0I5c3hNaUw0VHJNOWxDdjlhUEhFZVdWWjBSMUo3ZHBndzZseHlraXJuMWpMd215TjN4U3J5RU5kTHZ0a21DZnREQlJDU0xoTFlrT05kUFNYZl8ycTFROWtJYUkzTXRXLTBGd3Z1UTR2c0pobW9OYWlNRHI4UUZmTlA?oc=5",
+  "summary": "",
+  "published": "2026-07-28",
+  "first_seen": "2026-11-13T23:37:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "67a072947f68",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +23,8 @@
   "published": "2026-11-13",
   "first_seen": "2026-11-13T17:45:57+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "b8f5b07af84d",
@@ -23,7 +37,8 @@
   "published": "2026-11-13",
   "first_seen": "2026-11-13T17:45:57+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ed1152b2b223",
@@ -36,7 +51,8 @@
   "published": "2010-03-09",
   "first_seen": "2026-11-13T17:45:57+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "af3b0c809177",

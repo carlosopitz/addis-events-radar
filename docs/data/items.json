@@ -1,5 +1,44 @@
 [
  {
+  "id": "67a072947f68",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Gast Cinema Nov 14- 15 2026 Schedule",
+  "url": "https://t.me/gastcinema/4897",
+  "summary": "Gast Cinema Nov 14- 15 2026 Schedule",
+  "published": "2026-11-13",
+  "first_seen": "2026-11-13T17:45:57+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "b8f5b07af84d",
+  "source": "kazakhstan",
+  "channel": "kazakhstan:web:3ac7b4ec",
+  "type": "web",
+  "title": "At the Ethiopian Chamber of Commerce and Sectoral Associations perspectives of economic cooperation between Astana and Addis Ababa was discussed",
+  "url": "https://www.gov.kz/org/mfa-addis-ababa/press/news/details/1329496?lang=en",
+  "summary": "13 November 2026",
+  "published": "2026-11-13",
+  "first_seen": "2026-11-13T17:45:57+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "ed1152b2b223",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "British Council Offices, Addis Ababa, Ethiopia by British Council in-house architects - The Architects’ Journal",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc19LZlNpZWdWZnVVX2dsT2dzZUJFSVBMTnlueTBSUmZmYkNBeG9qSWsyU0Mwd1dvQk1ndDBOZWVXZ1hIN1ZmZFV5VC1Nb2dpVkllVVhjbWFjYk12WjZ5SXpGYTRkWjlHZ3k4Z2E1bXZMM1E2S0UyLXppYXduaWVxSGxPUDE2Sy1nS2I4MHpxdGhhRzg5aVFsZlZOSldHYndpVDAwZEd1ZWNvQXI3SVp4ZlVZeXRKbVBzY1ZidUdjQ1BWSG1PRnc?oc=5",
+  "summary": "",
+  "published": "2010-03-09",
+  "first_seen": "2026-11-13T17:45:57+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "af3b0c809177",
   "source": "indonesia",
   "channel": "indonesia:gnews:66e85054",
@@ -10,7 +49,8 @@
   "published": "2019-12-23",
   "first_seen": "2026-11-13T09:34:04+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1673410383cc",

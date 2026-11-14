@@ -1,5 +1,57 @@
 [
  {
+  "id": "c60d3f390dca",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "British Council Celebrates 85 Years in Ethiopia - Ethio Negari",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWg5a1VBWll1dFkyd0dKTGthMnZhVk1DYWlQeXFSYVVUVDNrTVBZRjNleWVjRFoxanlkZldzZ09pbGVHdko4Q2kySDZDQjZzTDhQYmhsazFGNXVZZGdFMGIzQjJnOG1JQWxhd3FiUnRQZTNhN1V4cnQ4MFZwVnVzV3k4SE9QUzNLTFBF?oc=5",
+  "summary": "",
+  "published": "2026-11-10",
+  "first_seen": "2026-11-14T06:28:19+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "12aee03cca8b",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:df022b44",
+  "type": "gnews",
+  "title": "Addis Ababa - Portal Kemlu",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KeFBYSHQ5U1VvckI1Y3U0b1pZbzRCOGxRS1FYc3JwNWx2MHVLbXlJSDN4NnZ3NEZNRTMwYjVzamdUSFVUM1A3ZERDc3dPenFPU21DR0ZYbWFCZWRDakpGWHRUS1VJbDQ?oc=5",
+  "summary": "",
+  "published": "2026-07-31",
+  "first_seen": "2026-11-14T06:28:19+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "cc3fd58c724d",
+  "source": "malaysia",
+  "channel": "malaysia:gnews:151434cc",
+  "type": "gnews",
+  "title": "PM makes maiden visit to Ethiopia - The Star",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRzZRTEZpTlhPODhFaGJBNHRtTHNMVkdMODhQYTduOGxLOXhHQ21rdmloakJVYk00TFljUF9vb1B2ZHYyR3F5bFBNWDNSdE5oS0k0emc5U3EzLU1JZncxYy1udFY4WDl3b0owY0I1OHJEWnk3U0FzVU5CaEUwVlo0Y0dXTVN2eGkxTl84?oc=5",
+  "summary": "",
+  "published": "2025-11-19",
+  "first_seen": "2026-11-14T06:28:19+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4edda75ffd4d",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Indonesia-Djibouti Business Connect Diluncurkan, Apa Targetnya? - Tempo.co",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkRHZDcyVHRtenYwS3lRU3VyZ2tjcXYxUjVPSkVxWkpfcTFoT0k3UnJFQ2F1akttcDNRTGJBNy1rWTZRUl9yazBvVnlCTEdvUWlfOEpJRUNaWVhmV1hZTlBOd1c3clJ2QWZRc0JvOF9UU0tEbUQ4eG05SDh1a3ZTMEZZNDBNNGRheVJpUlZFdDVubjRXQ09uM1RpcmRXVkkwTGY2RnNlOA?oc=5",
+  "summary": "",
+  "published": "2019-11-20",
+  "first_seen": "2026-11-14T06:28:19+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "adf7de4dea30",
   "source": "indonesia",
   "channel": "indonesia:gnews:66e85054",
@@ -10,7 +62,10 @@
   "published": "2026-07-28",
   "first_seen": "2026-11-13T23:37:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": [
+   "jazz-village"
+  ]
  },
  {
   "id": "67a072947f68",

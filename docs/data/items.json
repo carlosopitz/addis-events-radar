@@ -1,5 +1,18 @@
 [
  {
+  "id": "1b2a52e80bd2",
+  "source": "exhibition-center",
+  "channel": "exhibition-center:gnews:fb9a7f86",
+  "type": "gnews",
+  "title": "Chamber calls for government attention over Addis Ababa Exhibition Center - Capital Newspaper",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWNtNkVfenkybFlvV0NrQWJNcjM1VTlhVGc4STFhLTQwZVpmNGdSS0J3NEx1TzNLa1lBSGtUZExyTzVwVnhLX2IzenpRZy1XRzVsbk1uSzREamc4WlVBbFVjWUx2ODJXYWwzTWZnMy1uV0ktTU9zYnVKWDVrbEw2X2VhdElPaURBak0yS3VMZHVldHRudk1qbDl5ZVNfOTBrVzVwNHA0ajlsbkJMNWZSZ1FfVQ?oc=5",
+  "summary": "",
+  "published": "2024-05-13",
+  "first_seen": "2026-11-14T20:45:10+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "5a4ea7d2aaf2",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +23,8 @@
   "published": "2026-11-14",
   "first_seen": "2026-11-14T15:08:15+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0ad5a575cbd1",
@@ -23,7 +37,8 @@
   "published": "2026-11-14",
   "first_seen": "2026-11-14T15:08:15+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4ebc621ee8b2",
@@ -36,7 +51,8 @@
   "published": "2026-11-14",
   "first_seen": "2026-11-14T15:08:15+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "47f7aa20d4c2",
@@ -49,7 +65,8 @@
   "published": "2026-11-14",
   "first_seen": "2026-11-14T15:08:15+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "47a06f98d5b3",
@@ -62,7 +79,8 @@
   "published": "2026-11-14",
   "first_seen": "2026-11-14T15:08:15+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "40241c3a0f3d",
@@ -75,7 +93,8 @@
   "published": "2025-10-09",
   "first_seen": "2026-11-14T15:08:15+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d855312c407a",
@@ -88,7 +107,8 @@
   "published": "2024-03-28",
   "first_seen": "2026-11-14T15:08:15+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ef080619cf78",
@@ -101,7 +121,8 @@
   "published": "2019-07-03",
   "first_seen": "2026-11-14T15:08:15+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c60d3f390dca",

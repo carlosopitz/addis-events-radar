@@ -1,5 +1,57 @@
 [
  {
+  "id": "16941fe2a32a",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:df022b44",
+  "type": "gnews",
+  "title": "Addis Ababa - Portal Kemlu",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeFBQaDVwVmg3bUMzSEV4REk1MGU2NEVYWnQ0LXcwbWRLZ0FUZFNOYjNqRkItQnNQLXQ2QjFQM05IRElkZjVJWFlwRTZOT2xtUkVqWmcydE9SNEJWaDJ1Z012aXJJQVZ4N1JlX3R3Y0V6Zko5T1RYbUVKbmJfRTRnNEw1eTRSU0UzM2V5ZGlrRng1dnR4OEpZTkdmRlo1OGQycTFqT21hYTJSU1dFWHF6RXJ2MEhCQ2toX19WemkyM0NrejEyOXppLTBXY0VkTmxWRUN3TzFZV1ZhMExDYlhvVlFQeVJjai1Lc19KTGV6dG5rb2xENWRXdFA1dnlaYjdVTnhvS3ZsZ18?oc=5",
+  "summary": "",
+  "published": "2026-07-31",
+  "first_seen": "2026-11-15T01:57:55+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "7d4eae13a214",
+  "source": "azerbaijan",
+  "channel": "azerbaijan:gnews:a1576b5a",
+  "type": "gnews",
+  "title": "Ethiopia hosts several events ahead of WUF13 (PHOTO) – Trend News Agency - ethiopanorama.com",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoS2VIMTI2Rk9HeVhoRkVKUEduaEI5enhXQVJQS09UYmxFUGRtZTBnNzU5VjV5QWM4WjhYWDJvV3hHcEdaTUFoYk85RQ?oc=5",
+  "summary": "",
+  "published": "2026-01-23",
+  "first_seen": "2026-11-15T01:57:55+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "2f2e460a66a8",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "#GRULAC #Etiopía #Cuba - Ministerio de Relaciones Exteriores de Cuba",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qWDY3TnpxbXE1c2c5UXVFbG84V3QtcFU4MHR5em13cnYxaWJWQjUxRmNwRTk3c2RmVHNleUxZRkJsenVrOGFncHM0VXZhVXVaWWZKNU83Z1RfU0NwUUlsYnIyQQ?oc=5",
+  "summary": "",
+  "published": "2025-05-12",
+  "first_seen": "2026-11-15T01:57:55+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "cfa8211f4eb9",
+  "source": "colombia",
+  "channel": "colombia:gnews:d97e2977",
+  "type": "gnews",
+  "title": "El mensaje que la vicepresidenta Francia Márquez replicó en Twitter a propósito de su “safari” a África - Revista Semana",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNjZJZ1dnaWtOdm1veTc1Z0xDWXlCWFpjckR6OGI0cUhMM2wtWW5ZclRJQXFwV214eGlBWXBINGFha0R4clMwQjM5UHl4RzJNMlhvWUlycG11TVc2ajV2NkpFa0Z4U2JiSnlMSzg1SXZMX080YjZ3ckFnT3A5SmwtWFg3ZjE5U3o2QWhXODZfNmZaUkZrdUlzOFU1YzJvM2VDS2pjVktMS1lkTGdadGY2TUhFQ09OaGNOMUFpTWE4bVY3c0JoWEFXYnp2aGVJTDQ0SWpTSDVNWXI4aHBMeGJzRkhGSXTSAeoBQVVfeXFMTlN5dHhZWmQ2MktOQldBTzBIQkR0U1RGTUhxMElrSG1pZzlPZEUzNHNWZVpOUW51aEx3eUUzamp3Mm9zSl9WbkN1VmNzZFBwZFc4QjZITjlXQ3dKVmxvQ01GQWNwSzVYQnM5WmZrY1JoSWNnbkFHbVV0V0hPOEd1REpHT0pjQ1h0X0hRSU5odHNsQ2prVTVWUUhGLS01VkhYbl9xTkNJR3dYZmhjU1Rrd2NPN1d5a1JkcjlpNHNaRV80cGRVek0yT29ZbVZzdmtSTzBOdThrUFQtcS1JbjI3TnRnN2RwRGxraHFR?oc=5",
+  "summary": "",
+  "published": "2023-04-06",
+  "first_seen": "2026-11-15T01:57:55+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "1b2a52e80bd2",
   "source": "exhibition-center",
   "channel": "exhibition-center:gnews:fb9a7f86",
@@ -10,7 +62,8 @@
   "published": "2024-05-13",
   "first_seen": "2026-11-14T20:45:10+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "5a4ea7d2aaf2",

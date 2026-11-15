@@ -1,5 +1,96 @@
 [
  {
+  "id": "ba62066499cd",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:df022b44",
+  "type": "gnews",
+  "title": "Culinary fair presents Indonesia’s rich culture, cuisine in Addis - Portal Kemlu",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNmR0XzVhdWJtRzc3dWdUWnh6MC02VmxTaDFFZnNyelA1bjRXSi16eWVvYngzWkpZWnRYdlRiSTJqd3lMQzNnZUZrM0gwNnZuZ1lGNFdiN3ZyYzlPMWJ1aVY3ZnhDbGJUdWlkd1hzNUFjRHQxcUpXRWxfTzlhdUhSTUg4c09LQUxoSmhqS0xlc2d4M1NsVTV0RWJSUjdzQzZTWWg5YTk2eE5QQkZSSk51VGt2a0I5Y0VQUVo1ZFQ3WjJUZw?oc=5",
+  "summary": "",
+  "published": "2026-08-08",
+  "first_seen": "2026-11-15T17:14:14+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "9832fc8e9c5c",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:232c6525",
+  "type": "gnews",
+  "title": "Culinary fair presents Indonesia’s rich culture, cuisine in Addis - Portal Kemlu",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNmR0XzVhdWJtRzc3dWdUWnh6MC02VmxTaDFFZnNyelA1bjRXSi16eWVvYngzWkpZWnRYdlRiSTJqd3lMQzNnZUZrM0gwNnZuZ1lGNFdiN3ZyYzlPMWJ1aVY3ZnhDbGJUdWlkd1hzNUFjRHQxcUpXRWxfTzlhdUhSTUg4c09LQUxoSmhqS0xlc2d4M1NsVTV0RWJSUjdzQzZTWWg5YTk2eE5QQkZSSk51VGt2a0I5Y0VQUVo1ZFQ3WjJUZw?oc=5",
+  "summary": "",
+  "published": "2026-08-08",
+  "first_seen": "2026-11-15T17:14:14+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "61442ccc6854",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:df022b44",
+  "type": "gnews",
+  "title": "Addis Ababa - Portal Kemlu",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4teGQ2UnF6RURsb0x4MnNkRExGU1NYY2RVWGc2M3lKTGVHRFEtZFczYXRTR1MwUE9MeWxPT2xoRURFRURaU25BMG81UEE0R0JHQS1vQzlLWjd1MXFOaU1GT1ZfZkpBUG8?oc=5",
+  "summary": "",
+  "published": "2026-07-31",
+  "first_seen": "2026-11-15T17:14:14+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "e87df1106778",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:232c6525",
+  "type": "gnews",
+  "title": "Addis Ababa - Portal Kemlu",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeFBQaDVwVmg3bUMzSEV4REk1MGU2NEVYWnQ0LXcwbWRLZ0FUZFNOYjNqRkItQnNQLXQ2QjFQM05IRElkZjVJWFlwRTZOT2xtUkVqWmcydE9SNEJWaDJ1Z012aXJJQVZ4N1JlX3R3Y0V6Zko5T1RYbUVKbmJfRTRnNEw1eTRSU0UzM2V5ZGlrRng1dnR4OEpZTkdmRlo1OGQycTFqT21hYTJSU1dFWHF6RXJ2MEhCQ2toX19WemkyM0NrejEyOXppLTBXY0VkTmxWRUN3TzFZV1ZhMExDYlhvVlFQeVJjai1Lc19KTGV6dG5rb2xENWRXdFA1dnlaYjdVTnhvS3ZsZ18?oc=5",
+  "summary": "",
+  "published": "2026-07-31",
+  "first_seen": "2026-11-15T17:14:14+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "b59846bdca84",
+  "source": "eu-au",
+  "channel": "eu-au:gnews:c7187f3a",
+  "type": "gnews",
+  "title": "The European Union Supports Africa’s COVID-19 Continental Response - EEAS",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdld2QkluWXZ4b0djVlR2TFZmQ3NsSGhSREhkZE9hTjVMUGxMM3VKdkpPUzFVcmNoQnlyX29Oc1g5ZVFtQ3BleUxDdEVFb2NsVTB4SVJqTnN6SVZRTDFkbGk4dHNKc21Tb2NsYVJqenVUT1FQVFZkZDZHSGJVQzRFNGdKNVZzNGdmdFpyZHBQUTRhNXpKUE1PeEctR1l0cGx2ZEFDWFVGLWt6cHFNNS1kODNydmNzQUV5b3R4OHlsSDdEUQ?oc=5",
+  "summary": "",
+  "published": "2020-06-29",
+  "first_seen": "2026-11-15T17:14:14+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "85906323d205",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Pakaian Tradisional Ethiopia Warnai HUT RI di Addis Ababa - Kabar24",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOam1qMFl0dHU1SXF2SWFvZ0hrMmRydTRJYXZQOHJreFJjUmVCODZLSEJabW1zYU5kSHNuMFlrVTRhYmE1VjNxYmE2Q0lubGFCRmFGSURPVW40Z3htWU5jeUFFYzVocnJidnZXc1VlVWJjNjE4ZzVoWjRKT3RJTmNKell3MWFjNXYwQ1pXRHIzSkpwYjNLM1ZDUXN2dXdoY2dsYzgzUFFZeHpXUjJNWmc?oc=5",
+  "summary": "",
+  "published": "2019-08-17",
+  "first_seen": "2026-11-15T17:14:14+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "5ec4321f3717",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI, MIKTA rayakan hari autisme dunia di Addis Ababa - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObk9xRjA3M0YzR1ZRVmNkU3EzTU9QS3J5QjFCN0J5VFN5dmFiMUQybF8ybDg2ZW5LdjBrWFZ3VE03ZnBFVUJNQmMySjdkQ2ZYX2FxTFI5T3lFTVhPUC1HVHhGQ2xqbnBBZERrUUllaUMxYnZyd3BPSWxtcmVsbTFaLW13V3RNakRLVHM3WU04XzlHMVNRWlHSAZsBQVVfeXFMT0J0NmZmR1lkQ3hia2hzSm02WldsOWZOUWRSaVlfcWN1enF3djBmVlVCaS1YSHdSRjg2bFFpWkZTbXc0NzE1SjZybXI4WGc4aU5TbHlndnF1RzNPWUF4cmR3LUJIaFBGbGFCNTA1Nm1ybVlBYW1qQ0E5cF9oc0k5RWRoMlhqcDg1V1hHNGdKb0lkYzAtV0pSbHduOE0?oc=5",
+  "summary": "",
+  "published": "2019-04-03",
+  "first_seen": "2026-11-15T17:14:14+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "4f686fab4dbe",
   "source": "euff",
   "channel": "euff:gnews:e760266e",
@@ -10,7 +101,8 @@
   "published": "2026-10-21",
   "first_seen": "2026-11-15T09:30:25+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "16941fe2a32a",

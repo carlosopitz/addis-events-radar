@@ -1,5 +1,18 @@
 [
  {
+  "id": "4f686fab4dbe",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "The European Union Film Festival Addis Ababa is back! 23 October - 21 November, 2026 - EEAS",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdktsNTlLX0R1a0lsX0w1dHhIaDBHTG9xTVlIQVRONnVjTHdXWS1sb3VLTUhESDRUdWFKZHRTVzV4UTM4Tmp0RUs4d21PUEJiWlhYcHI1ekJxSXBoVk1wNV8wSkRPdUdleG03VlcxOGFBTlZfNUN3VkZvQjI4Sktudy1MX2tMNzdQQVJBR3ZhWVQ5c3I1bkdLUnp2VDRxZGltVk5rQXUtZ0dzNjRNbGllUVlQczdQTDRFV2h5ejZiNm5pdlFfbEFjOHg4SEc?oc=5",
+  "summary": "",
+  "published": "2026-10-21",
+  "first_seen": "2026-11-15T09:30:25+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "16941fe2a32a",
   "source": "indonesia",
   "channel": "indonesia:gnews:df022b44",
@@ -10,7 +23,8 @@
   "published": "2026-07-31",
   "first_seen": "2026-11-15T01:57:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "7d4eae13a214",
@@ -23,7 +37,8 @@
   "published": "2026-01-23",
   "first_seen": "2026-11-15T01:57:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "2f2e460a66a8",
@@ -36,7 +51,8 @@
   "published": "2025-05-12",
   "first_seen": "2026-11-15T01:57:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "cfa8211f4eb9",
@@ -49,7 +65,8 @@
   "published": "2023-04-06",
   "first_seen": "2026-11-15T01:57:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1b2a52e80bd2",

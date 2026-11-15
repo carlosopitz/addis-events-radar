@@ -1,5 +1,18 @@
 [
  {
+  "id": "6295b46b3b8f",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Gast Cinema Nov 16- 18 2026 Schedule",
+  "url": "https://t.me/gastcinema/4900",
+  "summary": "Gast Cinema Nov 16- 18 2026 Schedule",
+  "published": "2026-11-15",
+  "first_seen": "2026-11-15T22:51:36+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
   "id": "ba62066499cd",
   "source": "indonesia",
   "channel": "indonesia:gnews:df022b44",
@@ -10,7 +23,8 @@
   "published": "2026-08-08",
   "first_seen": "2026-11-15T17:14:14+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "9832fc8e9c5c",
@@ -23,7 +37,10 @@
   "published": "2026-08-08",
   "first_seen": "2026-11-15T17:14:14+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": [
+   "indonesia"
+  ]
  },
  {
   "id": "61442ccc6854",
@@ -36,7 +53,8 @@
   "published": "2026-07-31",
   "first_seen": "2026-11-15T17:14:14+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e87df1106778",
@@ -49,7 +67,8 @@
   "published": "2026-07-31",
   "first_seen": "2026-11-15T17:14:14+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b59846bdca84",
@@ -62,7 +81,8 @@
   "published": "2020-06-29",
   "first_seen": "2026-11-15T17:14:14+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "85906323d205",
@@ -75,7 +95,8 @@
   "published": "2019-08-17",
   "first_seen": "2026-11-15T17:14:14+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5ec4321f3717",
@@ -88,7 +109,8 @@
   "published": "2019-04-03",
   "first_seen": "2026-11-15T17:14:14+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4f686fab4dbe",

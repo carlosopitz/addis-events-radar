@@ -1,5 +1,44 @@
 [
  {
+  "id": "9cd75741946f",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Pakistan to stage single-country trade expo in South Africa to expand African market reach - Profit by Pakistan Today",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRFJhQjVyR1hWeERIU2Nvd0U3cDdubTcyZFhrel9TVmd5Q3FSU0pWVEZobVJaQUlrbm8tc1hhd3VSeDZZWENNRi0tMXQwTlN6U0Zva0Y5RklUd1lqVVFUTldBZ2JjRWEtaldRYmpvSFliUnloYTU2NGFmc3pYNTZpOXRGSHdNYzlULWZNZ0w4a3N2OU9wRFNtS1UwMGRuQjB4NXFuWWpqR1JLZ2R6M29rMWdfY2xrYWRYc3k3YmxSMm5Rd0hSU04yUHZNdnFFajdSclVZ?oc=5",
+  "summary": "",
+  "published": "2026-05-31",
+  "first_seen": "2026-11-17T02:57:45+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "5f8131fe9bd4",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI dorong literasi masyarakat Ethiopia tentang Indonesia - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRFRadDFPdDJwOGdfTnpuNEV3eVhoSklOdHhhUGhKY1J3S29YWGw4Q3lsTjhVTFdtQ0FHeDc1S01aaWpvVTVsMjVERzU3NGJFYzhtc3o2MTNvQ0Q1RXE1eUFIcE9BOEhobWVKaG5GdVktVGZCLTZ5OHNMckpHMFdwSm1GUHVISjNVYXJkam1nME9wY0lIcXlqdWFGalJETm_SAaQBQVVfeXFMTkt5UWFoR3RIYVhSOXU4UGNudk0yNUhDb2psUm5HanlJNC1WUlVkSGZ0bjA1Wm9DX1JpVkRnemx6Q0E2dkE3UDRGVEgwT0FSc1Y5MkZnbG9lN3hjV2txdGRpdWE2Mkt3Y0xXNXdqYnpzZ0J1LWZ0TWNFQnRJbHZubEFGR21qOXRiZTFlVDM1NE1EWVA0SFl4ektTa0ZBZllxZU9LQVQ?oc=5",
+  "summary": "",
+  "published": "2024-11-08",
+  "first_seen": "2026-11-17T02:57:45+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4e8d08652018",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI, MIKTA rayakan hari autisme dunia di Addis Ababa - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmJmd2YwcmJOalliRjh6ZTZNczh6SnNWd3V4MUJFNG1CaUVFMWJ1dVhwd2hIcnZaSzRmNXg2a3diOVhPWkljd3VCWFhPdmJfRkZwWERzeVQwRllvZm9TU0lpcG1QN2xGVnJpWEQ1eGZReFc4UldLTXhERHlSM0VWT0Z3NDBVa05WRnZhcERiYzl2V2o1SE1NRQ?oc=5",
+  "summary": "",
+  "published": "2019-04-03",
+  "first_seen": "2026-11-17T02:57:45+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "3ccec90af1df",
   "source": "korea",
   "channel": "korea:web:427fe97b",
@@ -10,7 +49,8 @@
   "published": "2026-11-17",
   "first_seen": "2026-11-16T18:36:24+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "eb2757b665e9",
@@ -23,7 +63,8 @@
   "published": "2026-11-16",
   "first_seen": "2026-11-16T18:36:24+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "7c3621df1c05",
@@ -36,7 +77,8 @@
   "published": "2026-11-16",
   "first_seen": "2026-11-16T18:36:24+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "61b89e0b844f",
@@ -49,7 +91,8 @@
   "published": "2026-11-16",
   "first_seen": "2026-11-16T18:36:24+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "9bb8ded05ba6",
@@ -62,7 +105,8 @@
   "published": "2026-11-16",
   "first_seen": "2026-11-16T18:36:24+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "cd4b6af850d3",
@@ -75,7 +119,8 @@
   "published": "2026-11-16",
   "first_seen": "2026-11-16T18:36:24+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "d753c89a6725",
@@ -88,7 +133,8 @@
   "published": "2026-11-16",
   "first_seen": "2026-11-16T18:36:24+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e3c2dbf4ad2c",
@@ -101,7 +147,10 @@
   "published": "2026-11-16",
   "first_seen": "2026-11-16T18:36:24+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": [
+   "fendika"
+  ]
  },
  {
   "id": "550aee9d5cd8",
@@ -114,7 +163,8 @@
   "published": "2026-11-16",
   "first_seen": "2026-11-16T18:36:24+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "6a05d51418fc",
@@ -127,7 +177,8 @@
   "published": "2026-11-11",
   "first_seen": "2026-11-16T18:36:24+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "9a2317e0916c",
@@ -140,7 +191,8 @@
   "published": "2019-06-13",
   "first_seen": "2026-11-16T18:36:24+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "925fdc497c44",
@@ -153,7 +205,8 @@
   "published": null,
   "first_seen": "2026-11-16T18:36:24+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "126f169377b4",

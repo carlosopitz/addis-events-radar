@@ -1,5 +1,44 @@
 [
  {
+  "id": "d8450bed5473",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Registration to the the annual Ethiopian Family Business Forum (EFBF) by HST in collaboration with the Ethiopian Stock Exchange has kicked off.",
+  "url": "https://t.me/LinkUpAddis/13391",
+  "summary": "Registration to the the annual Ethiopian Family Business Forum (EFBF) by HST in collaboration with the Ethiopian Stock Exchange has kicked off. This year's forum, which is the fourth edition will be hosted under the tagline Onboarding the Next Generation: From Heirs to Leaders at Sheraton Addis on Tuesday, 15…",
+  "published": "2026-11-17",
+  "first_seen": "2026-11-17T22:27:07+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "705a8f46e94f",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "Registration to the the annual Ethiopian Family Business Forum (EFBF) by HST in collaboration with the Ethiopian Stock Exchange has kicked off.",
+  "url": "https://t.me/LinkUpPremium/5117",
+  "summary": "Registration to the the annual Ethiopian Family Business Forum (EFBF) by HST in collaboration with the Ethiopian Stock Exchange has kicked off. This year's forum, which is the fourth edition will be hosted under the tagline Onboarding the Next Generation: From Heirs to Leaders at Sheraton Addis on Tuesday, 15…",
+  "published": "2026-11-17",
+  "first_seen": "2026-11-17T22:27:07+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "eaea0a46392e",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Bangkit, Ethiopia Sudah Diperhitungkan di Afrika - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZ2o3RWw4YzBOUEtDYnZrTjd4b1VzcHdsWWJtUnFoWHpyOUxWTXRhb2hHRURQZVU5NnNLTmN6em1LaGM5MDl3OUxhb0JKcWF0Z3NqenRkZUZNOTJtV2lYc2pnazNiN3pPNXFsUklhMlNOWnRFMjdOOUxSV2ZHSW43cl9VV3hvYVBpRTFhM1Z1eTRULTZfMXZMcVV3QWF3Y0FSblhLSkJsRFRBSGtJenhQUzR4eGxMa0R1c0tmOFRFeHQ5NEpvMGJSUHNYNFRieFdOWF9LRVUteUV1dWg1Sk1CZkRDb1k2TEpQVFVfVDJab0NuaF85SWpEampuUQ?oc=5",
+  "summary": "",
+  "published": "2020-06-06",
+  "first_seen": "2026-11-17T22:27:07+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "cd5e3a2246f7",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +49,8 @@
   "published": "2026-11-17",
   "first_seen": "2026-11-17T13:28:56+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "05141d07a634",
@@ -23,7 +63,8 @@
   "published": "2026-11-17",
   "first_seen": "2026-11-17T13:28:56+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "958c90e3444f",
@@ -36,7 +77,8 @@
   "published": "2026-11-17",
   "first_seen": "2026-11-17T13:28:56+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "13d16f24f97e",
@@ -49,7 +91,8 @@
   "published": "2026-11-17",
   "first_seen": "2026-11-17T13:28:56+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ac701f66159e",
@@ -62,7 +105,8 @@
   "published": "2026-11-17",
   "first_seen": "2026-11-17T13:28:56+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "8b14e0e791f0",
@@ -75,7 +119,8 @@
   "published": "2026-11-05",
   "first_seen": "2026-11-17T13:28:56+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4d8052dfc925",
@@ -88,7 +133,8 @@
   "published": "2024-12-14",
   "first_seen": "2026-11-17T13:28:56+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e4e8339638ff",
@@ -101,7 +147,8 @@
   "published": "2024-01-25",
   "first_seen": "2026-11-17T13:28:56+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "9cd75741946f",

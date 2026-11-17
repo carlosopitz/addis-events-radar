@@ -1,5 +1,109 @@
 [
  {
+  "id": "cd5e3a2246f7",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "You think you're smart huh?",
+  "url": "https://t.me/LinkUpAddis/13390",
+  "summary": "You think you're smart huh? 🧠 Then join us on Tuesday for Trivia at Atmosphere and put your knowledge to the test! There's more, bring some of your mates and challenge them for a bit of fun afterwards, yeahhh some karaoke Every Tuesday starting at 7:30 PM @atmosphere_251",
+  "published": "2026-11-17",
+  "first_seen": "2026-11-17T13:28:56+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "05141d07a634",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "The Marvel Cinematic Universe is gearing up for its next major chapter.",
+  "url": "https://t.me/gastcinema/4903",
+  "summary": "The Marvel Cinematic Universe is gearing up for its next major chapter. Avengers: Doomsday is coming December 17 at Gast Cinema. 🍿 Buy Your Tickets Now 🍿 https://getus.cnetcommerce.com/ 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #Great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-11-17",
+  "first_seen": "2026-11-17T13:28:56+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "958c90e3444f",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Flash Sale Alert!",
+  "url": "https://t.me/LinkUpAddis/13388",
+  "summary": "Flash Sale Alert! Afromile presents a flash Sale for Static Volt. Grab your tickets within the next three hours (by 3:00 PM) and get them at ETB 150 off. Get tickets here: https://afromile.com/packages/9320e415-7690-4e98-b747-f89019844bb5 @afromile",
+  "published": "2026-11-17",
+  "first_seen": "2026-11-17T13:28:56+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "13d16f24f97e",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "Curiosity, loneliness, boredom or stress can turn pornography into a difficult habit to break.",
+  "url": "https://t.me/LinkUpPremium/5116",
+  "summary": "Curiosity, loneliness, boredom or stress can turn pornography into a difficult habit to break. But when does a habit become a problem? Our latest feature explores deep into the alarming trend of pornography addiction among youth in Ethiopia. Read the full story below:…",
+  "published": "2026-11-17",
+  "first_seen": "2026-11-17T13:28:56+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "ac701f66159e",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Afromile presents your early bird tickets to After Fest by Gojo Events and Hype District.",
+  "url": "https://t.me/LinkUpAddis/13389",
+  "summary": "Afromile presents your early bird tickets to After Fest by Gojo Events and Hype District. Grab your tickets at ETB 200 off now for an exclusive After Fest experience at The Pulse Lounge, (in front of Dembel) starting at 7:00 PM. For more info, contact 0921368777. Ticket Link:…",
+  "published": "2026-11-17",
+  "first_seen": "2026-11-17T13:28:56+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "8b14e0e791f0",
+  "source": "colombia",
+  "channel": "colombia:gnews:d97e2977",
+  "type": "gnews",
+  "title": "Colombia llega oficialmente a Etiopia con su nuevo embajador Yeison Arcadio Meneses Copete - Ministerio de Relaciones Exteriores de Colombia",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQXzNvVi1DQ0lZQW9QWUJJbGJ0SkFXMWRscTU2MGZXejQ5Rl9KMThyVlRSdXEyRERBSkhsMXNrSXZOTXFwcGNKSkMzS2wwUEhkSS1KamMtVmNveGtYdTlYeUZqYjNOZ3BkdVpCbjBvX0dSczNrVHlGVTFERENsR0tick5vT1FOQzRsWFpDTUlRdWVYLVdNZ0lKVU03azctaXJNWU0xclNCVmxZSHBPamN3ZmZCRE9OangxYjFTUXdKeXg3SUw2QWphTy1wMWNVZ2laU0s2QUFR?oc=5",
+  "summary": "",
+  "published": "2026-11-05",
+  "first_seen": "2026-11-17T13:28:56+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "4d8052dfc925",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI Addis Ababa-Universitas Pertamina Gelar Africa-Asia Youth Forum Bahas Peran Pemuda Masa Depan - erakini.id",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXhQaGhZSlZWeGhnWDd2UnIzNm1HcnY3cW8xX05LRGFQcV9oUFJOZ2pDM3E0NnFCbnlocmFwRDVaUkNBSERBSEJnRTRHNndycmRvWUg3ck9ZOHl0SGoxR09aeVJFSERRMDJrZGNTUjlDMV9FT2JhVjRYc3NuMmQ1cVZkcVpRUklXWVE3eGt3eVNwNXRROUVZMkUza0dVTjRGUmczVFBMcUZRaFRCMGk1YjVvWG1zRHRCenZvN1pSc1EtdmVIUUtiOHg3aW5vcjRfbzVSTWs0MNIB3AFBVV95cUxOTHd2eGpMWWdSMFk5RHdEUUttb0VhRHN2RFg3ZFNvZEg0dEN6d0w4ZUFoOEpLT3JYcFBrUHU3cU9NdW90TVRLRkhkS0t3N0QwbkpQRDZDTEQ3Z2hwd3FZUTFiVUJrOHpVU2ZXSVppNzJFVHEzWDdMSEUtUXpFekNHOEdOZmo5LXdfdUY0UnM4Tzk5RzdrbzJHZ1BrYjkwb3d6Rm9lNHFNVTFsTWhXbTIyMzFET1hNc0ZRWWpUUjhwd1JUU2xmYldTWFJpcjdOM2xJOTBYMEtIb0ZvaEZJ?oc=5",
+  "summary": "",
+  "published": "2024-12-14",
+  "first_seen": "2026-11-17T13:28:56+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "e4e8339638ff",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:232c6525",
+  "type": "gnews",
+  "title": "USAID’s ‘Brighter Futures’ Art Exhibition Demonstrates Success of Children’s Therapeutic Programs in Three Regions - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUXI5YzBlUGZ5cFpMN1lWOVVFQmdvRUpHbUs1N1hrM2toNzF4cmwxS2V6aVRNc0ktNDN6dkN5Q1FpZC05MzRBd1NWdDdRWlFwTVFNRW1hbEQ2QWNuTkRHZWRXbHVWVUlPRERIc1h3SnlnRWV3RHQxVDJJeHdyaVhNUVBoZnJXTTdmSlY4WXloUUJxZ2NGdWdoWUxJb0NRV0pXZ3lVeTdPSlVVUEtSNXlvUmVwUTljMnFDa1RIMEpLT2YxYU1mMGhpUzhZSDl1aExoQkE?oc=5",
+  "summary": "",
+  "published": "2024-01-25",
+  "first_seen": "2026-11-17T13:28:56+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "9cd75741946f",
   "source": "pakistan",
   "channel": "pakistan:gnews:a03ae46b",
@@ -10,7 +114,8 @@
   "published": "2026-05-31",
   "first_seen": "2026-11-17T02:57:45+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5f8131fe9bd4",
@@ -23,7 +128,8 @@
   "published": "2024-11-08",
   "first_seen": "2026-11-17T02:57:45+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4e8d08652018",
@@ -36,7 +142,8 @@
   "published": "2019-04-03",
   "first_seen": "2026-11-17T02:57:45+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "3ccec90af1df",

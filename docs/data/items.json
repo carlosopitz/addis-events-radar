@@ -1,5 +1,44 @@
 [
  {
+  "id": "6088d318fcee",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The bi-weekly Mukera 1..2 Open Mic session returns to Atmosphere this Friday.",
+  "url": "https://t.me/LinkUpAddis/13393",
+  "summary": "The bi-weekly Mukera 1..2 Open Mic session returns to Atmosphere this Friday. If you are into creativity, supporting young, raw talent and a whole deal of socializing and fun, this is for you. Doors will open at 6:00 PM. Tickets are ETB 200. @linkupaddis",
+  "published": "2026-11-18",
+  "first_seen": "2026-11-18T17:16:48+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "f3e36df071b6",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "Flipper International School unveils a new brand identity as it strengthens its ties with ADvTECH and expands investment in AI-supported learning and…",
+  "url": "https://t.me/LinkUpPremium/5119",
+  "summary": "Flipper International School unveils a new brand identity as it strengthens its ties with ADvTECH and expands investment in AI-supported learning and education infrastructure. There is more to this story. Read Here:…",
+  "published": "2026-11-18",
+  "first_seen": "2026-11-18T17:16:48+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "5d1c7e318d2a",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "México reaviva su diplomacia antifacista con visita de Dinastía Imperial de Etiopía - La Crónica de Hoy",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeGdTX3NKNDAzUzBHYkNsazlFeVhFTnoxMGg4Y1hpUndjazE1dlpHN2JteXFveXFETk5UcUNHRTFya0NPN0RnVVByOGx1S1F5bXdjTWZSUVAtYVJoSXRXbGd6QUFmbGlDZGZmaW1sZDhVN3lpenlRWFgweF9TcjR6M2lHMmVVYjYzdGllaFFXb0x3YktsWU5wQjRTdzVEUnZXTTV0X2FGLU5STlBLbHNuZUdlZDFyOWtvdXhKYWFhZExmdk1TLUlKczN3?oc=5",
+  "summary": "",
+  "published": "2026-10-19",
+  "first_seen": "2026-11-18T17:16:48+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "61c83152cd74",
   "source": "indonesia",
   "channel": "indonesia:gnews:66e85054",
@@ -10,7 +49,8 @@
   "published": "2019-11-09",
   "first_seen": "2026-11-18T07:32:15+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d8450bed5473",

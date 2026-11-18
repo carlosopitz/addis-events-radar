@@ -1,5 +1,18 @@
 [
  {
+  "id": "61c83152cd74",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Ini 5 Alasan Yang Mendorong Perusahaan Indonesia Giat Berinvestasi di Ethiopia - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZWR0SDk4dG1mbm5qaHpRV3hvc20tajM0X1pTNERhSVpuUHd4N21xdXRabG5iRWZ2bXJTYThSUVQ1NG0zSkRWeEJDcnRPT2FmZWZuUjNSU0tVdktFNmxTcGJyeTJhZ09tMmJURndYdk91RXAwWm84MFN6eWtIQTFnWTdWMkdtRzNfbi0tbGE5SDJjWWRHNWZCb19vd0FNSm5fMVJaSmNoQzNaaUtRcDN4OG9HRjhlMjY0UVBlckpSdjJUQQ?oc=5",
+  "summary": "",
+  "published": "2019-11-09",
+  "first_seen": "2026-11-18T07:32:15+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "d8450bed5473",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +23,8 @@
   "published": "2026-11-17",
   "first_seen": "2026-11-17T22:27:07+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "705a8f46e94f",
@@ -23,7 +37,8 @@
   "published": "2026-11-17",
   "first_seen": "2026-11-17T22:27:07+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "eaea0a46392e",
@@ -36,7 +51,8 @@
   "published": "2020-06-06",
   "first_seen": "2026-11-17T22:27:07+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "cd5e3a2246f7",

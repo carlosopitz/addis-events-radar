@@ -1,5 +1,109 @@
 [
  {
+  "id": "78507a72948a",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Mark your calendars on 28-29 November 2026to join us at LinkUp Bazaar at @k_park_Addis .",
+  "url": "https://t.me/LinkUpAddis/13395",
+  "summary": "Mark your calendars on 28-29 November 2026to join us at LinkUp Bazaar at @k_park_Addis . Quickly becoming one of the best places to host events, K-Park is now the new home to LinkUp Bazaar. With dozens of excpetional merchants and exhibitors, a wide range of activities including picnicking, BBQ and music and…",
+  "published": "2026-11-19",
+  "first_seen": "2026-11-19T10:23:41+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "33243623f365",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "Have you ever wondered how people get scammed?",
+  "url": "https://t.me/LinkUpPremium/5120",
+  "summary": "Have you ever wondered how people get scammed? The tricks haven't changed much, yet people keep falling for them. In 2024, an estimated $1 trillion was lost to scams worldwide. So what makes these schemes so effective? And how do they keep getting us to fall for them? In this article, we deliberately went undercover…",
+  "published": "2026-11-19",
+  "first_seen": "2026-11-19T10:23:41+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "27195f2b21a1",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Golla Art Gallery Center is opening a moving image exhibition exploring how memory is shaped by the present.",
+  "url": "https://t.me/LinkUpAddis/13396",
+  "summary": "Golla Art Gallery Center is opening a moving image exhibition exploring how memory is shaped by the present. Title Unresolved Memories, the exhbition is curated by Abigail Megbar Debeb. The opening reception of the exhibition will be on 28 November 2026 and the show will stay open until 06 December 2026. Tell us what…",
+  "published": "2026-11-19",
+  "first_seen": "2026-11-19T10:23:41+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "bbd6b65380ba",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Dur Garden (6-Kilo) will host the Mix Up, a hip-hop, EDM and house music event on 26 November 2026.",
+  "url": "https://t.me/LinkUpAddis/13394",
+  "summary": "Dur Garden (6-Kilo) will host the Mix Up, a hip-hop, EDM and house music event on 26 November 2026. Doors will open at 5:00PM abd early bird tickets are available on https://paysso.et at ETB 300. @linkupaddis",
+  "published": "2026-11-19",
+  "first_seen": "2026-11-19T10:23:41+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "e22758a9e4d1",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:df022b44",
+  "type": "gnews",
+  "title": "“Batik Making Workshop”: Indonesia Weaves Ethiopian Motifs into a Centuries-Old Batik Tradition in Addis Ababa - Portal Kemlu",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNW9zcTJnX2hqTi1Nbk5RZkdwOUdjajVnd3FEWmtKRmZvdzhGX1M2UnFObnZHenFaVjg5bnFqY2xRR2NBOEc0XzIzQnBOSC00amtOdHhuOWFBQ1FYRWtTWmI0NXhuVkNqRUZWV183N1M1dGZ0NTdDdVRjSk5jOHJweUozWmVuMENGWVAxQUtwcWhEc3FsX0dRa1RKZXd4NHEybGRJZ2R2TFNrZFhPUXBZQVRHXzRhZUc1YkcxelR4aTFTS01KRXNhdF9iRmQzUkY3VGxiY1RCbHpSakJ6UVNfYnJhWE1wSVFmQmZ5b0JYLXpFc0dN?oc=5",
+  "summary": "",
+  "published": "2026-09-10",
+  "first_seen": "2026-11-19T10:23:41+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "422f78b4eb9c",
+  "source": "colombia",
+  "channel": "colombia:gnews:d97e2977",
+  "type": "gnews",
+  "title": "Víctor Germen generó debate al comparar a Etiopía con Colombia, resaltando coincidencias poco conocidas - Facebook",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRklLWDc3Y1l0N2JlZGowakE4WE5YSllUZGplZzBRbmg1eGVXY1Nzczd0TmsweGZPVHA1LWkzOTlRcjdiNUJaendKQ25JZFVzZlBjeXlPbWt1X1ZKakRLM0ZydXNjMXdpOEdYZWRSM05neTAyWnpzalpTSFp3UFpOeGtsMGgwTzF5NFNQZEE2S2FERTdTUkU4Q25PZ3o4OGdvNFl1MGJLQW9UcGdTVkRuLTZSVVRKTkdBcGFJM3QxY3MtQ2tuNFlxUTZ3eG9sWnItX0l3TTZIZUtONlFMZUZGVnNjeFdQTWlxZkIwN2hwX2xFUQ?oc=5",
+  "summary": "",
+  "published": "2026-03-04",
+  "first_seen": "2026-11-19T10:23:41+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "c439a8a38628",
+  "source": "malaysia",
+  "channel": "malaysia:gnews:151434cc",
+  "type": "gnews",
+  "title": "Anwar highlights potential of linking AfCFTA with Asean to boost regional connectivity - Malay Mail",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHZjbEkyQzd4REw2bTk1alJXWV9zcENfa255OUpQSmJxdVZ1azUxcVFBRVNWZVRyQXJNSEt5MXNlanhqWnNOb3BWVkwyN0pRTW5ITmpRMjBWRlpiUWpyZHY4X1F4T3FyczNrLUdmd0V2X1BNSHB4d3dCWUhwcGtXSGNfTkZ5WUQtaUo1cldHM1lmaHVUME9zd2JSeVF1OS1oV1NIeHJzLWFjZUV3dFhva09jTnl2X1JZNHZndUhfYnZvbFJQU042SUhlQjB1eXVqb05lZW0yalNFX0o40gHiAUFVX3lxTE1CcmtXTk5tZTM2LXh0emRjOGhYX3VCWDZKbFc5RFlwbHgzbGdOZkp0U1pvTmlPR0E4NTFDUGFsc0x3TTJ4VTFSdFB4d1hadWtubnN0VkM1bjdkbWd0N0RXY1h5M0UxUUtKNzNXSkxTcl9JZWxDdjJpUGNyUjlXVlBwOG1TRmhzVi1mdWNYWjhDVVR4V01fTjhoM29odl9oTnRSNVZTbDhScTFBTGFNcGFYYVljU3RRaVNaS2V4Z056NE1HZWptT3dNX1gtSjBOUXY3MnFreDd1NUN1NkJIdkxjUkE?oc=5",
+  "summary": "",
+  "published": "2025-11-20",
+  "first_seen": "2026-11-19T10:23:41+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4c083330bb17",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Gema HUT ke-74 RI Getarkan Pabrik Indonesia di Ethiopia - Medcom.id",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc3lNbnVfQlg2cW5XclhQd3AwLUlUYmREazVYSlZwOVE3emJ6RENoUXBrZE8xT1p0aXFMM0xqV0ZpRGJxbXpNR3VNNnJKN0M4bjEtcGJQT3dpMDYtQWEzdE5vdlNsaVZacU5wd3NZQ3FCYTcwejVsUDRCcW1nWTNTX3NnX09nMXRwbnlRTjdvWUtjdXNlM1pxb01CRVAwNTdjY1RaSjhBZzl5Zw?oc=5",
+  "summary": "",
+  "published": "2019-07-30",
+  "first_seen": "2026-11-19T10:23:41+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "c1f9b6df73f0",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +114,8 @@
   "published": "2026-11-18",
   "first_seen": "2026-11-19T00:24:25+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "42f047cedf05",
@@ -23,7 +128,8 @@
   "published": "2019-03-11",
   "first_seen": "2026-11-19T00:24:25+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d426883e4f70",
@@ -36,7 +142,8 @@
   "published": null,
   "first_seen": "2026-11-19T00:24:25+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6088d318fcee",

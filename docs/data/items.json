@@ -1,5 +1,226 @@
 [
  {
+  "id": "d401247a3024",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The Modern Art Museum - Gebre Kristos Desta Center in Addis Ababa will open a solo art exhibition by artist Gashahun Kassahun titled 'የቆዳ፡ ስፋት - Land Area) on…",
+  "url": "https://t.me/LinkUpAddis/13398",
+  "summary": "The Modern Art Museum - Gebre Kristos Desta Center in Addis Ababa will open a solo art exhibition by artist Gashahun Kassahun titled 'የቆዳ፡ ስፋት - Land Area) on Tuesday 01 December 2026 at 5:00 PM. Admission to the event is free of charge. Fill out our brief Pulse Check form to tell us what interests you:…",
+  "published": "2026-11-19",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "a0336d1f4cd7",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The 5th Korean Bazaar is taking plac at MCM (Korean) Hospital this Saturday, 21 November 2026.",
+  "url": "https://t.me/LinkUpAddis/13397",
+  "summary": "The 5th Korean Bazaar is taking plac at MCM (Korean) Hospital this Saturday, 21 November 2026. Drop in at the bazaar for some K-culture experience, K-pop perfromances, K-food and goods. Doors will open at 10:00 AM. @linkupaddis",
+  "published": "2026-11-19",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "53c5b9aa2717",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Festive Events is organising Festive Wedding Expo, an expo for wedding planners, suppliers and industry players on 04-06 December 2026 at Addis International…",
+  "url": "https://t.me/LinkUpAddis/13399",
+  "summary": "Festive Events is organising Festive Wedding Expo, an expo for wedding planners, suppliers and industry players on 04-06 December 2026 at Addis International Convention Center. With an aim to bring together over 200 business within the sector, the expo enviaions to bring the wedding works under one roof. Whether you…",
+  "published": "2026-11-19",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "3350d9f0654b",
+  "source": "korea",
+  "channel": "korea:web:427fe97b",
+  "type": "web",
+  "title": "Ethiopia Amb. Koo Presents Credentials to President of Ethiopia (Nov. 17) On November 17, Ambassador Koo Hong-seok presented his credentials to H.E. Taye Atske Selassie, President of the Federal Democratic Republic…",
+  "url": "https://overseas.mofa.go.kr/et-en/brd/m_10269/view.do?seq=758449",
+  "summary": "",
+  "published": "2026-11-19",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "0a12f46321d1",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "África acoge por primera vez reunión sobre emergencias médicas de OMS - 5 de Septiembre",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOW5TN0d2Y19xUS0tMHpZWEVXcW1FRTBLMjF1a05ZbzE1a2VYYUVfVFhmcU0xWW05TVJFZ3FJN3BRdUlqSEFsOHBZSmRCbVRacUhxN1pjMWZWMTJLdVF4MV9lSmI0VENNNi1xMWw0Wi0wMURfX2hMbk9jVzc5ajZPaVU4eko0UHFFN2pYOFU1S3lUUFh6WW5wMzZydVRKUQ?oc=5",
+  "summary": "",
+  "published": "2026-11-03",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0bc899de27e1",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "A 72 años de histórica visita del emperador Haile Selassie, la familia imperial de Etiopía retorna a México - La Crónica de Hoy",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcEc0UUl1Ni1INXJMdFdTeFhwS0lCdU01NDZZRFVJUE9jZXUtaHJEbVFERDFtbHllQVctdEhuZUl6R0VsOERoVE8wdTVXYVUwb1h6b2lweUVWdjlkeWx3eDRnUXFXOUFYdlg0Vjl5UWxVOVloLVlnMThnQmdBV2N4SlRvSXd4TzJtQ3pNbnB6MDlDRDJrMmd3ZEoxNjVhMGxxNGlSNGZieGdfb2xSWWVvamZycFUzbi1mR0FkSU9WTHJqaEpzR2xZeWZ0T3FhV0JhdjdnOHgtSUFoenFZOWJJYjFEN0FZUQ?oc=5",
+  "summary": "",
+  "published": "2026-10-15",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "2a3cb8f735b9",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "Sánchez pide liberación del expresidente Castillo en Perú, tal como sugieren expertos de la ONU - Independent en Español",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLVZmSjdncUVEY05TWGJaYS1RSGl4Ql9CamNqMjRUWnliS3hPdmV3LUxSeGdGOEpIM1JnU19YRVZJcDVQaE54aGpzaE9ZRVk2cDZUM1BzRlh6Q0VtY3JPS1U5Q1czVDZya3NFNFhWSHVVa1NjbVVqYVFxQ2NNZjgtdzZKMC1RTmdjTU45OHJhc0lNSEpMMXkwbmF6TXlDMGJVY2wwQjhaeTJORVRhY2l3cEhxU1pILVZZajR5NkdubFlSa3lGQWZVcE5kM3MyNVVyZ0pVanhlc0ZLV09RY2h6YWpjSG44U1Y4YnN4UlFkM29UdE14dGJlUHJLOA?oc=5",
+  "summary": "",
+  "published": "2026-07-13",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "3158d9b7696a",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Paling Aktif, Presiden Ethiopia Puji Dubes RI - InfoPublik",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJRmN5LUdrb21LSzc1d2ZRMl83S1VTTEVMYmdfbmJJX2Y3UXk1d3hjLTRmdThkemQ3MzZmVmFtU0oyWng5UVBaeUpNc2pfdkJhNUpKd0tBNERCdU9DR1psS3ViV0F0cl9Ta0VacVpHNXRhYmhnTzJrU25EQQ?oc=5",
+  "summary": "",
+  "published": "2025-03-03",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "b4c97d574972",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI Addis Ababa Dan Universitas Pertamina Gelar Africa-Asia Youth Forum Ke-3 - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmdXenhWMFRpOTRncUw0dzJZY19ZQjdUdW9VaXlaOGNyQldmRFVzZEZZdncxQkl6Ty03XzZHQ0hORFFWSHhrRHMyUnkxSF9oTzUyUmZPZ0NHa0tlTUFnUHZRUnFwVlNDNThxT3pDeElOempwQUczc3JTV1dmTmZuSjdMUU9tOGFfa3dTOXdEWkJaWDJFaHk1WUE3Y1ZSdjFpQi1GSl9seUM5RXVuRlFDSlZkamdYSS1UYUw5TFBKVkM?oc=5",
+  "summary": "",
+  "published": "2024-12-14",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "bf86052c241a",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Dubes RI Untuk Ethiopia Al Busyra Basnur Puji 28 Pemuda Indonesia Bikin Buku Soal Afrika - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVl94ei0xMXlVSVpma19NblUzdHZVclR2XzMteVZzczBxT2JJTzI0MkFXZHBMRGRMazhpZVNEWXZNTmNucXVvR0xYcm1BRkJWMnE5akVoYW9fMlBRSHNIeWdRUWZOYmZTdHh1b2hnU29JazNmMUNNR2tVRGk0UUJtM2JieG5RdWl3SDFiWk9nLXNSbC1CT2tmZ3h0dGRFWDhma0ZEeVRZS0RnUS0yaHgxaUctdWxtX0dDcDVJRG11TjZZTTB0XzZUWmtQbklTWGYt?oc=5",
+  "summary": "",
+  "published": "2024-05-28",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "46a14c31f0cc",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "Mexicano evacuado llevaba dos días en Sudán cuando estalló el conflicto: \"es mala suerte\" - MILENIO",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXlnWGFJcnNobWV3TjlIR2R1MmlKb21RV1N1Sl9wZzJIQVZkbTZiNTRCZlgzZVA2bnI3ZWpkYUotcG95c21JUk04R3BJRmRGcGRSVHZMZ0JJNkNJaktPNlpjUzBPNU91dWRhRVZEUWVtYkJ3cGR6S0FHSGo5Wm03em92MFJDdk9Jb3NfblMyNHM2Nmo3OUNNeU95MEZmaWZ0QnfSAaIBQVVfeXFMTlFsYzFlb2JHVEcyWjlYZE1rby0ybEFJS2c1S3ExNVhZWXgzbV9GOXM2SFBNczNXYUpuRWxEZGNOc2w5d21saXg5MlZkanhrOEZBbHA3LUVUeV93VHBfU3IxRTZmLUxNOWNDWl9mMzVCRm0tWjJoNTNUVEVjV0NoSTRlTU1pcmZSbzVhRTBpZFZSdzBJQUw3QThRZDNqcmJSMnZB?oc=5",
+  "summary": "",
+  "published": "2023-04-25",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "b44af2698b79",
+  "source": "hyatt",
+  "channel": "hyatt:gnews:f99db60f",
+  "type": "gnews",
+  "title": "PSY ADDIS - The Reporter Ethiopia",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01d1F3OTBhdWtSR09KMHZtcDN3VWZuS2FDREZESEFEajdsQWJCSW5CRUdfeHBlYVR3TWYyZHhqdDlLQnFWbGRLVjhhdUtoZ3UtVlVfLQ?oc=5",
+  "summary": "",
+  "published": "2022-12-10",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "9f997bfec2f1",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "Avanza en comisiones ratificación de Juan Alfredo Miranda Ortiz como embajador en Nigeria - Senado de la Republica",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcUlCOVZiNndFUjlYTWpUdzNxcUU5ZUhqT0ZPTTBldlZ0LWdmalZjQmxTQTdPYTBXeVM5ZElDUlJtNFJCUkZ0TWFBd2lhRUEycXhVVXRabVVTVEJKVk9yMk9nRkhCS2Iyemc0TElfV25NN2Q1VGpRazg1aWdDS0hZN3RfUkgzUjZ1aWRveUgyRVhiMVNIZl9SRFcyVVdpeG5yaTN1RUFjZFJ1dHpqS0g2bEtIdFJoM3lHdTBHdHJ4ZmxXYnduNEdBaFlRclc4b1lGUU5QM2RJZ0QzRWNUSGtoYVFHVWxBd3pVSlhlV1Z6eXY?oc=5",
+  "summary": "",
+  "published": "2022-03-07",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "8b71ab1786e4",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "Conozca las Embajadas extranjeras acreditadas en Cuba - Directorio Cubano",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSExkbXp6ZTdrSlFFMWg1VExlMTViOUtSbW02VE5YdXBlS2RoZF9kX0U1RndxMm5OQzlhYmFoUTdNZkVkaHI0WHNFaUkwRFBmY29WbGtfbGkyQUFiUlI2YzJ1Yi1yRUNST1VlbGc1cHBnMHNlZUJpWTZHX2lReXhUTHZ4UXNra0c5bnlOTnVESUtmbTNnSEh6azdyT2dDQQ?oc=5",
+  "summary": "",
+  "published": "2019-06-02",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "c6350ab6643e",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Dubes: Universitas Addis Ababa ingin bermitra dengan Indonesia - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQkI0SmZiQ201TGRRaWtMQzJfLV92aUV1WWlqUW8xUDdLMmJ2dk10TGVqWmVheEZlWHI5aE1mNFZKN19QMldXaVFhSHpsSEI0bUxqeHBVbWk1RHpjQmh3MndLcGNjWFdQTXJJeEFwTEttbnp6eHdGNzZmWjZMbUNVdkpkQ2ZMVUJjU2gtR2l0LTlCbWp6TXVsTnB6VkM4RnJmS1NNdg?oc=5",
+  "summary": "",
+  "published": "2019-05-08",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "a6ec8a27fe39",
+  "source": "british-council",
+  "channel": "british-council:gnews:1ba389ab",
+  "type": "gnews",
+  "title": "Nafacity: Innovation in the Public Realm - Britishcouncil.org",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aaWZYQld5MklyRy1pU3BIM3ZteXJiMDFaXzJKX2V2alNhZVI5djBZT0dXc2E0YUpTVkhQWklZR2VlQ01icDJWcllxaUhvU25xZ2dITDRBcHBFNHRiMWpXVnp0NGlUalNxTkZWUzVtcEpJMFFTNElNQ3Z3?oc=5",
+  "summary": "",
+  "published": "2018-05-08",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "6b1d48fedb3f",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "Analizará Senado nombramiento de ex edil de Oaxaca como embajador en EU - NVI Noticias",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVHlCM0ZBMG5QNG1LZm81azByQ1BUbE93c1ZuTVBleGZiOG5Da3BwOVRIcU0wSTAwS2MtSkJRa1FnWnFQeURxQWE1T2I0MlBEdEc2YU1hVXlDNmFRWFpLRGdGb3NjbklocHpwM3duVDFMOFdCVVVtc3EyWTRRTzdkM3diS2c2MU9wOHVmaC1YZENZOW1ESEtKMm92LUE3dlh4THFQUWtudUk2djNCNC1reF9HQ1NsdUst?oc=5",
+  "summary": "",
+  "published": "2016-04-19",
+  "first_seen": "2026-11-19T20:40:51+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "78507a72948a",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +231,8 @@
   "published": "2026-11-19",
   "first_seen": "2026-11-19T10:23:41+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "33243623f365",
@@ -23,7 +245,8 @@
   "published": "2026-11-19",
   "first_seen": "2026-11-19T10:23:41+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "27195f2b21a1",
@@ -36,7 +259,8 @@
   "published": "2026-11-19",
   "first_seen": "2026-11-19T10:23:41+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "bbd6b65380ba",
@@ -49,7 +273,8 @@
   "published": "2026-11-19",
   "first_seen": "2026-11-19T10:23:41+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "e22758a9e4d1",
@@ -62,7 +287,8 @@
   "published": "2026-09-10",
   "first_seen": "2026-11-19T10:23:41+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "422f78b4eb9c",
@@ -75,7 +301,8 @@
   "published": "2026-03-04",
   "first_seen": "2026-11-19T10:23:41+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c439a8a38628",
@@ -88,7 +315,8 @@
   "published": "2025-11-20",
   "first_seen": "2026-11-19T10:23:41+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4c083330bb17",
@@ -101,7 +329,8 @@
   "published": "2019-07-30",
   "first_seen": "2026-11-19T10:23:41+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c1f9b6df73f0",

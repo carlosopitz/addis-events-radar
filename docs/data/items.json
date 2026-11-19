@@ -1,5 +1,44 @@
 [
  {
+  "id": "c1f9b6df73f0",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Gast Cinema Nov 19- 20 2026 Schedule",
+  "url": "https://t.me/gastcinema/4904",
+  "summary": "Gast Cinema Nov 19- 20 2026 Schedule",
+  "published": "2026-11-18",
+  "first_seen": "2026-11-19T00:24:25+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "42f047cedf05",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "WNI yang Jadi Korban Ethiopian Airlines Merupakan Staf PBB - CNBC Indonesia",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ0hfdkNfWWN4U1c1cUdNTFFTUlJkSDhuM1V2dzhxRnMwVjZOM04zSFZoV0ZTckUzVzhWSjhfZURfZVZSOXJaNUcwSkI4WFNOdjlXYnBhNkFubzB1eXNHS204azNjZUs4bTM3TEN0elBBMlFaZUxHci1IZzItR2k1RnZqcDRaMEhycHJibGFENGpNMEdXSXpXYy1QWnM4SjltZUVoWnJBNi1tMXpXak0zUXYxdEdRQUk?oc=5",
+  "summary": "",
+  "published": "2019-03-11",
+  "first_seen": "2026-11-19T00:24:25+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "d426883e4f70",
+  "source": "alliance",
+  "channel": "alliance:web:ade5dbaa",
+  "type": "web",
+  "title": "DELF JUNIOR December 2026 Diploma & Placement Exam Registration",
+  "url": "https://allianceaddis.org/events/delf-junior-december-2026/",
+  "summary": "Text: Date: Select Month January February March April May June July August September October November December 2026 2027 2028 2029 2030 2031 2032 2033 2034 Monthly Weekly Daily List Grid Tile November 2026 December MO TU WE TH FR SA SU 26 27 28 29 30 31 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 DELF JUNIOR…",
+  "published": null,
+  "first_seen": "2026-11-19T00:24:25+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
   "id": "6088d318fcee",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +49,8 @@
   "published": "2026-11-18",
   "first_seen": "2026-11-18T17:16:48+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "f3e36df071b6",
@@ -23,7 +63,8 @@
   "published": "2026-11-18",
   "first_seen": "2026-11-18T17:16:48+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5d1c7e318d2a",
@@ -36,7 +77,8 @@
   "published": "2026-10-19",
   "first_seen": "2026-11-18T17:16:48+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "61c83152cd74",

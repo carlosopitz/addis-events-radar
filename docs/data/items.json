@@ -1,5 +1,18 @@
 [
  {
+  "id": "fdb518356627",
+  "source": "colombia",
+  "channel": "colombia:gnews:d97e2977",
+  "type": "gnews",
+  "title": "Etiopía, en la mira del recorte diplomático colombiano - Identidad Correntina",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGFVMnpwd0tLSlZvYXhkdi1MZ0Y0MkdqR183NkYtb3poeDFPRGtjNXlHaUI4Nk5CaFl0YlM2Qm5qUDVXYWpaazRBQ01xSUpsb2lxZTgyUjBIUnhJMDh5cVl0V2k1ZVdtODU0LTNfZXhTYXF2NVlkTjJfV1JDb0Y2YmpoNE5ReHpmRzZrQ2ZxSWY1RmxOZDZSNno2NXh3MjAzTDJJUk93MEZTZXZ6?oc=5",
+  "summary": "",
+  "published": "2026-11-20",
+  "first_seen": "2026-11-20T03:20:32+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
   "id": "d401247a3024",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +23,8 @@
   "published": "2026-11-19",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "a0336d1f4cd7",
@@ -23,7 +37,8 @@
   "published": "2026-11-19",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "53c5b9aa2717",
@@ -36,7 +51,8 @@
   "published": "2026-11-19",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "3350d9f0654b",
@@ -49,7 +65,8 @@
   "published": "2026-11-19",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0a12f46321d1",
@@ -62,7 +79,8 @@
   "published": "2026-11-03",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0bc899de27e1",
@@ -75,7 +93,8 @@
   "published": "2026-10-15",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "2a3cb8f735b9",
@@ -88,7 +107,8 @@
   "published": "2026-07-13",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "3158d9b7696a",
@@ -101,7 +121,8 @@
   "published": "2025-03-03",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b4c97d574972",
@@ -114,7 +135,8 @@
   "published": "2024-12-14",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "bf86052c241a",
@@ -127,7 +149,8 @@
   "published": "2024-05-28",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "46a14c31f0cc",
@@ -140,7 +163,8 @@
   "published": "2023-04-25",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b44af2698b79",
@@ -153,7 +177,8 @@
   "published": "2022-12-10",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "9f997bfec2f1",
@@ -166,7 +191,8 @@
   "published": "2022-03-07",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "8b71ab1786e4",
@@ -179,7 +205,8 @@
   "published": "2019-06-02",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c6350ab6643e",
@@ -192,7 +219,8 @@
   "published": "2019-05-08",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a6ec8a27fe39",
@@ -205,7 +233,8 @@
   "published": "2018-05-08",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6b1d48fedb3f",
@@ -218,7 +247,8 @@
   "published": "2016-04-19",
   "first_seen": "2026-11-19T20:40:51+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "78507a72948a",

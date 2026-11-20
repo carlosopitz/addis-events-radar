@@ -1,5 +1,174 @@
 [
  {
+  "id": "1f406f9f9c80",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "The EatUp section in the November edition of LinkUp Addis Magazine took us to Olive and Bread, and our writer Hasset had a lot to say about it.",
+  "url": "https://t.me/LinkUpPremium/5121",
+  "summary": "The EatUp section in the November edition of LinkUp Addis Magazine took us to Olive and Bread, and our writer Hasset had a lot to say about it. Read the full story and review. Just follow this link: https://www.linkupaddis.com/magazine/linkup-november-2026 @linkupaddis",
+  "published": "2026-11-20",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "c376ee7317d6",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "The EatUp section in the November edition of LinkUp Addis Magazine took us to Olive and Bread, and our writer Hasset had a lot to say about her experience.",
+  "url": "https://t.me/LinkUpAddis/13405",
+  "summary": "The EatUp section in the November edition of LinkUp Addis Magazine took us to Olive and Bread, and our writer Hasset had a lot to say about her experience. Read the full story and review. Just follow this link: https://www.linkupaddis.com/magazine/linkup-november-2026 @linkupaddis",
+  "published": "2026-11-20",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "66dd9f63d760",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Introducing Hirut Gifts.",
+  "url": "https://t.me/LinkUpAddis/13404",
+  "summary": "Introducing Hirut Gifts. Planning early for Christmas gifts, LinkUp Bazaar has got you covered. Join us on 28-29 November 2026 at K-Park Addis for a unique shopping, entertainment and family experience as we host our November edition of LinkUp Bazaar. Doors will open at 10:00 AM. Admission to the event is free of…",
+  "published": "2026-11-20",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "5040db08f2ec",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Gast Cinema Nov 21- 22 2026 Schedule",
+  "url": "https://t.me/gastcinema/4906",
+  "summary": "Gast Cinema Nov 21- 22 2026 Schedule",
+  "published": "2026-11-20",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "744ccfa69666",
+  "source": "finland",
+  "channel": "finland:web:ac318fa4",
+  "type": "web",
+  "title": "Additional information on the Government resolution restricting the entry of Russian citizens into Finland",
+  "url": "https://finlandabroad.fi/web/eth/current-affairs/-/asset_publisher/h5w4iTUJhNne/content/usein-kysytyt-kysymykset-venajan-kansalaisten-maahantulorajoituksia-koskevasta-periaatepaatoksesta-12.11.2026/35732",
+  "summary": "19.11.2026 Finland has tightened the restrictions on entry of Russian citizens. On 12 November 2026, the Government issued a resolution, which stated the threat that the entry of Russian citizens into the country poses to Finland’s international relations. The new restrictions have been applied in decision-making by…",
+  "published": "2026-11-19",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "488646b6acbd",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Diplomatic Community in Addis Ababa Extends Warm Irreecha Greetings to Ethiopians - Fana Media Corporation S.C",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVy1oMWZoTDVvbV9wdV8xQjRQbFBncFhnVlY1RzJ4WXA0N3E2Zy1Jd2l6NFNmSXg4bC03TV9UREFCN012M1hmYlZZLXdUOEpwQ0FwR3dYcm5sc3FHNzBrcW5odUpOaFRldEY1SjVWRlVpRmVrZVN2cHdGWW1PX2p6R0xWcV9JSjNTbnNqRHFGbFNwSnR6Y2lzMExGd18za2paU2ctX3lMNElVdTl1MTlfMkxlMA?oc=5",
+  "summary": "",
+  "published": "2026-10-03",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "1675235a7559",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "News: #Ethiopian coffee makes debut in #Pakistan with new cafe in Islamabad-Rawalpindi Addis Abeba — Ethiopian coffee has made its debut in Pakistan with the opening of what the Ethiopian Embassy in Islamabad described…",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZEJvRWVrQWN5TktvM3BVSW5XTUtuVFdUXzZOUVJqNVJKNHFHc3hZcVE1a1ZoMmcxU1hjOGxpTEhrZnJoZEhtSkdYbUJpaUJ0WE45SGJCQ18yYzBacm5IVHlfRkU1ZFJPVWJIa3lGenpRcElJY1E4MTRhSFJ3UnpPTVNBY2NiOWZxXzloOXd4VHluanlwb01FZVdmc09tQzVqYWRVVExndVdYdDlnekJ3N2VDbmY1YTNkcW93NnB5VXRjQ2hBU3ZBb2Uyc201amdvei1TaXVOZU5IWGZuSzNv?oc=5",
+  "summary": "",
+  "published": "2026-09-01",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "05ca890003ff",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Addis Ababa-Based Diplomatic and Multilateral Community Extends Festive Greetings to Ethiopians on Epiphany - Fana Media Corporation S.C",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb3pfYVNzMFJEWTZkTUFBcjNMX1lZYVJOM3d6Zy1yZ2xMQ091eUl5NjFOb2lmTXZYWVhUUVRfdEZKSTVpdHhLUWZ1VXRFX1A2emFNQlEtbGFLdW1iSDNUTEIzT21lb2NvQVV3NHFjWHdKMWk0QW1WN0s2WnVNWC1BLWNHVFVxUW1XMHBnMHRVZGhRVzgtVDE2dzNqSE9idjVRZWNVWjY3ZG1rdmFlTk5vamFaTmNEdWVoUHF6bE9fZ2x2VHJLcl9kNXdtSWxzclJMZWRVdUlB?oc=5",
+  "summary": "",
+  "published": "2026-01-19",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "15661fff7a20",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:df022b44",
+  "type": "gnews",
+  "title": "Addis Ababa - Portal Kemlu",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XZkZqZFg2STkwLVRuTjk1MmR3M045ZUpiSVlqMHNSd09kSlI4Tng3VWlNWnQ1NnpxRDNTek05SmFFVFZkQmpsMm9zME5BcUM2MERiQkNDSEE4YnhkN2RUQ2x3SQ?oc=5",
+  "summary": "",
+  "published": "2024-10-07",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "d3c5aaedeb97",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Pakistani Business Delegation to Explore Opportunities in Ethiopia - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUeURtUGZMN2xpYWlOV3NPdHZ0N1ZybjBXRTI1bm45WGN6ZDhOYlhvRzdtR0hBSEI0WC0tT3JHV0QySDRJTXE5NGFQQnlqYTNaWGc?oc=5",
+  "summary": "",
+  "published": "2024-05-02",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "e440a223e8f0",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopian Airlines resumes flights to Pakistan after two decades - Gulf News",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3ZPSnVJQVpkdkhjdTlfUHJvLTFsclFtS0lTZzhHX19DNWJPN1hoSUtjZElkQlRGUWRTaXEzaWZOb1NjS09mNVlxS3NpaVNBSXRHTVVVQ0hacld4UldiN0xmQWw1cEVLT1l1a25vTnk5OFJjaHF3Z2xkM0RZU3NUelJKUWhpQ01ma29oVjJIeVp6MHQycVN1XzJsQkNDdjVzS2hYY01MSE1wM0pmSVJOSEZNTU0xTDDSAcwBQVVfeXFMTl9GTV9YWkt2YkJTUGp3clp1RDNsRmpNRkF0ZVVmVnpVWEhnTjlLV0hKemp3Wm1Ib3I3RjZBMmgwSEVPN3VKSnBtQzNIMXZWLW1TOGFuVU5lYmphQWdiTFo4WHlqY1N6X0lHS1NwYXl3bVJ0Q1ZzNmVvdkdIclY1VWhaWjlyQlJjVjNuR0Z5SkgwVi1ybUFtTzdfcXlfb1B4VHVNRE4wa0dwam1ibEJYZWdPNWJNdzNWMnM5bHR6bXJSZTJyUGItSW84empD?oc=5",
+  "summary": "",
+  "published": "2023-05-09",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "84cdbffa9719",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Indonesia Ikut Pameran Dagang Internasional Di Addis Ababa - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGd0MkNLYldNNmMxcVN2TEFycmxhblpYNDREbkNja0w4eHUzWTNWa0NUNE1pT3ZoaUoxSEtfTHR0QmpLZ2l1SXJJbVRNdEY4d2pTb0pZaVdrcWdfSEtjYUtTcnVVbUFESmxJT0xWVUtfMjVTVDBSTFZpSGtUR3dLeTlDN2ZOUWhiSkpjY0pQVVZYX3dpYnhnZkN6Q2hfVktjQUtEMWc4QQ?oc=5",
+  "summary": "",
+  "published": "2020-02-28",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "fa55a207fdbd",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Pemilu 2019, Jokowi-Ma'ruf Raih 71% Suara di Ethiopia - Tempo.co",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1EzdV96MFdWZG9pTHlLYWJQNVR2WHhoaXdEU3c1Qmw4dzZUak1KUzBBem5TSWxGNGx4OVJVUjdDZDJvUmtnaTN6RjRXUmhQNmk2cjQ4emFwb25zNnpFQnYteS1rZ2ZfR2ctUlduWWVkLVF4aG43Q2JVemEwX053UzV5Rmh2enBBUnBNdEJB?oc=5",
+  "summary": "",
+  "published": "2019-04-18",
+  "first_seen": "2026-11-20T21:50:03+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "92f6ef380c17",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +179,8 @@
   "published": "2026-11-20",
   "first_seen": "2026-11-20T12:57:02+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "c2f4583f08ad",
@@ -23,7 +193,8 @@
   "published": "2026-11-20",
   "first_seen": "2026-11-20T12:57:02+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "000eacfab7dc",
@@ -36,7 +207,8 @@
   "published": "2026-11-20",
   "first_seen": "2026-11-20T12:57:02+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "f289c5b7df4a",
@@ -49,7 +221,8 @@
   "published": "2026-11-20",
   "first_seen": "2026-11-20T12:57:02+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "986a47142d32",
@@ -62,7 +235,8 @@
   "published": "2026-11-18",
   "first_seen": "2026-11-20T12:57:02+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "6bb9d9b98f81",
@@ -75,7 +249,8 @@
   "published": "2026-10-15",
   "first_seen": "2026-11-20T12:57:02+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4a95ec839d87",
@@ -88,7 +263,8 @@
   "published": "2026-08-14",
   "first_seen": "2026-11-20T12:57:02+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "6998e60ae6a8",
@@ -101,7 +277,8 @@
   "published": "2025-10-17",
   "first_seen": "2026-11-20T12:57:02+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "03e400375481",
@@ -114,7 +291,8 @@
   "published": "2024-06-16",
   "first_seen": "2026-11-20T12:57:02+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "9ea86c61c177",
@@ -127,7 +305,8 @@
   "published": "2020-11-16",
   "first_seen": "2026-11-20T12:57:02+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "f5ee1178c1fa",
@@ -140,7 +319,8 @@
   "published": "2018-03-15",
   "first_seen": "2026-11-20T12:57:02+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "fdb518356627",

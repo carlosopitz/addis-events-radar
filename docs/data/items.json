@@ -1,5 +1,122 @@
 [
  {
+  "id": "d02b8b8dac6a",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:232c6525",
+  "type": "gnews",
+  "title": "The fourth edition of the “Pasta Festa” festival in Addis Ababa - ANSA",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcTd2dk13d1B3ZkY0ZVBKTElmMWhJSkpVR1R4VFRQTEJNcm1Dek9Wclh0dGlvaG5DdVc2eU5XSFUxYmxxcTlOOFFERzVrcGJZdUp0ckxqY1hKZkFEZFN4aFdJeV92N3pWb3U0bjNBNUNCaDVvY01scmZlSEVUMEJjY1ExTXJYWkxjVkNGMDlNLXhOWkpGbmFBTmV5R1ljSE8wckRqaVYwbmFrWFN5SzVudXJRTTNGTW5YVnlnb1Y5Wl8tVEtpSGV3dE9Gb2owZTJFQ203MFd1VGMtakIwZTlXR0dXMHowOXprQ2hhUDV6Nkx1QUxyWWhCUUpiQdIBgAJBVV95cUxQcFFRNTNPYTZKa19ScUg4Q0QzaTFETkM1VVprTDNYellJTXFPMGRUcHlkU1o2Nk1QNzZfM0xKeUU5V3o4TGI0S1pOYVNFT1lCTUwyX3dEMHJRY2o5M2xjSmc5Yk5zX2U2LTJwWF9HRVhDb2pBN3NCdnNDNXpnSVJGVFM0dUFFRDRxTlhiTE1UNXZ2YTVlblRncmhJYV9VTUZxWGEzdTFhU09kODBra1NEdjRIYkY4d21hNUd2SXRBb2x0UEg1VTFqaFVZejBlN0xUa2plclBUcm5QYWFHT29Td09hZ2l5NVowV0tLTFlSbDgxMWN3WXhuYU95OWZJbExB?oc=5",
+  "summary": "",
+  "published": "2026-11-12",
+  "first_seen": "2026-11-21T03:14:06+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "a94fd5da1b32",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:a440fa52",
+  "type": "gnews",
+  "title": "Sheebah Officially Receives ODA Award Won in Addis Ababa - UG Diplomat",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2lWRHdLMU90MjBSZF8xd3pGRVNzbjBFYzJtOVBZTTctOXRnYVYwOXkzanVNX09nZmhFZUcwQUtuYXBUTkdZY0IwU0xUdk1ITUZ5SE9qOHZISjhOUFdrZVZCYUhwSERpbmtaRE5JU29McnFOX19ob3Zhd1c1S2tpU29PYk0xVTA?oc=5",
+  "summary": "",
+  "published": "2026-08-05",
+  "first_seen": "2026-11-21T03:14:06+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "befe51967856",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:a440fa52",
+  "type": "gnews",
+  "title": "African nations slam U.S. military strikes in Venezuela as threat to global sovereignty - MyJoyOnline",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPak9FWlh5WXFwMkMwa25wN2EyRFZ5SFk0bkRCcnpna09tQktJR3psYmQ0UUowcFlzeS12YUhnNjAyZkhwNGw4Q0NEd0lubllBY0RodDh1S3FoM25CYTdoVGdYU1d5UXJ1UXdTVnh5YWZNNzFiVU1qYzRiR0pReW8yN0tiSHVOb1Fad3hYZlh5ZE1ZSzNtODctb0psMGNHVnlMNmdLMElNSFhCdWpoMF9Ua29reHJCQQ?oc=5",
+  "summary": "",
+  "published": "2026-01-14",
+  "first_seen": "2026-11-21T03:14:06+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "cf1c02d8cc92",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:a440fa52",
+  "type": "gnews",
+  "title": "Opinion: The fallout from Venezuela - Concord Monitor",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWR0OWhIMXNqOW4zcUxQMXhnRWRlODZYNjdzNDg2S0xJY25GTHVLaWpid0NhT3gzMzVwbDdXSklzOHhSWWxkTVNudkRiNWxQa01oMmttdTRmb0o4WXY5TDJ6SVdhRFpONURkYUN2Z0hMTzRNSVFEbzhZZHB4a0czWjhlRi1rZEZSRkE?oc=5",
+  "summary": "",
+  "published": "2026-01-12",
+  "first_seen": "2026-11-21T03:14:06+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "a5247acdae5f",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Pakistan Supports Ankara Declaration between Ethiopia, Somalia - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PaXRtVGc2bVMzOGxlcHNfb3JobnJ2aU9OWmNXNndMekU2alVXa0QtaURoVTh4NE5iUWliNjdlS3RhZkhWWFNPQUJvMGYyQ21xRHc?oc=5",
+  "summary": "",
+  "published": "2024-12-30",
+  "first_seen": "2026-11-21T03:14:06+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "b3f200774030",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:a440fa52",
+  "type": "gnews",
+  "title": "PHOTOS: Minister Oboth lauds Kampala - Tehran ties as Iranian achievements shine at 45th glorious victory celebration - UG Diplomat",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMy1mMkVpUDZUYmMwanJTTzdLUjZxU2J6NlBUU1Nicjd3WnZDUWFBWGVFM0pmTUpvNVZfcmdYVWdaZ0dYbG1BT1RZZi1FMm1aZkdlWXFrZ0tYM21WbWRfMEtPUWVMZEt6STVjN3BFT2stQUhnRGc0UTR2M2RNY3lhRDRja2hYMjdSaVJoSGtXaV9YWlRENS1Cc0toSFhpWFhyYTN5SjVzd2pfRDJfWmUxVmNmUElhX0hkSU55UVpwRnZKamdDcTUtbTRsa2loQmpaT3NCMA?oc=5",
+  "summary": "",
+  "published": "2024-02-15",
+  "first_seen": "2026-11-21T03:14:06+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "6b5dfcb7709e",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Dubes RI serahkan surat kepercayaan kepada Presiden Djibouti - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGVwUFpWTGRGejE4WEdXWXA0MkZMYVU0TUpzRlZFSEFuQjV0c0dGSXdxRjgzRzZIdnRmWmZ4YkFaUnRvV3lmT3lHdXR5TzV3SEpQWUVaV0VmWXFnN2VscHlabDFqUlVheDlUaXpfYkNWVUZMWE1wUklGNk0xWmNVcDhacGVYcjNKaEhwbnZYQmZ3dVZSdWVjOENjbFVaVzRZblRIV2pXNNIBpwFBVV95cUxOTGVwUFpWTGRGejE4WEdXWXA0MkZMYVU0TUpzRlZFSEFuQjV0c0dGSXdxRjgzRzZIdnRmWmZ4YkFaUnRvV3lmT3lHdXR5TzV3SEpQWUVaV0VmWXFnN2VscHlabDFqUlVheDlUaXpfYkNWVUZMWE1wUklGNk0xWmNVcDhacGVYcjNKaEhwbnZYQmZ3dVZSdWVjOENjbFVaVzRZblRIV2pXNA?oc=5",
+  "summary": "",
+  "published": "2019-10-15",
+  "first_seen": "2026-11-21T03:14:06+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "9cefc88be898",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:232c6525",
+  "type": "gnews",
+  "title": "Ethiopia, The United States Sign Agreement to Exchange Terrorist Screening Information - Borkena",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbVZOYklNWXRmXzZMdG11RXNiTHBvcTRKWDRuX2FMcnRiQXdNSXhrc1FEUXV4RDhMd0JVVklLclIyaVlDZlA1REZmMEpFY0diQmY3cTItZUVxcWZuaXZHSUprREVwbGNoWVdacHlIOWl4c0dESHd1eFZzTlQzQndVOXVfaXJFWHdjUVRuelFVZ2VjZmo0Y1l2Vldpc1N0S1M4UHFNckhUQ2ZVZw?oc=5",
+  "summary": "",
+  "published": "2019-08-20",
+  "first_seen": "2026-11-21T03:14:06+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "ee54c9455e12",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Five new inscriptions on the Representative List of the Intangible Cultural Heritage of Humanity - UNESCO",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMzBPNW00M3E0SEx6emZPYW5lem9aTGNxbUZUaU1aLU1MbkJLckZTeUtwOXFCS3dmVElPZjRnOF93cmZ3a0RjYXFUZ1BHSmRwSUVZVWlDaG5hVVVhMnROV3Z1VUJ6Q0VnTVplYTR0b1RPOXdSWjJHeGpyN3B3RHB1bmFsQ21qWk8yWmYtNE9jbGVVdERCTVF3cWhQc2JNQW1OenNqTmRpQzB2TVRUQ190WXdYcDQ?oc=5",
+  "summary": "",
+  "published": "2016-11-30",
+  "first_seen": "2026-11-21T03:14:06+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "1f406f9f9c80",
   "source": "linkup",
   "channel": "linkup:telegram:121a3f67",
@@ -10,7 +127,8 @@
   "published": "2026-11-20",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c376ee7317d6",
@@ -23,7 +141,8 @@
   "published": "2026-11-20",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "66dd9f63d760",
@@ -36,7 +155,8 @@
   "published": "2026-11-20",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "5040db08f2ec",
@@ -49,7 +169,8 @@
   "published": "2026-11-20",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "744ccfa69666",
@@ -62,7 +183,8 @@
   "published": "2026-11-19",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "488646b6acbd",
@@ -75,7 +197,8 @@
   "published": "2026-10-03",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1675235a7559",
@@ -88,7 +211,8 @@
   "published": "2026-09-01",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "05ca890003ff",
@@ -101,7 +225,8 @@
   "published": "2026-01-19",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "15661fff7a20",
@@ -114,7 +239,8 @@
   "published": "2024-10-07",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d3c5aaedeb97",
@@ -127,7 +253,8 @@
   "published": "2024-05-02",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e440a223e8f0",
@@ -140,7 +267,8 @@
   "published": "2023-05-09",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "84cdbffa9719",
@@ -153,7 +281,8 @@
   "published": "2020-02-28",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "fa55a207fdbd",
@@ -166,7 +295,8 @@
   "published": "2019-04-18",
   "first_seen": "2026-11-20T21:50:03+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "92f6ef380c17",

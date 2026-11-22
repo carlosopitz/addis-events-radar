@@ -1,5 +1,83 @@
 [
  {
+  "id": "6288586627b7",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "Gast Cinema Nov 23- 25 2026 Schedule",
+  "url": "https://t.me/gastcinema/4908",
+  "summary": "Gast Cinema Nov 23- 25 2026 Schedule",
+  "published": "2026-11-22",
+  "first_seen": "2026-11-22T23:37:43+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "0507ec4784ab",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Diplomatic Community in Addis Extends Timket Best Wishes - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lOTBsSm5kWVBCajBYOWZZU2lfX1pBMDlmVk5ZQ3dqSnBjSVMzRFl5aXE2N2xtU3VfVTdhOFpHMlFEQ2Q4TDZTQUhsYmoxSDMxU2c?oc=5",
+  "summary": "",
+  "published": "2026-01-19",
+  "first_seen": "2026-11-22T23:37:43+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "64ae3b12e090",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "EU Delegation to the African Union and EU Delegation to Ethiopia hosts a reception to celebrate Europe Day in Addis Ababa - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNemNLU05ZVkFBNGM2Unc1TEdyNnd1REtSU2I3eFBqZlc1MDVvYTgyOEdoVjc0cUM4MjYtcjhzMjJpazRlT2N2TmtZYlA5YkYtYWR2dm51OXU1OV83NFZSbFoxRnAwR2J4ZmdubVJnVEphdWx3WDcxSzdWT3ZYbHRhWnNHMUVZNUV5WV80bHhCT3RjM21NMHI4MU9Ldms0a2d6WlpiNjVmLWIwaDZiNVZETHNvM2RVVG00NUs1dXc4TmxTNlJNbGRsTVZCbnd0Wi1WWXIzVExOZWRROUJFNHlyUHhuRU1nS2VENlluMHRjaVc1SjQ?oc=5",
+  "summary": "",
+  "published": "2024-04-23",
+  "first_seen": "2026-11-22T23:37:43+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "4857dbe60dea",
+  "source": "eu-au",
+  "channel": "eu-au:gnews:c7187f3a",
+  "type": "gnews",
+  "title": "EU Delegation to the African Union and EU Delegation to Ethiopia hosts a reception to celebrate Europe Day in Addis Ababa - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNemNLU05ZVkFBNGM2Unc1TEdyNnd1REtSU2I3eFBqZlc1MDVvYTgyOEdoVjc0cUM4MjYtcjhzMjJpazRlT2N2TmtZYlA5YkYtYWR2dm51OXU1OV83NFZSbFoxRnAwR2J4ZmdubVJnVEphdWx3WDcxSzdWT3ZYbHRhWnNHMUVZNUV5WV80bHhCT3RjM21NMHI4MU9Ldms0a2d6WlpiNjVmLWIwaDZiNVZETHNvM2RVVG00NUs1dXc4TmxTNlJNbGRsTVZCbnd0Wi1WWXIzVExOZWRROUJFNHlyUHhuRU1nS2VENlluMHRjaVc1SjQ?oc=5",
+  "summary": "",
+  "published": "2024-04-23",
+  "first_seen": "2026-11-22T23:37:43+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "1e27f874dfeb",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Embassies of Various Countries in Addis Ababa Extend Best Wishes for Meskel Festival - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zT0RiRlJFSWtJc1ZpSlNVWHYtQnl2NlpzMUxVSGl3MzVENlZ0Rk42OC0wTmRXVVphUDJuYzNxYVV1MUlxOEcwMGVOeGU5Zw?oc=5",
+  "summary": "",
+  "published": "2023-03-06",
+  "first_seen": "2026-11-22T23:37:43+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "891de5208526",
+  "source": "germany",
+  "channel": "germany:gnews:76449341",
+  "type": "gnews",
+  "title": "German President visits rock-hewn churches at Lalibela Addis Ababa, January 29, 2019 - German President Frank -Walter Steinmeier today arrived in Lalibela town, Amhara regional state, to visit the rock-hewn churches at…",
+  "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNWGUtdFZSeTNIa0tfamV0RVV6bl9WdHJTZGprclQ1bGNncDhEckx5QnFSOS1hTC1fQmZaampkYnlpdk80UVcyMURlME44Wm95bEVZNzR0WGt4TmNWYkFlU2ptNVFKUTZsN1FaNkFCc2IzTzh6Y28xNVNNZFpzbks0Yi15V3haQXozY0hXc2s3eEU5RWJqemhVazRjTGRvejA4YkdjdWpNem5FZjZ1UVhsczBqZ0hPWUdIaWMyYXpSQ1laanY3LUpUU3puTGt6OGs1YTktU0p3eUZuMndaRnFoUUpHWDhraDh5b3dQaVhKOHdGMTExWTdmTFFTaVp1VGxxN2NFRC0tVW5YRFV1ZkJwdmtVaXU5b0RKMUJ3bndkZ2dGLUxyUDd0a09HSXc2blpCUktsN3ZFeUVreGZLVXRuM2JEQ0ZDZw?oc=5",
+  "summary": "",
+  "published": "2019-01-29",
+  "first_seen": "2026-11-22T23:37:43+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "486943487262",
   "source": "euff",
   "channel": "euff:gnews:e760266e",
@@ -10,7 +88,8 @@
   "published": "2026-11-17",
   "first_seen": "2026-11-22T17:50:55+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "d44a44d38049",
@@ -23,7 +102,8 @@
   "published": "2026-02-24",
   "first_seen": "2026-11-22T17:50:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "09868f185372",
@@ -36,7 +116,8 @@
   "published": "2026-02-09",
   "first_seen": "2026-11-22T17:50:55+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "38cf0bfbef9d",
@@ -49,7 +130,8 @@
   "published": "2024-03-11",
   "first_seen": "2026-11-22T17:50:55+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "bf1b7224725c",
@@ -62,7 +144,8 @@
   "published": "2020-06-17",
   "first_seen": "2026-11-22T17:50:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "35bc065564be",
@@ -75,7 +158,8 @@
   "published": "2019-12-10",
   "first_seen": "2026-11-22T17:50:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0b91e9e9e080",
@@ -88,7 +172,8 @@
   "published": "2010-12-06",
   "first_seen": "2026-11-22T17:50:55+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "d4a30c297feb",

@@ -1,5 +1,96 @@
 [
  {
+  "id": "486943487262",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "Deadline was On The Go at the ToruńCAMERIMAGE Film Festival (@camerimage.festival) with the cinematographers, directors and actors behind some of this year’s biggest films, including ‘Wild Horse Nine’, ‘Your Mother…",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYzFkblRGNm5mWjVQNndkNTI2N1F3WnczX2dYQW03WjgzU3U2RVlvQXZHVElvUzdncVk1SnFPUnoxMFRUWUdPcHA3SFEtbFhyYUtqRkV2RHc5eEJDbzdkOEpYOEs5UXlMV05KNkNDWGNUcHFlVkxSSzNvNkV2NTVqYTZsSTUtWE90QUZ6clBGazI5RWNOcy15VlppUlBVUTROZXVlaXpfMG10MDZxUGJ4dklkMkJDVVlWcEFVbk9wYUNmTGZJWFlIanZuY3haTmY0blNGb0plalpWS3dR?oc=5",
+  "summary": "",
+  "published": "2026-11-17",
+  "first_seen": "2026-11-22T17:50:55+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "d44a44d38049",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "Brecht in Pictures - Goethe-Institut",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05SUpPbC10Zlg3YlBKdlBBR2dhMlpJeWlFUHd6Y25TdUs4ZWhSb2ZZOGNKT3FJYVBNbFlPS282Qk1lcUNZOHlfWmI3dXd1RUVJMld5Y05NdnNMODdO?oc=5",
+  "summary": "",
+  "published": "2026-02-24",
+  "first_seen": "2026-11-22T17:50:55+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "09868f185372",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:232c6525",
+  "type": "gnews",
+  "title": "Sahrawi Embassy participates in 15th edition of Ethiopian Chamber of International Trade Exhibition - وكالة الأنباء الصحراوية",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MWVVKQ1dIc0hSNEhrbm5ZX0N4djVyQkRROVAwTklLOGc4SzZZSDhPQmtjNWhWcExHMTc3dmFrUXZiRmFib1ZoVUdJX1pYTkFTM1B0NzNYNjBYZ3puTUE?oc=5",
+  "summary": "",
+  "published": "2026-02-09",
+  "first_seen": "2026-11-22T17:50:55+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "38cf0bfbef9d",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "Embassy of Italy host 8th Italian design day celebrations - CapitalEthiopia",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMm1sOUR2eUhHWDdkcHo1R1NHc1FPV1EwdHA5LW0xVFdPM2lrWlNrY0hUQi1CTE1lU3pDbkxISWJnbVRBeElnaVh3OVZPTWVDUF9CZzhmeXVVSmNwYUZjYzdKV2s0cHM5TUl2Qkt1SEJPSnBmMERGdXNZMkZiX1l0OWRnQ3pfVjZ3UTJCcGhTLTczT0VJV2czMkdFalpvQQ?oc=5",
+  "summary": "",
+  "published": "2024-03-11",
+  "first_seen": "2026-11-22T17:50:55+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "bf1b7224725c",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "Ethiopia: a guide to Italian military cemeteries - Ministero degli Affari Esteri e della Cooperazione Internazionale",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTF9raThmMEZ1Vl9QQTVzQ011Vl9tMm0zdTRpemxnakNNNm5xMHViQUljbk5YZ2doTC0wOENOYl8yejBlY0lZWFNsMjlUNi1ZeURfTl9fZko2S3l5RGdBaVNtQWNWSDl4QnZ3dnNuLXBUTE0yV00zV3Q1TkVpM05FX1d5OVI0Q1Y0aTlQN3h2aHlWR2JtQnNjNHFyajRSejlOY1NObzNmZWYwSUtrX0xKUzBUMjNEcGhOUFlyTnNDeFNKajFXUlE?oc=5",
+  "summary": "",
+  "published": "2020-06-17",
+  "first_seen": "2026-11-22T17:50:55+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "35bc065564be",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "SEWF 2019: Different experiences, shared values - Pioneers Post",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0ZseldMRDY2SHByeGtKT3V0dUM3ZVFyTjh3RUlTOERlYnBtRl9ZdmphT3VpYU1PdHVPS2dTNUJuVEJOa21DaWhJc29Vb3lZUzNwNC1QVWJqX3kzQlpNVlZGSld2VEJvZHpQdEZhajdtOWk1UGZkZHNPMF84WHc2MmRIYVByRm4wQUs1ZGoxMDgzaHlBYVhtam9B?oc=5",
+  "summary": "",
+  "published": "2019-12-10",
+  "first_seen": "2026-11-22T17:50:55+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0b91e9e9e080",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "Addis Foto Fest: International Photography Festival - Tadias Magazine",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2trMF9oblNNM3ZrVWxBUWFlUEZCeTh0ak00ZEFsaU16ZHcyRGpKMVlMVm1XbENiY0t0cnRMTHI0dGs1dDNENjIwUVBFVmg3bzVTdDlsOGFJdXNPN3pITlZmeklJZWtWYkw4eWNKejlkVXc1SnFSZUU1Y0RPd2pwemkwaVJIUE9NdHYyeUc2M2hFTHVtOUs0UU1hSjJlSm9BWUxUMmVWdm0tWjJYTndZ?oc=5",
+  "summary": "",
+  "published": "2010-12-06",
+  "first_seen": "2026-11-22T17:50:55+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "d4a30c297feb",
   "source": "pakistan",
   "channel": "pakistan:gnews:a03ae46b",
@@ -10,7 +101,8 @@
   "published": "2023-11-08",
   "first_seen": "2026-11-22T09:54:46+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a6fb9672a889",
@@ -23,7 +115,8 @@
   "published": "2020-01-27",
   "first_seen": "2026-11-22T09:54:46+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "fbf8d6062aa3",

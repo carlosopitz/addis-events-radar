@@ -1,5 +1,31 @@
 [
  {
+  "id": "d4a30c297feb",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopia and Pakistan Express their desire to Elevate Longstanding Relations - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Dc0Y3dkx3ZUVJSlFXckNhaDFKZmNJS0FFZUJjVjJqUGJYSFM3Nk8yMllGMHhXY0xzRGpYa1g3VFBXelYtdUNnUDlHSXJXYVpEcnc?oc=5",
+  "summary": "",
+  "published": "2023-11-08",
+  "first_seen": "2026-11-22T09:54:46+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "a6fb9672a889",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:232c6525",
+  "type": "gnews",
+  "title": "U.S. Embassy and Ethiopian Airlines Hosts a Classical piano concert and New Album Release - Borkena",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTRMNlB4SkhMZjhpSEZqQnU5aElNSXRmWnNYQUlmSEpDbFE1S2ZERU5xNncwUEItSVgtdDFNYUhNeVRKMWQzOXhqTHo1VllNWGpBWmlTY2o3ejNudHlGUVM4bkQtS0pmYVRLSmNLUFpidnJDdnVwSjl4UFVKMlRheDdObkVDRE1yZlVfTjl6OTlER1JEc3ktRVZwajN0dTZ3RVpmWWpmcjJFLUdScEE?oc=5",
+  "summary": "",
+  "published": "2020-01-27",
+  "first_seen": "2026-11-22T09:54:46+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "fbf8d6062aa3",
   "source": "malaysia",
   "channel": "malaysia:gnews:b57d9e9a",
@@ -10,7 +36,8 @@
   "published": "2026-09-10",
   "first_seen": "2026-11-22T02:16:16+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e8e119f6c296",
@@ -23,7 +50,8 @@
   "published": "2025-09-06",
   "first_seen": "2026-11-22T02:16:16+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "db4ca3e55981",
@@ -36,7 +64,8 @@
   "published": "2025-08-28",
   "first_seen": "2026-11-22T02:16:16+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6dba85a05f8e",
@@ -49,7 +78,8 @@
   "published": "2014-09-23",
   "first_seen": "2026-11-22T02:16:16+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "5eb451c5abb7",

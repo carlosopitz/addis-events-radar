@@ -1,5 +1,57 @@
 [
  {
+  "id": "fbf8d6062aa3",
+  "source": "malaysia",
+  "channel": "malaysia:gnews:b57d9e9a",
+  "type": "gnews",
+  "title": "Kedutaan Malaysia terima kunjungan delegasi Ethiopia menjelang sambutan Enkutatash - Astro Awani",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOXFtelpYVzZHYXpUVzI5VllaOWlOamlkQVZ2bV9KdzNLSThJQzd1RzZ4RldaalJSWDgwcTZZNldyb1J0Z2F5WWVmdXY2dlVrOEJSdld3eDVCVUt4NHpxbkVtb2l6aGJtOU4zd2ZWelUta1Bxc3BOazBKV1Qyc2d4YTdQYXJDQlZDeHktUG1ETnZjX3BkMmZuTjZzVzR5ZGFBWUhjMml2RUQ4MWNQYUVuZUtHaTczSGI1UC1XNGFGaFduWTQ?oc=5",
+  "summary": "",
+  "published": "2026-09-10",
+  "first_seen": "2026-11-22T02:16:16+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "e8e119f6c296",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "Sudán del Sur repatria a un mexicano deportado de EU en julio; fue condenado por asesinato y sentenciado a cadena perpetua - El Universal",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaXRLczg0clR3Ym95ZC1YbWJYWWZNUXAzWEhlbUZlNGhwMnJpM1pxUHNqTi1ZbkhuTnhjR01JSkZOcXZxMEtMNUVsWFEtWk5zdmpoeHdlb2VTWmlBeGhPcy16dVRPaU1TZWlwUzEzb1p6anlUOG9oY2hHS1l5ZmpzaDU1SGVpN2xlOURyZ1RRX3liN0J4cVdqaW5lck1ZRjlRblBKSjRzLXN3SUFjVnZjLW00dHJaZ2RvLTdmQmRkbjRpVDV6YlhrelNjZzJuZTY2S2dDOUZ2MFRsRjd2QWtOWlFuRjliSXdyNGNWOTRaM0rSAYQCQVVfeXFMT0E0MmpsZWdFejZMak5FQUR3WS1vWDJUd3VaSDA1ZWhVNXRzdUVvbmE0aENyblNfbERGZEdUUE8yLVhYYWdXaHd5MTFZb19fM3ZrQklKSWJGcWowQzFYM2FQRDlVUTBzaFIwLWxmN0p6Mm80RmxibzRCZE83eDRaQ3VtWWNmUzR6UmtzdjNCTEZtX053MHVob3FoR0dwVk9KNDNvdHB6bWZVTDQzbVBoMGFJYm1McmdtVVVEQVdnOFhQd2ViZnBaUWFBcGJEd3hUZk5ucmFVeVpQOWxicnFidm42NE0wZ0M5MjJFV3JCUEkxUDNSaXlBdkpXUTI2UHVHQUhYS0w?oc=5",
+  "summary": "",
+  "published": "2025-09-06",
+  "first_seen": "2026-11-22T02:16:16+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "db4ca3e55981",
+  "source": "colombia",
+  "channel": "colombia:gnews:d97e2977",
+  "type": "gnews",
+  "title": "Unión Africana y Colombia fortalecen relaciones bilaterales (+Foto) - Prensa Latina",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVFdYZ3NmbkZxSUNZellhZ25pcXc3QXhfSmlwSGt3UGJ4dlJBRS1BS2ZVanhIaDdGdGZjVHZNMF9VZ0MwYjg5OGRsUkFOSmlOa1FoOHpDTzlmN1lGRjVpNE1WcldzbWtjTDBJQTB5UXJ6QnNwVXRHQVNZZl9kM3U0VHFLcF9IamVqSWdhc21WT0dlX0JJWXlJMGRoT29TQnFVX3c?oc=5",
+  "summary": "",
+  "published": "2025-08-28",
+  "first_seen": "2026-11-22T02:16:16+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "6dba85a05f8e",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Construction Exhibition Brings Local, Global Industry Leaders Together - Ethio Sports",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzFTbWVENnlfVUVzUkEwdWtUTEtMYTNvOE5tSmVmT1NxOVZhRVB3R0pVLTlwcmxwQ1pzYnhGWC1oeTVBQWU2S0lKRlowUDZ2Q1FmdDcwZlRtQ2owb09zdWE1TUo5MW1YaXVGZXVFSHhEcU0tVDRVOEdBYVdvLTZ4Skd3VkgxZWRhREhFQ0NaVzFMT3QyN04zYmpLVExsbTFCbl9HNGp0OXJRcUxJa1E?oc=5",
+  "summary": "",
+  "published": "2014-09-23",
+  "first_seen": "2026-11-22T02:16:16+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
   "id": "5eb451c5abb7",
   "source": "venezuela",
   "channel": "venezuela:gnews:ce1dd9ce",
@@ -10,7 +62,8 @@
   "published": "2025-09-29",
   "first_seen": "2026-11-21T20:32:48+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5f15c3b8114d",
@@ -23,7 +76,8 @@
   "published": "2025-05-07",
   "first_seen": "2026-11-21T20:32:48+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "3989374d5091",
@@ -36,7 +90,8 @@
   "published": "2020-01-22",
   "first_seen": "2026-11-21T20:32:48+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "8011c100d508",
@@ -49,7 +104,8 @@
   "published": "2019-05-08",
   "first_seen": "2026-11-21T20:32:48+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "48cc8369c948",
@@ -62,7 +118,8 @@
   "published": "2019-01-29",
   "first_seen": "2026-11-21T20:32:48+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "255f12a62b2f",

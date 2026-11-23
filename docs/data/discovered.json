@@ -1,9 +1,9 @@
 {
- "checked": "2026-11-16T13:11:13+00:00",
+ "checked": "2026-11-23T15:24:48+00:00",
  "sources": {
   "goethe": {
    "id": "goethe",
-   "checked": "2026-11-16T13:10:05+00:00",
+   "checked": "2026-11-23T15:23:35+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -11,7 +11,7 @@
   },
   "alliance": {
    "id": "alliance",
-   "checked": "2026-11-16T13:10:05+00:00",
+   "checked": "2026-11-23T15:23:35+00:00",
    "links": {
     "facebook": [
      "https://web.facebook.com/aefaddis/?_rdc=1&_rdr"
@@ -31,7 +31,7 @@
   },
   "iic": {
    "id": "iic",
-   "checked": "2026-11-16T13:10:05+00:00",
+   "checked": "2026-11-23T15:23:35+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/iicaddisababa"
@@ -52,7 +52,7 @@
   },
   "british-council": {
    "id": "british-council",
-   "checked": "2026-11-16T13:10:05+00:00",
+   "checked": "2026-11-23T15:23:35+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -60,7 +60,7 @@
   },
   "eu-ethiopia": {
    "id": "eu-ethiopia",
-   "checked": "2026-11-16T13:10:05+00:00",
+   "checked": "2026-11-23T15:23:35+00:00",
    "links": {
     "x": [
      "https://twitter.com/EUinEthiopia"
@@ -77,7 +77,7 @@
   },
   "eu-au": {
    "id": "eu-au",
-   "checked": "2026-11-16T13:10:05+00:00",
+   "checked": "2026-11-23T15:23:35+00:00",
    "links": {
     "x": [
      "https://twitter.com/EUtoAU"
@@ -95,7 +95,7 @@
   },
   "euff": {
    "id": "euff",
-   "checked": "2026-11-16T13:10:05+00:00",
+   "checked": "2026-11-23T15:23:35+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -103,7 +103,7 @@
   },
   "austria": {
    "id": "austria",
-   "checked": "2026-11-16T13:10:05+00:00",
+   "checked": "2026-11-23T15:23:35+00:00",
    "links": {
     "x": [
      "https://twitter.com/AustriainET"
@@ -118,7 +118,7 @@
   },
   "germany": {
    "id": "germany",
-   "checked": "2026-11-16T13:10:05+00:00",
+   "checked": "2026-11-23T15:23:35+00:00",
    "links": {
     "x": [
      "https://twitter.com/GERonAfrica",
@@ -134,7 +134,7 @@
   },
   "france": {
    "id": "france",
-   "checked": "2026-11-16T13:10:05+00:00",
+   "checked": "2026-11-23T15:23:36+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -142,7 +142,7 @@
   },
   "italy": {
    "id": "italy",
-   "checked": "2026-11-16T13:10:05+00:00",
+   "checked": "2026-11-23T15:23:36+00:00",
    "links": {
     "x": [
      "https://twitter.com/ItalyinEthiopia"
@@ -163,7 +163,7 @@
   },
   "spain": {
    "id": "spain",
-   "checked": "2026-11-16T13:10:06+00:00",
+   "checked": "2026-11-23T15:23:36+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/EmbEspEtiopia/?fref=ts",
@@ -193,7 +193,7 @@
   },
   "netherlands": {
    "id": "netherlands",
-   "checked": "2026-11-16T13:10:06+00:00",
+   "checked": "2026-11-23T15:23:36+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/DutchEmbassyEthiopia"
@@ -208,7 +208,7 @@
   },
   "sweden": {
    "id": "sweden",
-   "checked": "2026-11-16T13:10:06+00:00",
+   "checked": "2026-11-23T15:23:36+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -216,7 +216,7 @@
   },
   "finland": {
    "id": "finland",
-   "checked": "2026-11-16T13:10:06+00:00",
+   "checked": "2026-11-23T15:23:36+00:00",
    "links": {
     "facebook": [
      "http://www.facebook.com/FinEmbAddis"
@@ -228,7 +228,7 @@
   },
   "denmark": {
    "id": "denmark",
-   "checked": "2026-11-16T13:10:06+00:00",
+   "checked": "2026-11-23T15:23:36+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -236,7 +236,7 @@
   },
   "ireland": {
    "id": "ireland",
-   "checked": "2026-11-16T13:10:06+00:00",
+   "checked": "2026-11-23T15:23:36+00:00",
    "links": {
     "x": [
      "http://twitter.com/IEAmbEthiopia",
@@ -256,7 +256,7 @@
   },
   "belgium": {
    "id": "belgium",
-   "checked": "2026-11-16T13:10:07+00:00",
+   "checked": "2026-11-23T15:23:36+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/BelgiumAddis"
@@ -274,7 +274,7 @@
   },
   "czechia": {
    "id": "czechia",
-   "checked": "2026-11-16T13:10:07+00:00",
+   "checked": "2026-11-23T15:23:37+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -282,15 +282,15 @@
   },
   "poland": {
    "id": "poland",
-   "checked": "2026-11-16T13:10:07+00:00",
+   "checked": "2026-11-23T15:23:37+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
-   "error": "https://www.gov.pl/web/etiopia: ConnectionError HTTPSConnectionPool(host='www.gov.pl', port=443): Max retries exceeded with url: /web/etiopia (Caused by NewConnectionEr"
+   "error": null
   },
   "hungary": {
    "id": "hungary",
-   "checked": "2026-11-16T13:10:07+00:00",
+   "checked": "2026-11-23T15:23:37+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/pages/K%C3%BCl%C3%BCgyi-%C3%A9s-K%C3%BClgazdas%C3%A1gi-Int%C3%A9zet/481757045295140?fref=ts"
@@ -302,7 +302,7 @@
   },
   "slovakia": {
    "id": "slovakia",
-   "checked": "2026-11-16T13:10:07+00:00",
+   "checked": "2026-11-23T15:23:37+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -310,7 +310,7 @@
   },
   "uk": {
    "id": "uk",
-   "checked": "2026-11-16T13:10:07+00:00",
+   "checked": "2026-11-23T15:23:37+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -318,7 +318,7 @@
   },
   "switzerland": {
    "id": "switzerland",
-   "checked": "2026-11-16T13:10:07+00:00",
+   "checked": "2026-11-23T15:23:38+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -326,7 +326,7 @@
   },
   "norway": {
    "id": "norway",
-   "checked": "2026-11-16T13:10:08+00:00",
+   "checked": "2026-11-23T15:23:38+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/norwayembassyaddisababa"
@@ -344,7 +344,7 @@
   },
   "usa": {
    "id": "usa",
-   "checked": "2026-11-16T13:10:08+00:00",
+   "checked": "2026-11-23T15:23:38+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -352,7 +352,7 @@
   },
   "canada": {
    "id": "canada",
-   "checked": "2026-11-16T13:10:08+00:00",
+   "checked": "2026-11-23T15:23:38+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/CanadaDjibouti",
@@ -369,7 +369,7 @@
   },
   "mexico": {
    "id": "mexico",
-   "checked": "2026-11-16T13:10:09+00:00",
+   "checked": "2026-11-23T15:23:38+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -377,7 +377,7 @@
   },
   "venezuela": {
    "id": "venezuela",
-   "checked": "2026-11-16T13:10:09+00:00",
+   "checked": "2026-11-23T15:23:38+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -385,7 +385,7 @@
   },
   "colombia": {
    "id": "colombia",
-   "checked": "2026-11-16T13:10:09+00:00",
+   "checked": "2026-11-23T15:23:38+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -393,39 +393,15 @@
   },
   "brazil": {
    "id": "brazil",
-   "checked": "2026-11-16T13:10:09+00:00",
-   "links": {
-    "flickr": [
-     "https://www.flickr.com/photos/mrebrasil/albums"
-    ],
-    "instagram": [
-     "http://instagram.com/itamaratygovbr"
-    ],
-    "facebook": [
-     "https://www.facebook.com/ItamaratyGovBr"
-    ],
-    "youtube": [
-     "https://www.youtube.com/user/MREBRASIL"
-    ],
-    "x": [
-     "https://twitter.com/ItamaratyGovBr",
-     "https://twitter.com/itamaraty_en",
-     "https://twitter.com/itamaraty_es"
-    ],
-    "linkedin": [
-     "https://www.linkedin.com/company/itamaratygovbr"
-    ],
-    "bluesky": [
-     "https://bsky.app/profile/itamaratygovbr.bsky.social"
-    ]
-   },
+   "checked": "2026-11-23T15:23:38+00:00",
+   "links": {},
    "feeds": [],
    "newsletter": [],
-   "error": null
+   "error": "https://www.gov.br/mre/pt-br/embaixada-adis-abeba: ConnectionError ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   "argentina": {
    "id": "argentina",
-   "checked": "2026-11-16T13:10:09+00:00",
+   "checked": "2026-11-23T15:23:38+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/ArgEnEtiopia"
@@ -440,7 +416,7 @@
   },
   "indonesia": {
    "id": "indonesia",
-   "checked": "2026-11-16T13:10:09+00:00",
+   "checked": "2026-11-23T15:23:38+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -448,7 +424,7 @@
   },
   "malaysia": {
    "id": "malaysia",
-   "checked": "2026-11-16T13:10:09+00:00",
+   "checked": "2026-11-23T15:23:39+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -456,7 +432,7 @@
   },
   "kazakhstan": {
    "id": "kazakhstan",
-   "checked": "2026-11-16T13:10:10+00:00",
+   "checked": "2026-11-23T15:23:39+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/gokazakhstan/?__tn__=%2CdK-R-R-R&eid=ARCe92AbvjQ3Bg5FOQFqehS6JW7AC8cjSPGW62wBIL6L8pNMV9GCjuo4Su1Cvko4PNPKoRQI6y0Ey6-j&fref=mentions",
@@ -475,7 +451,7 @@
   },
   "azerbaijan": {
    "id": "azerbaijan",
-   "checked": "2026-11-16T13:10:11+00:00",
+   "checked": "2026-11-23T15:23:40+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -483,7 +459,7 @@
   },
   "pakistan": {
    "id": "pakistan",
-   "checked": "2026-11-16T13:10:11+00:00",
+   "checked": "2026-11-23T15:23:40+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -491,7 +467,7 @@
   },
   "australia": {
    "id": "australia",
-   "checked": "2026-11-16T13:10:11+00:00",
+   "checked": "2026-11-23T15:23:40+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/AusEmb.ET?__cft__[0]=AZVDca-vXEC6zhhczgAxm9120mCp0K2y2VVaeA1SOUSaJUA2-bbLS2t2vF29cEW0pw0uDMD52CuS2GGF4lzMquXcArOQ5AkzfVsz5h0g-k1vkO7IUTjgMB4dzOtHzQIcfDyvpLX5fWjdrwHJrv1sdDrnprz6gegXIiRdjIdyc_tl4-dNKtoB7HRu0NF_VH5iF8hGZFRImFzRsl48agG8lusg&__tn__=-]K-R",
@@ -507,7 +483,7 @@
   },
   "japan": {
    "id": "japan",
-   "checked": "2026-11-16T13:10:11+00:00",
+   "checked": "2026-11-23T15:23:41+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -515,7 +491,7 @@
   },
   "korea": {
    "id": "korea",
-   "checked": "2026-11-16T13:10:11+00:00",
+   "checked": "2026-11-23T15:23:41+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/KoreainEthiopia",
@@ -542,7 +518,7 @@
   },
   "china": {
    "id": "china",
-   "checked": "2026-11-16T13:10:11+00:00",
+   "checked": "2026-11-23T15:23:41+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -550,7 +526,7 @@
   },
   "india": {
    "id": "india",
-   "checked": "2026-11-16T13:10:12+00:00",
+   "checked": "2026-11-23T15:23:42+00:00",
    "links": {
     "x": [
      "https://twitter.com/MEAIndia",
@@ -579,7 +555,7 @@
   },
   "hyatt": {
    "id": "hyatt",
-   "checked": "2026-11-16T13:10:12+00:00",
+   "checked": "2026-11-23T15:23:42+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -587,15 +563,15 @@
   },
   "hilton": {
    "id": "hilton",
-   "checked": "2026-11-16T13:10:12+00:00",
+   "checked": "2026-11-23T15:23:42+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
-   "error": "https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/: HTTPError 403 Client Error: Forbidden for url: https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/"
+   "error": "https://www.hilton.com/en/hotels/addhitw-hilton-addis-ababa/: ReadTimeout HTTPSConnectionPool(host='www.hilton.com', port=443): Read timed out. (read timeout=30)"
   },
   "hub-hotel": {
    "id": "hub-hotel",
-   "checked": "2026-11-16T13:10:12+00:00",
+   "checked": "2026-11-23T15:23:43+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/profile.php?id=100064052648976"
@@ -607,7 +583,7 @@
   },
   "exhibition-center": {
    "id": "exhibition-center",
-   "checked": "2026-11-16T13:10:13+00:00",
+   "checked": "2026-11-23T15:23:44+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -615,7 +591,7 @@
   },
   "intellect-arena": {
    "id": "intellect-arena",
-   "checked": "2026-11-16T13:10:13+00:00",
+   "checked": "2026-11-23T15:23:44+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -623,7 +599,7 @@
   },
   "gast-cinema": {
    "id": "gast-cinema",
-   "checked": "2026-11-16T13:10:13+00:00",
+   "checked": "2026-11-23T15:23:44+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -631,7 +607,7 @@
   },
   "century-cinema": {
    "id": "century-cinema",
-   "checked": "2026-11-16T13:10:13+00:00",
+   "checked": "2026-11-23T15:23:44+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -639,7 +615,7 @@
   },
   "laphto-cinema": {
    "id": "laphto-cinema",
-   "checked": "2026-11-16T13:10:13+00:00",
+   "checked": "2026-11-23T15:23:44+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -647,7 +623,7 @@
   },
   "videobet": {
    "id": "videobet",
-   "checked": "2026-11-16T13:10:13+00:00",
+   "checked": "2026-11-23T15:23:44+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -655,7 +631,7 @@
   },
   "the-space": {
    "id": "the-space",
-   "checked": "2026-11-16T13:10:13+00:00",
+   "checked": "2026-11-23T15:23:44+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -663,7 +639,7 @@
   },
   "creative-hub": {
    "id": "creative-hub",
-   "checked": "2026-11-16T13:10:13+00:00",
+   "checked": "2026-11-23T15:23:44+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -671,7 +647,7 @@
   },
   "fabrika": {
    "id": "fabrika",
-   "checked": "2026-11-16T13:10:13+00:00",
+   "checked": "2026-11-23T15:23:45+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -679,7 +655,7 @@
   },
   "selam": {
    "id": "selam",
-   "checked": "2026-11-16T13:10:13+00:00",
+   "checked": "2026-11-23T15:23:45+00:00",
    "links": {
     "facebook": [
      "https://www.facebook.com/SelaminEthiopia"
@@ -699,7 +675,7 @@
   },
   "addis-fine-art": {
    "id": "addis-fine-art",
-   "checked": "2026-11-16T13:10:14+00:00",
+   "checked": "2026-11-23T15:23:45+00:00",
    "links": {
     "instagram": [
      "https://www.instagram.com/addisfineart"
@@ -714,7 +690,7 @@
   },
   "fendika": {
    "id": "fendika",
-   "checked": "2026-11-16T13:10:14+00:00",
+   "checked": "2026-11-23T15:23:46+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -722,7 +698,7 @@
   },
   "zoma": {
    "id": "zoma",
-   "checked": "2026-11-16T13:10:14+00:00",
+   "checked": "2026-11-23T15:23:46+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -730,7 +706,7 @@
   },
   "jazz-village": {
    "id": "jazz-village",
-   "checked": "2026-11-16T13:10:14+00:00",
+   "checked": "2026-11-23T15:23:46+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -738,7 +714,7 @@
   },
   "bazra": {
    "id": "bazra",
-   "checked": "2026-11-16T13:10:14+00:00",
+   "checked": "2026-11-23T15:23:46+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -746,7 +722,7 @@
   },
   "upscale": {
    "id": "upscale",
-   "checked": "2026-11-16T13:10:14+00:00",
+   "checked": "2026-11-23T15:23:46+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -754,7 +730,7 @@
   },
   "linkup": {
    "id": "linkup",
-   "checked": "2026-11-16T13:10:14+00:00",
+   "checked": "2026-11-23T15:23:46+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -762,7 +738,7 @@
   },
   "whatsout": {
    "id": "whatsout",
-   "checked": "2026-11-16T13:10:14+00:00",
+   "checked": "2026-11-23T15:23:46+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],
@@ -770,7 +746,7 @@
   },
   "press-culture": {
    "id": "press-culture",
-   "checked": "2026-11-16T13:10:14+00:00",
+   "checked": "2026-11-23T15:23:46+00:00",
    "links": {},
    "feeds": [],
    "newsletter": [],

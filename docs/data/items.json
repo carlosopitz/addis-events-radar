@@ -1,5 +1,70 @@
 [
  {
+  "id": "9b7ca4584fe7",
+  "source": "korea",
+  "channel": "korea:web:427fe97b",
+  "type": "web",
+  "title": "Notice Tender Notice: Security Guard Services for the Embassy of the Republic of Korea 1. Tender Topic : Security Guard Services for the Embassy of the Republic of Koreao Contract Period :Jan. 1st, 2027 – Dec. 31st,…",
+  "url": "https://overseas.mofa.go.kr/et-en/brd/m_23675/view.do?seq=758571",
+  "summary": "",
+  "published": "2026-11-23",
+  "first_seen": "2026-11-23T20:16:09+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "debf8479f4c7",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "The EU Children Races 2025 - European External Action Service (EEAS)",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRnV4ZzhCcURXQjFyYTRXaFhqd2ZRVUtBUU9nTlpMR1lxWGN1VVFma2JzUWR6WXZ3WG1PUUQ1clFXOWpWNmJjYjZXNFpfUWFfODY1TmdDMV9pTVhMa0xtUjU5V2Rfal8xSWJSSmlkYkVFYkZDZXplbjFQUGFVLXhSVnJPY1A?oc=5",
+  "summary": "",
+  "published": "2025-05-12",
+  "first_seen": "2026-11-23T20:16:09+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "720f2bd7d1fb",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "Tibeb be Adebabay, the annual art festival - CapitalEthiopia",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGVKVVRveXZ5eV96N3hhazN3ZHpwZkJxSGJtaENGUTdyREctMW5hRTlwdFBVeExEUFlkWE9HYnF0cG4xdVpIMXctN1h2Yk5ES3ZWVHpvbF9WNFdGbTE2Z3dJWDN3NkliVzVrS1hIbWJ6X21LSVlVVmw4aTljdC0zRUItdjdxZUM2?oc=5",
+  "summary": "",
+  "published": "2022-01-03",
+  "first_seen": "2026-11-23T20:16:09+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "6adffa40ff70",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "EU delegation to Ethiopia led by Ambassador, Johan Borgstam, received a \"warm welcome in #Mekelle\", The EU office in Addis Abeba said. The delegation had \"great meeting\" with Debretsion Gebremichael, deputy president…",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNkhlRU85aTFEMklmM2FmSUtMUkhiWnU4NG1oSUw0WTF0TUwwR1RFVlBiak5DLWp6azdHZWE2TXJFcVFsYlhGdFRxQkF0M2xObTdrU1FfY3pjdG5ZcVR1V2FoaHRQZ0tPcThkelkwVURTcUI1ZlpsNHJqSGlvd08xcWctSGJYdnl3dFBuTU1vcUlWSDExNUM2bDV3Y0xRQ1pMMEJnVTJ4R2FlSGhpMmVCTkVwRkhKYm5DRHF5cnVCUHBRSWNKQjBXMzZvdDBqQWowUmMwSElIRkZIWkNLdXk0?oc=5",
+  "summary": "",
+  "published": "2019-04-05",
+  "first_seen": "2026-11-23T20:16:09+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "3bf13fbcf0ae",
+  "source": "eu-ethiopia",
+  "channel": "eu-ethiopia:gnews:fb936eed",
+  "type": "gnews",
+  "title": "Ethiopian Airlines to offer MBA program for Africans with new business school in Addis - Face2Face Africa",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMVdEUXNGQzZJSmtUTnlSaEg5NmZWYjhTYWlYMXFiWDBkYzZtRjRiUDJwUVQ3NW5Od3pYMG91dGtZSXdVQThRZndMM3FLVGFObC1TemZhOFE3RUFSTTRBbjdTd3ZRaUNBcFZFNWJDVUFEMzdtaENxZ1dOaHU2ekdkSGhEM2xlUnB5UVpoc1dFd2VUTUw1MWEwcnpicURxMGdpbXJMdjRibU9uZjFmOWpkaXVmVXA0a1NMU1I4X3AzYw?oc=5",
+  "summary": "",
+  "published": "2018-12-09",
+  "first_seen": "2026-11-23T20:16:09+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "30413b8c5cd3",
   "source": "pakistan",
   "channel": "pakistan:gnews:a03ae46b",
@@ -10,7 +75,8 @@
   "published": "2026-01-07",
   "first_seen": "2026-11-23T07:42:01+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "8476c16fd75f",
@@ -23,7 +89,8 @@
   "published": "2024-04-12",
   "first_seen": "2026-11-23T07:42:01+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c3f8e82d7ba4",
@@ -36,7 +103,8 @@
   "published": "2023-08-21",
   "first_seen": "2026-11-23T07:42:01+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "f4c57fdbf8bc",
@@ -49,7 +117,8 @@
   "published": "2019-10-28",
   "first_seen": "2026-11-23T07:42:01+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "76abbf6eb1f6",
@@ -62,7 +131,8 @@
   "published": "2019-08-11",
   "first_seen": "2026-11-23T07:42:01+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6288586627b7",

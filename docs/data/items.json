@@ -1,5 +1,70 @@
 [
  {
+  "id": "30413b8c5cd3",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Diplomatic Community in Addis Ababa Extends Ethiopian Christmas Greetings - Fana Media Corporation S.C",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3Q5RWtJM3hZRE1qSWpRMk5feWMyZFpCVnhmQmdyQjFvblJsdm1meFVNLUQ3SDB4R0FRZDJvQUN3bENIeDdGQWpiM1VzYmRqU0x1U181M0REaGFCbDhkR0ZDaXRmY0lOYTdoYzRlQVVZNHhtc2JXb0lvbTVBNG56YkpIX052b2Fndm9IYk0yTFlRdU1xU2FwX2pQOEh3RE5NdEZSbHkwWElCWS1aemZOLVhTeXREZVpxTmtSOTh3RUM?oc=5",
+  "summary": "",
+  "published": "2026-01-07",
+  "first_seen": "2026-11-23T07:42:01+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "8476c16fd75f",
+  "source": "japan",
+  "channel": "japan:gnews:9529a05b",
+  "type": "gnews",
+  "title": "Ethiopia: Start-up launches electric motorcycles in Addis Ababa - ESI-Africa.com",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmJOQllEVXE1bFdKc0JFX1M5cm1CYVNLT1ZxUTg5eUVMY1N1Sk1VaWlmcS15T2kxVzBlbExQNHhiMWZmQWRlU1dyN2ZxV25tX1puaUR6dTU3MzJiZUstVXZIMGtHLTFrcFlZVS1RcG5STkN3QU1qdnk4eUhyQnhUMGk2V2xxVEdYaHVRSHcwdk05SmdGTWljbG9rRdIBowFBVV95cUxOcFVxVnJvWnEwZ1RWMzV0eEx6aXVtdk1iY1RJWE9KcDJuUTViWlQ1NXdEQlM2UTN3LW0weUFSTjZ4cXEwenVzUlBHZ3RNQTNVN0F2NlhFNHc3OTJCcW1tNjQwU3BQd2xBMFpqMFlUYXRsM3B6UnVWalNCSW51ZEQyTkJFQVFRdFFFTkxFUjNOX1lac2ZZUWFSdzhFYXctamdSNllV?oc=5",
+  "summary": "",
+  "published": "2024-04-12",
+  "first_seen": "2026-11-23T07:42:01+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "c3f8e82d7ba4",
+  "source": "japan",
+  "channel": "japan:gnews:9529a05b",
+  "type": "gnews",
+  "title": "Japan Assists the School Project in Dawro Zone - Ethiopian Monitor",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1ZxcFBJeC0yYnV5VElVaFNOakJISkQ0cmNxQjBsWm04SkZpcEtlMGJDZ1JDSXgzdzlUSFFLUkI0eklieS10X1F2bk9yZ09OR3J4RmprSnFQUU8yQTh5WnE0T3VGUDloUFp3T1ZtUWw2T054NW1ON1lTcXJmNnpNVGk3WFlQSFRKdXRRRnNaYjk?oc=5",
+  "summary": "",
+  "published": "2023-08-21",
+  "first_seen": "2026-11-23T07:42:01+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "f4c57fdbf8bc",
+  "source": "japan",
+  "channel": "japan:gnews:9529a05b",
+  "type": "gnews",
+  "title": "Addis Ababa Hosts Intl Peacekeeping Support Training Forum - Ethiopian Monitor",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNnYxSE5LS1Z6cGRtRC1oRURMU251dDN5RmoxZUxQSzdFZEdSMTlOVnAxWThUS1RmeGFCbjB5RGVhZVJBUEpNc01DZWN6ZFdTZkRjYjVlaXlxemZLMzVoSmtYaS10ZFZYQ2V4OU5MX0RuYTVSZTY0WEZ1MW5rTkxucjdPR2ltbUktTVl1QUdoTE8xMVBsdVNJREF2MVN5empn?oc=5",
+  "summary": "",
+  "published": "2019-10-28",
+  "first_seen": "2026-11-23T07:42:01+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "76abbf6eb1f6",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Idul Adha di Ethiopia Masyarakat Indonesia Bagikan Daging Kepada 350 Warga Addis Ababa - RM.ID",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEY1OVRRbnVJRXNnQ0ZUNVZrMmhjVHZjRWpVaU1XYWRNVHZlWUNnbUswXzdpOHNZVzd2OUw4QWpCZG5UZ25zVEFZQ1JuNThpdzBiZmRiSldyZ1ROYkVabVlDcE1ZTWtKT3Y3Z2NlNDZZOUFtLTd4RmFMWk5aV183T2JldWNfMFB2eUU0V2RCcHQwNEI5T190a2kyNExhQWFEalJLOXFFSllCa2k0M0FVTDV0MnQtZnY4Wi1UQVh1cWpXUmx0M29LYXp2S3g?oc=5",
+  "summary": "",
+  "published": "2019-08-11",
+  "first_seen": "2026-11-23T07:42:01+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "6288586627b7",
   "source": "gast-cinema",
   "channel": "gast-cinema:telegram:f19c5f5b",
@@ -10,7 +75,8 @@
   "published": "2026-11-22",
   "first_seen": "2026-11-22T23:37:43+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "0507ec4784ab",
@@ -23,7 +89,8 @@
   "published": "2026-01-19",
   "first_seen": "2026-11-22T23:37:43+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "64ae3b12e090",
@@ -36,7 +103,8 @@
   "published": "2024-04-23",
   "first_seen": "2026-11-22T23:37:43+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "4857dbe60dea",
@@ -49,7 +117,8 @@
   "published": "2024-04-23",
   "first_seen": "2026-11-22T23:37:43+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "1e27f874dfeb",
@@ -62,7 +131,8 @@
   "published": "2023-03-06",
   "first_seen": "2026-11-22T23:37:43+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "891de5208526",
@@ -75,7 +145,8 @@
   "published": "2019-01-29",
   "first_seen": "2026-11-22T23:37:43+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "486943487262",

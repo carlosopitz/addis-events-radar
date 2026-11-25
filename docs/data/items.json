@@ -1,5 +1,564 @@
 [
  {
+  "id": "87cca666afca",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "ETHIOPIA-ADDIS ABABA-ACADEMIC COOPERATION-SYMPOSIUM - Big News Network.com",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnBTUzEzWjhBVk9XbUE0czV1RXZTYnVGM2x3MjktVDUwWEh6dEswdUs2eW1vMDZ1NXRGTG0wVzNINDRZRklpb1JkOGo3ZDlmLXB6V1ZobDdiOGhIbUZtdHM5djVZLXQ0RWV5LUdkTmhZSGltWjJ3MjJVNnE2S0ZLNndiVUFyeHRtcXVIcGxwbjJkb0YtY0JNeUJOLXFyQQ?oc=5",
+  "summary": "",
+  "published": "2026-11-24",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "e9c098d822e7",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopia : Is a mutually beneficial resolution achievable for Eritrea and Ethiopia... - Borkena",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPM3FSTWNMMU9CNEk0QzctNWhJQV95YTJPOHowdXFIYlpoZHNQNkh4ZGV4c1oyWHctb2Z5LTVpVVdLUTNERU1RdXlXUnJXSnpmemg1RDZDb3AtRXlfLU9md3d0UGRxWGFlUWo0aC1TMTMwdnVrZmM2M3lqaWdMRVpWdDFLV3pzQ3c0eWdzemo4VDZiVnU1Sk1PZnBpa2JwUk9oQkptWXVmSnkxMHI5SExWZ3NNWWctVHNYamZ0NDZ2S21Gakp3QzViMEs3UnVrc0hPQXZHMnlqN0VSNzBNSENVZ2dvT3JodGo1d1ZEUjVzRmY1czVKem1xZ1VSallGVDl4ZFFRRG1KZW1FNS1pN3RB?oc=5",
+  "summary": "",
+  "published": "2026-11-23",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "af7896dfb9f0",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "ETHIOPIA-ADDIS ABABA-CHINA-AFRICA PHOTOGRAPHY EXHIBITION - Big News Network.com",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3JTakk5aFFsUGgyalFIcDUtR3hiM2tueGZFX1hwbTFoeXo2Y2lOc3Y5S2R1S3hyV21TUDJZQmhEb05lUFZTMGVfMnVfdmtDNkRkdFZYMEJYM25RVk11SU5TTkFZTmFpV3JMZjFjdlRlbS1VLWVVSG1aN3VVLU1KSDlkYmNnNWg1UmNUQzNMU1lxY2hVNWFDdk9mS3hISFVjc3U3cA?oc=5",
+  "summary": "",
+  "published": "2026-11-12",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "444b4263ae7e",
+  "source": "malaysia",
+  "channel": "malaysia:gnews:151434cc",
+  "type": "gnews",
+  "title": "Addis Ababa - Ministry of Foreign Affairs Malaysia",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2R1YW5IQjFoVFg4dXdrd3hLN0xOQlR4Z09VYkx2a3RJX016c3d0d0x3b3NQRTZ3Ykl4OFdvSmxXbFRLcHc2bEJEVnQ4OXJ6a2piU0M5WTV6NGtKTEZhcVlpeDRMMFJsblZxcW5OcHQzTTZncmNoMmh2MEQzZFBzSQ?oc=5",
+  "summary": "",
+  "published": "2026-10-26",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "5768fda47d55",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "#Daily_Brief: #Pakistan, #Ethiopia discuss closer banking ties to boost trade and investment Addis Abeba — Pakistan and Ethiopia have discussed strengthening banking and financial connectivity to promote bilateral…",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd2wtc2JySGpWUzV0OFdhd1B4bXBQenBNVU1YMkZjWVdpSk91OERtcTdZNFc4UUQ1bWRlUHVHU0RuZFNWUFVjMmpUOERuU0d1eHZaSjZsU0ZIMndzWU1SZVlmUGxaRU1pdlA5LXY5aUJDbTR3ejZiaW9ZX2FOV2JnVFJvZzZVTW5LQVplSExscTVHdFplOXlqeU1hMUFGQllpcGwzYk82N2RUY3BYVFI4R0NWdm1fRFNlQ2VscGpvY0JfYk5oN0VlWmExc3VsWDlIdGk5M1ZFNDJvbE5VUEtB?oc=5",
+  "summary": "",
+  "published": "2026-10-26",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "a71416acd17a",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Nyle Group, Pakistani Partners Target Ethiopia as Gateway for Africa Investment - https://etbusinessview.com/",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWU56azVWTkVvbW9UM2IwSEpDLXZoLVo5d29rYWNWS2NDNFRZOHBzem9YY3g0SDBUNTdnMzhJdEpIdlhJQ3RDSTRZQ3loaVN6RVJQaDNkM3g2dGhVUG5zb0ZlYzEtSXFLbEM2ZU1uRjdjVFVRaTdNRmdvZGlOZzI0UzM3bmlOQkd4OVZsTlV0SGNHcVUtbk1pWWRSbDN0VVZWbXBIRDREUHljZ29lblljR0QxZGJGb1Uw?oc=5",
+  "summary": "",
+  "published": "2026-10-09",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0ca788b05490",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Three remaining Pakistani crew members of MT Honour 25 to arrive in Karachi on Oct 7: FO - The Express Tribune",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNekpWeGh6ZEtuRlN3QVdlV2JZMEpmOG1Ud0RLUnhQamo0RGR6UXo4NzhEWjlLMGY0MXRFbmVUODQxWVk0anNEX2VJQTBtcWx2dl9McDZZSHJIY3VlWFRYZkdkRnAzY2FSNDZfTThUT0twN3BjUG5tU2JNSDFtdXRwT09DQlJoaUg3VnVNeW1EVE9KSXRUaW9HdjZWR3JsaHdmUExKamtrZjZvSHVXcm15YTRwN2hVYjhFbE9DSVdqY0s?oc=5",
+  "summary": "",
+  "published": "2026-10-05",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0027054a39ee",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopia celebrates Meskel with calls for national harmony amid renewed conflict - The Peninsula Qatar",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmZ3bGtiR3hld2NEelhZem0wZmxFTENqc1Q2NFgwM1h3SlZ2MXlTLVRCa09hNlNMbERORW1tRnVmTDRWQjhITUtUMGtCSmxHSDk4TUU4WXJHWFpPanlyY1FCZVFPU0ZnaW1OaUlobk5tZFRmLVg0bWRERmc4T2w1Zkh2Tk1BaVdFNFpTcjE3ckRQeFl4aUxSNmd5NVpaU09KUFVMZ2NaV2IyOUFjNU5MT1g1Y1loOWw1VUxlRVVZSG95eEI5NWVIaA?oc=5",
+  "summary": "",
+  "published": "2026-09-28",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "12817ba25527",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "People celebrate Meskel festival in Addis Ababa, Ethiopia - Global Times",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42c0ZGZC1CQ3U1ejl0dnZkVHRGQ2xWRDcxR2tiMWtBSkg2WlIyTGJHY0ZEVnhQenU0OXJ2QmI5NzNMaXVMRDh3WkVBeDNBbkVnYU9NaHhIZXVpSGw1QVlzdER3?oc=5",
+  "summary": "",
+  "published": "2026-09-27",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "7f33902f1e7b",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Pakistan, African nations launch economic council to take bilateral trade to $15 billion by 2030 - Arab News PK",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXh3cHVGV0F2d29sZmk3QTZJUjY5ZHcyQXF2Rm5zZ0xtTG5jTFR0YktqaFFVTk9PcmpUNENkb29NUDRRdGRuSEh2RnU5RGVmd0RSSW12Rm5VV2lrYTJJYVgzNzhPdWJFRTdudDVoZVFjR2NIRXQ3Z0JpUG9QZV9YY2ZJSVV5bnZMSklTUEV3UlJvWnVNcHJiRDdWdGNSX1JvZ004OTRJdEwzbXVOcHZycG1ueHB6TmtjbVF1Z3hMLUJYbThXQXlhZFFXakhOMmhN?oc=5",
+  "summary": "",
+  "published": "2026-09-13",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "87e4b3e6f3de",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Foreign Missions in Addis Ababa Celebrate Ethiopian New Year 2019 E.C. With Peace and Hope - NewsCord",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWVXSzlUdnRlWVJHODhVMUVKNXVWeTlMMzFUQ1RkbWJDZnU0cjU0SXNFNzRuend4RHdhWjVpa1I1RWdWMV9DSDhGWUxFQ0dRUUJES3VkUEVkcG85U2hJOHRmVi15bExEaS1oai0yUGxZU2NEM2dNNlpyZlpEa1dyRHBTLVk1M1RMM0prVUdqSU84Wnh0RWN2ZV9odTlLWDVIN1Nkd1VMWnR5WmZjTFJFcmVVRllBdWsyd21MLUJLYl9aZGFsQlNLWjRTZFBoNWJMOFRKdTZMcS0?oc=5",
+  "summary": "",
+  "published": "2026-09-12",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "09e7b2c6b302",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "How Tewolde Gebremariam Became the First African to Command an Asian Airline - Addis Insight",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTkxBS3RfQ21GbWNPaVdRM0ZWdkN6VXd1RzZQN1JmMlB4WjJ0MXRQUlF5OHE1WkhrSV8yVkYyMXkxUEV1UTlXR2JpcGJsYi1ibHNjdlNPcFk4bkVySzJ3Zm5FTmUxLVlJSC13RHkxNjRidTdsWjNLM21sWGVmYmFTSTFBd3NHQVZrWW5pTnBEeVdGNHJzQnBRZlB5WXFmTGlJME04ZjdKTHQ3eWNlZjdUb1k2RQ?oc=5",
+  "summary": "",
+  "published": "2026-07-13",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "1a329256e6ed",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopian Airlines to Launch Lahore Flights, Unlocking Pakistan–Africa Trade Boom - Aviation A2Z",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXpYdVVGUmxKMTdSbnFIb1pBal83RURwM2VyS0hIOGI3ekZnTXl0Y281bkhNN1NaaHdRalQyTk1PZGtlYm5RY2VIM3MyV1luQUR0SFJEQ2VIN21nT2Q4c3ZMUGlLZ0pKME9aRHJ5RDlKTkhZX2hQdGhySjQydDd6MWZIQW01dTltUnduZVNxUElnaFBCMkpDNGpXN1JJM1MxZi10a0FubFFzbEpJbXBKM1lQT3JuVkNTb0NhT2FqdDVzX01o?oc=5",
+  "summary": "",
+  "published": "2026-04-20",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "35ed21d39e42",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopia and Pakistan Agree to Set up Joint Trade Committee - Birr Metrics",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU2wzb0plUHA5RWVzTVIycVJXUzVyNS15TW9BNkdkNXc4QUhjT3lHMzJGLWlPdldXT3BhZkJMVldUcnZIM2Y2ZTdJeFVxQVQtc1BBUFJNcUE0TllHSWY5SjUyVHpOMmJqQ2hzWUNxeURPaGVCbHhQTEE3NUpqSWs0U3JHWnRhdEFYbUxacw?oc=5",
+  "summary": "",
+  "published": "2026-04-17",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "7330e86261e6",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Diplomatic Missions Share Easter Messages of Unity, Hope in Addis Ababa - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpT1lPeGFhQjhtT1VzcS04bllZbWJzVGw5NTU2NVRhcUQ3MUhKdk9TZkY5ZHVjNWFIU1NFTlV2c2NRaUpuMFNpNFNzdU5fNk1odkE?oc=5",
+  "summary": "",
+  "published": "2026-04-12",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "9b3e79ed3e74",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Emerging African Coffee Diplomacy In Pakistan - The Friday Times",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWk4cTdWYzdUZGwyMDA0OWF4WVlZYU9oVlZVeGI0S2ZBNjNIdUpIUk51T0owaW5PQkhQT25YVURreHJjWHNRdXpNMi05YWxyUFVCdEtJU05OX0RwMGVyTHp2Ym5mSkhYVmh0UkhMT1lhX3p0eVFjNjNCNVliWF80TDBzNE5STDN2Y0lCcVBn?oc=5",
+  "summary": "",
+  "published": "2026-03-24",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4489d0d7ea3e",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "African Union Endorses Pakistan–Africa Ties at 5th Trade Conference in Ethiopia - The Diplomatic Insight",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHNFUFpBb3c5ZEJwN2JWemZ3TmRHRUg0WVN1U0lEaGV0bXctM0pMYnVLN1VFcFVkQVZLRjRDLUJ3YXIyM0gtYlNxOWtxRmZlX3NhMEFVaG1BY1UwcXdDUDBSdnFYX3JZNEZyRERfeUptb2NRTDdEOTlxenJGemhCc3hsQW5Ob2VCX1RJ?oc=5",
+  "summary": "",
+  "published": "2025-10-18",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "3d8b7b074ba8",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Atta Tarar appreciates outgoing Ethiopian Envoy for his remarkable diplomatic services - | Associated Press Of Pakistan",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEtXV1cxNHBzMmxxdlJ4R184eHdkWUpIVS1lOENCc3pJbXR5ckRlVU1BLUFueDItS0dwaUNXMU8zUGdnbVlib0xIR1pSQzVfcERHUlBsLVd0YVdpN0F5NU5NR0xkSXVkS2xPRjZ3SXJfSE5iTWZSTFVKakpiNEs0ZHE0R3R1a3pvTHQ3VGs4aGJfUTZFVVNNRzRVY1N1djBZZWxOS201X1JJbFdocFRhU1JlZUlZWlY3cWlr?oc=5",
+  "summary": "",
+  "published": "2025-10-10",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "2b7c819b3264",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Pakistan eyes economic, trade integration with African markets in growth push - Arab News PK",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2w3VnRmeVItMHlVbXR4UDN0Wi1UOWg0WDFpVXBxZGZmZFQwZUkxYTlnOF9rdFg1bm0wc0VkbmppNWpzckFyS0h3cEZFU0Zra2RuaGhFQTBDZzZ0VmJERGZUejdsTU1YdHMzaXpGRXI1Q3hoSFB4LWxrSFUwZkZkdFBjSW9LMVgwNHVWV3dBX2VGeXlQMUNxUm5IajBGRV9heF9TZHhiamdGNEJvekdIYl9yV0tqdWNz?oc=5",
+  "summary": "",
+  "published": "2025-09-22",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "6d07e94af8f4",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopia Determined to Tap Into Its Potential for Date Palm - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50aUFVZzVZMDJkRElodWkxZkU1QllJbUJmRjBxUG1ISXJPMDJid1ZWQ1RxNnMySGFBR0RKYnJtUkdiemJkWkhGcmZwRG4wWUxpTmc?oc=5",
+  "summary": "",
+  "published": "2025-08-22",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "90c2acd8f1ff",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Pakistan, Ethiopia explore academic collaboration as a driver of shared economic progress - Profit by Pakistan Today",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTmF3YmpQbUpLTVlncmlqZ2hQbXBQTUtYNTNHc3FNVkxOSmdoOFllQzlVcndLS05kQnZvcE1zdDFxQk5hcWJPbDVRZmNyRTRMOFU1eDJTcl80dFBEcjBfMFNIS1A1N0tsM3dvcDQwYUxBckk4am9yaVYtdW81c0V0T1NRQUJleEhBcnVnTFJKOGJSbllyX3U1a1VDeVlGTUlHbVI2Q3FqR1luWDdEaDc4Q0xoMmwteUJvdGxydng1MS1vSmJudUNQZXhzZi1IeHZG?oc=5",
+  "summary": "",
+  "published": "2025-05-30",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "3b15de2f04c1",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Pakistan, Rwanda agree to deepen defence, trade ties - The Express Tribune",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbmkxYmFrMUNxX2xKRC1wVExDT1lvSUtxTnRwdU15bGFJZTJtem9JcGE4WXN3SW8wQVo2M2xvQ01KaUFnbGNDS3YtSXRURWVUYVk4V1lBRmVtZjhWZnZQMVVzSXowNDkxSFZfbHlpbmpRdnZzckphVFlTUG1tVzMwX0c2T3l5RUowNm44dFBtVmrSAZgBQVVfeXFMUHI1YWNiVk15ZlNYa1dtVFJ5YUVNRG11X2VuNi1jbHgzWHczUEZuNzRWaU5ySngzb0ZfdWJwb25yRzlvYVYwbExjUTNMbGFlMThreTNWTkhDeEJZYVZPdDFySHVXWTN1el84LVl1a3JMQjU2XzZoUHB4a3dOZFR5ZDgzUUstQno3NzdvLURqLXU2a2xTekQyNDU?oc=5",
+  "summary": "",
+  "published": "2025-04-21",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "2676ff8486ef",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Pakistan Eyes Ethiopia: Single Country Expo to boost Africa trade - Islamabad Post",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVBoWHEySG9wT05zbkRuWG5WZHVFYm92S0ZLMjRhaW54bE5OY25hWnp4VFVVenpPbEU3WEVtVkQ5cjN4MHRXMlpJekxPM2xjLW85RDU1NXgyWUdvNWlRelpQeXZxRUVEaEF0ZVMwWUwzWTJtMjZKLVFNWWozZFZPa3ZfN0xnMUhnSEVnT185R3hOWUs0Y2FCMVpB?oc=5",
+  "summary": "",
+  "published": "2025-04-16",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "24e5b8e44d6a",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopia, Pakistan seek to enhance cooperation in trade and economic dev’t - Fana Media Corporation S.C",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTBmZ2RJYTF4dV9nS1VUNXdfRTJweTdWS0JvM3F4UnAydUM4STJoM1NjcU9NX3dtcTNqVVBZZDhYanFvb245Y3RrUXZUWlR3XzVNWl9zaVhnRHdqUFdfSUltbVR6NHJxbG5zV1dKOHMwMy03aWpXMkdKUzI3c3Fmb2t5cm1zS2N5YUczcklxOFlYb3ZXbkVTcVFtaGc2RHJhTFl0ZlhBbw?oc=5",
+  "summary": "",
+  "published": "2025-04-11",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "487fdb6e7860",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopian envoy welcomes Kyrgyzstan’s decision to open its mission in Addis Ababa - Fana Media Corporation S.C",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRk92eXMtcFAwQ29LY1ZBU2JCVzhLRndpTEJ0TG95b2JVRzZybENiQ1JsNEhsYVBtS1ljekd2NHkyQVlNZ3BtYmJMZ0kwTERISlYzSk5NVUdFQlhCa2pvYmR5VDQwYUtkOG85YjRQa2dWUF90TFR1aHo2UHQzQm5Gbmw4MTM2YmJNSDBCSFY5YXAwdkVSaGI4UEg5blR2UlJnZ19MRkpzcHhuNkxTUHp3RjZ3?oc=5",
+  "summary": "",
+  "published": "2025-03-26",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "6557e2506292",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "EthiopiaBusiness - Ethiopian Business Review",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90YjdJVkZ3aGxfR016UVBKbFAzQmlIRVRKaEw5VVpPQ0tOZkE3VmhOazRjVm1QMmFYNzg4UFJOSVhZWmNnaVo3UkhzZDR2cFZ4NThacTJPNG1MRVNhZFR0dlVzbVVla2N3?oc=5",
+  "summary": "",
+  "published": "2025-03-24",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "78b70fcc3bd6",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopia, Pakistan agree to defense cooperation - Fana Media Corporation S.C",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFJjM3V5UXBiaTU0QXVTLW5GcF9WcVZVTjg2eVU3RXZFMTJiblpzcFg0TzA1U3I3cUlMRWdkYWczLW5sZVFOS1g3eXlyVlBMZTVrMDVyY3RheWVOeGUzdVhDWGVaUFRueTM5aWp0ZWdRUVpWQXFCWjBMS3ZPakNhN1JleGg?oc=5",
+  "summary": "",
+  "published": "2025-03-06",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "17f03012d64f",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Business leaders prepare for key Africa trade conference in May - The News International",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa21hZ3lfRUhZSnZQeFV6eTdreFNuSlV3Ml9VTVlDdTdDaW5qa0oyS1BSR3pJS2ExdVA3TmJnclZXdDNVWDU3eVp0MGljZG1jXzMyNWJYVTdwSGVvQ2R4RW1CTFlucHpEbFRVMzMtV2xNTVUyYUszdWtJcC1PTXZpLTBwZkw1WW05dEhlU2E0dmxKcHNFVzJ5WlhpbXhWak42N0F1dHhRQdIBpAFBVV95cUxOVzUyNkxPRDBZNElYQW1zY0hLdnlNaEp3Umd0VHhLV0hUQmF4TUpuQTNUeHV3MnFEbnFBVVlWb2ZoYXFwVHZpclpVSXI3Rk1UQ3czYlN1WTkzRk1aaXczcUFYczBNV1F1d3JCSlY4NmJyUzBLYWZMejQ0RkhqTlZmSHVXV3dBUkQ4NU5Fc3NjbnBJRGdHQ0JPUVFJVEhVUTJiQ3JWZA?oc=5",
+  "summary": "",
+  "published": "2025-01-30",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "fbd24283b72c",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "More than five million tourists visited Addis Ababa in six months - Prensa Latina - Latin American News Agency",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2I2eGx1UG1YSlM2TlYzT2FrVzFiT2UzQ3ZHVlhXenZSNnNYd0cxdF9DSkFERndiSHdXVXQyT0U5cjRVT2pySjk5aF9yX2otZ0J5WkJYT2dtYXVzUjRRd3IxV2JJZzNLYThTamdlamo1azlzaDhiQjVGaXJkY3pOZ0FIdzdQYmNTbHI2aWYzNktjTElBVXowMzNxeTdyeEVNZG1xZlNKNlJ0OWQ0?oc=5",
+  "summary": "",
+  "published": "2025-01-09",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "fe456553dd67",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Eco Tourism Initiatives of Ethiopia to be Presented at Pakistan Travel Mart 2025 - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lV0RCNlJTRGJEeDhyY0VBM0htM24tVHNtV3RLMC0wRGlDY3BITDVHbFNhMFdXeFg3alRtcTNKaTZsbWM2bmFSaWVmTzd3cHNYM1E?oc=5",
+  "summary": "",
+  "published": "2024-11-24",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "bb2d9561cdf7",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "The rise of Ethiopian art on the global stage: Insights from curator Mifta Zeleke - Global Voices",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVhOY2ZlYWxOcDBGWnRIcGlfQWwwa3NlYWZjejR4RTQ2c1JCRXNTbkVfd29EVFlnNmJ2ZkhXNEJKZjM3ZVhMRVdfN0pkNTdKZllKa1Fna2ZKUmVUX0JoV0tPM1hUWlo2ODYtRjBJTDBGOHNyYzRtZ3BKT3duc2NKMXE2bzVVMWg0V3l2eUZLNU96aXI5eldvbXhnWV9fVmpCQTM3UU16ZG5NTVJGdE5hV3EwTHRRZGRQ?oc=5",
+  "summary": "",
+  "published": "2024-10-25",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "570b46cb8b0b",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Thousands gather in Ethiopia's capital to celebrate a religious festival. Many are thinking of peace - AP News",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFNvd2JjdlBVcDQ3Y3hTSmFFWDVjQVE1MXhBalk5TFR1UUNHZ0txaTc0RGxSUjdadUkyVkFlUEZTajRWRWFKZGx1UmJIak1mMDlocDdYbGZyVEViY0FwdmJndjVYb3Q5R1ZVXzJ0NE9zWW5LS0JkS0ZyeVkwbEpnQ1pjTGF2TkNxNWpWVkU5ekc3VGxra0pWTjhVUTlHTVMwb1pDdHlRaEgtRnNIdFdLRTNuZnE?oc=5",
+  "summary": "",
+  "published": "2024-09-26",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "9f65304dd7ab",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Diplomats Extend New Year Best wishes to Ethiopians - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Uc1EyUGhWQklVTUtmbWRteGFnYUxkLXhGTVJOSjRycmpaeGZvd0diM0NkNEtOY1pFUEZZSU9jQXdwb3BDVWlmVnNvNDFuNVhtRVE?oc=5",
+  "summary": "",
+  "published": "2024-09-10",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "f57c9f2e6360",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Learning with intangible cultural heritage in education - UNESCO Intangible Cultural Heritage",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTVE5VN1ZINXBwVHIwMjhTM2FaV0lLWmIxSU5QSnczMHVsRzlHc3hvUXo5NDRJaE9kWU5YS2E5VW9SbE9hWm94djdfbzRmUFVn?oc=5",
+  "summary": "",
+  "published": "2024-03-28",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "6cb0c407a22e",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopian epiphany festival celebrated in Addis Ababa, Ethiopia - Global Times",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFbGNYUkdmQTM2bF9FcFcyNlEtLXJvWm5pcjBpS1FzQ3QwZ2FzZjZlWEtmclpBS0N3Z19vbksyTnNQaUxfZkQ4RHJpTTZ1RURSb3Vick93NzQwNllPVVZ1Zm53?oc=5",
+  "summary": "",
+  "published": "2021-01-21",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "50cb0521ad58",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:a440fa52",
+  "type": "gnews",
+  "title": "Nation by nation, the world watches Election Day in the US - ABC7 New York",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVS15MUhQa2lfN21HQkx4ZEwwVUhfc3ZFVHNxMWs1Uklob2czOTlYNjducjhLb3RNbnlYSHlxb2FKeWFvUmc3R3BzTlRTdlRuTEhLQ0FXNDBRYURRZW01TDBQTm4yTkNuN1g3YWVkQy1CQTU0eDYwZ2FCdVJ0eEJDS1JmSXI1TGM?oc=5",
+  "summary": "",
+  "published": "2020-11-03",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0214d6612a18",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "In Pictures: Ethiopia’s Oromo hold Irreecha festival - Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUh5bGVoVU5EbDAtMi1rNWx6ZHk3cjFHa1oyUUlzeXNWbFFBTTUyR3RiRjJJdkZ0d3YyZmZhbHpIVzFYUHFVekpyb0dCd216bjZaMnE3Qm9ZMUN1cDJfRE9wZE4zY3RZQ2FneEs0MU0wWkIzWHRrSHIxcHd3ZE0yVkVPX3JsWktSc0VzUnFKOFZrZ2NGRmNoLTV1SE9mYVHSAaQBQVVfeXFMTmgtME5vS3ZsMDhST2h2d180MlJEeWtKaExPUjF5dXh1eUZvS3E0WmtrRWxlLXd0Wk1wRUNjUlAwUWQwYWNtVEZIQUZ5M2Z0MFM2TmFxUWRESlZhSS1sSGxUY0cxREFORDNHZVlUQlp3QTNBMzc4b3g0MlNiQzNOX3lQZ3BTX2ZjQXhka21IcnJrUWdvX04yN3FUUXUxM1ZWa2RRckY?oc=5",
+  "summary": "",
+  "published": "2020-10-04",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "19b0be69c1f6",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "ADDIS ABABA, ETHIOPIA – JULY 28: Nigusu Tilahun, the press secretary for the Office of the Ethiopian Prime Minister, speaks during an exclusive interview shed light on wide-ranging current issues facing the Horn of…",
+  "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNR2laSnpIVVBtU2ZfU0JVZ3NJSEtsWE5ob0g2a0xLa1B2TkFnVnNWdnNXRW5NTk9aOVRLNDU4X2dOSTFIeXRPZ1NvcnVoZjNYdTJwYm8xV0lOTU9rQTBTbWhEYVlFWGlvTnlMMUFXZEhRNnJFb201MXhRWG8tWDhUeEZwQVQwUFhJQWJHWm05Tl9wZC1RSzlrQTZndlhMcUdMN2lITW5HanhqQmVnbFVrLUlyX2lrSEtIa1R2cDh0TFJjSkwteUh2ZjNYcy1nNFZib2RpS3Y1U3hHTjN0QmYybEl1c3UzbUdiU2Q4R2M2Q2p1eVE0M3VHMlQ5Rkw4RVdESndMLV9wWFdjUDJHdE1Cd0cxaDl5eTcyWVZuSER3VG9veEtzV0ZiLVkzXzQ2amF6M3BFN3VUaTV2Ykw2UUpQZnJONHVqalV4dC1JRjFB?oc=5",
+  "summary": "",
+  "published": "2020-08-04",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "e87dd1125d0f",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "FrieslandCampina Engro Pakistan participates in Pakistan Poultry, Dairy & Livestock Expo - Biz Today",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMkZHVkRWY21UNTNtSlFLcWU4VG9ES2prUTFxZlQyN1JZbkU1NGdEY1haLUpGZlV0S3l1SEh4Q0RtM3dGYVpFc2NLakM1VGxPdkFOR3R2WDlyTkQ3WjhLY0liQ1BuZHI3N2ZtYThmYVljSXJzNnZFNlZ6dE50MDk3SjQxd09HTUFkWUlQTU9TU25PcDZoSldBTlpLTDVXY2Rmbjh5LXFnc1FhSmtEbk5BdUhYemRUV3JZakh4NE9CMk0?oc=5",
+  "summary": "",
+  "published": "2019-07-18",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "9dcde07df631",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI, MIKTA rayakan hari autisme dunia di Addis Ababa - ANTARA News",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmJmd2YwcmJOalliRjh6ZTZNczh6SnNWd3V4MUJFNG1CaUVFMWJ1dVhwd2hIcnZaSzRmNXg2a3diOVhPWkljd3VCWFhPdmJfRkZwWERzeVQwRllvZm9TU0lpcG1QN2xGVnJpWEQ1eGZReFc4UldLTXhERHlSM0VWT0Z3NDBVa05WRnZhcERiYzl2V2o1SE1NRdIBmwFBVV95cUxPQnQ2ZmZHWWRDeGJraHNKbTZaV2w5Zk5RZFJpWV9xY3V6cXd2MGZWVUJpLVhId1JGODZsUWlaRlNtdzQ3MTVKNnJtcjhYZzhpTlNseWd2cXVHM09ZQXhyZHctQkhoUEZsYUI1MDU2bXJtWUFhbWpDQTlwX2hzSTlFZGgyWGpwODVXWEc0Z0pvSWRjMC1XSlJsd244TQ?oc=5",
+  "summary": "",
+  "published": "2019-04-03",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "461ffcfef02a",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Asian-Pacific Film Festival Kicks Off - The Reporter Ethiopia",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RT2wzTXVzX3lYLVVqX21ybm5Xby1lbUIzWU1ZRTdxRGYzczhERUJ1TzZlY1pOem9pUm9CZ1NJd0RfNnVwTkx4MFhickFmUzJJY3hN?oc=5",
+  "summary": "",
+  "published": "2018-09-22",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "6fe9a1e826c6",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Kazakhstan Nominates Assyk Game to Be Included in UNESCO - The Astana Times",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV3cwUVV4Nl8xYlBqMGZJbUZkek5yYTNXRFFmT19RY01TV0sxTE1HY19rQkZqd2F2NkI0OVNVX2NlSFo1UFNGWTJIeVdMWmpSN29HTEJEWFRBTUsxc2kzUXFleko0ZG9GTWViMHF2QldXckRucGdGNmx0YUREU2FoS2xsMmtuNWNVTXlRcU5lOUExQWc?oc=5",
+  "summary": "",
+  "published": "2016-12-09",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "9dc4884ed5d2",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "President Mulatu Teshome of Ethiopia opens 11th session of the Intangible Cultural Heritage Committee in Addis Ababa - UNESCO Intangible Cultural Heritage",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQX0diZ0ZFRkEwOE8zdTBOOVpzM2NDUENMUW9sNDNzYmYwd3lBekZSWkdadUh6enJIMk1HVDBxX1dkQXN3cG1URUJpS0laTFZNZ25KZVV2akFMQTJsdkZBNjN6eGFlOWwyQnY4NWR5azEzb0E2V3VWa0Z1ak0xZjhzdng5V0k2OHIxUWE2eHNjZlVwSzd5OUxBMVZYTDNTeC14T3pDeDdNb1ZOTDVaVVQ3UF9ramF5cWNpSDVqRnhpeWxuZWQxSlVyb2h5R09VNG16UDU3MXUzZUFpZUZjU3gzb2RhdGxDQWgy?oc=5",
+  "summary": "",
+  "published": "2016-11-28",
+  "first_seen": "2026-11-25T02:31:28+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "6ac81b49c625",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +569,8 @@
   "published": "2026-11-24",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "f8efe9f051ff",
@@ -23,7 +583,8 @@
   "published": "2026-11-24",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "82c7cdb5f4d1",
@@ -36,7 +597,8 @@
   "published": "2026-11-24",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "bbff94bae709",
@@ -49,7 +611,8 @@
   "published": "2026-11-24",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "60510009eda2",
@@ -62,7 +625,8 @@
   "published": "2026-11-24",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "4293c284c3a8",
@@ -75,7 +639,8 @@
   "published": "2026-11-24",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "0471db89fcc2",
@@ -88,7 +653,8 @@
   "published": "2026-11-24",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "dd394c47a37b",
@@ -101,7 +667,8 @@
   "published": "2026-11-22",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c4cecefba5e2",
@@ -114,7 +681,8 @@
   "published": "2026-09-29",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "38238ea7f11c",
@@ -127,7 +695,8 @@
   "published": "2025-07-05",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b008ee1a7d03",
@@ -140,7 +709,8 @@
   "published": "2024-06-02",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4bcde1adee4d",
@@ -153,7 +723,8 @@
   "published": "2024-05-09",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "76c0168d8ae4",
@@ -166,7 +737,8 @@
   "published": "2023-12-08",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ce87ffad4bf2",
@@ -179,7 +751,8 @@
   "published": "2021-03-10",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b7c3a95f158e",
@@ -192,7 +765,8 @@
   "published": "2019-12-01",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a2b553a74779",
@@ -205,7 +779,8 @@
   "published": "2019-10-04",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "fda32c43ee0f",
@@ -218,7 +793,8 @@
   "published": "2019-06-06",
   "first_seen": "2026-11-24T17:48:08+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "d179ef4f092d",

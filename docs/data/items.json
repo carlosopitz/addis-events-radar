@@ -1,5 +1,174 @@
 [
  {
+  "id": "19041ce045cf",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "Remember when the whole family gathered around the television at 8 PM to watch the evening news?",
+  "url": "https://t.me/LinkUpPremium/5124",
+  "summary": "Remember when the whole family gathered around the television at 8 PM to watch the evening news? Those days are becoming a thing of the past. From scheduled broadcasts to streaming platforms, YouTube and on-demand content, the way we watch television has changed dramatically. Today, viewers choose what to watch, when…",
+  "published": "2026-11-25",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "83a5727c5c35",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Partner Content Getting ready to turn your dream celebration into reality?",
+  "url": "https://t.me/LinkUpAddis/13425",
+  "summary": "Partner Content Getting ready to turn your dream celebration into reality? Festive Wedding Expo 2026 is back with a special stage dedicated to event organizers! From wedding outfits and jewelry to decor, photography and videography, catering services, cakes, music and entertainment, event planning, and honeymoon…",
+  "published": "2026-11-25",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "ba6000a7a6b6",
+  "source": "italy",
+  "channel": "italy:rss:c0047882",
+  "type": "rss",
+  "title": "INTERNATIONAL DAY FOR THE ELIMINATION OF VIOLENCE AGAINST WOMEN",
+  "url": "https://ambaddisabeba.esteri.it/en/news/dall_ambasciata/2026/11/international-day-for-the-elimination-of-violence-against-women-2/",
+  "summary": "On the occasion of the International Day for the Elimination of Violence against Women, Minister of Foreign Affairs Antonio Tajani reaffirms Italy’s commitment to preventing and combating all forms of violence against women and girls. Violence against women is one of the most widespread human rights violations.…",
+  "published": "2026-11-25",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "89e8bf4f0455",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:232c6525",
+  "type": "gnews",
+  "title": "From Boda Boda Boots to Barkcloth Couture: Ugandan Designers Shine in Addis Ababa - ChimpReports",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGJHbTJHX0NBaU9aTWZMblVjM0lFNnFEbExwSWRwdFpFQVctU2RaS0F3V1Y2TzlyMnBEZUVXdzMybnV1Ql92WXotdXBVRHN0Z01NS0F5WFBVUnYwdHY5QkhyWVpQeHhMLWszb2RFcmJkbmhCeFEzZkJ1ZDk3WkdjSzZFeTNaZUJTV2NDdC1jU1RIRDNOV2p3bG8wZGRVVlRteHpJWk43OERldw?oc=5",
+  "summary": "",
+  "published": "2026-11-25",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "ae98511af291",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Choo Choo Promotions, in collaboration with Chimp Events and Promotion, presents a music event featuring the international music icon Emanuel Jal at The Venue…",
+  "url": "https://t.me/LinkUpAddis/13426",
+  "summary": "Choo Choo Promotions, in collaboration with Chimp Events and Promotion, presents a music event featuring the international music icon Emanuel Jal at The Venue Warehouse on 12 December 2026. Early bird and regular tickets are on sale on Pazimo. This event is a 23+ only event. @linkupaddis",
+  "published": "2026-11-25",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "ed18b11ddf12",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "ETHIOPIA-ADDIS ABABA-CHINA-CROSS-CULTURAL CONCERT - Big News Network.com",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzF4SmJBbVRyRmdiSUZUMTJFaGJUWDZ5endPSWZpTzNObXBHdm95UzYyNFE0NzlLRW5NRFVnT29ETENXMHpDNXlsS05tWVh1alRRQnFuOUI4VllxX2JWVXpGTjRDOE1hQzN2NVhaaENuOVlwM0g4Z3E2aTZTWUxCbllhQ1F5TE92d09QVm9EZVVOVEI0NEJUdU5Xaw?oc=5",
+  "summary": "",
+  "published": "2026-11-19",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "b7e9eb628393",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "South Sudan U-15 record three wins and a draw at FIFA football festival in Azerbaijan - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMm9sVHhISV9qY05LNmpia0dXV25xMkF5RHJQcnowUXFvUnJza3BVV3ZPUHRMUUQ2eDR4dWhUOVhIWFBxU0hObU1JelVGRWZUT0FpT0dtNGxfMXFQNWFtckZyWkZmVHZyQkZ6QVpjejRuaHVfRE8wcjBRV010cV83U2dFZ2QycEtObDVORm93ZFRwclNvZHFMN3Q1YUVsMVp5TzZnem9zaGRtcVnSAbABQVVfeXFMTk5hR0FTbjJ0STJ5LTlRQkJqSkdrZHVTWVJiOHJjMmtRMlozX3Jya0NIR2FtOUt1Q1ZQNFktUVNjRFRYSVU2RkxLcThfbHBJOThaTDcwVzEtcGttbmJMNU9fM1hkbjhmN1lQS3dUdnp2VGFHQjZnMk5VMDVkNmNETU9RZ2lTUGQ3dGxwLVNEQXdiWk9LbUMybWtFN2Z0akdVMExOM0F4M3F1SU9wQWhzdHI?oc=5",
+  "summary": "",
+  "published": "2026-10-26",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "e858a3f600db",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "U.S. Ambassador Ervin J. Massinga’s Visit to the Tigray Region - Borkena",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVncyajItZElldGlWYkRDbE5LeGNGMGhEcUFVb0QyTFdBTnRmMUtnUjJXZWpDendkNklFZmhHTWlSMHJ0eWsyVDAtOUNKUHI4bmJDZDBoV3c3SkMtTnN1LVdTN2ZMV01OcnRJUnI0dHM0RmdwQ0V0MmdSdXp6UllxM25jVVAyNmpUeTB3SVk0Rm1xYjg?oc=5",
+  "summary": "",
+  "published": "2026-07-15",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "e5940f2f942d",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "Blaze from 2025 misrepresented as Iranian strike on US embassy in Addis Ababa - AFP Fact Check",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwTUZvb3FsZklvQ2VYTWsyVjZTRjZSRDVUTW0xQ1ktRk51SVBMamN2ekxiY2E2a0htc2hjb1RuYXNJdkpndGVna0xmLVZ6LU53Y1k4eV9aZEY?oc=5",
+  "summary": "",
+  "published": "2026-03-06",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "ea71f43d2877",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "America First Global Health Strategy – United States and Ethiopia Sign Bilateral Health Cooperation Memorandum of Understanding (MOU) - U.S. Embassy in Ethiopia (.gov)",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdFhYMl9vT1c3aWRFRWxoUDdBYTNualpVZ1VIeFJUdldYc1d6akxCcVZlNEgxRWhHTEc0TlJvWHdobzBoUUtmYlhOc1kyNkpRYk5xTUE5T3F3b1pJOWpxQXo1ZWtuWTMtUWJhWHhscVlrUzNaVFVGTTVTYmc1VGpjbGJja1V5UGd6U3B2QzhHdy1zOF9GRzJFZnh3a2tKTFE5R2Y2ZzhIUHMwQ3NSVUZUOWNtcGo3dFJYRWVzT0IwVjVlRWN4SzZrV1dDMjVicGQ5b3Q1YkJOMTZyelQwUnZDVEo3NTc3enNndTBv?oc=5",
+  "summary": "",
+  "published": "2025-12-24",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "712dcd7c9b2c",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "No threat beyond aviation from Ethiopian volcanic ash approaching Pakistan: PMD - The Express Tribune",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2Y5NXRQZE5yaDdUbXJyU1VObG1sa2V4TzRPNmxjNlVINENqeW8zbDlMN3BHRWdiRlJoNjV1T3Q4QWFSd2JZcGRtbWpuWWc5NTVZMUw1bV9qaTFDOFZyeG1JOWlUb1dNWDJ5TjRseDFKbjhsMGE3T1RhQ0Itb2lwRk9RcTZQM1IxMDBiNUkxVktaT01hVlJrNEFZQkptV2lHWkY3X25Ca0MyODcxM1dBbnhrRDc0Z9IBvgFBVV95cUxQdTNVU1NLN3hHZ25tc3VNZ1V6cGNTTW5Da3hYLXFxb2tXZElXTlViT29xWW9oRTNwU3Vwak9WRFJvN1BNZVp6R0FUakZsbFVuU0xFd3NLNURtOVJ0STFBTTJMUDBwUVhGSEpXUXlJZUJ1cHhhVmRrZEVtSFFEUnZqd2k5V01UUlFRNTlVRGtYX09wdHNrdkxZU0NFLVRKOXRKVHVuU3U0dGRicW8tdTR1ZDZOb1dOek1yZTZYMVdB?oc=5",
+  "summary": "",
+  "published": "2025-11-25",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0a8ece7c807b",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Faktor Penduduk & Lokasi Buat Investasi RI di Ethiopia Naik - CNBC Indonesia",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdF9zdjVuTXZRWm9NY2RzWnkzS09uMEt3U0dxX0hBNHBPME5sSXBaOVp3al9Ib3YzX2wxS3VhLWZXNlA2UGl1bHpYSmZRWDRucnlSYS1XUWF4ZWc4NXZDY3JvLTRmOGdjVTBKWHg3X2Vfb1A4VHg2M2ZXQ212alhJemtReWNJT0tEaUFBdXBJSEpzWUw0WnVaQW1MRF9IX1g4N0NTZDJwbnRFSFY0TkV2MndCc1pEdw?oc=5",
+  "summary": "",
+  "published": "2019-07-14",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4407824053bf",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Biarawati Katolik di Ethiopia Tempuh 300 Km demi Mencoblos di TPS - Tempo.co",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUE8xRDJVblVUNTFBVHV2NmJ3Rmlfc0toRnpyU1MyV2N3eU1fSHE3eUxRRkp1Q3ozRTY3T0pDbkhraHhLVXQwSFBhT0VSZmJWelNReVBpN0g5TWE5dGpndkdZNFo4X1pBZEZYekdSTDhhZENhaXU2cDdpSW5QT1VqMndSemoxVE56WlhYenQ5b3ZXNVUtVzd5b0taWnQ0bXMwTVFQWVliTWpBblU?oc=5",
+  "summary": "",
+  "published": "2019-04-15",
+  "first_seen": "2026-11-25T14:25:40+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "87cca666afca",
   "source": "pakistan",
   "channel": "pakistan:gnews:a03ae46b",
@@ -10,7 +179,8 @@
   "published": "2026-11-24",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "e9c098d822e7",
@@ -23,7 +193,8 @@
   "published": "2026-11-23",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "af7896dfb9f0",
@@ -36,7 +207,8 @@
   "published": "2026-11-12",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "444b4263ae7e",
@@ -49,7 +221,8 @@
   "published": "2026-10-26",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5768fda47d55",
@@ -62,7 +235,8 @@
   "published": "2026-10-26",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a71416acd17a",
@@ -75,7 +249,8 @@
   "published": "2026-10-09",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0ca788b05490",
@@ -88,7 +263,8 @@
   "published": "2026-10-05",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0027054a39ee",
@@ -101,7 +277,8 @@
   "published": "2026-09-28",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "12817ba25527",
@@ -114,7 +291,8 @@
   "published": "2026-09-27",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "7f33902f1e7b",
@@ -127,7 +305,8 @@
   "published": "2026-09-13",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "87e4b3e6f3de",
@@ -140,7 +319,8 @@
   "published": "2026-09-12",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "09e7b2c6b302",
@@ -153,7 +333,8 @@
   "published": "2026-07-13",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1a329256e6ed",
@@ -166,7 +347,8 @@
   "published": "2026-04-20",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "35ed21d39e42",
@@ -179,7 +361,8 @@
   "published": "2026-04-17",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "7330e86261e6",
@@ -192,7 +375,8 @@
   "published": "2026-04-12",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "9b3e79ed3e74",
@@ -205,7 +389,8 @@
   "published": "2026-03-24",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4489d0d7ea3e",
@@ -218,7 +403,8 @@
   "published": "2025-10-18",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "3d8b7b074ba8",
@@ -231,7 +417,8 @@
   "published": "2025-10-10",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "2b7c819b3264",
@@ -244,7 +431,8 @@
   "published": "2025-09-22",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6d07e94af8f4",
@@ -257,7 +445,8 @@
   "published": "2025-08-22",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "90c2acd8f1ff",
@@ -270,7 +459,8 @@
   "published": "2025-05-30",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "3b15de2f04c1",
@@ -283,7 +473,8 @@
   "published": "2025-04-21",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "2676ff8486ef",
@@ -296,7 +487,8 @@
   "published": "2025-04-16",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "24e5b8e44d6a",
@@ -309,7 +501,8 @@
   "published": "2025-04-11",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "487fdb6e7860",
@@ -322,7 +515,8 @@
   "published": "2025-03-26",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6557e2506292",
@@ -335,7 +529,8 @@
   "published": "2025-03-24",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "78b70fcc3bd6",
@@ -348,7 +543,8 @@
   "published": "2025-03-06",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "17f03012d64f",
@@ -361,7 +557,8 @@
   "published": "2025-01-30",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "fbd24283b72c",
@@ -374,7 +571,8 @@
   "published": "2025-01-09",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "fe456553dd67",
@@ -387,7 +585,8 @@
   "published": "2024-11-24",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "bb2d9561cdf7",
@@ -400,7 +599,8 @@
   "published": "2024-10-25",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "570b46cb8b0b",
@@ -413,7 +613,8 @@
   "published": "2024-09-26",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "9f65304dd7ab",
@@ -426,7 +627,8 @@
   "published": "2024-09-10",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "f57c9f2e6360",
@@ -439,7 +641,8 @@
   "published": "2024-03-28",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6cb0c407a22e",
@@ -452,7 +655,8 @@
   "published": "2021-01-21",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "50cb0521ad58",
@@ -465,7 +669,8 @@
   "published": "2020-11-03",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0214d6612a18",
@@ -478,7 +683,8 @@
   "published": "2020-10-04",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "19b0be69c1f6",
@@ -491,7 +697,8 @@
   "published": "2020-08-04",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e87dd1125d0f",
@@ -504,7 +711,8 @@
   "published": "2019-07-18",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "9dcde07df631",
@@ -517,7 +725,8 @@
   "published": "2019-04-03",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "461ffcfef02a",
@@ -530,7 +739,8 @@
   "published": "2018-09-22",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "6fe9a1e826c6",
@@ -543,7 +753,10 @@
   "published": "2016-12-09",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": [
+   "kazakhstan"
+  ]
  },
  {
   "id": "9dc4884ed5d2",
@@ -556,7 +769,8 @@
   "published": "2016-11-28",
   "first_seen": "2026-11-25T02:31:28+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "6ac81b49c625",

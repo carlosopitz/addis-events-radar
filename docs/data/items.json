@@ -1,5 +1,96 @@
 [
  {
+  "id": "eb1df2dd8060",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:a440fa52",
+  "type": "gnews",
+  "title": "Ambassadors sign Book of Condolences in solidarity with the Venezuelan people - Ministerio de Relaciones Exteriores de Cuba",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHNYWVY1U3g2VkdDTVFwOVBvQVRSZFZlc0VNOG9DdHhtclJyNndNUGxIczJEeGpVdXRpY1J6azV6dEEyRDRPU0dQdFZrbUUwMmc5RzZTNlBvRVBReEtTNmVOcm9RbVJKUm9kTi1yUV9idWJBT083Q3J1WHA1SWFmZEprNko2SUpXUzlYMU9KZkRacmthRzVCWUxRYnktSnAxeDF2a0RJaw?oc=5",
+  "summary": "",
+  "published": "2026-07-05",
+  "first_seen": "2026-11-26T21:35:23+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "b841dc6f808e",
+  "source": "euff",
+  "channel": "euff:gnews:e760266e",
+  "type": "gnews",
+  "title": "UNFPA to Host ‘Kibir’ Film Festival at Video Bet Marking International Women’s Day - CapitalEthiopia",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHkzaGJBUWtqUk8wQ3ZIX2o0Mlp5bWtlSzY1LU9hc3AwQzBaNUtxUllSTzlBQ05nVVpvNWFLSnpEZVo2STJKVk93N1k5cWdyX1I5Q0RDTzBtWEVDTTdKQWhQRWhib3RzeTljNDNwWlA0bVRRUEtVUnFVV1dWTlBfQzlfMThBbzc4WEt0a2lKVnhzeElVRk16TzhaRVk4cFhsSmdFczk5cnoxbUp4YjVURlUtUzJOUmRZRTlJ?oc=5",
+  "summary": "",
+  "published": "2026-03-08",
+  "first_seen": "2026-11-26T21:35:23+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "ba1c51833749",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:ce1dd9ce",
+  "type": "gnews",
+  "title": "Asociación etíope pide retirar a Cuba de lista terrorista de EEUU (+Foto) - Prensa Latina",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1o0S2t5Q3BLYTJ6T25VTnY1ZFFfMmRXUFdwWE13ZEEzYmdaQkRBRTVrNHFuV3RRWkExWXczT2ZfMlAxeG1yN044dEtJZklBMnRMSFl2V25qS0pOVjZVMmctZ1B0NVF6SkY5b0t0UENMOEFIV2FzdWRsRTZwd0wtOFJ6dkJ4SFNvUzRGb0l6WDNDU19lVEJ2d2xvMHNqWWhoaUpELWJZM3FSZw?oc=5",
+  "summary": "",
+  "published": "2024-07-26",
+  "first_seen": "2026-11-26T21:35:23+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "b8009151b004",
+  "source": "japan",
+  "channel": "japan:gnews:9529a05b",
+  "type": "gnews",
+  "title": "Bahir Dar City Inaugurates $16mln Water Supply Project - Ethiopian Monitor",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR1FaT201MUJXZnA1WTZVb2Z0SDRUMDRVelJzdHBGdkVQVHhob3pXcTBPS2Z5QlZtR3B5bUo5VEUtSW9qVDFVOVVXUkFpNTZIN0JnVlNWbURuQXI0YWFvWkJ0bkFYVEpNRlkyVmlUbGRoc21zSTc2YjBuVG41NERfa19xbUd6dW5vMG16eGVMNVVZckJkbVN4alNR?oc=5",
+  "summary": "",
+  "published": "2023-07-13",
+  "first_seen": "2026-11-26T21:35:23+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "0da1372bac8c",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:df022b44",
+  "type": "gnews",
+  "title": "Chinese Ambassador visits Mekelle Industrial Park - ethiopiatoday.net",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdW14Ums3TzRmcXdVQnNUdEZYbTdTYktjaE9xUVBkeWItM0R3U2dZWnZiU283S3Q2c0RvZndYMEdicnlKaXdURDZuYjZLdndfWFZmN3ZwTGNLZDhwVWE1M1J0dFlxNEZXNFZqZE1MRUtpLTFVcFd0RXRxdjhxTFNVZTBn?oc=5",
+  "summary": "",
+  "published": "2023-06-19",
+  "first_seen": "2026-11-26T21:35:23+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "4f7030bbe96b",
+  "source": "british-council",
+  "channel": "british-council:gnews:1ba389ab",
+  "type": "gnews",
+  "title": "Melaku Center Ethiopia Building, Tigray, Africa - e-architect",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uYWxuWTh3OWxsZm1xckpUTnZ4dGVEWm9wZUZsdWRCb1V5dGt6R1hEZzlLbWMxZ01pX1huVEhHM0xKYW1icTZzUTRBMDFVOFhLMzJWSUdWenI5d09raXp3QmFLdkxvSGdR?oc=5",
+  "summary": "",
+  "published": "2010-01-30",
+  "first_seen": "2026-11-26T21:35:23+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "79ff683ef088",
+  "source": "ireland",
+  "channel": "ireland:json:81a099da",
+  "type": "json",
+  "title": "Speaker Biographies",
+  "url": "https://www.ireland.ie/",
+  "summary": "",
+  "published": null,
+  "first_seen": "2026-11-26T21:35:23+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
   "id": "bf57b51ddc14",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +101,8 @@
   "published": "2026-11-26",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "86e5c391da56",
@@ -23,7 +115,8 @@
   "published": "2026-11-26",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "1f62aa4aa007",
@@ -36,7 +129,8 @@
   "published": "2026-11-26",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "dd15d48d4979",
@@ -49,7 +143,8 @@
   "published": "2026-11-26",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "290f4a24eab1",
@@ -62,7 +157,8 @@
   "published": "2026-11-25",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "455825ea07ba",
@@ -75,7 +171,8 @@
   "published": "2025-10-06",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "a66a1fae0f53",
@@ -88,7 +185,8 @@
   "published": "2025-10-04",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "a5bb70c7e79c",
@@ -101,7 +199,8 @@
   "published": "2025-03-21",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "1fda4a827cb9",
@@ -114,7 +213,8 @@
   "published": "2025-02-18",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "340a8e7fc158",
@@ -127,7 +227,8 @@
   "published": "2024-06-11",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "9158463f1111",
@@ -140,7 +241,8 @@
   "published": "2023-05-19",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "847391bc869d",
@@ -153,7 +255,8 @@
   "published": "2019-06-13",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "ed0285256b0c",
@@ -166,7 +269,8 @@
   "published": "2018-10-06",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "7aeaf5255e5f",
@@ -179,7 +283,8 @@
   "published": "2016-10-03",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "886428c4026a",
@@ -192,7 +297,8 @@
   "published": "2012-12-15",
   "first_seen": "2026-11-26T10:56:35+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5687db66e77a",

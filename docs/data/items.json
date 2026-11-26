@@ -1,5 +1,200 @@
 [
  {
+  "id": "bf57b51ddc14",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "Tech a Chill is returning.",
+  "url": "https://t.me/LinkUpAddis/13429",
+  "summary": "Tech a Chill is returning. After all the searching and a little too much time away, one of the most popular electronic music events, Tech-a-Chill, is returning to Addis's nightlife scene. The event will take place at Dashen Terara Restaurant on Saturday 28 November 2026 with a stellar lineup of DJs playing Techno,…",
+  "published": "2026-11-26",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "86e5c391da56",
+  "source": "gast-cinema",
+  "channel": "gast-cinema:telegram:f19c5f5b",
+  "type": "telegram",
+  "title": "THREE WEEKS UNTIL DOOM.",
+  "url": "https://t.me/gastcinema/4913",
+  "summary": "THREE WEEKS UNTIL DOOM. ⏳ 🔥 The Avengers. Doctor Doom. One massive showdown on the big screen. Marvel Studios’ Avengers: Doomsday is coming to cinemas. Who’s going with you? 👀 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 #gast_Cinema #Great_moments 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿 🍿",
+  "published": "2026-11-26",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "1f62aa4aa007",
+  "source": "linkup",
+  "channel": "linkup:telegram:121a3f67",
+  "type": "telegram",
+  "title": "Fuse ODG is a Ghanaian British musician best known for hit songs like \"Azonto\" and \"Million Pound Girl.\" In one of his songs, rapped that he wanted to walk…",
+  "url": "https://t.me/LinkUpPremium/5126",
+  "summary": "Fuse ODG is a Ghanaian British musician best known for hit songs like \"Azonto\" and \"Million Pound Girl.\" In one of his songs, rapped that he wanted to walk the same grounds as Haile Selassie.This past week, he finally got to live out that dream. At Unity Park, a historic palace compound in Addis Ababa, he stepped…",
+  "published": "2026-11-26",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "dd15d48d4979",
+  "source": "linkup",
+  "channel": "linkup:telegram:4bf32582",
+  "type": "telegram",
+  "title": "ALx is organizing a hackathon titled Biruh-Enat Women's Tech Innovation Hackathon 2026.",
+  "url": "https://t.me/LinkUpAddis/13428",
+  "summary": "ALx is organizing a hackathon titled Biruh-Enat Women's Tech Innovation Hackathon 2026. The hackathon aims to address gender based violence and build technology-driven solutions for safer futures. 1st place to 3rd place winners will take home ETB 250,000, ETB 150,000 ETB 100,000. The winning teams will also have the…",
+  "published": "2026-11-26",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "290f4a24eab1",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Symposium held in Ethiopia to advance academic cooperation between China, Africa - Xinhua",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zeHFYSlRwQ3U4WU0yekdaaEwybFhDOGZfOXlRWGUwd0hOSG0tM3J4NXhNUk9HQ3hWeWF4dHVlcW5lTXkzRXNFQ0Zta015Z1F3YVFLZ2ZKbW1wd0k1MmpXOW1fLWw4bDh1TzZMX3h5UXhYZlNtUFQ0cjNkVGE?oc=5",
+  "summary": "",
+  "published": "2026-11-25",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": false,
+  "event": true
+ },
+ {
+  "id": "455825ea07ba",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Irreecha: Selfies and singing as Ethiopia's Oromo people celebrate thanksgiving - BBC",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsdzc0X0JyM215R2NZN1k2Mk1YU1duTVJISXQ4SHdHRklVYkl5b1V5U3lIckZsdjYtaURlUWhrdDItcEljY0Y4VWJqSGxHd3FzbGRZX1R3UW5sRzVN?oc=5",
+  "summary": "",
+  "published": "2025-10-06",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "a66a1fae0f53",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Thousands gather for Ethiopia’s thanksgiving festival - The Hill",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbS0zVWYyM3FFekJXUVVOdF93M0RCallrUzhrYnZMV3ZnX0pCZ3ZhRzhJcnpmcmhKSThCb2Y3X2VyRENHQUsxRmpMRm5vRkFDc2g1YWRROFVzczEwTkJodzE0QVlBQjljWXR0eURVX2NaYUIyNEdIRkctS1k0eEV6LXBCZUVyaTRhZXRzcmhCaWFLeU8yLVF0R1hHaFVlU1hCTHMwY0U2aHjSAa4BQVVfeXFMTlB4UnRtbVhZOFRvaGc5U0tOUlpPejVManRyU09fUllmelhuVG9jbDFzOTVQRUp1NjluNWFRQTVFV2JLY1hTMWNyeS1sNG9yd181QXNURVRiRVQ1SmsyVHU0MHF1a2dwZlNwS2ZreGJvTHlveXV1cW03OVpXTmgxQkh0MzRDQ1JoOUVuWk12SGJGZzJkUkJKdEpmb3ZxbVAxZTJNTGNfcmZZclRZWnRR?oc=5",
+  "summary": "",
+  "published": "2025-10-04",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "a5bb70c7e79c",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Nauryz added to UNESCO List of Intangible Cultural Heritage of Humanity - The Times Of Central Asia",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTV3LXFBamtpd0pWb3gzeHUzaUV3OVlyclNYWDZlVTlYUlpiOElVcWVyWmVNdEhPWVN5N1RRbmpJVHIwanlmS2ZnajFmQlBYbk9oYlhlb1Y4bVZtdnNIT2pIWUtoOXRGTmZoRHdjaWRocG1UNHVjNXdkRG5ReVRRLXNkRXR3MkFYcmVIa2MxLU4wbDd2c1hJ?oc=5",
+  "summary": "",
+  "published": "2025-03-21",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "1fda4a827cb9",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "City view of Addis Ababa, Ethiopia - Global Times",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BbmxPYk1ybWNoU3ZsWDQxQjlNTHdnS0ZETEl0Z0RDdk5GSTRRZ1pXTlNHVzhtQ0oxZl9ndzJWR3U2bWpTb3lianlpbkZzVHdaLXcteGlzMEt5elAwVjkyNEJ3?oc=5",
+  "summary": "",
+  "published": "2025-02-18",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "340a8e7fc158",
+  "source": "press-culture",
+  "channel": "press-culture:gnews:b2b256bb",
+  "type": "gnews",
+  "title": "Upskill your team: Pioneers Post workshops, webinars and training | The Social Enterprise Magazine - Pioneers Post",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTU9CdUNyWjVRQ0JuY3RmaU1BZEgtbkI2NlNJN1NtdDktWlZmVWIzM3JLVXRHUWlsV3ZKU3FSYXNEMDVMUFZzRTd4ZzZ2RzNrMThCT1JBcE5LdDEzYjZYeGhSSy1hS3NUNTZkMHlReGJXb1JmUnkxTlR2MGItNHpYcnlBTVh0WlE?oc=5",
+  "summary": "",
+  "published": "2024-06-11",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "9158463f1111",
+  "source": "colombia",
+  "channel": "colombia:gnews:d97e2977",
+  "type": "gnews",
+  "title": "Concretar acuerdos, el reto luego del viaje de Francia Márquez a tres países africanos - El Tiempo",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbDduTXFBMkR1eklodF9qUTI5QlFiQ1lGQV9nc0p3U2RaQm5yWXdlUVM0Rzg1ZHNfd2hUZVE0VThPcnFaMy0wRWpQWllaS1JoQTJWbkZlekpvMEdCeHg0cW1BVmFjdDdOOEpfSVpKeHRKWmVBazBHU1JINm5LV2tjejZOWElFVXpxLW5jNW81eU5FajU5bEVMSl8zT08tZGFueE5aZWhSbXozeGJKTmVhTHl4SmFLajJpQ3prQ3Rn0gHDAUFVX3lxTE9lTnpUc0h3Y2Z1a01ETE4xWXdKel9RRGxwaEJ1NmI1d0pXTk9yZF96NUdYeGl6eFdzUlprVWRoa2pzdTd5aTBVektpdkxrNUJqNTM2WDAwQ09pZklwMHVsLVhIckVra2pfNEVSZ1pVZVgtLWpiVWRvczNDdTA5bVBKY2dMYmFEQmtoWFFlZC1Qblo2T1BnVEJUZWxmUlFNNXM1a2RmajRKZ1BaSTNJUHJoWjVZanlndE5EWDhzbDlEQzcycw?oc=5",
+  "summary": "",
+  "published": "2023-05-19",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "847391bc869d",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Pemuda Indonesia-Ethiopia Bentuk Asosiasi untuk Eratkan Kerjasama - Tempo.co",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWhTY2dhWm1BVHhyMjh4enFNY2ppZHNFS21HQlJZWlJNclZ2dm8wSkg3ZEtEb3N4bzRoQ2xFQWhHUURtRVdSSzlkX01zTmtEUURES19ZX09oLUxIOFo0eU9XeElmTmU4aVJ2SmxzV212bTZkejNzd0R3QkZnREdqYktuMVFtMVQtME9jM0tFRXJvX2gtVTdyWTJrSWRVLUZIVEpKeGRJeDhubWM?oc=5",
+  "summary": "",
+  "published": "2019-06-13",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "ed0285256b0c",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "The Irreecha Festival in Ethiopia - Middle East Monitor",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRDQ3enBFZUhUSlVsOV9GZ3JnQ2pHbFR1anlNdXVoV1JtbXlJNGVraWpaWEowbVBRZDdsWEZWd29HUHVWS21TWFhPNDk5Mi00MUVoRmUzWEdLM3BYbm9URjR4UlJSTWw0T2xwWGFHQVpwYWV1TUR4MnBuTW56dVNQczhuQdIBiAFBVV95cUxPR3drakl2NUxLblc5OEw4dHZ6NVNWR0lvRHVJRzlhMjRyRGRDcXZJbVF6N2lURlNTdGNpWEprb0x5N0k2NEVIb0MwaGJKOUlxTzN2bzlmbWtrMjYyRFdleC1iVjBlZFVFM3Qxb181N2o4TVFSckhWcDJLUncxZjBXVWQtbjVxejh5?oc=5",
+  "summary": "",
+  "published": "2018-10-06",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "7aeaf5255e5f",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopia mourns 55 killed during protest at Oromia festival - BBC",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5R29LQnN3Q0Iya3FLRzZLUktRTVhpWUJkVmhDRC1iSHZDaEI5SlIzRTlmMGU3MXRiUXRtZ3V3SkFFRlJPREZIb1NNQ0hHaTZ2S29oVWp0Ul9zdw?oc=5",
+  "summary": "",
+  "published": "2016-10-03",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "886428c4026a",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "Menlu Baru Ethiopia Apresiasi Program KBRI Addis Ababa - Kompasiana.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzdyaHJxbHdtdk9oeGVlRzBNX2JYdlFua1cya002Y2stSUY4eUFoa0NISUxUVExIdzhkMmdJekZ1Y1UwTUU5WnhKN0szdjBlZEpnRjA1STZMdFM2aldnM3N2UFU1Z1kzWktwck0tajdTT09lSk5hNjRjc0dGQngybFlqUzNqOHRPcVc5aGlfX3JqVnpuRDM0dEpOOU90VkRjTEtDUHBOQzlESFJYZGJRd2I4VFM?oc=5",
+  "summary": "",
+  "published": "2012-12-15",
+  "first_seen": "2026-11-26T10:56:35+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "5687db66e77a",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +205,8 @@
   "published": "2026-11-25",
   "first_seen": "2026-11-26T00:23:16+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "2df17aaf7c3c",
@@ -23,7 +219,8 @@
   "published": "2026-11-25",
   "first_seen": "2026-11-26T00:23:16+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "386130900ec0",
@@ -36,7 +233,8 @@
   "published": "2026-11-25",
   "first_seen": "2026-11-26T00:23:16+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b404ec7e0592",
@@ -49,7 +247,8 @@
   "published": "2026-11-25",
   "first_seen": "2026-11-26T00:23:16+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "8deb6e705d3e",
@@ -62,7 +261,8 @@
   "published": "2026-11-25",
   "first_seen": "2026-11-26T00:23:16+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "9b7db587ea15",
@@ -75,7 +275,8 @@
   "published": "2026-11-25",
   "first_seen": "2026-11-26T00:23:16+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "fe0e650028d5",
@@ -88,7 +289,8 @@
   "published": "2025-10-11",
   "first_seen": "2026-11-26T00:23:16+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "55a8d85775dd",
@@ -101,7 +303,8 @@
   "published": "2025-04-21",
   "first_seen": "2026-11-26T00:23:16+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "94d37e67f962",
@@ -114,7 +317,8 @@
   "published": "2024-08-18",
   "first_seen": "2026-11-26T00:23:16+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "19041ce045cf",

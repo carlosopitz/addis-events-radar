@@ -1,5 +1,18 @@
 [
  {
+  "id": "d0070e8f6a6a",
+  "source": "indonesia",
+  "channel": "indonesia:gnews:66e85054",
+  "type": "gnews",
+  "title": "KBRI temui pengusaha Ethiopia bahas strategi kerja sama ekonomi - Antara News jatim",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmlxOG1zMThDSWdsVU5kWUtIZERRZUhfbUQ4TUJaOVZpdW0zSGN4bkwxOEtWSXlFT2wyTlhWbF9MT19sNTRROGZaSzVMU2FwWEpnYjl6OUdtckZtdDMtWjYwLTNBd3FkT3RjMkxKTzVOUTE2a1lFTENfUlNFMlQtQVBfMWFTNkxXcHBpcUQ3VlotTFVWQnhUSU9wVDRrSlhwZ2VleElmUG5LUdIBrwFBVV95cUxPel9fUi03QmhnLUJEU1BVVVcyUkFKOUFSaVU2Zmk0ajhvVnhaY2plYjhGS2NGZzhWUUcwbkFpWXpjOEo4eXRGR0tiRnZTdExvRW82am5vVENvUEdfdlJIS3lEd3FpRnlvdEpjcDYzX0NUclRQVGMwSkFlb1BWYlVoOHp4RklfZEx5aEJHVXYwcHNMUUF5VFJDSnFlTkktZnhDczFjSUFQR2stSGN3QTVZ?oc=5",
+  "summary": "",
+  "published": "2024-11-10",
+  "first_seen": "2026-11-27T04:16:34+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "eb1df2dd8060",
   "source": "venezuela",
   "channel": "venezuela:gnews:a440fa52",
@@ -10,7 +23,8 @@
   "published": "2026-07-05",
   "first_seen": "2026-11-26T21:35:23+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b841dc6f808e",
@@ -23,7 +37,8 @@
   "published": "2026-03-08",
   "first_seen": "2026-11-26T21:35:23+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "ba1c51833749",
@@ -36,7 +51,8 @@
   "published": "2024-07-26",
   "first_seen": "2026-11-26T21:35:23+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "b8009151b004",
@@ -49,7 +65,8 @@
   "published": "2023-07-13",
   "first_seen": "2026-11-26T21:35:23+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "0da1372bac8c",
@@ -62,7 +79,8 @@
   "published": "2023-06-19",
   "first_seen": "2026-11-26T21:35:23+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "4f7030bbe96b",
@@ -75,7 +93,8 @@
   "published": "2010-01-30",
   "first_seen": "2026-11-26T21:35:23+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "79ff683ef088",
@@ -88,7 +107,8 @@
   "published": null,
   "first_seen": "2026-11-26T21:35:23+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "bf57b51ddc14",

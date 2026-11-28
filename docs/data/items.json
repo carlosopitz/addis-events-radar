@@ -1,5 +1,148 @@
 [
  {
+  "id": "b1d6fc91ced0",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopian Tigrayans fear authorities in contested northern region - Arab News PK",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbWhORFRuaXA5T2VBSzBtU05XRUttS3d5bTRTMmFabkd5eGlQZUhfVHVKVUdUQ2ZQWWhtTXM2aXExV3Jwb0ZuR3pYc01INlJkbFJoRW9sUHY4a3BQRzItdDJ6LVNrM2JDU2xNdWJaQXRmbTNpV3BvYVM0LTRDbHJ5Vk9NUzlIcVBCc0VndFI3aTNvWS05UGRLb3pTbVA1ejg4M0x2YlBn?oc=5",
+  "summary": "",
+  "published": "2026-11-27",
+  "first_seen": "2026-11-28T07:52:29+00:00",
+  "baseline": false,
+  "event": false
+ },
+ {
+  "id": "03337236b5de",
+  "source": "usa",
+  "channel": "usa:gnews:63ac1f03",
+  "type": "gnews",
+  "title": "US Embassy warns of “possible long-range attacks” targeting Ethiopian military installations - ANI News",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWTh4aUdrVlZ1ekxWMGxMSWJlc0JUalE0UjZjNmJFR1hSZzNKUlQ3dldkTjRDSzZPeUFIa1h0SnhQY3FCeGxMSGE3TUpmVUNUWUFfa2JRdDd4Tmd4bEZYaFVfaGw4ajdUSGw3YWQ5MlA2ZXJxeUM1a25Mbk5lWTY0ZEpfTGg5RVVObnVzSV84ajhuOWdwY2VmaHlCdnJNT1NaREJEQTRPbGlscVVmUnRzek5UWElsZGt5SUNGQkd3VmpkSm1uR0QtOXN4UGpzV1NubkRYcUxheVRzb3JSZjVEUlc0ajFpUVVu?oc=5",
+  "summary": "",
+  "published": "2026-10-08",
+  "first_seen": "2026-11-28T07:52:29+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "a5c99c9d5262",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Ethiopia, Pakistan agree to boost agricultural cooperation - UrduPoint",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0hOcnZiWUxhNENRVEYydlNuemc3anR0NmlJVEFLUF9vUGR2dHhpdUdNYkdLZl9SV2NXdVl0M1hiOTI4bzhfaElTVFRVb194RExrNU5QYUFtSWsyNWVXWWx6aGFWS3lqZEMzYmFqQTBqLXF0ZWZzQnBjcWE0RGJBbUE1T3IteWlPOFlhVDhkdUd2cExXRmJEWTJQWQ?oc=5",
+  "summary": "",
+  "published": "2026-08-20",
+  "first_seen": "2026-11-28T07:52:29+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "9fa0bd5b9cf9",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Sheebah Officially Receives ODA Award Won in Addis Ababa - UG Diplomat",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2lWRHdLMU90MjBSZF8xd3pGRVNzbjBFYzJtOVBZTTctOXRnYVYwOXkzanVNX09nZmhFZUcwQUtuYXBUTkdZY0IwU0xUdk1ITUZ5SE9qOHZISjhOUFdrZVZCYUhwSERpbmtaRE5JU29McnFOX19ob3Zhd1c1S2tpU29PYk0xVTA?oc=5",
+  "summary": "",
+  "published": "2026-08-05",
+  "first_seen": "2026-11-28T07:52:29+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "dc05ff862a7f",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Pakistan’s Prominent Bank Keen to Strengthen Cooperation with Ethiopia – Addis Media Network -English - አዲስ ሚዲያ ኔትወርክ",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdW1seXg2dVcyUGF6YmJ5d3k0aWI5TkZENkdFRDlNOWs4bVYxMDNicmlqLTdTVGRDT0VreG9MYlZvb0tMcERSd1JFNHEzSmtRUFRfZ1cwSTB5S1hPaUwtM3RRLWM4NkZwaS1fUmd0djNoc0FaUXk1RkV6d0hlZ1dWc2lhTVA1ZGFCNkNqWjJZUm41OWEtQ0hwOVpuZGk?oc=5",
+  "summary": "",
+  "published": "2026-01-14",
+  "first_seen": "2026-11-28T07:52:29+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "bacb6d5a2622",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:ce1dd9ce",
+  "type": "gnews",
+  "title": "Embajada de Cuba en Etiopía rinde tributo a los 32 combatientes cubanos que cayeron durante la agresión militar de Estados Unidos contra la República Bolivariana de Venezuela - Ministerio de Relaciones Exteriores de Cuba",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdWZMSFQ4aTcweTVRbmNXWGlBaER1Zk1iNEU4MmFKT0xwQ0VQV3M0Q1Q0UGx6U3RpZXNQZ0JWNS1MUGtISml2Vk84MkpKaHdNM1N4UkJyRThIZjJOSms1TGZBTzRVeWhKTEJvV2dpN0hBUXZ1dFRYb1FTbGRzQVB1UG4ya0VoTGpkMkFNWHA1X3FaSDJPdjhOVFJQUU0yNmlBX0liOXJRUi1FcUpoelM4cGlmc0x5bUNLeUV6VzFhRHpxOUV4Ul9TRDNEMmg?oc=5",
+  "summary": "",
+  "published": "2026-01-09",
+  "first_seen": "2026-11-28T07:52:29+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "731ed2099b9e",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "Thousands gather in Ethiopia's capital to celebrate a religious festival. Many are thinking of peace - 巴士的報",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1g0c2hHcTBHSjUyOENJVTlMM0NRbXg3NTFkZWlMTVE2XzkxWFhtdjl2T3hFWFBpN25MNm9oWExrdGpHNU1wczhvUzNMZDk4WDl2dDllSmVQUVVmOXJRYWtEX1VnTHRaMVVXOTRpcnVVdmVqOEJybUtHdkpwWHlkbWhXQU1oV09tM1daTTdkNFNHak5uSHR0dE9HbHpTRjdScGdOUWQ1NUZnZ2xEYnJRa1N2YXAyR0F5RGxNbi0xWVU2RTZVOGRUWUdFZTNIeXhzRVJLYTB3aXBUSngxSW84ZE9hdzI?oc=5",
+  "summary": "",
+  "published": "2024-09-27",
+  "first_seen": "2026-11-28T07:52:29+00:00",
+  "baseline": true,
+  "event": true
+ },
+ {
+  "id": "c88219e628ef",
+  "source": "mexico",
+  "channel": "mexico:gnews:3a698341",
+  "type": "gnews",
+  "title": "En imágenes: Una muñeca mexicana que le da la vuelta al mundo llegó a Texas - Univision",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYUlRVzBuYUVrRFJtWTNBb3p2Um9LcGtycUFjOTZjWVlTWXBFbmR1Y1AzbEp0bkFqcTljZ09CcjJ1OERtc2I4RzZTOFJOUTBLSkpSRmlTLXBZUFc1ZG5pdlRfd2FDUmU2RFZKQW5TM0ZmTnhoa05BZlNEVXdXZWhPNFVvZFkwdmEzU2l5MVUzdm1RNURGNnlEeDVPdw?oc=5",
+  "summary": "",
+  "published": "2023-03-19",
+  "first_seen": "2026-11-28T07:52:29+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "7985c9c9b63b",
+  "source": "japan",
+  "channel": "japan:gnews:9529a05b",
+  "type": "gnews",
+  "title": "Japanese FM Taro Kono to visit Ethiopia - ENA English",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tNmNMWUF2Q2ZPd1EwcjRvbVhWcUp0cFppTGxtNGhKcUR2bmphMG1yX2ItdXFUVkxUTnpmYTJMNXFFTkpCWFlCMnBWdEU?oc=5",
+  "summary": "",
+  "published": "2023-03-09",
+  "first_seen": "2026-11-28T07:52:29+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "401cf1b7b2ac",
+  "source": "pakistan",
+  "channel": "pakistan:gnews:a03ae46b",
+  "type": "gnews",
+  "title": "TDAP to take part in Intertextile Shanghai Apparel Fabrics Expo - Profit by Pakistan Today",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRktXcUNzYk9oU1VqSG9iVWdaalJqM3BtTUJWSDBjc0VIb3dDNUl2RWR5SFRBUkxQa3hLQmFONzgxbldRRlJMcEF4cU9LYUM1RVFmOVNMSmdGbndLNUpmLWxuOTA3UjBQYXdjUTB0NkZZdlg1NmNKS0VsLURCNWtud2xqenA1WGxNeHpMUTNhcFBSVl9pY2VQRExJYmstUFFiS0pLcFI0cXgxcFh2ZWkw?oc=5",
+  "summary": "",
+  "published": "2017-03-02",
+  "first_seen": "2026-11-28T07:52:29+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
+  "id": "ab8b945db625",
+  "source": "venezuela",
+  "channel": "venezuela:gnews:a440fa52",
+  "type": "gnews",
+  "title": "Herschel Peak Obituary (1924 ~ 2014) - Monterey, CA - Monterey Herald - Legacy obituary",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFZaSkJVcUNObHMyV2Z4ZDJvd0YzNEJIaE1RNm4xSU5EX0lwNFBVWFJCNGF3bmZIdFdMTFJoNFFUSnlvX09ISmxzdmlEdHRFQmZnMHN4RkREWWcwcTZOUzd4Rm40d19zVC1jQ3otVGRudDlPWTJPS1Y2aERWeDVmOHBIRnBrTUhZYlJ6d0RzQVRfMm4x?oc=5",
+  "summary": "",
+  "published": "2014-03-02",
+  "first_seen": "2026-11-28T07:52:29+00:00",
+  "baseline": true,
+  "event": false
+ },
+ {
   "id": "05ff74b53dfa",
   "source": "linkup",
   "channel": "linkup:telegram:4bf32582",
@@ -10,7 +153,8 @@
   "published": "2026-11-27",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "9a7754f49c12",
@@ -23,7 +167,8 @@
   "published": "2026-11-27",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e6e89e57d10b",
@@ -36,7 +181,8 @@
   "published": "2026-11-27",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "5cd3d7c55e9e",
@@ -49,7 +195,8 @@
   "published": "2026-11-27",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "776996cd17b9",
@@ -62,7 +209,8 @@
   "published": "2026-11-27",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": false,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "ec4853960dd6",
@@ -75,7 +223,8 @@
   "published": "2026-11-27",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": false,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "a9d36640c007",
@@ -88,7 +237,8 @@
   "published": "2026-09-09",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": true,
-  "event": true
+  "event": true,
+  "mentions": []
  },
  {
   "id": "9b3a9b138277",
@@ -101,7 +251,8 @@
   "published": "2026-05-15",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "9d49c57cbf85",
@@ -114,7 +265,8 @@
   "published": "2026-03-08",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "fc9e11c95ae5",
@@ -127,7 +279,8 @@
   "published": "2026-01-09",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "c98b2b86a2a0",
@@ -140,7 +293,8 @@
   "published": "2025-11-17",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "5fed6ed7f235",
@@ -153,7 +307,8 @@
   "published": "2025-05-14",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e510b6311061",
@@ -166,7 +321,8 @@
   "published": "2019-03-10",
   "first_seen": "2026-11-27T22:43:55+00:00",
   "baseline": true,
-  "event": false
+  "event": false,
+  "mentions": []
  },
  {
   "id": "e6764f90cb38",
